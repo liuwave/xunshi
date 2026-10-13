@@ -1,0 +1,18 @@
+{
+  "work_id": 492439,
+  "work": {
+    "id": 492439,
+    "title": "庐山看云一绝句",
+    "title_tr": "廬山看雲一絶句",
+    "author": "张于垒",
+    "author_tr": "張于壘",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "溪中一片云，分作千林雨。\n惟闻溪流声，不见溪流处。",
+    "content_tr": "溪中一片雲，分作千林雨。\n惟聞溪流聲，不見溪流處。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

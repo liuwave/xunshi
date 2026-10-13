@@ -1,0 +1,18 @@
+{
+  "work_id": 480825,
+  "work": {
+    "id": 480825,
+    "title": "秦淮咏古",
+    "title_tr": "秦淮詠古",
+    "author": "陈谟",
+    "author_tr": "陳謨",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不晓秦淮水，秦人苦浚之。\n乱来波浪作，犹似祖龙时。",
+    "content_tr": "不曉秦淮水，秦人苦浚之。\n亂來波浪作，猶似祖龍時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
