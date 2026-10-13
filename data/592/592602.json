@@ -1,0 +1,24 @@
+{
+  "work_id": 592602,
+  "work": {
+    "id": 592602,
+    "title": "句",
+    "title_tr": "句",
+    "author": "孙甫",
+    "author_tr": "孫甫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "衰病自怜无酒趣，尘容犹頼有诗情。",
+    "content_tr": "衰病自憐無酒趣，塵容猶頼有詩情。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "衰老病中自叹没有了饮酒的兴致，满面尘俗仍赖有一点作诗的情怀。",
+    "annotation": "尘容：沾满尘俗的容颜。\n頼：同「赖」，依赖、凭借。",
+    "appreciation": "此残联写衰病之中的自况。上句「衰病自怜」先抑一层，谓老境侵寻、连酒兴都消；下句「尘容犹赖」再扬一笔，谓满面风尘之中，尚恃诗情为支撑。一抑一扬之间，见出诗人虽落漠而未麻木。酒与诗本是宋人常对举之题，此联却偏说酒趣无、诗情在，以无衬有，愈觉诗情之难得与可珍。十字中含无限迟暮之感，而气不颓唐。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

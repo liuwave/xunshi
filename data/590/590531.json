@@ -1,0 +1,18 @@
+{
+  "work_id": 590531,
+  "work": {
+    "id": 590531,
+    "title": "塞上曲",
+    "title_tr": "塞上曲",
+    "author": "郭昭著",
+    "author_tr": "郭昭著",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "胡马秋肥塞草黄，弯弧直拟犯渔阳。\n归鞭却避弓闾水，知是嫖姚旧战场。",
+    "content_tr": "胡馬秋肥塞草黄，彎弧直擬犯漁陽。\n歸鞭卻避弓閭水，知是嫖姚舊戰場。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

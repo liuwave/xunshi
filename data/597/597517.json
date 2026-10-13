@@ -1,0 +1,18 @@
+{
+  "work_id": 597517,
+  "work": {
+    "id": 597517,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "沈邈",
+    "author_tr": "沈邈",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "背郭千峰起，涵空一水泓。\n风帆人共远，潮屿岁重耕。",
+    "content_tr": "背郭千峯起，涵空一水泓。\n風帆人共遠，潮嶼歲重耕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

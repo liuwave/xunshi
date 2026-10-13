@@ -1,0 +1,24 @@
+{
+  "work_id": 591722,
+  "work": {
+    "id": 591722,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "成锐",
+    "author_tr": "成銳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "馨香虽有艳，栽植未逢人。",
+    "content_tr": "馨香雖有艷，栽植未逢人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "虽然有馨香与艳丽，栽种之时却未遇上赏识之人。",
+    "annotation": "馨香：芳香，喻才德。\n逢人：遇上识种、培植之人。",
+    "appreciation": "此亦残句，托物言志。上句「馨香虽有艳」言美质内具、才华外显；下句「栽植未逢人」叹生不逢所、无人培植赏识。「虽」字一转，先扬后抑：花有馨香、有艳丽，本该为世所重；可是栽种之时，竟未遇上识花之人。以花喻人，与同作者上一首「彩槛无分」相类，皆士不遇之嗟。语浅意深，惜全篇不存；就所存两句体味，其含蓄不尽的身世之感，已在「未逢人」三字中委曲流出。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

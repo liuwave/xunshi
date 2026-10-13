@@ -1,0 +1,24 @@
+{
+  "work_id": 596269,
+  "work": {
+    "id": 596269,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王复",
+    "author_tr": "王復",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "早秋蝉有信，多雨暑无权。",
+    "content_tr": "早秋蟬有信，多雨暑無權。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "早秋时节，蝉鸣有信；雨水多了，暑热便失去威力。",
+    "annotation": "蝉有信：蝉应秋而鸣，如守信。\n无权：失去主宰之力。",
+    "appreciation": "十字写早秋物候。上句以「有信」二字赋予蝉鸣以节候之灵，下句以「无权」二字把暑热写成失势的霸者，一「信」一「权」，都是把自然现象人格化。两句对偶工整，既写了秋意之来，又暗寓暑气之退，语言简净而耐咀嚼，是宋人讲究炼字的联句。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

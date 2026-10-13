@@ -1,0 +1,24 @@
+{
+  "work_id": 593448,
+  "work": {
+    "id": 593448,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "熊知至",
+    "author_tr": "熊知至",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楼台上下火照火，车马往来人看人。",
+    "content_tr": "樓臺上下火照火，車馬往來人看人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "楼台上下灯火照着火，车马往来人看着人。",
+    "annotation": "火照火、人看人：叠语复沓，状其繁盛。",
+    "appreciation": "此为残联写都市繁华。“火照火”从夜景灯火起，“人看人”从昼景车马起，十字中画出一城喧阗。“火”“人”二字叠复，以复沓见其盛，以对举见其全。语极浅显而气象宏丽，如太白直语，俗中见雅。不著一点评议，而繁富热闹之境自出。残联以复字见意，于拙朴中见宏敞，是短联中雄阔之笔，令人想见都邑昼夜的喧阗。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

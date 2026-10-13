@@ -1,0 +1,24 @@
+{
+  "work_id": 588124,
+  "work": {
+    "id": 588124,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张秉",
+    "author_tr": "張秉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "叠石自然成鴈塔，贮泓依旧作龙塘。",
+    "content_tr": "疊石自然成鴈塔，貯泓依舊作龍塘。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "叠垒山石自然形成鴈塔之形；贮聚深水依旧作为龙塘。",
+    "annotation": "鴈塔：即雁塔，本西安大雁塔，此处借指叠石如塔。\n泓：深水。\n龙塘：传说中有龙所居之塘。",
+    "appreciation": "此为残句，写园林池石之胜。上句「叠石自然成鴈塔」，言园林叠山取势，不假人工雕凿，峰峦高下自然有雁塔之峻拔；下句「贮泓依旧作龙塘」，言凿池贮水一泓，深水渟涵宛然如龙之窟宅。上句写山之峻拔入云，下句写水之深幽不测，「自然」「依旧」二字皆强调造化天工、不假安排，于对仗精工之中见园林雅致之趣，亦见造园者胸次。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 591026,
+  "work": {
+    "id": 591026,
+    "title": "长平怀古",
+    "title_tr": "長平懷古",
+    "author": "孙冲",
+    "author_tr": "孫沖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "邯郸无策信冯亭，上党须贪泽起兵。\n赵括母言犹不听，当时谁肯计长平。",
+    "content_tr": "邯鄲無策信馮亭，上黨須貪澤起兵。\n趙括母言猶不聽，當時誰肯計長平。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 588008,
+  "work": {
+    "id": 588008,
+    "title": "句",
+    "title_tr": "句",
+    "author": "薛映",
+    "author_tr": "薛映",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄鹄晨霞傍楼起，头陀秋草绕碑荒。",
+    "content_tr": "黄鵠晨霞傍樓起，頭陀秋草繞碑荒。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "黄鹄在晨霞中依楼飞起；头陀之塔在秋草环绕下，石碑荒芜。",
+    "annotation": "黄鹄：天鹅一类大鸟。\n头陀：梵语，比丘苦行之通称，此处指头陀墓或僧塔。",
+    "appreciation": "此为残句，盖登览吊古之作。上句「黄鹄晨霞傍楼起」，明丽高远：晓霞绚烂于空，黄鹄大鸟依楼而飞起，气象峥嵘；下句「头陀秋草绕碑荒」，萧瑟荒凉：秋草迷离披离，僧塔残破、石碑苔荒。一丽一荒，一飞一伏，色彩与意象骤然对照，盛时之楼观与僧塔之零落并呈于十四字间，吊古伤逝之意即寓于两幅画面对照之中，不着「感慨」一字而感慨自深。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 586766,
+  "work": {
+    "id": 586766,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "释遇贤",
+    "author_tr": "釋遇賢",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扬子江头浪最深，行人到此尽沉吟。\n他时若向无波处，还似有波时用心。",
+    "content_tr": "揚子江頭浪最深，行人到此盡沉吟。\n他時若向無波處，還似有波時用心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

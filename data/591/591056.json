@@ -1,0 +1,18 @@
+{
+  "work_id": 591056,
+  "work": {
+    "id": 591056,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "陈伯孙",
+    "author_tr": "陳伯孫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "六合万籁息，秋林月正归。\n琴中弹不尽，石上坐忘归。",
+    "content_tr": "六合萬籟息，秋林月正歸。\n琴中彈不盡，石上坐忘歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

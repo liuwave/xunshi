@@ -1,0 +1,18 @@
+{
+  "work_id": 595234,
+  "work": {
+    "id": 595234,
+    "title": "宋颂九首 莫丑 其一",
+    "title_tr": "宋頌九首 莫醜 其一",
+    "author": "石介",
+    "author_tr": "石介",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫丑匪虺，莫悍匪兕。\n有𬬮在南，毒螫不已。\n沸汤热火，暴我赤子。",
+    "content_tr": "莫醜匪虺，莫悍匪兕。\n有鋹在南，毒螫不已。\n沸湯熱火，暴我赤子。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

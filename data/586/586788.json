@@ -1,0 +1,24 @@
+{
+  "work_id": 586788,
+  "work": {
+    "id": 586788,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张佖",
+    "author_tr": "張佖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "槛外有天皆在照，望中无物敢潜行。",
+    "content_tr": "檻外有天皆在照，望中無物敢潛行。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "栏杆之外，天底下无处不被光照耀；放眼望去，没有一物敢在暗中潜行。",
+    "annotation": "槛（jiàn）：栏杆。",
+    "appreciation": "两句从楼槛纵目写开，气象极开阔。有天皆在照是日光普照之景，无物敢潜行却由景翻意——连阴影都不敢存留，暗颂政治清明、无所遁形。上句纯写景，凭槛一望，天宇之下无处不被光照；下句景中带理，目之所及，再无一物敢伏于暗处。诗人把登览所见升华为对光明普照的信念，胸襟与境界一并开张。对仗之宏阔、语意之正大，使残句俨然一篇颂体缩本，读来令人为之一旷。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

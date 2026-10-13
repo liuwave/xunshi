@@ -1,0 +1,18 @@
+{
+  "work_id": 590514,
+  "work": {
+    "id": 590514,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "韩退",
+    "author_tr": "韓退",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山人跨雪精，上便不论程。\n嗅地打不动，笑天休始行。",
+    "content_tr": "山人跨雪精，上便不論程。\n嗅地打不動，笑天休始行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

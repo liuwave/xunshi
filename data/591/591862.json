@@ -1,0 +1,18 @@
+{
+  "work_id": 591862,
+  "work": {
+    "id": 591862,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "黄孝先",
+    "author_tr": "黄孝先",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天寒霜落雁来栖，岁晚川空雁不归。\n江海一身多少事，清风明月我沾衣。",
+    "content_tr": "天寒霜落雁來棲，歲晚川空雁不歸。\n江海一身多少事，清風明月我沾衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

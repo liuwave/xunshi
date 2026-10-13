@@ -1,0 +1,18 @@
+{
+  "work_id": 589204,
+  "work": {
+    "id": 589204,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "王曙",
+    "author_tr": "王曙",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "枣花至小能成实，桑叶惟柔解吐丝。\n堪笑牡丹如斗大，不成一事只空枝。",
+    "content_tr": "棗花至小能成實，桑葉惟柔解吐絲。\n堪笑牡丹如斗大，不成一事只空枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

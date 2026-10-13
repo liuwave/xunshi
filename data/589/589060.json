@@ -1,0 +1,18 @@
+{
+  "work_id": 589060,
+  "work": {
+    "id": 589060,
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "寇准",
+    "author_tr": "寇準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长门秋夜雨，窗外滴寒声。\n悔不先辞辇，应无别恨生。",
+    "content_tr": "長門秋夜雨，窗外滴寒聲。\n悔不先辭輦，應無別恨生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

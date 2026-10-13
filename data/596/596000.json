@@ -1,0 +1,18 @@
+{
+  "work_id": 596000,
+  "work": {
+    "id": 596000,
+    "title": "嵩山十二首 天门泉",
+    "title_tr": "嵩山十二首 天門泉",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟霞天门深，灵泉吐岩侧。\n云湿颢气寒，石老林腴碧。\n长松暂休坐，一酌烦心涤。",
+    "content_tr": "煙霞天門深，靈泉吐巖側。\n雲濕顥氣寒，石老林腴碧。\n長松暫休坐，一酌煩心滌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

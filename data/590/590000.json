@@ -1,0 +1,18 @@
+{
+  "work_id": 590000,
+  "work": {
+    "id": 590000,
+    "title": "早秋",
+    "title_tr": "早秋",
+    "author": "杨亿",
+    "author_tr": "楊億",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楚客悲秋至，庭柯一叶凋。\n鹤天惊晓露，兰畹怯凉飚。\n团扇流尘暗，单衣爽气饶。\n江东菰米熟，归梦隔寒潮。",
+    "content_tr": "楚客悲秋至，庭柯一葉凋。\n鶴天驚曉露，蘭畹怯凉飈。\n團扇流塵暗，單衣爽氣饒。\n江東菰米熟，歸夢隔寒潮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

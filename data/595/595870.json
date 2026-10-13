@@ -1,0 +1,18 @@
+{
+  "work_id": 595870,
+  "work": {
+    "id": 595870,
+    "title": "田家",
+    "title_tr": "田家",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿桑高下映平川，赛罢田神笑语喧。\n林外鸣鸠春雨歇，屋头初日杏花繁。",
+    "content_tr": "綠桑高下映平川，賽罷田神笑語喧。\n林外鳴鳩春雨歇，屋頭初日杏花繁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

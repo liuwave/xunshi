@@ -1,0 +1,24 @@
+{
+  "work_id": 593401,
+  "work": {
+    "id": 593401,
+    "title": "句  其九",
+    "title_tr": "句  其九",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "可但鱼知丙，非徒字识丁。",
+    "content_tr": "可但魚知丙，非徒字識丁。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "岂止能辨识“鱼”字之讹，非徒能识“丁”字而已。",
+    "annotation": "鱼知丙：用“鲁鱼亥豕”校勘之典，谓辨识文字讹误。\n识丁：用“不识一丁”俗语，谓粗识文字。",
+    "appreciation": "此为残联论识字。“识丁”用俗语“不识一丁”，“鱼知丙”用“鲁鱼亥豕”校勘之典。“可但”“非徒”上下递进，谓文事校勘之能不止于粗识文字而已。两句皆以识字为喻，对仗工整，是学人论学之语。残句虽短，而递进有致，可见宋人以学为诗的趣味。于一字中见考据之学，于一联中见自许之意，短韵之中自有深长的回味。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

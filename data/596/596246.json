@@ -1,0 +1,24 @@
+{
+  "work_id": 596246,
+  "work": {
+    "id": 596246,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蚤虱蚊虻罪一伦，未知蚊子重堪嗔。",
+    "content_tr": "蚤虱蚊虻罪一倫，未知蚊子重堪嗔。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "跳蚤、虱子、蚊、虻，罪过同属一类；不知蚊子更叫人嗔怪。",
+    "annotation": "蚤虱蚊虻（méng）：四种吸血小虫；虻，似蝇而大，吸食人畜血。\n一伦：同一类。\n堪嗔：令人嗔怪。",
+    "appreciation": "此为戏谑断句。将蚤虱蚊虻并列为「罪一伦」，看似平判，末句却忽然偏私——独责蚊子「重堪嗔」。在同类之中强分轻重，于琐细之物上故作庄论，正以自嘲的笔调写出夏夜被蚊虫扰人的无可奈何。造语俚俗而机趣暗含，是宋人以谐趣入诗的小品。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

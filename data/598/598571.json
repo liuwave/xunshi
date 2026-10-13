@@ -1,0 +1,24 @@
+{
+  "work_id": 598571,
+  "work": {
+    "id": 598571,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "张俞",
+    "author_tr": "張俞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "可胜亡国恨，犹有爱山心。",
+    "content_tr": "可勝亡國恨，猶有愛山心。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "亡国之恨说也说不尽，却还保留着爱山的心意。",
+    "annotation": "可胜：岂能尽，即不尽。",
+    "appreciation": "此残句写遗民心事。上句可胜亡国恨，直揭故国之痛，亡国之恨千钧之重，正未易销；下句犹有爱山心，折回自然之趣，谓劫后余生犹不能忘情于山水林泉。两句一沉一扬：家国之恨虽重，而山水之爱未灭，正是无可奈何的自我排遣。十字之中，多少身世苍凉与丘壑独守，尽在犹字一转。恨是大势所压，爱是本心未死，一句之中两种情怀相激，读之令人酸鼻，遗民苦节跃然纸上，千载犹有生气。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

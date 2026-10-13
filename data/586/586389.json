@@ -1,0 +1,24 @@
+{
+  "work_id": 586389,
+  "work": {
+    "id": 586389,
+    "title": "句  其七",
+    "title_tr": "句  其七",
+    "author": "释延寿",
+    "author_tr": "釋延壽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春雨闭花径，晚云生石楼。",
+    "content_tr": "春雨閉花徑，晚雲生石樓。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "春雨之中花径掩闭，傍晚的云从石楼间生出。",
+    "annotation": "石楼：石砌的楼。",
+    "appreciation": "两句写春雨暮云：上句「闭花径」，春雨瀌瀌、花径掩闭，人踪不到；下句「生石楼」，晚云自石楼间生出。一「闭」一「生」，闭处是寂，生处是动，而寂中有动、动亦归寂。全诗无一字及人，只以花径之闭、石楼之云，托出深山禅院的清寂。出语简净，对仗天然，正是晚唐诗家残句的风调，于淡处见远。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

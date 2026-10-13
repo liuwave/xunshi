@@ -1,0 +1,24 @@
+{
+  "work_id": 586370,
+  "work": {
+    "id": 586370,
+    "title": "句",
+    "title_tr": "句",
+    "author": "单氏",
+    "author_tr": "單氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帝王师不得，日月老应难。",
+    "content_tr": "帝王師不得，日月老應難。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "即使帝王想以师礼相待也留他不住，连日月流逝也难以让他老去。",
+    "annotation": "单氏：宋代女子，其生平与本事皆不详。\n句意所咏何人不可确考，（存疑）。",
+    "appreciation": "两句作夸饰之语：上言其人虽帝王之师亦不能屈致，下言连日月流逝也难把他催老。「帝王师」用黄石公一类高人之典，「日月老应难」则从岁月不侵一面写其超脱。上句言其尊，下句言其逸，两句互为映衬。全诗仅存此联，所咏何人、本事何指皆不可考，然骨力清峻，读者但就文本赏其气格，不必强指其人。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

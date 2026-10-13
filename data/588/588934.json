@@ -1,0 +1,18 @@
+{
+  "work_id": 588934,
+  "work": {
+    "id": 588934,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "陈尧叟",
+    "author_tr": "陳堯叟",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一榻琴书双门寺，片心泉石两林山。\n江楼把酒云供望，秋院支筇鹤对闲。",
+    "content_tr": "一榻琴書雙門寺，片心泉石兩林山。\n江樓把酒雲供望，秋院支筇鶴對閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 588600,
+  "work": {
+    "id": 588600,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李渎",
+    "author_tr": "李瀆",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行到水穷处，未知天尽时。",
+    "content_tr": "行到水窮處，未知天盡時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

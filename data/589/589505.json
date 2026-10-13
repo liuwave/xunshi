@@ -1,0 +1,24 @@
+{
+  "work_id": 589505,
+  "work": {
+    "id": 589505,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "钱易",
+    "author_tr": "錢易",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "子美无情甚，都官著意频。",
+    "content_tr": "子美無情甚，都官著意頻。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "杜甫写诗实在太「无情」了，而都官君却频频着意。",
+    "annotation": "子美：杜甫的字。\n都官：都官郎中，尚书省属官，此指某位善吟的诗人（所指存疑）。",
+    "appreciation": "此联论诗，以「无情」与「著意」对举。上句推杜甫作诗自然浑成、不见雕琢之迹，故曰「无情甚」，赞其不费力而工；下句叹同时都官君句句经营、频加意匠，恐其反伤于巧。一淡一浓，一天成一人力，褒贬之间自见诗观。属对精严，以两字为眼，是宋人论诗句法。所指「都官」虽难确考，而句中评判之趣宛然，可见钱易对诗家工拙的分寸之辨。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

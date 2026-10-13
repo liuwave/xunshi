@@ -1,0 +1,18 @@
+{
+  "work_id": 599999,
+  "work": {
+    "id": 599999,
+    "title": "阆州东园十咏 郎中庵",
+    "title_tr": "閬州東園十詠 郎中庵",
+    "author": "文同",
+    "author_tr": "文同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "已筑环为堵，仍裁月作床。\n公来时隠几，身世在羲皇。",
+    "content_tr": "已築環爲堵，仍裁月作床。\n公來時隠几，身世在羲皇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

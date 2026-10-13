@@ -1,0 +1,24 @@
+{
+  "work_id": 589857,
+  "work": {
+    "id": 589857,
+    "title": "句  其六",
+    "title_tr": "句  其六",
+    "author": "陈亚",
+    "author_tr": "陳亞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吏辞如贺日，民送似迎时。",
+    "content_tr": "吏辭如賀日，民送似迎時。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "属吏辞别之日如同庆贺，百姓送别之时恰似当初迎接。",
+    "annotation": "",
+    "appreciation": "此联咏去思之德。上句吏辞如贺，下句民送似迎，以「贺」「迎」二字互文见意。不直接写官之贤能，只以吏民送迎的情态作侧面烘托：去官而如贺日、送别而似迎时，可见平日深得人心。两句虚字回环，以彼衬此：辞官之日原应凄冷，却翻作贺；送别之时原应黯然，却浑如迎。不著褒词而褒意自见，是即小见大、因事见人的白描笔法，残联而官声民爱宛然在目。民爱之深，全在送迎之间自见，不待颂言，而遗爱已溢于言表。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 591569,
+  "work": {
+    "id": 591569,
+    "title": "牡丹",
+    "title_tr": "牡丹",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水昌宫殿接龙津，碧树阳春晓色新。\n朱户曲房能驻日，酥盘金胜自生春。",
+    "content_tr": "水昌宮殿接龍津，碧樹陽春曉色新。\n朱戶曲房能駐日，酥盤金勝自生春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 598103,
+  "work": {
+    "id": 598103,
+    "title": "始皇吟",
+    "title_tr": "始皇吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "并吞天下九千日，一统寰中十五年。\n坑血未干高祖至，骊山丘垅已萧然。",
+    "content_tr": "并吞天下九千日，一統寰中十五年。\n坑血未乾高祖至，驪山丘壠已蕭然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

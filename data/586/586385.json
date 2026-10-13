@@ -1,0 +1,24 @@
+{
+  "work_id": 586385,
+  "work": {
+    "id": 586385,
+    "title": "句  其三",
+    "title_tr": "句  其三",
+    "author": "释延寿",
+    "author_tr": "釋延壽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长时转不停，非义亦非声。",
+    "content_tr": "長時轉不停，非義亦非聲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "长久运转从不停息，既不是义理也不是声音。",
+    "annotation": "释延寿：宋代高僧，著《宗镜录》。\n此句咏心之运转，为禅门话头。",
+    "appreciation": "两句咏心：上言其「长时转不停」，迁流不息；下言其「非义亦非声」，既非义理可诠，亦非声音可求。一正一破，先描述心之动相，再否定心之落处，正是禅家话头。字面无理路可寻，实则以不停与非、义与声两边互遣，教人于言语断处领会。残句以六字加六字写出心性之不可把捉，冷隽而有宗趣，非过来人不能道。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

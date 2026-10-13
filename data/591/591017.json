@@ -1,0 +1,24 @@
+{
+  "work_id": 591017,
+  "work": {
+    "id": 591017,
+    "title": "句",
+    "title_tr": "句",
+    "author": "赵庆",
+    "author_tr": "趙慶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "迈古文章金𬸚𬸦，出群行止玉麒麟。",
+    "content_tr": "邁古文章金鸑鷟，出群行止玉麒麟。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "超越古人的文章，如金色的𬸚𬸦；出类拔萃的行止，似白玉的麒麟。",
+    "annotation": "𬸚𬸦（yuè zhuó）：传说中凤属的瑞鸟，以喻文章之华美杰出。\n玉麒麟：喻人品行出类、珍稀可贵。",
+    "appreciation": "上句以金羽瑞鸟𬸚𬸦喻文章，下句以白玉麒麟喻行止，两句皆用比象，分赞其人的文与其人的行。一「迈古」、一「出群」，推许至极；一金一玉，色泽交辉，把抽象的称誉化为可见的珍禽异兽。对仗精工，意象华贵，是典型的称誉之联：文章与行止两不虚美，字字都是推重。两句全凭比喻立柱，不直陈一字优劣，而褒扬之意自满，残联虽短而气象辉煌。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

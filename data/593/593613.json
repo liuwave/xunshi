@@ -1,0 +1,24 @@
+{
+  "work_id": 593613,
+  "work": {
+    "id": 593613,
+    "title": "句",
+    "title_tr": "句",
+    "author": "苏涣",
+    "author_tr": "蘇渙",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云台胜景压苍溪，东汉遗名冠蜀西。",
+    "content_tr": "雲臺勝景壓蒼溪，東漢遺名冠蜀西。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "云台的胜景凌驾于苍溪之上，东汉遗留的名声在蜀地以西居于首位。",
+    "annotation": "云台：汉明帝图画中兴功臣二十八将于南宫云台。\n苍溪：水名，在四川境内。\n蜀西：蜀地西部。",
+    "appreciation": "此联咏蜀地云台胜迹。上句写地：云台之景，冠压苍溪；下句写人：东汉功臣图像云台之遗名，在蜀西一带最为著称。一地一名，山水与人物并美。“压”字、“冠”字下得有力，将胜景与遗名一齐抬高。两句上承东汉云台故事，下贴蜀中地理，虽为残句，对仗工整、气象开阔。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

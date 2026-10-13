@@ -1,0 +1,24 @@
+{
+  "work_id": 593475,
+  "work": {
+    "id": 593475,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张亢",
+    "author_tr": "張亢",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "张亢触墙成八字，王琪望月叫三声。",
+    "content_tr": "張亢觸牆成八字，王琪望月叫三聲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "张亢触墙，眉毛成了八字；王琪望月，像猿一样叫了三声。",
+    "annotation": "八字：状八字眉下垂之形。\n望月叫三声：暗用猿鸣三声之典。",
+    "appreciation": "此为残联自嘲并戏友人。上句“触墙成八字”以八字状眉，写己之窘态；下句“望月叫三声”暗用猿鸣三声，以猿况王琪之瘦。两句自画像与友画像并出，谑而不虐，是宋人谐趣。对仗工稳，字面皆有来历，于戏笑中见交游之真率。残联以己况友，亦庄亦谐，于滑稽中见笔墨之妙，盖当时彼此嘲戏之作，短韵而饶有风趣。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 599202,
+  "work": {
+    "id": 599202,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "陶弼",
+    "author_tr": "陶弼",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "有唐曾宿万家兵，节制东南十一城。\n此若得人无寇盗，昔之为守尽公卿。",
+    "content_tr": "有唐曾宿萬家兵，節制東南十一城。\n此若得人無寇盜，昔之爲守盡公卿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

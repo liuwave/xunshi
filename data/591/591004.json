@@ -1,0 +1,18 @@
+{
+  "work_id": 591004,
+  "work": {
+    "id": 591004,
+    "title": "鹅羊山",
+    "title_tr": "鵝羊山",
+    "author": "毕田",
+    "author_tr": "畢田",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "羽客何年此炼丹，尚留空灶镇孱颜。\n云中鸡犬仙应远，山下鹅羊石转顽。\n湘渚几因沧海变，辽城无复令威还。\n何年仙驭还来此，尽遣飞腾上九关。",
+    "content_tr": "羽客何年此鍊丹，尚留空竈鎮孱顔。\n雲中雞犬仙應遠，山下鵝羊石轉頑。\n湘渚幾因滄海變，遼城無復令威還。\n何年仙馭還來此，盡遣飛騰上九關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

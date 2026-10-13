@@ -1,0 +1,24 @@
+{
+  "work_id": 589503,
+  "work": {
+    "id": 589503,
+    "title": "句  其三",
+    "title_tr": "句  其三",
+    "author": "钱易",
+    "author_tr": "錢易",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "双蜂上帘额，独鹊袅庭柯。",
+    "content_tr": "雙蜂上簾額，獨鵲裊庭柯。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一双蜜蜂飞上帘额，一只喜鹊在庭院的树枝上摇曳。",
+    "annotation": "帘额：帘幕的上端。\n袅（niǎo）：轻柔摇动。\n庭柯：庭院中的树枝。",
+    "appreciation": "上句「双蜂」对下句「独鹊」，以数量之对见匠心；「上帘额」状蜂之轻盈，由低处飞上帘端；「袅庭柯」状鹊之闲适，立于枝上轻摇。一近一远，一小一大，皆取庭院日常小景，不设色而生意自足。十字纯是白描，未著情字而人在庭院、静观物态的闲淡心境已溢出字表。是晚唐五代「一联百炼」的路数，以少胜多，以静见动。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

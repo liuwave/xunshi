@@ -1,0 +1,18 @@
+{
+  "work_id": 586789,
+  "work": {
+    "id": 586789,
+    "title": "黄鹤楼",
+    "title_tr": "黄鶴樓",
+    "author": "卢郢",
+    "author_tr": "盧郢",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄鹤何年去杳冥，高楼千载倚江城。\n碧云朝卷四山景，流水夜传三峡声。\n柳暗西州供骋望，草芳南浦徧离情。\n登临一晌须回首，看却乡心万感生。",
+    "content_tr": "黄鶴何年去杳冥，高樓千載倚江城。\n碧雲朝卷四山景，流水夜傳三峽聲。\n柳暗西州供騁望，草芳南浦徧離情。\n登臨一晌須回首，看却鄉心萬感生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

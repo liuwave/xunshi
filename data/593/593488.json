@@ -1,0 +1,24 @@
+{
+  "work_id": 593488,
+  "work": {
+    "id": 593488,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "陈洎",
+    "author_tr": "陳洎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "他年远公社，若个是遗民。",
+    "content_tr": "他年遠公社，若箇是遺民。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "将来去到远公的莲社，哪一个算得是遗民呢？",
+    "annotation": "远公社：东晋慧远法师在庐山东林寺与刘遗民等结白莲社念佛。\n若个：哪个、何人。\n遗民：改朝换代后不仕新朝之人。",
+    "appreciation": "此亦残句，借慧远莲社之典发问。上句“他年”预设身后，“远公社”点出佛门净侣与高士同修的传统；下句“若个是遗民”以反问作结，寄慨遥深——将来身殁归向净土，究竟谁才算守节不移的遗民？诗句在历史感中透出对气节的自我期许，亦似对当世士林的反问。残联短而意重，以问句收束，留有余味。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

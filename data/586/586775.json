@@ -1,0 +1,24 @@
+{
+  "work_id": 586775,
+  "work": {
+    "id": 586775,
+    "title": "句",
+    "title_tr": "句",
+    "author": "伍乔",
+    "author_tr": "伍喬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "积霭沈诸壑，微阳在半峰。",
+    "content_tr": "積靄沈諸壑，微陽在半峰。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "层层暮霭沉落进一道道山谷，微弱的日光还停在半山腰。",
+    "annotation": "积霭：积聚的云气暮霭。\n沈：同「沉」。\n诸壑（hè）：众多山谷。",
+    "appreciation": "十字写深山暮色，静极而准。上句写壑中之暗，积、沈二字予云气以重量，仿佛暮色自天而降、层层压入空谷；下句写峰腰之明，微、在二字留住一缕残阳。一沉一留，一暗一明，山谷与半峰构成上下两半的明暗切割。诸壑皆沉，独半峰尚在，光是漏下来的、将尽未尽的光。诗人不著一字情绪，只让光影自行错落，便觉山中黄昏寥寂如画，炼字之精直逼大历山水名句，静中藏动。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

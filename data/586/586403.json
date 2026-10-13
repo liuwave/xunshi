@@ -1,0 +1,24 @@
+{
+  "work_id": 586403,
+  "work": {
+    "id": 586403,
+    "title": "句  其七",
+    "title_tr": "句  其七",
+    "author": "孟宾于",
+    "author_tr": "孟賓于",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "远寺连沙静，闲舟入浦迟。",
+    "content_tr": "遠寺連沙靜，閒舟入浦遲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "远处的寺院连着沙滩一片寂静，悠闲的小船缓缓驶入水滨。",
+    "annotation": "浦：水滨，河流入江之处。",
+    "appreciation": "一联写江寺晚景：上句远寺连沙，一「静」字兜住全句，寺院与沙滩在暮色中连成一片阒寂；下句闲舟入浦，一「迟」字写出船行水滨的舒缓。静者不动，迟者徐行，一动一迟之间，把江村傍晚的闲远托出。两句无一字及情，而「闲」「静」二字已是情感。残句对偶工稳、境界清空，正合水程行旅所见的一段暮色。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

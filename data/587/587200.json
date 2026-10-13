@@ -1,0 +1,18 @@
+{
+  "work_id": 587200,
+  "work": {
+    "id": 587200,
+    "title": "逍遥咏  其六",
+    "title_tr": "逍遥詠  其六",
+    "author": "宋太宗",
+    "author_tr": "宋太宗",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日照光文彩，周通无不关。\n天恩功最大，地载莫休闲。\n绝顶孤松老，飞云野鹤还。\n玄珠名隠奥，杳霭路岐间。",
+    "content_tr": "日照光文彩，周通無不關。\n天恩功最大，地載莫休閑。\n絕頂孤松老，飛雲野鶴還。\n玄珠名隠奧，杳靄路岐間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

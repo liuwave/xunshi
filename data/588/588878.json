@@ -1,0 +1,18 @@
+{
+  "work_id": 588878,
+  "work": {
+    "id": 588878,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "魏野",
+    "author_tr": "魏野",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁人把我狂诗句，写向添苏绣户中。\n闲暇若将红袖拂，还应胜得碧纱笼。",
+    "content_tr": "誰人把我狂詩句，寫向添蘇繡戶中。\n閑暇若將紅袖拂，還應勝得碧紗籠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

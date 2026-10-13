@@ -1,0 +1,18 @@
+{
+  "work_id": 593160,
+  "work": {
+    "id": 593160,
+    "title": "观书",
+    "title_tr": "觀書",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "隠几穷千古，披经究万殊。\n扶疏曾答客，涉猎耻成儒。",
+    "content_tr": "隠几窮千古，披經究萬殊。\n扶疏曾答客，涉獵恥成儒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

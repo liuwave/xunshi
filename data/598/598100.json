@@ -1,0 +1,18 @@
+{
+  "work_id": 598100,
+  "work": {
+    "id": 598100,
+    "title": "天人吟",
+    "title_tr": "天人吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "羲轩尧舜虽难复，汤武桓文尚可循。\n事既不同时又异，也由天道也由人。",
+    "content_tr": "羲軒堯舜雖難復，湯武桓文尚可循。\n事既不同時又異，也由天道也由人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

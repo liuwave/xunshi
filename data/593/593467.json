@@ -1,0 +1,24 @@
+{
+  "work_id": 593467,
+  "work": {
+    "id": 593467,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "苏绅",
+    "author_tr": "蘇紳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "游人汉女投珠路，野火荆山出猎朝。",
+    "content_tr": "游人漢女投珠路，野火荆山出獵朝。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "游人走在汉女投珠的路上，野火在荆山出没于出猎的早晨。",
+    "annotation": "汉女投珠：用郑交甫遇汉女解佩典。\n荆山：楚地山名。",
+    "appreciation": "此为残联怀古。上句用郑交甫遇汉女解佩典，切江汉游女，是水畔艳遇；下句写荆山猎火，是山中旷景。两句一水上一山中，一艳一旷，皆切楚地风物。以典故对实景，对仗工整，于一句中兼今昔之思。以路以山起兴，怀古之情自在言外。残联于山水之间暗嵌故实，不著议论而江汉荆山之旧迹宛然，短韵而有苍茫之致。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

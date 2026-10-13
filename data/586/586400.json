@@ -1,0 +1,24 @@
+{
+  "work_id": 586400,
+  "work": {
+    "id": 586400,
+    "title": "句  其四",
+    "title_tr": "句  其四",
+    "author": "孟宾于",
+    "author_tr": "孟賓于",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙岛却回空说梦，清朝未达自嫌身。",
+    "content_tr": "仙島却回空說夢，清朝未達自嫌身。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "海上仙岛求道归来只落得空说一场梦，在清明之朝未能显达自己都嫌弃自身。",
+    "annotation": "仙岛：指海上仙山，旧有求仙之说。\n清朝：清明之朝。\n孟宾于：五代宋初诗人。",
+    "appreciation": "两句自慨：上句「仙岛却回空说梦」，用海上仙山求道终归一梦之典，喻种种向往皆成空幻；下句「清朝未达自嫌身」，在清明之世仍未显达，连自己都嫌弃自身。上句把理想说空，下句把现实说破，一虚一实、一梦一嫌，失意层层加压。残句存此一联，不怨朝廷、只怪自身，含蓄中见不平，是晚唐五代失意士子的口吻。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

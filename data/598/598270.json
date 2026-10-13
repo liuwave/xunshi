@@ -1,0 +1,18 @@
+{
+  "work_id": 598270,
+  "work": {
+    "id": 598270,
+    "title": "诫子吟",
+    "title_tr": "誡子吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡能警旦，马能代行。\n犬能守御，牛能力耕。\n人禀天地，万物之灵。\n妬贤嫉能，不如不生。",
+    "content_tr": "雞能警旦，馬能代行。\n犬能守禦，牛能力耕。\n人稟天地，萬物之靈。\n妬賢嫉能，不如不生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 586374,
+  "work": {
+    "id": 586374,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "陶谷",
+    "author_tr": "陶穀",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "此生头已白，无路扫王门。",
+    "content_tr": "此生頭已白，無路掃王門。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "这一生头发已经白了，却没有门路扫拜王侯之门。",
+    "annotation": "扫王门：用魏勃扫门求见之典，指奔走权贵以求仕进。",
+    "appreciation": "两句自伤身世：上句「此生头已白」先把年华老去、一事无成托出；下句「无路扫王门」再点奔走权贵而不得其门的失意。「扫门」用魏勃扫门求见之典，于干谒一事切得极工。一联之中，老境与无路两层悲意叠压，不怨天不尤人，只把「头已白」与「无路」并置，寒酸之意自见。残句虽短，仕路蹭蹬之慨尽在其中。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 593241,
+  "work": {
+    "id": 593241,
+    "title": "咏史",
+    "title_tr": "詠史",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一马浮江拥瑞图，青规群彦掎长裾。\n本缘献替居门下，不为江虾与䱥鱼。",
+    "content_tr": "一馬浮江擁瑞圖，青規羣彥掎長裾。\n本緣獻替居門下，不爲江蝦與䱥魚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

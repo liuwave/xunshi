@@ -1,0 +1,24 @@
+{
+  "work_id": 591022,
+  "work": {
+    "id": 591022,
+    "title": "句",
+    "title_tr": "句",
+    "author": "石待问",
+    "author_tr": "石待問",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何常为柱石，同立太平基。",
+    "content_tr": "何常爲柱石，同立太平基。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "何曾不做国家的柱石，一同建立太平的基业。",
+    "annotation": "柱石：栋梁之石，喻担负国家重任的大臣。",
+    "appreciation": "此为残存的联句，仅存十四字。上句「何常为柱石」以反问自任，下句「同立太平基」直陈抱负，两句一气贯注，语意庄重典重。「柱石」与「太平基」互为表里，前者喻人臣之重任，后者指国家之基业，以石喻基，意象上下相承，音节亦铿锵有力，掷地有声。虽为断句，而忠君体国、愿与同僚共致太平的志意已跃然纸上，语气刚健沉雄，不作寒酸语，于残章中想见作者以天下自任的宏阔气度，令人肃然。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

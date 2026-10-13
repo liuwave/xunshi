@@ -1,0 +1,24 @@
+{
+  "work_id": 589856,
+  "work": {
+    "id": 589856,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "陈亚",
+    "author_tr": "陳亞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "收寒归地底，表老向人间。",
+    "content_tr": "收寒歸地底，表老向人間。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "将寒气收敛归入地底，把老态表露在人间。",
+    "annotation": "表：显露。",
+    "appreciation": "两句以「收」「表」对举，写节物与人事。上句收寒归地，是阳气下藏、天地回温的写照；下句表老人间，是岁华迁流、人渐衰老的自况。一就自然，一就身世，对举中透出时序推移、人亦垂暮的沉慨。寒可收而归地底，老则表而难掩于人间，一敛一纵之间，天地有余而人事已衰。字锻句炼，语意简远，于十字中藏一卷岁时之感，属对精切而气格苍然，不事铺张而意韵深厚。十字之中天地与身世俱到，言近指远，自是锻炼有得之作。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

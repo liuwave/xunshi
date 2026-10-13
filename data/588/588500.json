@@ -1,0 +1,24 @@
+{
+  "work_id": 588500,
+  "work": {
+    "id": 588500,
+    "title": "句  其九",
+    "title_tr": "句  其九",
+    "author": "王禹偁",
+    "author_tr": "王禹偁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "佳人方素面，对镜理新妆。",
+    "content_tr": "佳人方素面，對鏡理新妝。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "佳人正以素面相对，对着镜子整理新妆。",
+    "annotation": "素面：不施脂粉的本来面目。",
+    "appreciation": "此为残句，仅存一联，写闺中晨妆之景。上句「佳人方素面」，谓佳人正对明镜、妆饰未施，天然一段本色；下句「对镜理新妆」，谓由此素面初起、重新对镜梳掠。一句是未妆之素，一句是正妆之时，时序由「素」入「新」，画面由静入动。两句虽简，已见临镜徐理、顾影自怜的情态，「方」「理」二字最是传神，不着艳字、不施脂粉字面，而闺中娴雅情态自出。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

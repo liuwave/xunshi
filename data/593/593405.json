@@ -1,0 +1,24 @@
+{
+  "work_id": 593405,
+  "work": {
+    "id": 593405,
+    "title": "句  其一三",
+    "title_tr": "句  其一三",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无色真国色，有韵自天香。",
+    "content_tr": "無色真國色，有韵自天香。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "没有艳色才是真正的国色，自有风韵便是天然天香。",
+    "annotation": "国色天香：本唐人咏牡丹成语，此反转用之。",
+    "appreciation": "此为残联咏牡丹。“国色”“天香”本唐人咏牡丹常语，此反转用之：“无色”“有韵”以淡笔写其神。不著色相而风韵自在，以意态胜颜色。十字中翻成一重境界，咏物而贵取神遗貌。宋诗理趣于此可见，于咏花中悟出重韵轻色之旨，语简而意远。残联虽短，而翻案出新，于常语中自见新意，正是宋人擅长的笔法。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 590828,
+  "work": {
+    "id": 590828,
+    "title": "句",
+    "title_tr": "句",
+    "author": "苏为",
+    "author_tr": "蘇爲",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜浪珠还浦，春泥象印踪。",
+    "content_tr": "夜浪珠還浦，春泥象印蹤。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "夜浪之中，明珠还于合浦之浦；春泥之上，留着象迹的印痕。",
+    "annotation": "珠还浦：用「合浦珠还」之典，喻物失而复得、政事清明。\n象印踪：象行之迹印于春泥。",
+    "appreciation": "上句用「合浦珠还」之典，暗寄政成物归、恩泽下逮之意；下句以象印春泥落笔，景事宛然，仿佛异物亦得安其生。一典一实、一古一今，两句对仗工整而意蕴含蓄。「夜浪」对「春泥」，一水中一陆上；「珠还」对「象印」，一为瑞征一为遗迹。用字凝练，把教化远被、泽及异物的称颂藏在景语之中，不明言颂而颂自在，残联虽短而寄托深远。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

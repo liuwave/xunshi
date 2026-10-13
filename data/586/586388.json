@@ -1,0 +1,24 @@
+{
+  "work_id": 586388,
+  "work": {
+    "id": 586388,
+    "title": "句  其六",
+    "title_tr": "句  其六",
+    "author": "释延寿",
+    "author_tr": "釋延壽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绕绣屏飞花外蝶，隔金笼语柳中鶑。",
+    "content_tr": "繞繡屏飛花外蝶，隔金籠語柳中鶑。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "绣花屏风之外有蝴蝶绕着飞花起舞，金色鸟笼之中黄莺隔着柳叶啼鸣。",
+    "annotation": "绣屏：绣花屏风。\n金笼：华丽的鸟笼。\n鶑：同「莺」。",
+    "appreciation": "一联写景而景中含意：上句绣屏之外、飞花之上，蝴蝶绕飞；下句金笼之中、柳叶之间，黄莺啭语。「外」与「隔」二字最耐寻味：蝶在屏外自由，莺在笼中隔语，一动一静、一放一囚，暗中相对。禅僧笔下何以作此绮语？盖以蝶之放、莺之囚反衬心性之缚与不缚，绮语中藏禅意，非徒作艳词，读来须于字外参取。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

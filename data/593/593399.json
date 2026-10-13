@@ -1,0 +1,24 @@
+{
+  "work_id": 593399,
+  "work": {
+    "id": 593399,
+    "title": "句  其七",
+    "title_tr": "句  其七",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "再来戴公宅，客过孝王家。",
+    "content_tr": "再來戴公宅，客過孝王家。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "再度来到戴公的宅第，客途经孝王的王家。",
+    "annotation": "戴公：所指未详，疑指隐君子。\n孝王：疑指汉梁孝王。",
+    "appreciation": "此为残联记游。上句“再来”重游旧宅，以戴公之宅系隐者之思；下句“客过”途经孝王旧苑，以帝王之家见兴废之感。两句皆以人系地，不着写景，而凭吊之意自在言外。一隐一显，一重来一过访，于短短十字中见出人事沧桑。残句含蓄不尽，留连低回之意可玩，盖诗人于重游途经之际俯仰今昔，不著议论而盛衰之慨自见于言外。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

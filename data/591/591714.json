@@ -1,0 +1,24 @@
+{
+  "work_id": 591714,
+  "work": {
+    "id": 591714,
+    "title": "句",
+    "title_tr": "句",
+    "author": "释义怀",
+    "author_tr": "釋義懷",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "衣穿瘦骨露，屋破看星眠。",
+    "content_tr": "衣穿瘦骨露，屋破看星眠。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "衣服穿破了，瘦骨显露出来；屋顶破漏，躺着便能看见星星。",
+    "annotation": "穿：破敝。",
+    "appreciation": "十字写贫寒之境。上句写身：衣破骨露，形销骨立；下句写居：屋漏见星，夜卧无蔽。纯用白描，不著一悲字，而凄苦自见。「瘦骨露」三字，把无衣可蔽的穷形相逼出；「看星眠」三字尤奇，破屋反成仰观星斗之所，苦境之中透出一点旷远。两句一写人体之残，一写居室之漏，皆从最不起眼的细节落笔。以最少的字写最深的穷，深得苦吟派炼字之法，意味在文字之外，令人想见作者寒夜无眠的孤况。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 589861,
+  "work": {
+    "id": 589861,
+    "title": "句  其一○",
+    "title_tr": "句  其一○",
+    "author": "陈亚",
+    "author_tr": "陳亞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浪平山接影，山尽树回根。",
+    "content_tr": "浪平山接影，山盡樹回根。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "浪平之处，山影相接；山尽之处，树根回旋。",
+    "annotation": "",
+    "appreciation": "一联写舟行所见山水转折。上句浪平而山影相接，写江面之静与远山之绵；下句山尽而树露回根，写岸势之转与近树之奇。「接影」「回根」皆以动词绾合景物，不写人之动而舟行其间自见。两句由远及近，由浪及树，画面随视线推移：先以平浪引远山之影，再以山尽显近树之根，移步换形。于平小中见江山转折之趣，锻句工稳，残联而景界宛然在目。以影以根绾合山水，舟行之趣全在转折处，十字而景随步移，最为工致。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

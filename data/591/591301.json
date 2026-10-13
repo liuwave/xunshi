@@ -1,0 +1,18 @@
+{
+  "work_id": 591301,
+  "work": {
+    "id": 591301,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "史温",
+    "author_tr": "史溫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曹娥庙貌枕江湄，南北行人合孝思。\n有智不争三十里，千年黄绢一厅碑。",
+    "content_tr": "曹娥廟貌枕江湄，南北行人合孝思。\n有智不爭三十里，千年黄絹一廳碑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

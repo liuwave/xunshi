@@ -1,0 +1,18 @@
+{
+  "work_id": 588039,
+  "work": {
+    "id": 588039,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "晁逈",
+    "author_tr": "晁逈",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宜城征美酝，汉水得佳舫。\n登岘思前哲，游池醉夕阳。",
+    "content_tr": "宜城徵美醖，漢水得佳舫。\n登峴思前哲，遊池醉夕陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

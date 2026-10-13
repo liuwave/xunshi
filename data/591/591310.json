@@ -1,0 +1,24 @@
+{
+  "work_id": 591310,
+  "work": {
+    "id": 591310,
+    "title": "句",
+    "title_tr": "句",
+    "author": "柳永",
+    "author_tr": "柳永",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "分得天一角，织成山四围。",
+    "content_tr": "分得天一角，織成山四圍。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "分得天空的一角，织成四面环山的景象。",
+    "annotation": "",
+    "appreciation": "此为柳永残存的联句，仅存十四字。上句「分得天一角」写境之偏幽，似言某处僻处天之一角，人迹罕至；下句「织成山四围」以「织」字绾合，谓四面山峦如织物般围合而成，化寻常山形为巧构。两句一写天高、一写山围，空间关系由「分」与「织」二字牵动，化静为动，使僻地生出剪裁之趣。语意凝练而对仗工整，虽为断句，已可想见其所咏之地四面环山、幽僻如织的形貌，唯所咏对象难以确考。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

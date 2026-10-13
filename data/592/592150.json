@@ -1,0 +1,24 @@
+{
+  "work_id": 592150,
+  "work": {
+    "id": 592150,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "王琪",
+    "author_tr": "王琪",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万壑松声山雨过，一川花气水风生。",
+    "content_tr": "萬壑松聲山雨過，一川花氣水風生。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "万壑的松声随山雨而过，一川的花气从水生风中升起。",
+    "annotation": "",
+    "appreciation": "此为宋人写景名联。「万壑松声」是听觉，「山雨过」写松声之由远及近；「一川花气」是嗅觉，「水风生」写花气之自水而来。两句一高远一绵邈，一松涛一花气，声、气、雨、风交织成一片。上句写大景，下句写细嗅；一句用听觉，一句用嗅觉，互为映衬。「万壑」对「一川」，是空间之大对平野之广；「松声」对「花气」，是声响对芬芳。最见王琪炼字写景之工，十字之中境界全出。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

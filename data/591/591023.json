@@ -1,0 +1,24 @@
+{
+  "work_id": 591023,
+  "work": {
+    "id": 591023,
+    "title": "句",
+    "title_tr": "句",
+    "author": "朱炎",
+    "author_tr": "朱炎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古人不到处，吾子独留心。",
+    "content_tr": "古人不到處，吾子獨留心。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "古人未曾到达的地方，您独自留心于此。",
+    "annotation": "吾子：对对方的尊称，犹言您。",
+    "appreciation": "此为残存的两句赠答之语。上句以「古人不到」衬出境地之幽僻荒远，下句以「吾子独留心」点出其人好尚之与众不同。「独」字是诗眼：世人所不到、不留心之处，偏有此一人独自留意，既赞其志趣高远不群，也隐隐透出知音稀少的寂寞与孤迥自赏。语意简淡而耐咀嚼，于十四字中见出人物不随流俗的襟怀，为宋人选句中典型的清隽一路，所谓以少胜多、意在言外，令人回味不尽，悠然神往。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

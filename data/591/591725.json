@@ -1,0 +1,18 @@
+{
+  "work_id": 591725,
+  "work": {
+    "id": 591725,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "路坦",
+    "author_tr": "路坦",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百里传呼号录公，三年得替普天同。\n惟君四载过常例，更有何人继后风。",
+    "content_tr": "百里傳呼號錄公，三年得替普天同。\n惟君四載過常例，更有何人繼後風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

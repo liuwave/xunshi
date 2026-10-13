@@ -1,0 +1,24 @@
+{
+  "work_id": 586368,
+  "work": {
+    "id": 586368,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "陈抟",
+    "author_tr": "陳摶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蚕月桑叶青，鶑时柳花白。",
+    "content_tr": "蠶月桑葉青，鶑時柳花白。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "蚕月时节桑叶正青，黄莺啼鸣之时柳絮花白。",
+    "annotation": "蚕月：农历三月，养蚕之月，语出《诗经·七月》。\n鶑（yīng）：同「莺」，黄莺。",
+    "appreciation": "一联纯用时令物象对仗：蚕月桑叶正青，莺时柳花如雪。「蚕月」本《诗经》「蚕月条桑」，点出三月农桑之候；「鶑时」与「蚕月」相对，黄莺啼时即春深。两句无一字议论，只以桑叶之青、柳花之白两组颜色，铺出一幅桑柳争春图。虽属残句，而句律工稳、节候分明，隐者笔下亦自有一种清和闲静的春意。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}
