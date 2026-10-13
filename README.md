@@ -17,13 +17,14 @@
 
 ```
 data/
-  000/056.json      ← 作品 id 56
-  000/057.json
+  000/56.json        ← 作品 id 56（注意：id 不补零）
+  000/57.json
   739/739578.json   ← 作品 id 739578
 ```
 
 **映射规则**：作品在寻诗站的详情页地址是 `/poems/{id}`，对应本仓库的 `data/{id 除以 1000、三位补零}/{id}.json`。
-例：《水调歌头》（苏轼）在站点是 `https://xunshi.oldmen.cn/poems/56`，数据文件是 [`data/000/056.json`](data/000/056.json)。
+桶名三位补零，**文件名里的 id 不补零**。
+例：《水调歌头》（苏轼）在站点是 `https://xunshi.oldmen.cn/poems/56`，数据文件是 [`data/000/56.json`](data/000/56.json)。
 
 ## JSON 字段说明
 
@@ -77,8 +78,17 @@ data/
 
 也可以先在 [Issues](../../issues) 里讨论不确定的修改。
 
-**修改时请保持字段结构不变**：不要增删字段、不要改 `work_id`/`id`；拿不准的地方保持原值。
-如某字段确有错误，建议在同名字段外新增 `{字段名}_fix_note` 说明修改依据。
+**可修改的字段**：
+
+- `work` 里的 9 个字段：`title` / `title_tr` / `author` / `author_tr` / `dynasty` / `kind_cn` / `rhythmic` / `content` / `content_tr`
+- `annotation` 里的 3 个字段：`translation`（译文）/ `annotation`（注释）/ `appreciation`（赏析）
+
+**请勿修改**：`work_id`、`work.id`、`confidence`（质检分）、`ai_generated`（来源标记）、`strains_aligned`（平仄对齐标记）、`anthologies`（选本归属）。不要增删字段。
+正文与作者是**繁简两列原生数据**，改简体时请一并核对繁体列，避免两侧不一致。
+
+拿不准的地方保持原值，并在同名字段外新增 `{字段名}_fix_note` 说明修改依据，例如 `"title_fix_note": "原标题误挂诗句，据词牌与正文首句推断"`。
+
+解说若被人工修正，站点会把它标成「经人工校正」，不再标记为纯 AI 生成。
 
 ## 相关
 
