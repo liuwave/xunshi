@@ -1,0 +1,24 @@
+{
+  "work_id": 709374,
+  "work": {
+    "id": 709374,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "许庚",
+    "author_tr": "許庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "壮岁期加进，新吟未敢编。",
+    "content_tr": "壯歲期加進，新吟未敢編。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "壮年时期望更加精进，新写的吟咏还不敢编成集子。",
+    "annotation": "",
+    "appreciation": "壮岁期加进，新吟未敢编，两句自道为学为诗之谨。壮年正是有为之年，期许自己在学业诗艺上更求精进；新近写成的吟咏，却还不敢编次成集。上句立期许，下句见自省，一进一敛之间，见出作者对自家文字不肯轻许的态度：并非无作，而是不欲轻易示人、轻易自满。与一般夸示才情的口吻相反，这两句以谦抑出之，反而更见进取之心与郑重之意。断句无本事可考，就文本立论，语简而意深，见出立身处世的一点诚实。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

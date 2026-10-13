@@ -1,0 +1,18 @@
+{
+  "work_id": 721203,
+  "work": {
+    "id": 721203,
+    "title": "登鹳雀楼",
+    "title_tr": "登鸛雀樓",
+    "author": "畅当",
+    "author_tr": "暢當",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "逈临飞鸟上，高出世尘间。\n天势围平野，河流入断山。",
+    "content_tr": "逈臨飛鳥上，高出世塵間。\n天勢圍平野，河流入斷山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

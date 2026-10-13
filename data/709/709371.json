@@ -1,0 +1,24 @@
+{
+  "work_id": 709371,
+  "work": {
+    "id": 709371,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "许庚",
+    "author_tr": "許庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "思苦无一字，意来成数篇。",
+    "content_tr": "思苦無一字，意來成數篇。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "苦心思索时一个字也写不出，意兴来时却写成好几篇。",
+    "annotation": "",
+    "appreciation": "思苦无一字，意来成数篇，写诗家甘苦，两相反对。苦思冥索之际，一字难成；意兴忽来之时，数篇立就。上句之苦与下句之来，道尽创作心理的悖论：强求则滞，兴会则速。此意与古来文章本天成、妙手偶得之的论调相通，而以最简省的对句表达：无一字与成数篇数量悬殊，思苦与意来一逆一顺，对得干净利落，不假雕饰而理趣自见。断句无本事可考，就文本立论，是论诗诗中的精警之语，作者深于为诗甘苦，故能一语道破。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

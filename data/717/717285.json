@@ -1,0 +1,18 @@
+{
+  "work_id": 717285,
+  "work": {
+    "id": 717285,
+    "title": "观猎",
+    "title_tr": "觀獵",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "角鹰初下秋草稀，铁骢抛鞚去如飞。\n少年猎得平原兔，马后横捎意气归。",
+    "content_tr": "角鷹初下秋草稀，鐵驄拋鞚去如飛。\n少年獵得平原兔，馬後橫捎意氣歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

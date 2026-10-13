@@ -1,0 +1,18 @@
+{
+  "work_id": 701234,
+  "work": {
+    "id": 701234,
+    "title": "远游",
+    "title_tr": "遠遊",
+    "author": "陈必复",
+    "author_tr": "陳必復",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "关山劳眺望，宇宙忆经行。\n地隔南溟断，天低北斗横。\n高谯闻远柝，孤枕历寒更。\n只影惟堪吊，殊乡鲜弟兄。",
+    "content_tr": "關山勞眺望，宇宙憶經行。\n地隔南溟斷，天低北斗橫。\n高譙聞遠柝，孤枕歷寒更。\n隻影惟堪弔，殊鄉鮮弟兄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

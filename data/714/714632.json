@@ -1,0 +1,18 @@
+{
+  "work_id": 714632,
+  "work": {
+    "id": 714632,
+    "title": "杂曲歌辞 空城雀",
+    "title_tr": "雜曲歌辭 空城雀",
+    "author": "聂夷中",
+    "author_tr": "聶夷中",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一雀入官仓，所食能损几。\n所虑往损频，官仓乃害尔。\n鱼网不在天，鸟网不在水。",
+    "content_tr": "一雀入官倉，所食能損幾。\n所慮往損頻，官倉乃害爾。\n魚網不在天，鳥網不在水。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

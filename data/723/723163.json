@@ -1,0 +1,18 @@
+{
+  "work_id": 723163,
+  "work": {
+    "id": 723163,
+    "title": "咏怀",
+    "title_tr": "詠懷",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浊水心易倾，明波兴初发。\n思逢海底人，乞取蚌中月。\n此兴若未谐，此心终不歇。",
+    "content_tr": "濁水心易傾，明波興初發。\n思逢海底人，乞取蚌中月。\n此興若未諧，此心終不歇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

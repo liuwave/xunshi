@@ -1,0 +1,24 @@
+{
+  "work_id": 723000,
+  "work": {
+    "id": 723000,
+    "title": "句",
+    "title_tr": "句",
+    "author": "胡[证]",
+    "author_tr": "胡[証]",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗书入京国，旌斾过乡关。",
+    "content_tr": "詩書入京國，旌斾過鄉關。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "带着诗书进入京师国都，旌旗旌斾经过故乡的关山。",
+    "annotation": "旌斾（jīng pèi）：旌旗。斾，同「旆」。",
+    "appreciation": "两句十字，以工整对举写人生两面：一面是「诗书入京国」，负笈携书、以文干进，是取功名之路；一面是「旌斾过乡关」，仪仗旌旗经过故乡，是荣归之途。「诗书」与「旌斾」一雅一贵，「京国」与「乡关」一远一近，两句之间暗含由读书而得功名、由功名而荣归故里的完整脉络，气象开张。此类断句虽仅存一联，仍能见唐人自道功名志向时惯用的骈俪句式与夸饰口吻，语意爽朗，不作含蓄之态。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 701344,
+  "work": {
+    "id": 701344,
+    "title": "咏史",
+    "title_tr": "詠史",
+    "author": "陈杰",
+    "author_tr": "陳杰",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜀相犹雄懿已王，江东逮见魏先亡。\n山阳更在江东后，如此三分未用伤。",
+    "content_tr": "蜀相猶雄懿已王，江東逮見魏先亡。\n山陽更在江東後，如此三分未用傷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

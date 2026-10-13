@@ -1,0 +1,18 @@
+{
+  "work_id": 718096,
+  "work": {
+    "id": 718096,
+    "title": "山中问荅",
+    "title_tr": "山中問荅",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "问余何意栖碧山，笑而不荅心自闲。\n桃花流水窅然去，别有天地非人间。",
+    "content_tr": "問余何意栖碧山，笑而不荅心自閑。\n桃花流水窅然去，別有天地非人間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

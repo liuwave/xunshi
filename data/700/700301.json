@@ -1,0 +1,18 @@
+{
+  "work_id": 700301,
+  "work": {
+    "id": 700301,
+    "title": "寄友",
+    "title_tr": "寄友",
+    "author": "刘黻",
+    "author_tr": "劉黻",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瘴云未免钟仪絷，夜雨应怜范叔寒。\n尚有慈闱年九十，空挥客泪落江干。",
+    "content_tr": "瘴雲未免鍾儀縶，夜雨應憐范叔寒。\n尚有慈闈年九十，空揮客淚落江干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

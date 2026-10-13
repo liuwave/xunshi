@@ -1,0 +1,18 @@
+{
+  "work_id": 714285,
+  "work": {
+    "id": 714285,
+    "title": "相和歌辞 怨诗",
+    "title_tr": "相和歌辭 怨詩",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "试妾与君泪，两处滴池水。\n看取芙蓉花，今年为谁死。",
+    "content_tr": "試妾與君淚，兩處滴池水。\n看取芙蓉花，今年爲誰死。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

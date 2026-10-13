@@ -1,0 +1,18 @@
+{
+  "work_id": 707500,
+  "work": {
+    "id": 707500,
+    "title": "题壁",
+    "title_tr": "題壁",
+    "author": "罗浮狂客",
+    "author_tr": "羅浮狂客",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云意不知沧海，春光欲上翠微。\n人间一堕千劫，犹爱梅花未归。",
+    "content_tr": "雲意不知滄海，春光欲上翠微。\n人間一墮千劫，猶愛梅花未歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

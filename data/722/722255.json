@@ -1,0 +1,18 @@
+{
+  "work_id": 722255,
+  "work": {
+    "id": 722255,
+    "title": "王昭君",
+    "title_tr": "王昭君",
+    "author": "令狐楚",
+    "author_tr": "令狐楚",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锦车天外去，毳幕雪中开。\n魏阙苍龙远，萧关赤鴈哀。",
+    "content_tr": "錦車天外去，毳幕雪中開。\n魏闕蒼龍遠，蕭關赤鴈哀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

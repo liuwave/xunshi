@@ -1,0 +1,18 @@
+{
+  "work_id": 700574,
+  "work": {
+    "id": 700574,
+    "title": "六言",
+    "title_tr": "六言",
+    "author": "吴浚",
+    "author_tr": "吳浚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "草间路六七里，溪上梅三四花。\n日落鸟声何处，山空犬吠谁家。",
+    "content_tr": "草間路六七里，溪上梅三四花。\n日落鳥聲何處，山空犬吠誰家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

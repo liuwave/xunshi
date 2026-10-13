@@ -1,0 +1,18 @@
+{
+  "work_id": 722923,
+  "work": {
+    "id": 722923,
+    "title": "纪南歌",
+    "title_tr": "紀南歌",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风烟纪南城，尘土荆门路。\n天寒多猎骑，走上樊姬墓。",
+    "content_tr": "風煙紀南城，塵土荆門路。\n天寒多獵騎，走上樊姬墓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

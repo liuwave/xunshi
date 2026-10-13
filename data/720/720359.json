@@ -1,0 +1,18 @@
+{
+  "work_id": 720359,
+  "work": {
+    "id": 720359,
+    "title": "凉州词二首” 一",
+    "title_tr": "涼州詞二首” 一",
+    "author": "王之涣",
+    "author_tr": "王之渙",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄河远上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春光不度玉门关。",
+    "content_tr": "黃河遠上白雲間，一片孤城萬仞山。\n羌笛何須怨楊柳，春光不度玉門關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

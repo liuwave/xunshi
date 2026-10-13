@@ -1,0 +1,18 @@
+{
+  "work_id": 714497,
+  "work": {
+    "id": 714497,
+    "title": "琴曲歌辞 秋风引",
+    "title_tr": "琴曲歌辭 秋風引",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何处秋风至？萧萧送鴈群。\n朝来入庭树，孤客最先闻。",
+    "content_tr": "何處秋風至？蕭蕭送鴈羣。\n朝來入庭樹，孤客最先聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 708101,
+  "work": {
+    "id": 708101,
+    "title": "白雁",
+    "title_tr": "白雁",
+    "author": "黄庚",
+    "author_tr": "黄庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "征鸿素缟过南楼，衣褐同群孰与俦。\n云外排行分玉李，天边印字带银钩。\n高飞远寒疑云鹤，低落平沙类雪鸥。\n夜月芦花无认处，惟闻嘹唳数声秋。",
+    "content_tr": "征鴻素縞過南樓，衣褐同羣孰與儔。\n雲外排行分玉李，天邊印字带銀鈎。\n高飛遠寒疑雲鶴，低落平沙類雪鷗。\n夜月蘆花無認處，惟聞嘹唳數聲秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

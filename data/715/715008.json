@@ -1,0 +1,18 @@
+{
+  "work_id": 715008,
+  "work": {
+    "id": 715008,
+    "title": "杂曲歌辞 踏歌行 一",
+    "title_tr": "雜曲歌辭 踏歌行 一",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春江月出大堤平，堤上女郎连袂行。\n唱尽新词看不见，红霞影树鹧鸪鸣。",
+    "content_tr": "春江月出大堤平，堤上女郎連袂行。\n唱盡新詞看不見，紅霞影樹鷓鴣鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

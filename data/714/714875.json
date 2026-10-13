@@ -1,0 +1,18 @@
+{
+  "work_id": 714875,
+  "work": {
+    "id": 714875,
+    "title": "杂曲歌辞 杨柳枝 八",
+    "title_tr": "雜曲歌辭 楊柳枝 八",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人言柳叶似愁眉，更有愁肠似柳丝。\n柳丝挽断肠牵断，彼此应无续得期。",
+    "content_tr": "人言柳葉似愁眉，更有愁腸似柳絲。\n柳絲挽斷腸牽斷，彼此應無續得期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

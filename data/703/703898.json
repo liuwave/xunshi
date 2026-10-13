@@ -1,0 +1,18 @@
+{
+  "work_id": 703898,
+  "work": {
+    "id": 703898,
+    "title": "牡丹亭",
+    "title_tr": "牡丹亭",
+    "author": "郑士洪",
+    "author_tr": "鄭士洪",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿杨深处两三家，几度凭阑看紫霞。\n云锦已空烟水阔，转教人忆旧时花。",
+    "content_tr": "綠楊深處兩三家，幾度凭闌看紫霞。\n雲錦已空煙水闊，轉教人憶舊時花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

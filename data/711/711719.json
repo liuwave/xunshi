@@ -1,0 +1,18 @@
+{
+  "work_id": 711719,
+  "work": {
+    "id": 711719,
+    "title": "回文  其一",
+    "title_tr": "回文  其一",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红窗小立低声怨，永日春寒斗帐空。\n中酒落花飞絮乱，晓鶑啼破梦匆匆。",
+    "content_tr": "紅窗小立低聲怨，永日春寒斗帳空。\n中酒落花飛絮亂，曉鶑啼破夢匆匆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

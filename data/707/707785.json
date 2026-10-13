@@ -1,0 +1,18 @@
+{
+  "work_id": 707785,
+  "work": {
+    "id": 707785,
+    "title": "咏云",
+    "title_tr": "詠雲",
+    "author": "冯坦",
+    "author_tr": "馮坦",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石何有于云，云乃生于石。\n拂石讯云踪，苔深无处觅。",
+    "content_tr": "石何有於雲，雲乃生於石。\n拂石訊雲蹤，苔深無處覓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

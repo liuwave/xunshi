@@ -1,0 +1,18 @@
+{
+  "work_id": 714140,
+  "work": {
+    "id": 714140,
+    "title": "相和歌辞 王昭君",
+    "title_tr": "相和歌辭 王昭君",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "毛延寿画欲通神，忍为黄金不为人。\n马上琵琶行万里，汉宫长有隔生春。",
+    "content_tr": "毛延壽畫欲通神，忍爲黃金不爲人。\n馬上琵琶行萬里，漢宮長有隔生春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 713201,
+  "work": {
+    "id": 713201,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "谢慧卿",
+    "author_tr": "謝慧卿",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寻得桃源可学仙，丹书唯恐凤飞传。\n雨收峰顶云归洞，风到池塘月满天。",
+    "content_tr": "尋得桃源可學仙，丹書唯恐鳳飛傳。\n雨收峰頂雲歸洞，風到池塘月滿天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

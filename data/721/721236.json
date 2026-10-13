@@ -1,0 +1,18 @@
+{
+  "work_id": 721236,
+  "work": {
+    "id": 721236,
+    "title": "柳絮",
+    "title_tr": "柳絮",
+    "author": "杨凝",
+    "author_tr": "楊凝",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河畔多杨柳，追游尽狭斜。\n春风一回送，乱入莫愁家。",
+    "content_tr": "河畔多楊柳，追遊盡狹斜。\n春風一回送，亂入莫愁家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

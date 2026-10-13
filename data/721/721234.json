@@ -1,0 +1,18 @@
+{
+  "work_id": 721234,
+  "work": {
+    "id": 721234,
+    "title": "别友人",
+    "title_tr": "別友人",
+    "author": "杨凝",
+    "author_tr": "楊凝",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倦客惊危路，伤禽遶树枝。\n非逢暴公子，不敢涕流离。",
+    "content_tr": "倦客驚危路，傷禽遶樹枝。\n非逢暴公子，不敢涕流離。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

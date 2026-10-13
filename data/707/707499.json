@@ -1,0 +1,18 @@
+{
+  "work_id": 707499,
+  "work": {
+    "id": 707499,
+    "title": "新阳舖",
+    "title_tr": "新陽舖",
+    "author": "江梅",
+    "author_tr": "江梅",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅花篱落菜花畦，春水平田酿燕泥。\n健事老翁头雪白，一蓑烟雨自扶犁。",
+    "content_tr": "梅花籬落菜花畦，春水平田釀燕泥。\n健事老翁頭雪白，一簑烟雨自扶犁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

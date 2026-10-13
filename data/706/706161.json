@@ -1,0 +1,18 @@
+{
+  "work_id": 706161,
+  "work": {
+    "id": 706161,
+    "title": "棹歌",
+    "title_tr": "棹歌",
+    "author": "蒲寿宬",
+    "author_tr": "蒲壽宬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鼓枻归去来，蓑风鸣策策。\n明月倾我壶，沧浪天一碧。",
+    "content_tr": "鼓枻歸去来，蓑風鳴策策。\n明月傾我壺，滄浪天一碧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

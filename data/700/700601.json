@@ -1,0 +1,18 @@
+{
+  "work_id": 700601,
+  "work": {
+    "id": 700601,
+    "title": "读史",
+    "title_tr": "讀史",
+    "author": "汪韶",
+    "author_tr": "汪韶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南北几离合，江山一古今。\n秋风驼卧棘，春雨燕巢林。\n家国兴亡梦，英雄胜败心。\n九疑呼不起，愁绝暮云深。",
+    "content_tr": "南北幾離合，江山一古今。\n秋風駝卧棘，春雨燕巢林。\n家國興亡夢，英雄勝敗心。\n九疑呼不起，愁絕暮雲深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

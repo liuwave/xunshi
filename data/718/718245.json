@@ -1,0 +1,18 @@
+{
+  "work_id": 718245,
+  "work": {
+    "id": 718245,
+    "title": "观猎",
+    "title_tr": "觀獵",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "太守耀清威，乘闲弄晚晖。\n江沙横猎骑，山火遶行围。\n箭逐云鸿落，鹰随月兔飞。\n不知白日暮，欢赏夜方归。",
+    "content_tr": "太守耀清威，乘閑弄晚暉。\n江沙橫獵騎，山火遶行圍。\n箭逐雲鴻落，鷹隨月兔飛。\n不知白日暮，歡賞夜方歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

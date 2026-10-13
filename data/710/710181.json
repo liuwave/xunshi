@@ -1,0 +1,18 @@
+{
+  "work_id": 710181,
+  "work": {
+    "id": 710181,
+    "title": "春闺词",
+    "title_tr": "春閨詞",
+    "author": "谢翱",
+    "author_tr": "謝翱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "手触残红头懒梳，香随蝴蝶上衣裾。\n暖风吹睡无言语，又向床头看梦书。",
+    "content_tr": "手觸殘紅頭懶梳，香隨蝴蝶上衣裾。\n暖風吹睡無言語，又向床頭看夢書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

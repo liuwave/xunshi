@@ -1,0 +1,24 @@
+{
+  "work_id": 720159,
+  "work": {
+    "id": 720159,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张继",
+    "author_tr": "張繼",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉月经时掩，胡尘与岁深。",
+    "content_tr": "漢月經時掩，胡塵與歲深。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "汉地的月亮经过多时被遮掩，胡地的兵尘随年岁愈深。",
+    "annotation": "",
+    "appreciation": "这是一副对仗工整的残联。上句说汉地的月亮经过多少时日都被遮掩，下句说胡地的兵尘随着年岁愈来愈深。掩字写月色之晦，深字写尘氛之重，一掩一深，把沦陷之久、乱局之酷凝缩在十个字里。月与尘都是眼前习见之景，所指却是家国之事：汉月被掩即国土光景之晦，胡尘渐深即兵祸迁延之烈，时间与空间打并一处。以景语代情语，不作激切之词而痛感自深，举重若轻。作年与本事已不可确考，仅就文本立论，然十字之中家国之痛宛然可触。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

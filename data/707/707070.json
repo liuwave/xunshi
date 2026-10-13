@@ -1,0 +1,18 @@
+{
+  "work_id": 707070,
+  "work": {
+    "id": 707070,
+    "title": "立春日",
+    "title_tr": "立春日",
+    "author": "孙嵩",
+    "author_tr": "孫嵩",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "残冬初曦巧弄频，轻澌片片动游鳞。\n土牛不报穷居暖，星鸟非司退士春。\n门帖废忘梅柳句，乡傩倚阁鼓鼙人。\n愁多酒浅知何那，太息年光草草新。",
+    "content_tr": "殘冬初曦巧弄頻，輕澌片片動遊鱗。\n土牛不報窮居暖，星鳥非司退士春。\n門帖廢忘梅柳句，鄉儺倚閣鼓鼙人。\n愁多酒淺知何那，太息年光草草新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

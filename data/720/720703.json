@@ -1,0 +1,18 @@
+{
+  "work_id": 720703,
+  "work": {
+    "id": 720703,
+    "title": "塞下曲",
+    "title_tr": "塞下曲",
+    "author": "戎昱",
+    "author_tr": "戎昱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉将归来虏塞空，旌旗初下玉关东。\n高蹄战马三千匹，落日平原秋草中。",
+    "content_tr": "漢將歸來虜塞空，旌旗初下玉關東。\n高蹄戰馬三千匹，落日平原秋草中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

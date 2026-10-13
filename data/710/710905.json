@@ -1,0 +1,18 @@
+{
+  "work_id": 710905,
+  "work": {
+    "id": 710905,
+    "title": "听琴",
+    "title_tr": "聽琴",
+    "author": "张玉娘",
+    "author_tr": "張玉孃",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "竹外结枯桐，琅琅生松风。\n听来还自惜，坐对烛花红。",
+    "content_tr": "竹外結枯桐，琅琅生松風。\n聽來還自惜，坐對燭花紅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

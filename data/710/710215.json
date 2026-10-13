@@ -1,0 +1,18 @@
+{
+  "work_id": 710215,
+  "work": {
+    "id": 710215,
+    "title": "七绝句  其五",
+    "title_tr": "七絕句  其五",
+    "author": "罗公升",
+    "author_tr": "羅公升",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水旱关何事，兵凶孰汝怜。\n但寻师辟谷，莫误客求田。",
+    "content_tr": "水旱關何事，兵凶孰汝憐。\n但尋師辟穀，莫誤客求田。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

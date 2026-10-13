@@ -1,0 +1,18 @@
+{
+  "work_id": 720709,
+  "work": {
+    "id": 720709,
+    "title": "塞上曲",
+    "title_tr": "塞上曲",
+    "author": "戎昱",
+    "author_tr": "戎昱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "胡风略地烧连山，碎叶孤城未下关。\n山头烽子声声呌，知是将军夜猎还。",
+    "content_tr": "胡風略地燒連山，碎葉孤城未下關。\n山頭烽子聲聲呌，知是將軍夜獵還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

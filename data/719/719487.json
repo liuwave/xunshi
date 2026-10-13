@@ -1,0 +1,18 @@
+{
+  "work_id": 719487,
+  "work": {
+    "id": 719487,
+    "title": "归鴈",
+    "title_tr": "歸鴈",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东来万里客，乱定几年归。\n肠断江城鴈，高高正北飞。",
+    "content_tr": "東來萬里客，亂定幾年歸。\n腸斷江城鴈，高高正北飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

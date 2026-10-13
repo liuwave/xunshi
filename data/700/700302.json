@@ -1,0 +1,18 @@
+{
+  "work_id": 700302,
+  "work": {
+    "id": 700302,
+    "title": "砚",
+    "title_tr": "硯",
+    "author": "刘黻",
+    "author_tr": "劉黻",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "色若马肝微带紫，星如鹆眼更添青。\n端方一静浑无语，即是吾今座右铭。",
+    "content_tr": "色若馬肝微带紫，星如鵒眼更添青。\n端方一靜渾無語，即是吾今座右銘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

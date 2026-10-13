@@ -1,0 +1,18 @@
+{
+  "work_id": 707020,
+  "work": {
+    "id": 707020,
+    "title": "山居",
+    "title_tr": "山居",
+    "author": "陈某",
+    "author_tr": "陳某",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白云护危屋，遥隔世人家。\n野迳不多竹，幽兰自作花。\n敝衣僧说法，枯叶树成槎。\n门外禽相狎，双双浴晚沙。",
+    "content_tr": "白雲護危屋，遥隔世人家。\n野逕不多竹，幽蘭自作花。\n敝衣僧說法，枯葉樹成槎。\n門外禽相狎，雙雙浴晚沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

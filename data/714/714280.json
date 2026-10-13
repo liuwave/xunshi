@@ -1,0 +1,18 @@
+{
+  "work_id": 714280,
+  "work": {
+    "id": 714280,
+    "title": "相和歌辞 怨诗",
+    "title_tr": "相和歌辭 怨詩",
+    "author": "张汯",
+    "author_tr": "張汯",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "去年离别雁初归，今夜裁缝萤已飞。\n征客近来音信断，不知何处寄寒衣。",
+    "content_tr": "去年離別雁初歸，今夜裁縫螢已飛。\n征客近來音信斷，不知何處寄寒衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

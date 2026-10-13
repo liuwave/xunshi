@@ -1,0 +1,18 @@
+{
+  "work_id": 700011,
+  "work": {
+    "id": 700011,
+    "title": "韩愈",
+    "title_tr": "韓愈",
+    "author": "林同",
+    "author_tr": "林同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "未有子之孝，而公不用情。\n大书甄济传，更作董生行。",
+    "content_tr": "未有子之孝，而公不用情。\n大書甄濟傳，更作董生行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

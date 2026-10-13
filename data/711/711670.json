@@ -1,0 +1,24 @@
+{
+  "work_id": 711670,
+  "work": {
+    "id": 711670,
+    "title": "句",
+    "title_tr": "句",
+    "author": "杨轩",
+    "author_tr": "楊軒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "解照日月不照处，独明天地未明时。",
+    "content_tr": "解照日月不照處，獨明天地未明時。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "它能够照到日月所照不到的地方，独自照亮天地还未明亮的时辰。",
+    "annotation": "",
+    "appreciation": "句中未明言所咏何物，就字面看，当是咏灯烛一类补日月光照所不及的光亮之物（或以为是咏月，未可确指）。两句一意贯注：它能照到日月照不到的角落，能在天地尚未明亮的时辰独自放明。\"不照处\"\"未明时\"两番跌宕，愈见所咏之物补偏救缺的功用，与独立不倚、不趋炎附势的姿态。咏物而句句替所咏者立言，虽止一联，形象与品格已足，赞物亦自况，是一联立意高出的断句。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

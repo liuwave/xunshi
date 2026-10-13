@@ -1,0 +1,18 @@
+{
+  "work_id": 714500,
+  "work": {
+    "id": 714500,
+    "title": "琴曲歌辞 绿竹引",
+    "title_tr": "琴曲歌辭 綠竹引",
+    "author": "宋之问",
+    "author_tr": "宋之問",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青溪绿潭潭水侧，修竹婵娟同一色。\n徒生仙实凤不游，老死空山人讵识。\n妙年秉愿逃俗纷，归卧嵩丘弄白云。",
+    "content_tr": "青溪綠潭潭水側，修竹嬋娟同一色。\n徒生仙實鳳不遊，老死空山人詎識。\n妙年秉願逃俗紛，歸臥嵩丘弄白雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

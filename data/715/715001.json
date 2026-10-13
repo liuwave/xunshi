@@ -1,0 +1,18 @@
+{
+  "work_id": 715001,
+  "work": {
+    "id": 715001,
+    "title": "杂曲歌辞 宫中乐 五",
+    "title_tr": "雜曲歌辭 宮中樂 五",
+    "author": "张仲素",
+    "author_tr": "張仲素",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "奇树留寒翠，神池结夕波。\n黄山一夜雪，渭水雁声多。",
+    "content_tr": "奇樹留寒翠，神池結夕波。\n黃山一夜雪，渭水雁聲多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

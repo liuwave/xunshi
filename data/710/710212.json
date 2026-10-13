@@ -1,0 +1,18 @@
+{
+  "work_id": 710212,
+  "work": {
+    "id": 710212,
+    "title": "七绝句  其一",
+    "title_tr": "七絕句  其一",
+    "author": "罗公升",
+    "author_tr": "羅公升",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吟昔从军瘦，生涯出仕空。\n山中破茅屋，日日是秋风。",
+    "content_tr": "吟昔從軍瘦，生涯出仕空。\n山中破茅屋，日日是秋風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

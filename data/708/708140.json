@@ -1,0 +1,18 @@
+{
+  "work_id": 708140,
+  "work": {
+    "id": 708140,
+    "title": "书馆即事",
+    "title_tr": "書館即事",
+    "author": "黄庚",
+    "author_tr": "黄庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟拖野色入书窗，一亩平田隔草塘。\n暮雨初收新水满，藕花香杂稻花香。",
+    "content_tr": "烟拖野色入書窗，一畝平田隔草塘。\n暮雨初收新水滿，藕花香雜稻花香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

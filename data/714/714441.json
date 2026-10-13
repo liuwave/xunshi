@@ -1,0 +1,18 @@
+{
+  "work_id": 714441,
+  "work": {
+    "id": 714441,
+    "title": "琴曲歌辞 湘妃怨",
+    "title_tr": "琴曲歌辭 湘妃怨",
+    "author": "陈羽",
+    "author_tr": "陳羽",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "二妃怨处云沈沈，二妃哭处湘水深。\n商人酒滴庙前草，萧飒风生斑竹林。",
+    "content_tr": "二妃怨處雲沈沈，二妃哭處湘水深。\n商人酒滴廟前草，蕭颯風生斑竹林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

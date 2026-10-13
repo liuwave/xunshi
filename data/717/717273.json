@@ -1,0 +1,18 @@
+{
+  "work_id": 717273,
+  "work": {
+    "id": 717273,
+    "title": "从军行七首 七",
+    "title_tr": "從軍行七首 七",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉门山嶂几千重，山北山南总是烽。\n人依远戍须看火，马踏深山不见踪。",
+    "content_tr": "玉門山嶂幾千重，山北山南總是烽。\n人依遠戍須看火，馬踏深山不見蹤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

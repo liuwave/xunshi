@@ -1,0 +1,18 @@
+{
+  "work_id": 701463,
+  "work": {
+    "id": 701463,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "杭学士人",
+    "author_tr": "杭學士人",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "塞翁何必恨失马，城火可怜殃及鱼。\n一笑出门天万里，担头犹有斥奸书。",
+    "content_tr": "塞翁何必恨失馬，城火可憐殃及魚。\n一笑出門天萬里，擔頭猶有斥姦書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

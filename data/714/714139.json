@@ -1,0 +1,18 @@
+{
+  "work_id": 714139,
+  "work": {
+    "id": 714139,
+    "title": "相和歌辞 王昭君",
+    "title_tr": "相和歌辭 王昭君",
+    "author": "张仲素",
+    "author_tr": "張仲素",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙娥今下嫁，骄子自同和。\n劒戟归田尽，牛羊绕塞多。",
+    "content_tr": "仙娥今下嫁，驕子自同和。\n劒戟歸田盡，牛羊繞塞多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

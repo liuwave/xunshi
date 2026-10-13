@@ -1,0 +1,18 @@
+{
+  "work_id": 721195,
+  "work": {
+    "id": 721195,
+    "title": "昭君词",
+    "title_tr": "昭君詞",
+    "author": "李端",
+    "author_tr": "李端",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "李陵初送子卿回，汉月明时惆怅来。\n忆著长安旧游处，千门万户玉楼台。",
+    "content_tr": "李陵初送子卿回，漢月明時惆悵來。\n憶著長安舊遊處，千門萬戶玉樓臺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

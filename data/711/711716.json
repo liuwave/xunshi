@@ -1,0 +1,18 @@
+{
+  "work_id": 711716,
+  "work": {
+    "id": 711716,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西出潼关客路迷，一葫芦酒一篇诗。\n葫芦酒尽兴未尽，坐看春山春尽时。",
+    "content_tr": "西出潼關客路迷，一葫蘆酒一篇詩。\n葫蘆酒盡興未盡，坐看春山春盡時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

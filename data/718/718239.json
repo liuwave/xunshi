@@ -1,0 +1,18 @@
+{
+  "work_id": 718239,
+  "work": {
+    "id": 718239,
+    "title": "白鹭鹚",
+    "title_tr": "白鷺鶿",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白鹭下秋水，孤飞如坠霜。\n心闲且未去，独立沙洲傍。",
+    "content_tr": "白鷺下秋水，孤飛如墜霜。\n心閑且未去，獨立沙洲傍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 700000,
+  "work": {
+    "id": 700000,
+    "title": "李勉",
+    "title_tr": "李勉",
+    "author": "林同",
+    "author_tr": "林同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不诛人厌己，而恕子祈亲。\n贤矣李观察，今无复此人。",
+    "content_tr": "不誅人厭己，而恕子祈親。\n賢矣李觀察，今無復此人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

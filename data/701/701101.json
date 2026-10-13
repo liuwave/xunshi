@@ -1,0 +1,18 @@
+{
+  "work_id": 701101,
+  "work": {
+    "id": 701101,
+    "title": "登岳阳楼  其一",
+    "title_tr": "登岳陽樓  其一",
+    "author": "张埴",
+    "author_tr": "張埴",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "临风把酒此何时，白首登临亦暮迟。\n一片湖光寒日里，品题都是北来诗。",
+    "content_tr": "臨風把酒此何時，白首登臨亦暮遲。\n一片湖光寒日裏，品題都是北來詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

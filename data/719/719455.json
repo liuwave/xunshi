@@ -1,0 +1,24 @@
+{
+  "work_id": 719455,
+  "work": {
+    "id": 719455,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江边踏青罢，回首见旌旗。\n风起春城暮，高楼鼓角悲。",
+    "content_tr": "江邊踏青罷，迴首見旌旗。\n風起春城暮，高樓鼓角悲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "在江边踏青归来，回头望见旌旗。\n风吹起，春城的日暮，高楼上鼓角声悲凉。",
+    "annotation": "",
+    "appreciation": "二十字写春日江边所见。前两句由踏青的闲适转入回首所见旌旗，闲游之乐与军事气象猝然相遇，为全诗埋下不安的伏笔。后两句续写春城暮色中风起、鼓角悲鸣，高楼之上号角声随风远送，暮色与悲音相互渲染，踏青的春意顿被冲淡。诗以“罢”字、“见”字转折，从个人游赏自然过渡到对城郭军旅的观感，不作议论而时局之感自见于景语之中，是绝句小中见大的写法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

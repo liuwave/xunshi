@@ -1,0 +1,18 @@
+{
+  "work_id": 714345,
+  "work": {
+    "id": 714345,
+    "title": "相和歌辞 子夜四时歌四首 夏歌",
+    "title_tr": "相和歌辭 子夜四時歌四首 夏歌",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "镜湖三百里，菡萏发荷花。\n五月西施采，人看隘若邪。\n回舟不待月，归去越王家。",
+    "content_tr": "鏡湖三百里，菡萏發荷花。\n五月西施采，人看隘若邪。\n迴舟不待月，歸去越王家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

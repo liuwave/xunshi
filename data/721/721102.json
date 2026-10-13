@@ -1,0 +1,18 @@
+{
+  "work_id": 721102,
+  "work": {
+    "id": 721102,
+    "title": "汉宫词",
+    "title_tr": "漢宮詞",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉室长陵小市东，珠帘绣户对春风。\n君王昨日移仙仗，玉辇将迎入汉中。",
+    "content_tr": "漢室長陵小市東，珠簾繡戶對春風。\n君王昨日移仙仗，玉輦將迎入漢中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

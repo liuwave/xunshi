@@ -1,0 +1,18 @@
+{
+  "work_id": 717717,
+  "work": {
+    "id": 717717,
+    "title": "戏题",
+    "title_tr": "戲題",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客醉眠未起，主人呼解酲。\n已言鸡黍熟，复道瓮头清。",
+    "content_tr": "客醉眠未起，主人呼解酲。\n已言雞黍熟，復道甕頭清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

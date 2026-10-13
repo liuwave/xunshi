@@ -1,0 +1,18 @@
+{
+  "work_id": 714373,
+  "work": {
+    "id": 714373,
+    "title": "相和歌辞 乌栖曲",
+    "title_tr": "相和歌辭 烏棲曲",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "姑苏台上乌栖时，吴王宫里醉西施。\n吴歌楚舞欢未毕，青山犹衔半边日。",
+    "content_tr": "姑蘇臺上烏棲時，吳王宮裏醉西施。\n吳歌楚舞歡未畢，青山猶銜半邊日。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

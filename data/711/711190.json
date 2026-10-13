@@ -1,0 +1,24 @@
+{
+  "work_id": 711190,
+  "work": {
+    "id": 711190,
+    "title": "句",
+    "title_tr": "句",
+    "author": "老农",
+    "author_tr": "老農",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幸存耕雨地，况值养花时。",
+    "content_tr": "幸存耕雨地，况值養花時。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "幸而保存着可趁雨耕种的田地；又恰好逢上养花的时节。",
+    "annotation": "耕雨：趁雨耕作。",
+    "appreciation": "两句作老农口吻，如自语，如告人。“幸存耕雨地”，谓可趁雨耕种之田尚得保存，一个“幸”字，见出得此田地之不易与珍惜；“况值养花时”，又恰好赶上养花的时节，“况”字递进，先言田地之幸，再言时节之巧，两幸相并，喜意自见。不求余饰，只就眼前田地与时令落笔，字里行间是知足的欣喜：有地可耕，逢时堪赏，农家的安乐尽在此二事之中。语极平淡，情极真淳，一联之内田园知足之乐宛然可掬。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 714200,
+  "work": {
+    "id": 714200,
+    "title": "相和歌辞 从军行 二",
+    "title_tr": "相和歌辭 從軍行 二",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烽火城西百尺楼，黄昏独上海风秋。\n更吹横笛关山月，谁解金闺万里愁。",
+    "content_tr": "烽火城西百尺樓，黃昏獨上海風秋。\n更吹橫笛關山月，誰解金閨萬里愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

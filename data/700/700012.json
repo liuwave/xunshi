@@ -1,0 +1,18 @@
+{
+  "work_id": 700012,
+  "work": {
+    "id": 700012,
+    "title": "柳宗元",
+    "title_tr": "柳宗元",
+    "author": "林同",
+    "author_tr": "林同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乃翁定奇士，先友尽斯人。\n福畤智已故，仪曹意转新。",
+    "content_tr": "乃翁定奇士，先友盡斯人。\n福畤智已故，儀曹意轉新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 700065,
+  "work": {
+    "id": 700065,
+    "title": "鹤",
+    "title_tr": "鶴",
+    "author": "林同",
+    "author_tr": "林同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "好是鹤鸣阴，居然子和声。\n休云气所感，自是物之情。",
+    "content_tr": "好是鶴鳴陰，居然子和聲。\n休云氣所感，自是物之情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

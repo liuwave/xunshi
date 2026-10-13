@@ -1,0 +1,18 @@
+{
+  "work_id": 714286,
+  "work": {
+    "id": 714286,
+    "title": "相和歌辞 怨诗",
+    "title_tr": "相和歌辭 怨詩",
+    "author": "刘义",
+    "author_tr": "劉义",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君莫嫌丑妇，丑妇死守贞。\n山头一怪石，长作望夫名。\n鸟有竝翼飞，兽有比肩行。\n丈夫不立义，岂如鸟兽情。",
+    "content_tr": "君莫嫌醜婦，醜婦死守貞。\n山頭一怪石，長作望夫名。\n鳥有竝翼飛，獸有比肩行。\n丈夫不立義，豈如鳥獸情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

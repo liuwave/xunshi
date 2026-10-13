@@ -1,0 +1,18 @@
+{
+  "work_id": 721394,
+  "work": {
+    "id": 721394,
+    "title": "古谣",
+    "title_tr": "古謠",
+    "author": "王建",
+    "author_tr": "王建",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一东一西垅头水，一聚一散天边霞。\n一来一去道上客，一颠一倒池中麻。",
+    "content_tr": "一東一西壠頭水，一聚一散天邊霞。\n一來一去道上客，一顛一倒池中麻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

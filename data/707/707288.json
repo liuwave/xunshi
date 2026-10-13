@@ -1,0 +1,18 @@
+{
+  "work_id": 707288,
+  "work": {
+    "id": 707288,
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "王镃",
+    "author_tr": "王鎡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一处承恩宴舞衣，六宫甲帐冷珠玑。\n夜深听得笙歌响，知是君王步辇归。",
+    "content_tr": "一處承恩宴舞衣，六宮甲帳冷珠璣。\n夜深聽得笙歌響，知是君王步輦歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

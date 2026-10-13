@@ -1,0 +1,18 @@
+{
+  "work_id": 714947,
+  "work": {
+    "id": 714947,
+    "title": "杂曲歌辞 浪淘沙 九",
+    "title_tr": "雜曲歌辭 浪淘沙 九",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "流水淘沙不暂停，前波未灭后波生。\n令人忽忆潇湘渚，回唱迎神三两声。",
+    "content_tr": "流水淘沙不暫停，前波未滅後波生。\n令人忽憶瀟湘渚，迴唱迎神三兩聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

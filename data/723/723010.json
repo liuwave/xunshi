@@ -1,0 +1,18 @@
+{
+  "work_id": 723010,
+  "work": {
+    "id": 723010,
+    "title": "春闺思",
+    "title_tr": "春閨思",
+    "author": "张仲素",
+    "author_tr": "張仲素",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "袅袅城边柳，青青陌上桑。\n提笼忘采叶，昨夜梦渔阳。",
+    "content_tr": "裊裊城邊柳，青青陌上桑。\n提籠忘采葉，昨夜夢漁陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

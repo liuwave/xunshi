@@ -1,0 +1,18 @@
+{
+  "work_id": 714877,
+  "work": {
+    "id": 714877,
+    "title": "杂曲歌辞 杨柳枝 二",
+    "title_tr": "雜曲歌辭 楊柳枝 二",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南陌东城春早时，相逢何处不依依。\n桃红李白皆夸好，须得垂杨相发辉。",
+    "content_tr": "南陌東城春早時，相逢何處不依依。\n桃紅李白皆誇好，須得垂楊相發輝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

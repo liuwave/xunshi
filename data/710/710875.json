@@ -1,0 +1,18 @@
+{
+  "work_id": 710875,
+  "work": {
+    "id": 710875,
+    "title": "咏菊",
+    "title_tr": "詠菊",
+    "author": "缪鉴",
+    "author_tr": "繆鑑",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁去东篱号菊庄，饥来三嗅饱诗肠。\n何如陶令归南圃，天赐西风万斛香。",
+    "content_tr": "誰去東籬號菊莊，饑來三嗅飽詩腸。\n何如陶令歸南圃，天賜西風萬斛香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

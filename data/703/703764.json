@@ -1,0 +1,18 @@
+{
+  "work_id": 703764,
+  "work": {
+    "id": 703764,
+    "title": "山中吟  其三",
+    "title_tr": "山中吟  其三",
+    "author": "陈允平",
+    "author_tr": "陳允平",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日出华山阳，月出庐山岗。\n巫山云漠漠，雁山烟苍苍。",
+    "content_tr": "日出華山陽，月出廬山崗。\n巫山雲漠漠，雁山烟蒼蒼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

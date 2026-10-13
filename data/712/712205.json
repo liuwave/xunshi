@@ -1,0 +1,18 @@
+{
+  "work_id": 712205,
+  "work": {
+    "id": 712205,
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "林龙远",
+    "author_tr": "林龍遠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃李六宫寂，君王幸石渠。\n临鸾悔梳洗，女色不如书。",
+    "content_tr": "桃李六宮寂，君王幸石渠。\n臨鸞悔梳洗，女色不如書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 714458,
+  "work": {
+    "id": 714458,
+    "title": "琴曲歌辞 昭君怨 一",
+    "title_tr": "琴曲歌辭 昭君怨 一",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里边城远，千山行路难。\n举头唯见日，何处是长安。",
+    "content_tr": "萬里邊城遠，千山行路難。\n舉頭唯見日，何處是長安。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

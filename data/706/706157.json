@@ -1,0 +1,18 @@
+{
+  "work_id": 706157,
+  "work": {
+    "id": 706157,
+    "title": "沧浪亭",
+    "title_tr": "滄浪亭",
+    "author": "蒲寿宬",
+    "author_tr": "蒲壽宬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓色桃蒸霞，春阴柳垂雾。\n为问桥下船，沿流到何处。",
+    "content_tr": "曉色桃蒸霞，春陰柳垂霧。\n爲問橋下船，沿流到何處。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 714368,
+  "work": {
+    "id": 714368,
+    "title": "相和歌辞 乌夜啼",
+    "title_tr": "相和歌辭 烏夜啼",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄云城边乌欲栖，归飞哑哑枝上啼。\n机中织锦秦川女，碧纱如烟隔窗语。\n停梭怅然忆远人，独宿孤房泪如雨。",
+    "content_tr": "黃雲城邊烏欲棲，歸飛啞啞枝上啼。\n機中織錦秦川女，碧紗如煙隔窗語。\n停梭悵然憶遠人，獨宿孤房淚如雨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

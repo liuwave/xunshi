@@ -1,0 +1,24 @@
+{
+  "work_id": 718715,
+  "work": {
+    "id": 718715,
+    "title": "句",
+    "title_tr": "句",
+    "author": "岑参",
+    "author_tr": "岑參",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "初程莫早发，且宿灞桥头。",
+    "content_tr": "初程莫早發，且宿灞橋頭。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "初程不要太早出发，姑且留宿在灞桥桥头。",
+    "annotation": "灞桥：在长安东灞水上，汉人送客至此桥，折柳赠别。",
+    "appreciation": "此为岑参佚句，仅十四字，却含无限送别之意。「初程莫早发」为行者叮咛之语——启程之初，不必急于赶路；「且宿灞桥头」则以灞桥这一特定地点收束。灞桥自汉以来即为折柳送别之地，留宿桥头，既是不舍之别，亦是借最后一夜话别。两句无一字写情，而惜别之情自见，语浅意深，含蓄不尽。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

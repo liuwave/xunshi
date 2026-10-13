@@ -1,0 +1,18 @@
+{
+  "work_id": 705210,
+  "work": {
+    "id": 705210,
+    "title": "柳枝词",
+    "title_tr": "柳枝詞",
+    "author": "周密",
+    "author_tr": "周密",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "镜里愁眉怨晓霜，多情犹解拂离觞。\n西风十里新堤路，半带蝉声半夕阳。",
+    "content_tr": "鏡裏愁眉怨曉霜，多情猶解拂離觴。\n西風十里新堤路，半带蟬聲半夕陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

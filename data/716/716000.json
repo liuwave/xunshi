@@ -1,0 +1,18 @@
+{
+  "work_id": 716000,
+  "work": {
+    "id": 716000,
+    "title": "咏雪",
+    "title_tr": "詠雪",
+    "author": "骆宾王",
+    "author_tr": "駱賓王",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙云玉叶上，鹤雪瑞花新。\n影乱铜乌吹，光销玉马津。\n含辉明素篆，隐迹表祥轮。\n幽兰不可俪，徒自绕阳春。",
+    "content_tr": "龍雲玉葉上，鶴雪瑞花新。\n影亂銅烏吹，光銷玉馬津。\n含輝明素篆，隱迹表祥輪。\n幽蘭不可儷，徒自繞陽春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

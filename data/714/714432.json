@@ -1,0 +1,18 @@
+{
+  "work_id": 714432,
+  "work": {
+    "id": 714432,
+    "title": "舞曲歌辞 白纻歌",
+    "title_tr": "舞曲歌辭 白紵歌",
+    "author": "柳宗元",
+    "author_tr": "柳宗元",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翠帷双卷出倾城，龙劒破匣霜月明。\n朱唇掩抑悄无声，金簧玉磬宫中生。",
+    "content_tr": "翠帷雙卷出傾城，龍劒破匣霜月明。\n朱脣掩抑悄無聲，金簧玉磬宮中生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

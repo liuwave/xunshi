@@ -1,0 +1,24 @@
+{
+  "work_id": 711193,
+  "work": {
+    "id": 711193,
+    "title": "句",
+    "title_tr": "句",
+    "author": "双涧",
+    "author_tr": "雙澗",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨露桑麻清夜话，晴明花柳少年心。",
+    "content_tr": "雨露桑麻清夜話，晴明花柳少年心。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "雨露中的桑麻，是清夜里的话题；晴明中的花柳，是少年人的心境。",
+    "annotation": "",
+    "appreciation": "两句以对偶写农家与少壮两种情境。上句“雨露桑麻清夜话”：雨露滋润桑麻，农人在清夜灯前谈说田事，物之丰与话之清相映；下句“晴明花柳少年心”：晴明天气里的花柳风光，正对少年人的心境，景之明媚与情之飞扬相发。桑麻属耕，花柳属游；清夜话是持家者的踏实，少年心是青春的浪漫。一沉静一飞扬，前后映照，写出田园生活里两种并存的兴味，语丽而意稳。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

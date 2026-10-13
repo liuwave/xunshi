@@ -1,0 +1,18 @@
+{
+  "work_id": 706353,
+  "work": {
+    "id": 706353,
+    "title": "司马相如",
+    "title_tr": "司馬相如",
+    "author": "徐钧",
+    "author_tr": "徐鈞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卖赋名成卖酒余，归来驷马拥高车。\n锦衣只欲湔前耻，不道开边困里闾。",
+    "content_tr": "賣賦名成賣酒餘，歸來駟馬擁高車。\n錦衣只欲湔前恥，不道開邊困里閭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

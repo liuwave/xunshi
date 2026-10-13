@@ -1,0 +1,24 @@
+{
+  "work_id": 712035,
+  "work": {
+    "id": 712035,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "利州路运判",
+    "author_tr": "利州路運判",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜀道万里险，黎城千古荒。",
+    "content_tr": "蜀道萬里險，黎城千古荒。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "蜀道万里崎岖险阻，黎城从古以来便是一片荒凉。",
+    "annotation": "黎城：地名，所指待考（存疑）。",
+    "appreciation": "两句一言路，一言地，极写蜀地之险远。上句言蜀道：万里之遥，步步险阻，用空间的广袤强调行路之难；下句言黎城：千年万载，始终荒僻，用时间的绵长强调其地的冷落。一险一荒，一横一纵，将蜀道难与边地僻两个传统母题压缩进十个字。数字“万里”“千古”对举，把具体的地理感受提升为悠远的时空慨叹。语极平直而意极萧瑟，当是咏叹西蜀山川形胜的联句，于壮阔之中自含苍凉。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

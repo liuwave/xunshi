@@ -1,0 +1,18 @@
+{
+  "work_id": 706401,
+  "work": {
+    "id": 706401,
+    "title": "杜甫",
+    "title_tr": "杜甫",
+    "author": "徐钧",
+    "author_tr": "徐鈞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里飘零独此身，诗魂终恋浣花村。\n宁贫宁冻宁饥死，一饭何曾忘至尊。",
+    "content_tr": "萬里飄零獨此身，詩魂終戀浣花村。\n寧貧寧凍寧饑死，一飯何曾忘至尊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

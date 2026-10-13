@@ -1,0 +1,18 @@
+{
+  "work_id": 714111,
+  "work": {
+    "id": 714111,
+    "title": "相和歌辞 采桑",
+    "title_tr": "相和歌辭 采桑",
+    "author": "郎大家宋氏",
+    "author_tr": "郎大家宋氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春来南雁归，日去西蚕远。\n妾思纷何极，客游殊未返。",
+    "content_tr": "春來南雁歸，日去西蠶遠。\n妾思紛何極，客遊殊未返。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

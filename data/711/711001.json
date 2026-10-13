@@ -1,0 +1,18 @@
+{
+  "work_id": 711001,
+  "work": {
+    "id": 711001,
+    "title": "秋怀二首  其二",
+    "title_tr": "秋懷二首  其二",
+    "author": "徐瑞",
+    "author_tr": "徐瑞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门巷鸣干叶，阶除吟候虫。\n幽怀不可奈，丝雨更蒙蒙。",
+    "content_tr": "門巷鳴乾葉，階除吟候蟲。\n幽懷不可奈，絲雨更濛濛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

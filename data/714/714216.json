@@ -1,0 +1,18 @@
+{
+  "work_id": 714216,
+  "work": {
+    "id": 714216,
+    "title": "相和歌辞 从军行五首 一",
+    "title_tr": "相和歌辭 從軍行五首 一",
+    "author": "令狐楚",
+    "author_tr": "令狐楚",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荒鸡隔水啼，汗马逐风嘶。\n终日随征斾，何时罢鼓鼙。",
+    "content_tr": "荒雞隔水啼，汗馬逐風嘶。\n終日隨征斾，何時罷鼓鼙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

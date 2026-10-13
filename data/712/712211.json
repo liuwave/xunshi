@@ -1,0 +1,24 @@
+{
+  "work_id": 712211,
+  "work": {
+    "id": 712211,
+    "title": "句",
+    "title_tr": "句",
+    "author": "释仪",
+    "author_tr": "釋儀",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "片帆忽逐飞鸿去，知落谁山第几重。",
+    "content_tr": "片帆忽逐飛鴻去，知落誰山第幾重。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一片船帆忽然追随飞鸿远去，不知它落在谁家的山中、第几重山峦里。",
+    "annotation": "",
+    "appreciation": "这两句以目送帆影作结。「忽逐」二字见出帆行之疾、去意之决：飞鸿本已远在天际，片帆又追随而去，两层远意相叠加，视线追随而终不可及。「谁山」「第几重」连用疑问与数词，把无法追及的怅惘化作迷茫的悬想，空间愈悬愈远，心绪也愈悬愈空。全联不着一个情字，只写望中之景，而依依惜别、茫茫无从之感尽在言外，是唐宋人摘句体中典型的以景截情之法。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

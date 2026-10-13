@@ -1,0 +1,18 @@
+{
+  "work_id": 714089,
+  "work": {
+    "id": 714089,
+    "title": "相和歌辞 江南曲",
+    "title_tr": "相和歌辭 江南曲",
+    "author": "韩翃",
+    "author_tr": "韓翃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长乐花枝雨点消，江城日暮好相邀。\n春楼不闭葳蕤锁，绿水回通宛转桥。",
+    "content_tr": "長樂花枝雨點消，江城日暮好相邀。\n春樓不閉葳蕤鎖，綠水回通宛轉橋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

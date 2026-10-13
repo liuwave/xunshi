@@ -1,0 +1,18 @@
+{
+  "work_id": 705234,
+  "work": {
+    "id": 705234,
+    "title": "春晚",
+    "title_tr": "春晚",
+    "author": "周密",
+    "author_tr": "周密",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "㶁㶁泉声远，流春到水涯。\n东风千万恨，片片逐飞花。",
+    "content_tr": "㶁㶁泉聲遠，流春到水涯。\n東風千萬恨，片片逐飛花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

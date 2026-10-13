@@ -1,0 +1,18 @@
+{
+  "work_id": 712345,
+  "work": {
+    "id": 712345,
+    "title": "金樱子",
+    "title_tr": "金櫻子",
+    "author": "姚西岩",
+    "author_tr": "姚西巖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三月花如薝卜香，霜中采实似金黄。\n煎成风味亦不浅，润色犹烦顾长康。",
+    "content_tr": "三月花如薝蔔香，霜中採實似金黄。\n煎成風味亦不淺，潤色猶煩顧長康。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

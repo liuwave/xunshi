@@ -1,0 +1,18 @@
+{
+  "work_id": 708000,
+  "work": {
+    "id": 708000,
+    "title": "新雁",
+    "title_tr": "新雁",
+    "author": "黄庚",
+    "author_tr": "黄庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "来宾何太早，嘹呖过南楼。\n数点乍离塞，一声初报秋。\n行行惊客眼，字字写乡愁。\n仗节人何在，帛书能寄不。",
+    "content_tr": "來賓何太早，嘹嚦過南樓。\n數點乍離塞，一聲初報秋。\n行行驚客眼，字字寫鄉愁。\n仗節人何在，帛書能寄不。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

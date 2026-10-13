@@ -1,0 +1,24 @@
+{
+  "work_id": 711710,
+  "work": {
+    "id": 711710,
+    "title": "句",
+    "title_tr": "句",
+    "author": "无名妇人",
+    "author_tr": "無名婦人",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蚌胎光透壳，犀角晕盈尖。",
+    "content_tr": "蚌胎光透殻，犀角暈盈尖。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "蚌中所育的珍珠光华透出壳外，犀角上的晕纹盈满角尖。",
+    "annotation": "蚌胎：珍珠孕育于蚌中，故以蚌胎指珍珠。\n晕：环形的光影或纹理。",
+    "appreciation": "此联就文本看是写珍宝之光华：上句写珍珠的光透出蚌壳，下句写犀角上的晕纹盈满角尖。两句皆从光晕着眼，珍珠之光由内而外、穿壳而出，犀角之晕自角尖盈满，一取其莹澈，一取其蕴藉，把两种宝物的光泽特质写得真切可感。若联系「无名妇人」的作者身份，也可能以蚌珠、犀角自喻内美（存疑），则光华外透正见怀抱之不凡。因系残句，语境已失，只能如此推想。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

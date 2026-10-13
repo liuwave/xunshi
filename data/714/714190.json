@@ -1,0 +1,18 @@
+{
+  "work_id": 714190,
+  "work": {
+    "id": 714190,
+    "title": "相和歌辞 从军行",
+    "title_tr": "相和歌辭 從軍行",
+    "author": "骆宾王",
+    "author_tr": "駱賓王",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平生一顾念，意气溢三军。\n野日分戈影，天星合劒文。\n弓弦抱汉月，马足践胡尘。\n不求生入塞，唯当死报君。",
+    "content_tr": "平生一顧念，意氣溢三軍。\n野日分戈影，天星合劒文。\n弓弦抱漢月，馬足踐胡塵。\n不求生入塞，唯當死報君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

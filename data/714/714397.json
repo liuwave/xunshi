@@ -1,0 +1,18 @@
+{
+  "work_id": 714397,
+  "work": {
+    "id": 714397,
+    "title": "相和歌辞 采莲曲",
+    "title_tr": "相和歌辭 采蓮曲",
+    "author": "贺知章",
+    "author_tr": "賀知章",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "稽山罢雾郁嵯峨，镜水无风也自波。\n莫言春度芳菲尽，别有中流采芰荷。",
+    "content_tr": "稽山罷霧鬱嵯峨，鏡水無風也自波。\n莫言春度芳菲盡，別有中流采芰荷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

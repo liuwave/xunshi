@@ -1,0 +1,24 @@
+{
+  "work_id": 721107,
+  "work": {
+    "id": 721107,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲庭草色能留马，当路杨花不避人。",
+    "content_tr": "閑庭草色能留馬，當路楊花不避人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "闲静庭院里的草色能够留住马；长在路旁的杨花却不躲避人。",
+    "annotation": "",
+    "appreciation": "此为断句一联，十四字中自具理趣。上句「闲庭草色能留马」，草色寻常，却仿佛有了情意，能把过客之马留住——庭院的清幽闲适由此可感，是就物之可爱写境之可恋。下句「当路杨花不避人」，杨花轻柔无根，飘在路心也不躲让行人，一片随任自然之态。两句一「能」一「不」，一留一不避，物各有性，各得其所。联语对仗工稳而口吻轻灵，以微小物象见闲逸心境，颇有余味。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

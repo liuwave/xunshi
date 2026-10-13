@@ -1,0 +1,18 @@
+{
+  "work_id": 700304,
+  "work": {
+    "id": 700304,
+    "title": "对月",
+    "title_tr": "對月",
+    "author": "刘黻",
+    "author_tr": "劉黻",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三千里外无家客，四十年间苦学人。\n山隔不知云近远，祗将明月作乡亲。",
+    "content_tr": "三千里外無家客，四十年間苦學人。\n山隔不知雲近遠，祗將明月作鄉親。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

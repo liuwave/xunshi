@@ -1,0 +1,18 @@
+{
+  "work_id": 700600,
+  "work": {
+    "id": 700600,
+    "title": "演雅  其二",
+    "title_tr": "演雅  其二",
+    "author": "汪韶",
+    "author_tr": "汪韶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜾蠃尧舜父子，鸿雁鲁卫弟兄。\n鬭蚁滕薛争长，狎鸥晋郑寻盟。",
+    "content_tr": "蜾蠃堯舜父子，鴻雁魯衛弟兄。\n鬭蟻滕薛爭長，狎鷗晉鄭尋盟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

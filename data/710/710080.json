@@ -1,0 +1,24 @@
+{
+  "work_id": 710080,
+  "work": {
+    "id": 710080,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "仇远",
+    "author_tr": "仇遠",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风雨不出户，儿孙共读书。",
+    "content_tr": "風雨不出戶，兒孫共讀書。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "风雨天不出门户，儿孙们一起读书。",
+    "annotation": "",
+    "appreciation": "此十字白描出一幅风雨书斋图：户外风雨大作、闭户不出，户内儿孙环绕、共读一卷。「不出户」三字写天时之阻，亦写家居之常；「共读书」三字写一门弦诵之乐，亦见诗礼传家之风。一外一内，一动一静，两句相接自成天地。风雨本是困人之物，此处反成阖家聚读之机，闭门之中自有清课，无所事事者视为苦日，向学之家视为乐时。不着一句议论，而安贫乐道、其乐融融之意自见于言外，十字而气象完足。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 714883,
+  "work": {
+    "id": 714883,
+    "title": "杂曲歌辞 杨柳枝 八",
+    "title_tr": "雜曲歌辭 楊柳枝 八",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "城外春风满酒旗，行人挥袂日西时。\n长安陌上无穷树，唯有垂杨管别离。",
+    "content_tr": "城外春風滿酒旗，行人揮袂日西時。\n長安陌上無窮樹，唯有垂楊管別離。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

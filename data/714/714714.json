@@ -1,0 +1,18 @@
+{
+  "work_id": 714714,
+  "work": {
+    "id": 714714,
+    "title": "杂曲歌辞 宜城歌",
+    "title_tr": "雜曲歌辭 宜城歌",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野水遶空城，行尘起孤驿。\n花台侧生树，石碣阳镌头。\n靡靡度行人，温风吹宿麦。",
+    "content_tr": "野水遶空城，行塵起孤驛。\n花臺側生樹，石碣陽鐫頭。\n靡靡度行人，溫風吹宿麥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 720365,
+  "work": {
+    "id": 720365,
+    "title": "句",
+    "title_tr": "句",
+    "author": "阎防",
+    "author_tr": "閻防",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "熊踞庭中树，龙蒸栋里云。",
+    "content_tr": "熊踞庭中樹，龍蒸棟裏雲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "熊盘踞在庭中的树上，龙蒸腾起栋里的云。",
+    "annotation": "蒸：云气升腾。",
+    "appreciation": "两句佚句以熊、龙二字领起：庭中之树如熊之踞，栋里云气如龙之蒸。踞与蒸两个动词尤见笔力，使静立的树与停蓄的云都有了动势与生气，化静为动。熊、龙相对，一踞一腾，一在地一在天，对仗中见出气象的奇崛，笔势雄怪。两句所咏为何已不可确考，或为题咏山居栋宇奇景之辞，但从庭、栋两字看，所写当为人居之处的景象，全凭比喻与动词立起画面，不着一个寻常的形容字，可见状物之功与造语之奇。残句虽短，风格自见，奇气逼人。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

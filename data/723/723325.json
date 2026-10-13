@@ -1,0 +1,18 @@
+{
+  "work_id": 723325,
+  "work": {
+    "id": 723325,
+    "title": "喜雨",
+    "title_tr": "喜雨",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝见一片云，暮成千里雨。\n凄清湿高枝，散漫沾荒土。",
+    "content_tr": "朝見一片雲，暮成千里雨。\n淒清濕高枝，散漫沾荒土。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

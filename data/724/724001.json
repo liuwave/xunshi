@@ -1,0 +1,18 @@
+{
+  "work_id": 724001,
+  "work": {
+    "id": 724001,
+    "title": "杏园",
+    "title_tr": "杏園",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浩浩长安车马尘，狂风吹送每年春。\n门前本是虚空界，何事栽花误世人。",
+    "content_tr": "浩浩長安車馬塵，狂風吹送每年春。\n門前本是虛空界，何事栽花誤世人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

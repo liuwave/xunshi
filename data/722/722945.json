@@ -1,0 +1,18 @@
+{
+  "work_id": 722945,
+  "work": {
+    "id": 722945,
+    "title": "听琴",
+    "title_tr": "聽琴",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "禅思何妨在玉琴，真僧不见听时心。\n秋堂境寂夜方半，云去苍梧湘水深。",
+    "content_tr": "禪思何妨在玉琴，真僧不見聽時心。\n秋堂境寂夜方半，雲去蒼梧湘水深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

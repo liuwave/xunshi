@@ -1,0 +1,18 @@
+{
+  "work_id": 710101,
+  "work": {
+    "id": 710101,
+    "title": "句",
+    "title_tr": "句",
+    "author": "俞演",
+    "author_tr": "俞演",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "残灯吟夜雨，破榻卧秋山。",
+    "content_tr": "殘燈吟夜雨，破榻卧秋山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
