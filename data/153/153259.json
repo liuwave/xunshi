@@ -1,0 +1,18 @@
+{
+  "work_id": 153259,
+  "work": {
+    "id": 153259,
+    "title": "咏史诗 五湖",
+    "title_tr": "詠史詩 五湖",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东上高山望五湖，雪涛烟浪起天隅。\n不知范蠡乘舟后，更有功臣继踵无。",
+    "content_tr": "東上高山望五湖，雪濤煙浪起天隅。\n不知范蠡乘舟後，更有功臣繼踵無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

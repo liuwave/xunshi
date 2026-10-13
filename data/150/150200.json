@@ -1,0 +1,18 @@
+{
+  "work_id": 150200,
+  "work": {
+    "id": 150200,
+    "title": "陶渊明对菊图",
+    "title_tr": "陶淵明對菊圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "彭泽归来老岁华，东篱尽可了生涯。\n谁知秋意凋零后，最耐风霜有此花。",
+    "content_tr": "彭澤歸來老歲華，東籬儘可了生涯。\n誰知秋意凋零後，最耐風霜有此花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 170101,
+  "work": {
+    "id": 170101,
+    "title": "瑶林",
+    "title_tr": "瑤林",
+    "author": "朱谨",
+    "author_tr": "朱謹",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "森壁郁苕林，一一琼瑶色。\n时有古仙人，临风吹铁笛。",
+    "content_tr": "森壁鬱苕林，一一瓊瑤色。\n時有古仙人，臨風吹鐵笛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

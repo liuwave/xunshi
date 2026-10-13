@@ -1,0 +1,18 @@
+{
+  "work_id": 150234,
+  "work": {
+    "id": 150234,
+    "title": "杜子美骑驴图",
+    "title_tr": "杜子美騎馿圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饭颗山前花正妍，饮愁为醉弄吟颠。\n突然骑过草堂去，梦拜杜鹃声外天。",
+    "content_tr": "飯顆山前花正妍，飲愁爲醉弄吟顛。\n突然騎過草堂去，夢拜杜鵑聲外天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

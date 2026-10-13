@@ -1,0 +1,18 @@
+{
+  "work_id": 170100,
+  "work": {
+    "id": 170100,
+    "title": "樵阳杂咏",
+    "title_tr": "樵陽雜詠",
+    "author": "朱实莲",
+    "author_tr": "朱實蓮",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行行溪路采芳荃，古木千章落照边。\n云里辘轳声不断，几家齐汲九龙泉。",
+    "content_tr": "行行溪路採芳荃，古木千章落照邊。\n雲裏轆轤聲不斷，幾家齊汲九龍泉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

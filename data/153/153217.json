@@ -1,0 +1,18 @@
+{
+  "work_id": 153217,
+  "work": {
+    "id": 153217,
+    "title": "戏咏榆荚",
+    "title_tr": "戲詠榆莢",
+    "author": "施肩吾",
+    "author_tr": "施肩吾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风吹榆钱落如雨，绕林绕屋来不住。\n知尔不堪还酒家，漫教夷甫无行处。",
+    "content_tr": "風吹榆錢落如雨，繞林繞屋來不住。\n知爾不堪還酒家，漫教夷甫無行處。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

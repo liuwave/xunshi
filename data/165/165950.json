@@ -1,0 +1,18 @@
+{
+  "work_id": 165950,
+  "work": {
+    "id": 165950,
+    "title": "南朝宫词",
+    "title_tr": "南朝宮詞",
+    "author": "石珝",
+    "author_tr": "石珝",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花簇郊坰锦作围，小怜日暮射生归。\n双双羽从重歌舞，不觉齐城漏已微。",
+    "content_tr": "花簇郊坰錦作圍，小憐日暮射生歸。\n雙雙羽從重歌舞，不覺齊城漏已微。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

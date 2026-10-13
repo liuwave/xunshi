@@ -1,0 +1,18 @@
+{
+  "work_id": 152184,
+  "work": {
+    "id": 152184,
+    "title": "夜听李山人弹琴",
+    "title_tr": "夜聽李山人彈琴",
+    "author": "司马扎",
+    "author_tr": "司馬扎",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瑶琴夜久弦秋清，楚客一奏湘烟生。\n曲中声尽意不尽，月照竹轩红叶明。",
+    "content_tr": "瑤琴夜久弦秋清，楚客一奏湘煙生。\n曲中聲盡意不盡，月照竹軒紅葉明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

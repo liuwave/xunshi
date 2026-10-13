@@ -1,0 +1,18 @@
+{
+  "work_id": 150209,
+  "work": {
+    "id": 150209,
+    "title": "湖上漫赋二首 其二",
+    "title_tr": "湖上漫賦二首 其二",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一望湖光镜面平，暮鸦过尽断霞轻。\n狂来飞上高峰顶，趺坐松柯叫月生。",
+    "content_tr": "一望湖光鏡面平，暮鴉過盡斷霞輕。\n狂來飛上高峰頂，趺坐松柯叫月生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

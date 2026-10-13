@@ -1,0 +1,18 @@
+{
+  "work_id": 150212,
+  "work": {
+    "id": 150212,
+    "title": "王羲之兰亭图",
+    "title_tr": "王羲之蘭亭圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "犹记兰亭三月三，流觞曲水畅清酣。\n分明一段永和意，好向羲之笔外参。",
+    "content_tr": "猶記蘭亭三月三，流觴曲水暢清酣。\n分明一段永和意，好向羲之筆外參。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

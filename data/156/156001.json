@@ -1,0 +1,18 @@
+{
+  "work_id": 156001,
+  "work": {
+    "id": 156001,
+    "title": "侠客行四首 其四",
+    "title_tr": "俠客行四首 其四",
+    "author": "王慎中",
+    "author_tr": "王慎中",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长安城中多车马，日暮相逢杜陵下。\n半语未交意已倾，馀人琐琐何为者。",
+    "content_tr": "長安城中多車馬，日暮相逢杜陵下。\n半語未交意已傾，餘人瑣瑣何為者。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

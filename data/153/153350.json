@@ -1,0 +1,18 @@
+{
+  "work_id": 153350,
+  "work": {
+    "id": 153350,
+    "title": "汉殿",
+    "title_tr": "漢殿",
+    "author": "唐彦谦",
+    "author_tr": "唐彥謙",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸟去云飞意不通，夜坛斜月转松风。\n君主寂虑无消息，却就闲人觅巨公。",
+    "content_tr": "鳥去雲飛意不通，夜壇斜月轉松風。\n君主寂慮無消息，却就閑人覓巨公。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

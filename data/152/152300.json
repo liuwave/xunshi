@@ -1,0 +1,18 @@
+{
+  "work_id": 152300,
+  "work": {
+    "id": 152300,
+    "title": "醉中寄鲁望一壶并一绝",
+    "title_tr": "醉中寄魯望一壺幷一絕",
+    "author": "皮日休",
+    "author_tr": "皮日休",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门巷寥寥空紫苔，先生应渴解酲杯。\n醉中不得亲相倚，故遣青州从事来。",
+    "content_tr": "門巷寥寥空紫苔，先生應渴解酲杯。\n醉中不得親相倚，故遣青州從事來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

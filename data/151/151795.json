@@ -1,0 +1,24 @@
+{
+  "work_id": 151795,
+  "work": {
+    "id": 151795,
+    "title": "怀欧阳山人严秀才",
+    "title_tr": "懷歐陽山人嚴秀才",
+    "author": "神迥",
+    "author_tr": "神迥",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸦鸣东牖曙，草秀南湖春。",
+    "content_tr": "鵶鳴東牖曙，草秀南湖春。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "乌鸦在东窗啼鸣，天已破晓；南湖水边草色青青，春意正盛。",
+    "annotation": "牖（yǒu）：窗户。\n山人：隐士。",
+    "appreciation": "此诗仅存残句十字，为春日怀人之作。鸦鸣东牖曙从听觉起笔，鸦啼破晓，东窗色明，是清晓之景；草秀南湖春从视觉收束，南湖草长，春意满目。两句一晨一春、一声一色，看似只写景，实则以良辰美景反衬怀人之意——如此佳景，却不见所怀之人，怀念自在言外。残句虽短，而闲淡清远，有王维辋川五绝的余韵。惜全诗已佚，不能究其脉络。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

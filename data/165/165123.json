@@ -1,0 +1,18 @@
+{
+  "work_id": 165123,
+  "work": {
+    "id": 165123,
+    "title": "龙津晚渡",
+    "title_tr": "龍津晚渡",
+    "author": "古文集",
+    "author_tr": "古文集",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鲤鱼风起浪花生，薄暮行人阻去程。\n我有济川舟楫稳，与君缓载不须争。",
+    "content_tr": "鯉魚風起浪花生，薄暮行人阻去程。\n我有濟川舟楫穩，與君緩載不須爭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

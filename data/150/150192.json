@@ -1,0 +1,18 @@
+{
+  "work_id": 150192,
+  "work": {
+    "id": 150192,
+    "title": "孟浩然归隐图",
+    "title_tr": "孟浩然歸隠圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明主怜才若赐官，奔驰微禄负家山。\n狂吟搔首笑归去，满路秋光上醉颜。",
+    "content_tr": "明主憐才若賜官，奔馳微祿負家山。\n狂吟搔首笑歸去，滿路秋光上醉顔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

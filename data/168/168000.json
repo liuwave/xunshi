@@ -1,0 +1,18 @@
+{
+  "work_id": 168000,
+  "work": {
+    "id": 168000,
+    "title": "梅花锦鸠",
+    "title_tr": "梅花錦鳩",
+    "author": "阮孝思",
+    "author_tr": "阮孝思",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百叶红梅子未成，锦鸠枝上忽双鸣。\n春寒不用频呼雨，窗外东风雪始晴。",
+    "content_tr": "百葉紅梅子未成，錦鳩枝上忽雙鳴。\n春寒不用頻呼雨，牕外東風雪始晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

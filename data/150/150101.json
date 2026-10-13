@@ -1,0 +1,18 @@
+{
+  "work_id": 150101,
+  "work": {
+    "id": 150101,
+    "title": "写愤三首 其三",
+    "title_tr": "寫憤三首 其三",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝廷罹祸乱，民物苦颠连。\n晋帝渡江谶，唐皇幸蜀年。\n剖云行白日，翻海洗青天。\n办得大事了，胸中即泰然。",
+    "content_tr": "朝廷罹禍亂，民物苦顛連。\n晉帝渡江讖，唐皇幸蜀年。\n剖雲行白日，翻海洗青天。\n辦得大事了，胸中即泰然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

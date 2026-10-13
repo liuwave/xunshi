@@ -1,0 +1,18 @@
+{
+  "work_id": 169581,
+  "work": {
+    "id": 169581,
+    "title": "咏李白游洞庭湖",
+    "title_tr": "詠李白遊洞庭湖",
+    "author": "朱元璋",
+    "author_tr": "朱元璋",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍梧山色水何分，碧镜澄湖杳渺云。\n惟有古人堪羡处，湘妃犹自望虞君。",
+    "content_tr": "蒼梧山色水何分，碧鏡澄湖杳渺雲。\n惟有古人堪羡處，湘妃猶自望虞君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

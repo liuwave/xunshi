@@ -1,0 +1,18 @@
+{
+  "work_id": 164234,
+  "work": {
+    "id": 164234,
+    "title": "扬州歌四首",
+    "title_tr": "揚州歌四首",
+    "author": "王叔承",
+    "author_tr": "王叔承",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "罗衣束素云，绣履裹纤玉。\n低回不自前，含娇灭华烛。",
+    "content_tr": "羅衣束素雲，繡履裹纖玉。\n低迴不自前，含嬌滅華燭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 150323,
+  "work": {
+    "id": 150323,
+    "title": "题郑子封书塾",
+    "title_tr": "題鄭子封書塾",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天垂古色映柴门，千古传家事具存。\n此世只除君父外，不曾重受别人恩。",
+    "content_tr": "天垂古色映柴門，千古傳家事具存。\n此世只除君父外，不曾重受別人恩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

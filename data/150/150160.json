@@ -1,0 +1,18 @@
+{
+  "work_id": 150160,
+  "work": {
+    "id": 150160,
+    "title": "狄仁杰白云亲舍图",
+    "title_tr": "狄仁傑白雲親舍圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "驻马回头眺碧空，河阳在望去匆匆。\n吾亲虽舍白云下，岂出梁公一念中。",
+    "content_tr": "駐馬回頭眺碧空，河陽在望去匆匆。\n吾親雖舍白雲下，豈出梁公一念中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

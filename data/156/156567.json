@@ -1,0 +1,18 @@
+{
+  "work_id": 156567,
+  "work": {
+    "id": 156567,
+    "title": "寄石田",
+    "title_tr": "寄石田",
+    "author": "文林",
+    "author_tr": "文林",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风闻雁思无聊，故国怀人首重搔。\n吴楚相望一千里，月明归路不知遥。",
+    "content_tr": "秋風聞雁思無聊，故國懐人首重搔。\n吳楚相望一千里，月明歸路不知遥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

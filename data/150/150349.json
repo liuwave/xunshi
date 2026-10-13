@@ -1,0 +1,18 @@
+{
+  "work_id": 150349,
+  "work": {
+    "id": 150349,
+    "title": "咏怀三首 其一",
+    "title_tr": "詠懷三首 其一",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "读书陋巷中，愚直与时忤。\n一鹤仰天鸣，志不在尘土。\n有怀诸葛公，默然不发语。\n后世无斯人，清风激千古。",
+    "content_tr": "讀書陋巷中，愚直與時忤。\n一鶴仰天鳴，志不在塵土。\n有懷諸葛公，默然不發語。\n後世無斯人，清風激千古。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

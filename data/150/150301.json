@@ -1,0 +1,18 @@
+{
+  "work_id": 150301,
+  "work": {
+    "id": 150301,
+    "title": "观颜鲁公帖",
+    "title_tr": "觀顔魯公帖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吾拜鲁公帖，凛然气如生。\n终身大唐臣，千载名峥嵘。\n愧彼今之人，兽心蠹天经。",
+    "content_tr": "吾拜魯公帖，凜然氣如生。\n終身大唐臣，千載名崢嶸。\n愧彼今之人，獸心蠹天經。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

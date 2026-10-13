@@ -1,0 +1,18 @@
+{
+  "work_id": 150707,
+  "work": {
+    "id": 150707,
+    "title": "舟泊扬州",
+    "title_tr": "舟泊揚州",
+    "author": "卢琦",
+    "author_tr": "盧琦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓发瓜州古渡头，好风半日到扬州。\n客船只向城西泊，何处吹箫月满楼。",
+    "content_tr": "曉發瓜州古渡頭，好風半日到揚州。\n客船只向城西泊，何處吹簫月滿樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

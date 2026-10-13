@@ -1,0 +1,24 @@
+{
+  "work_id": 154577,
+  "work": {
+    "id": 154577,
+    "title": "剑诗",
+    "title_tr": "劍詩",
+    "author": "严维",
+    "author_tr": "嚴維",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "舞挥秦日月，为整汉山河。",
+    "content_tr": "舞揮秦日月，爲整漢山河。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "挥舞剑光，如能挥动秦地的日月；为了整顿汉代的山河。",
+    "annotation": "秦日月：秦地的日月，借指天下。\n汉山河：汉代的山河，借指汉室江山。",
+    "appreciation": "此诗仅存二句十字，为咏剑之作。舞挥秦日月写剑舞之雄——剑光起处，如能挥动秦地的日月，极言其声势之壮；为整汉山河写剑之用——非为一己之私，而是为整顿山河、匡扶天下。两句以日月、山河两大意象托剑之精神，十字中含无限苍凉。剑在唐世本为侠少之器，此诗以整山河之志相许，已非寻常咏物，而以剑寄慨。惜全诗已佚，不能究其首尾。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

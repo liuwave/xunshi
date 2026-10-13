@@ -1,0 +1,18 @@
+{
+  "work_id": 171024,
+  "work": {
+    "id": 171024,
+    "title": "录诗稿",
+    "title_tr": "録詩稿",
+    "author": "吴与弼",
+    "author_tr": "吳與弼",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晴日鸟相唤，轻风花乱飞。\n红尘休入户，次第正抄诗。",
+    "content_tr": "晴日鳥相喚，輕風花亂飛。\n紅塵休入户，次第正抄詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

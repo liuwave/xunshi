@@ -1,0 +1,18 @@
+{
+  "work_id": 172522,
+  "work": {
+    "id": 172522,
+    "title": "饮兰亭",
+    "title_tr": "飲蘭亭",
+    "author": "佘翔",
+    "author_tr": "佘翔",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "竹树满山阴，前贤迹未扫。\n试流曲水觞，醉藉王孙草。",
+    "content_tr": "竹樹滿山陰，前賢跡未掃。\n試流曲水觴，醉藉王孫草。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

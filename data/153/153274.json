@@ -1,0 +1,18 @@
+{
+  "work_id": 153274,
+  "work": {
+    "id": 153274,
+    "title": "咏史诗 郴县",
+    "title_tr": "詠史詩 郴縣",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "义帝南迁路入郴，国亡身死乱山深。\n不知埋恨穷泉后，几度西陵片月沉。",
+    "content_tr": "義帝南遷路入郴，國亡身死亂山深。\n不知埋恨窮泉後，幾度西陵片月沈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

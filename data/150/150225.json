@@ -1,0 +1,18 @@
+{
+  "work_id": 150225,
+  "work": {
+    "id": 150225,
+    "title": "孔明出师表图",
+    "title_tr": "孔明出師表圖",
+    "author": "郑思肖",
+    "author_tr": "鄭思肖",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一身英气射光芒，北定中原事转长。\n落得两篇出师表，至今只是汉文章。",
+    "content_tr": "一身英氣射光芒，北定中原事轉長。\n落得兩篇出師表，至今只是漢文章。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

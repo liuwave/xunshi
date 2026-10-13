@@ -1,0 +1,18 @@
+{
+  "work_id": 159699,
+  "work": {
+    "id": 159699,
+    "title": "回文诗",
+    "title_tr": "回文詩",
+    "author": "方以智",
+    "author_tr": "方以智",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋天一望怨衣单，露满砧声草径寒。\n楼暗树深烟入幕，月依人静夜凭阑。\n悠悠凤管吹风冷，渺渺鸿书带影残。\n愁织锦成添泪眼，浮云尽处梦君看。",
+    "content_tr": "秋天一望怨衣單，露滿砧聲草徑寒。\n樓暗樹深煙入幕，月依人静夜憑闌。\n悠悠鳯管吹風冷，渺渺鴻書帯影殘。\n愁織錦成添淚眼，浮雲盡處夢君看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

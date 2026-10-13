@@ -1,0 +1,18 @@
+{
+  "work_id": 172508,
+  "work": {
+    "id": 172508,
+    "title": "雨后吟",
+    "title_tr": "雨後吟",
+    "author": "佘翔",
+    "author_tr": "佘翔",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜来北窗雨，萧萧竹偃扉。\n朝望城头山，白云湿不飞。",
+    "content_tr": "夜來北窗雨，蕭蕭竹偃扉。\n朝望城頭山，白雲溼不飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

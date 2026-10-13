@@ -1,0 +1,18 @@
+{
+  "work_id": 170223,
+  "work": {
+    "id": 170223,
+    "title": "郢中杂歌四首",
+    "title_tr": "郢中雜歌四首",
+    "author": "吴国伦",
+    "author_tr": "吳國倫",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寝园三十里，嘉树郁苍苍。\n不有樵苏禁，谁知是帝乡。",
+    "content_tr": "寢園三十里，嘉樹鬱蒼蒼。\n不有樵蘇禁，誰知是帝鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
