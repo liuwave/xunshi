@@ -1,0 +1,18 @@
+{
+  "work_id": 10022,
+  "work": {
+    "id": 10022,
+    "title": "杂赋五首",
+    "title_tr": "雜賦五首",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "民间升斗籴仓陈，五十青钱一束薪。\n黑潦满街风雨恶，日中犹有未炊人。",
+    "content_tr": "民間升斗糴倉陳，五十青錢一束薪。\n黑潦滿街風雨惡，日中猶有未炊人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

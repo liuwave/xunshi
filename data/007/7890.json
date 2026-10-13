@@ -1,0 +1,18 @@
+{
+  "work_id": 7890,
+  "work": {
+    "id": 7890,
+    "title": "访屏风山",
+    "title_tr": "訪屏風山",
+    "author": "元淮",
+    "author_tr": "元淮",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独出南关访翠微，钟楼佛阁霭霏霏。\n草根缚笔题墙了，更与山僧伴话归。",
+    "content_tr": "獨出南關訪翠微，鐘樓佛閣靄霏霏。\n草根縛筆題牆了，更與山僧伴話歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

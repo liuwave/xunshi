@@ -1,0 +1,18 @@
+{
+  "work_id": 12001,
+  "work": {
+    "id": 12001,
+    "title": "和唐宰山行",
+    "title_tr": "和唐宰山行",
+    "author": "汪克宽",
+    "author_tr": "汪克寬",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山县千峰叠，闾阎杂崄夷。\n雨香鱼拨剌，风软燕差池。\n郭外耕夫耦，桑中稚子嬉。\n弦歌声教远，民俗变浇漓。",
+    "content_tr": "山縣千峯疊，閭閻雜嶮夷。\n雨香魚撥剌，風軟燕差池。\n郭外耕夫耦，桑中稚子嬉。\n絃歌聲教遠，民俗變澆漓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

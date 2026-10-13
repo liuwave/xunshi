@@ -1,0 +1,18 @@
+{
+  "work_id": 7778,
+  "work": {
+    "id": 7778,
+    "title": "题第一山",
+    "title_tr": "題第一山",
+    "author": "文若",
+    "author_tr": "文若",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汴水东流绕旧京，恢图妙算入皇明。\n暂携诸将停归骑，来看中原第一城。",
+    "content_tr": "汴水東流繞舊京，恢圖妙算入皇明。\n暫攜諸將停歸騎，來看中原第一城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

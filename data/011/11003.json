@@ -1,0 +1,18 @@
+{
+  "work_id": 11003,
+  "work": {
+    "id": 11003,
+    "title": "冯氏藏书堂",
+    "title_tr": "馮氏藏書堂",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乔木依堂数亩阴，买书不惜散黄金。\n简编总许儒生读，碑帖还从墨客临。\n芸阁牙签晴睒睒，练囊萤火夜沉沉。\n只今许下多贤士，始信君侯惠泽深。",
+    "content_tr": "喬木依堂數畝陰，買書不惜散黃金。\n簡編總許儒生讀，碑帖還從墨客臨。\n芸閣牙籤晴睒睒，練囊螢火夜沉沉。\n只今許下多賢士，始信君侯惠澤深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

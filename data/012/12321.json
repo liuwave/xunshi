@@ -1,0 +1,18 @@
+{
+  "work_id": 12321,
+  "work": {
+    "id": 12321,
+    "title": "集古睡起",
+    "title_tr": "集古睡起",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万转千回懒下床，不辞鶗鴂妒年芳。\n酷怜一觉平明睡，枕破施朱隔宿妆。",
+    "content_tr": "萬轉千回懶下牀，不辭鶗鴂妒年芳。\n酷憐一覺平明睡，枕破施朱隔宿妝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

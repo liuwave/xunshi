@@ -1,0 +1,18 @@
+{
+  "work_id": 23067,
+  "work": {
+    "id": 23067,
+    "title": "捣衣曲",
+    "title_tr": "搗衣曲",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "入夜砧声满四邻，一天霜月秋云轻。\n自怜岁岁衣裁就，欲寄无因到远人。",
+    "content_tr": "入夜砧聲滿四鄰，一天霜月秋雲輕。\n自憐歲歲衣裁就，欲寄無因到遠人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

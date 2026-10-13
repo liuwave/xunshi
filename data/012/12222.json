@@ -1,0 +1,18 @@
+{
+  "work_id": 12222,
+  "work": {
+    "id": 12222,
+    "title": "野菊",
+    "title_tr": "野菊",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风露丛中取次芳，愁边过却几重阳。\n秋光到处多无主，不是闲花不肯香。",
+    "content_tr": "風露叢中取次芳，愁邊過卻幾重陽。\n秋光到處多無主，不是閒花不肯香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

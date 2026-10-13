@@ -1,0 +1,18 @@
+{
+  "work_id": 5800,
+  "work": {
+    "id": 5800,
+    "title": "夜读",
+    "title_tr": "夜讀",
+    "author": "方回",
+    "author_tr": "方回",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楼西落照炫新晴，檐雨犹馀点滴声。\n信手取书开数叶，秋凉初喜夜灯明。",
+    "content_tr": "樓西落照炫新晴，檐雨猶餘點滴聲。\n信手取書開數葉，秋涼初喜夜燈明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 20004,
+  "work": {
+    "id": 20004,
+    "title": "程朱之学",
+    "title_tr": "程朱之學",
+    "author": "陈普",
+    "author_tr": "陳普",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高明若韩苏，方正如君实。\n太山当面前，瞠目不能识。\n谁能不由户，可怪亦可惜。\n得若在家庭，迷殆胡越隔。\n向微程朱子，出手为开辟。\n我辈白日中，夜行至今日。",
+    "content_tr": "高明若韓蘇，方正如君實。\n太山當面前，瞠目不能識。\n誰能不由戶，可怪亦可惜。\n得若在家庭，迷殆胡越隔。\n向微程朱子，出手爲開闢。\n我輩白日中，夜行至今日。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

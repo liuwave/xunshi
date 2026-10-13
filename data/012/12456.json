@@ -1,0 +1,18 @@
+{
+  "work_id": 12456,
+  "work": {
+    "id": 12456,
+    "title": "示侄辈",
+    "title_tr": "示侄輩",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诸阮以富相夸，二疏恐财为病。\n济叔不羡金埒，绩兄曾有挝命。",
+    "content_tr": "諸阮以富相誇，二疏恐財爲病。\n濟叔不羨金埒，績兄曾有撾命。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

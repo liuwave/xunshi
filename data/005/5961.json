@@ -1,0 +1,18 @@
+{
+  "work_id": 5961,
+  "work": {
+    "id": 5961,
+    "title": "题唐人按乐图",
+    "title_tr": "題唐人按樂圖",
+    "author": "方回",
+    "author_tr": "方回",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鼓笛笙箫鬨舞茵，伶官和尚杂宫人。\n黄番绰共唐三藏，仿佛相传未必真。",
+    "content_tr": "鼓笛笙簫鬨舞茵，伶官和尚雜宮人。\n黃番綽共唐三藏，彷佛相傳未必真。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

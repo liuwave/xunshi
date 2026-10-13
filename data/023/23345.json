@@ -1,0 +1,18 @@
+{
+  "work_id": 23345,
+  "work": {
+    "id": 23345,
+    "title": "眉文砚诗",
+    "title_tr": "眉文硯詩",
+    "author": "张仲深",
+    "author_tr": "張仲深",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁斸云根出混沦，一区玄璧重玙璠。\n龙香只解供吟笔，不管春山湿黛痕。",
+    "content_tr": "誰斸雲根出混淪，一區玄璧重璵璠。\n龍香秪解供吟筆，不管春山溼黛痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

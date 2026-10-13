@@ -1,0 +1,18 @@
+{
+  "work_id": 7500,
+  "work": {
+    "id": 7500,
+    "title": "和仲常牡丹诗",
+    "title_tr": "和仲常牡丹詩",
+    "author": "王恽",
+    "author_tr": "王惲",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉殿承恩早，金盘荐露新。\n色酣中省乐，香重锦窠春。\n尽殿群芳后，谁辞载酒频。\n清如司马相，也作插花人。",
+    "content_tr": "漢殿承恩早，金盤薦露新。\n色酣中省樂，香重錦窠春。\n盡殿羣芳後，誰辭載酒頻。\n清如司馬相，也作插花人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

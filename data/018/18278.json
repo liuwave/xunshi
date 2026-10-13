@@ -1,0 +1,18 @@
+{
+  "work_id": 18278,
+  "work": {
+    "id": 18278,
+    "title": "春闺曲",
+    "title_tr": "春閨曲",
+    "author": "郭翼",
+    "author_tr": "郭翼",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿树莺歌遍，红檐燕语频。\n所思犹远道，何用慰芳春。",
+    "content_tr": "綠樹鶯歌遍，紅檐燕語頻。\n所思猶遠道，何用慰芳春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

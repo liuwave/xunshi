@@ -1,0 +1,18 @@
+{
+  "work_id": 10421,
+  "work": {
+    "id": 10421,
+    "title": "唐人两马图",
+    "title_tr": "唐人兩馬圖",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉山刍秣渭川波，振刷骁腾意气多。\n政好骈趋驾黄屋，临危踶啮奈君何。",
+    "content_tr": "玉山芻秣渭川波，振刷驍騰意氣多。\n政好駢趨駕黃屋，臨危踶齧奈君何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

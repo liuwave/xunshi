@@ -1,0 +1,18 @@
+{
+  "work_id": 11030,
+  "work": {
+    "id": 11030,
+    "title": "云林亭",
+    "title_tr": "雲林亭",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幽亭古木净萧萧，江月云山远莫招。\n昨夜西风吹梦去，共谁相对说渔樵。",
+    "content_tr": "幽亭古木淨蕭蕭，江月雲山遠莫招。\n昨夜西風吹夢去，共誰相對說漁樵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

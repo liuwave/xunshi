@@ -1,0 +1,18 @@
+{
+  "work_id": 10790,
+  "work": {
+    "id": 10790,
+    "title": "杨寺洞中吹箫",
+    "title_tr": "楊寺洞中吹簫",
+    "author": "吾丘衍",
+    "author_tr": "吾丘衍",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独携凤管入岩扉，树拂春风草拂衣。\n不敢更吹天上曲，恐惊石散作云飞。",
+    "content_tr": "獨攜鳳管入巖扉，樹拂春風草拂衣。\n不敢更吹天上曲，恐驚石散作雲飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

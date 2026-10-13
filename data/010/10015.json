@@ -1,0 +1,18 @@
+{
+  "work_id": 10015,
+  "work": {
+    "id": 10015,
+    "title": "题獐猿便面",
+    "title_tr": "題獐猿便面",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "树上孤猿树下獐，山林物性各相忘。\n不知万里中原阔，鹰犬交驰苜蓿场。",
+    "content_tr": "樹上孤猿樹下獐，山林物性各相忘。\n不知萬里中原闊，鷹犬交馳苜蓿場。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

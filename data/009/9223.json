@@ -1,0 +1,18 @@
+{
+  "work_id": 9223,
+  "work": {
+    "id": 9223,
+    "title": "山中歌",
+    "title_tr": "山中歌",
+    "author": "危素",
+    "author_tr": "危素",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝牧于林，暮钓于溪，吾何忧而。",
+    "content_tr": "朝牧於林，暮釣於溪，吾何憂而。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

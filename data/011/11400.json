@@ -1,0 +1,18 @@
+{
+  "work_id": 11400,
+  "work": {
+    "id": 11400,
+    "title": "鹤傍牡丹图",
+    "title_tr": "鶴傍牡丹圖",
+    "author": "吕玄英",
+    "author_tr": "呂玄英",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "牡丹花畔鹤精神，飞并云林似倚人。\n万里青霄不归去，洛阳能有几时春？",
+    "content_tr": "牡丹花畔鶴精神，飛並雲林似倚人。\n萬里青霄不歸去，洛陽能有幾時春？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

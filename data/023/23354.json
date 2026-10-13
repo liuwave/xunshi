@@ -1,0 +1,18 @@
+{
+  "work_id": 23354,
+  "work": {
+    "id": 23354,
+    "title": "松亭图",
+    "title_tr": "鬆亭圖",
+    "author": "张仲深",
+    "author_tr": "張仲深",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一椽茅屋小如舟，百尺长松在上头。\n更得秋风田二顷，底须骑鹤上扬州。",
+    "content_tr": "一椽茅屋小如舟，百尺長鬆在上頭。\n更得秋風田二頃，底須騎鶴上揚州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

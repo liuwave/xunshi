@@ -1,0 +1,18 @@
+{
+  "work_id": 6543,
+  "work": {
+    "id": 6543,
+    "title": "归妇吟",
+    "title_tr": "歸婦吟",
+    "author": "王宥",
+    "author_tr": "王宥",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烈火都将玉石焚，死生契阔忆中分。\n信音一绝思青鸟，望眼双穿见白云。\n残日鹡鸰还有难，北风鸿雁正离群。\n新诗送尔还家去，重续当年织锦纹。",
+    "content_tr": "烈火都將玉石焚，死生契闊憶中分。\n信音一絕思青鳥，望眼雙穿見白雲。\n殘日鶺鴒還有難，北風鴻雁正離羣。\n新詩送爾還家去，重續當年織錦紋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

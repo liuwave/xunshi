@@ -1,0 +1,18 @@
+{
+  "work_id": 13789,
+  "work": {
+    "id": 13789,
+    "title": "感古",
+    "title_tr": "感古",
+    "author": "周霆震",
+    "author_tr": "周霆震",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴宫队长罢论兵，越女西施擅宠荣。\n百炼一朝成绕指，方知世上有倾城。",
+    "content_tr": "吳宮隊長罷論兵，越女西施擅寵榮。\n百鍊一朝成繞指，方知世上有傾城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 20812,
+  "work": {
+    "id": 20812,
+    "title": "鹤皋诗为振之作",
+    "title_tr": "鶴皋詩爲振之作",
+    "author": "陆文圭",
+    "author_tr": "陸文圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹳鸣于垤妇长叹，鸿渐于陆夫远征。\n何似山亭闻鹤唳，无人静坐月三更。",
+    "content_tr": "鸛鳴於垤婦長嘆，鴻漸於陸夫遠征。\n何似山亭聞鶴唳，無人靜坐月三更。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

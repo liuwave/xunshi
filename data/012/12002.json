@@ -1,0 +1,18 @@
+{
+  "work_id": 12002,
+  "work": {
+    "id": 12002,
+    "title": "夜",
+    "title_tr": "夜",
+    "author": "汪克宽",
+    "author_tr": "汪克寬",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玄观空山静，秋风晚更清。\n岚光连雾气，松响乱泉声。\n竹户流星近，兰阶落叶平。\n夜寒人不寐，独对一灯明。",
+    "content_tr": "玄觀空山靜，秋風晚更清。\n嵐光連霧氣，鬆響亂泉聲。\n竹戶流星近，蘭階落葉平。\n夜寒人不寐，獨對一燈明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

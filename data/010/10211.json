@@ -1,0 +1,18 @@
+{
+  "work_id": 10211,
+  "work": {
+    "id": 10211,
+    "title": "日湖",
+    "title_tr": "日湖",
+    "author": "吴志淳",
+    "author_tr": "吳志淳",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉几东来浮野色，锦溪西下接湖光。\n道人燕坐心如水，六月荷花镜里香。",
+    "content_tr": "玉幾東來浮野色，錦溪西下接湖光。\n道人燕坐心如水，六月荷花鏡裏香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

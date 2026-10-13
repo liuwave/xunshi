@@ -1,0 +1,18 @@
+{
+  "work_id": 20181,
+  "work": {
+    "id": 20181,
+    "title": "织锦图",
+    "title_tr": "織錦圖",
+    "author": "陈基",
+    "author_tr": "陳基",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "佳人织锦深闺里，恨入东风泪痕紫。\n三年辛苦织回文，化作鸳鸯戏秋水。\n秋水悠悠人未归，鸳鸯两两弄晴晖。\n料应花发长安夜，不见闺中肠断时。",
+    "content_tr": "佳人織錦深閨裏，恨入東風淚痕紫。\n三年辛苦織迴文，化作鴛鴦戲秋水。\n秋水悠悠人未歸，鴛鴦兩兩弄晴暉。\n料應花髮長安夜，不見閨中腸斷時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

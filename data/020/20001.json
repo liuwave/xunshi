@@ -1,0 +1,18 @@
+{
+  "work_id": 20001,
+  "work": {
+    "id": 20001,
+    "title": "次答熊去非七夕遇雨见候",
+    "title_tr": "次答熊去非七夕遇雨見候",
+    "author": "陈普",
+    "author_tr": "陳普",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "志士千载心，烂烂如斜河。\n道路坦且修，况复阴雨多。\n女騃不可说，牛痴无柰何。",
+    "content_tr": "志士千載心，爛爛如斜河。\n道路坦且修，況復陰雨多。\n女騃不可說，牛癡無柰何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

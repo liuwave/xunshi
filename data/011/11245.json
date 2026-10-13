@@ -1,0 +1,18 @@
+{
+  "work_id": 11245,
+  "work": {
+    "id": 11245,
+    "title": "春愁",
+    "title_tr": "春愁",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金雁尘香暗凤弦，红绳风紧阁秋千。\n园林寂寞无莺燕，一段春愁是杜鹃。",
+    "content_tr": "金雁塵香暗鳳弦，紅繩風緊閣鞦韆。\n園林寂寞無鶯燕，一段春愁是杜鵑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

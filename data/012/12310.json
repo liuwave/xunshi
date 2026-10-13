@@ -1,0 +1,18 @@
+{
+  "work_id": 12310,
+  "work": {
+    "id": 12310,
+    "title": "集古闻角",
+    "title_tr": "集古聞角",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铁马狐裘出汉营，瘴云深处守孤城。\n无端遇著场心事，鸣轧江楼角一声。",
+    "content_tr": "鐵馬狐裘出漢營，瘴雲深處守孤城。\n無端遇著場心事，鳴軋江樓角一聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

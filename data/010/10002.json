@@ -1,0 +1,18 @@
+{
+  "work_id": 10002,
+  "work": {
+    "id": 10002,
+    "title": "题倭僧所画菖蒲小景四首",
+    "title_tr": "題倭僧所畫菖蒲小景四首",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海上青毛鹤，山中绿发仙。\n相期采九节，同尔寿千年。",
+    "content_tr": "海上青毛鶴，山中綠髮仙。\n相期採九節，同爾壽千年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

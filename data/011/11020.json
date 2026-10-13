@@ -1,0 +1,18 @@
+{
+  "work_id": 11020,
+  "work": {
+    "id": 11020,
+    "title": "画红梅",
+    "title_tr": "畫紅梅",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西湖月淡彩云飞，睡脸生霞酒力微。\n谁道玉楼寒起粟，胭脂却染素娥衣。",
+    "content_tr": "西湖月淡彩雲飛，睡臉生霞酒力微。\n誰道玉樓寒起粟，胭脂卻染素娥衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 16000,
+  "work": {
+    "id": 16000,
+    "title": "青山",
+    "title_tr": "青山",
+    "author": "耶律铸",
+    "author_tr": "耶律鑄",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山不伴青春老，万古千秋色自新。\n休去西园桃李醉，晚来风起易愁人。",
+    "content_tr": "青山不伴青春老，萬古千秋色自新。\n休去西園桃李醉，晚來風起易愁人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

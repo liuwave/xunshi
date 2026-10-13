@@ -1,0 +1,18 @@
+{
+  "work_id": 10765,
+  "work": {
+    "id": 10765,
+    "title": "春夜对月",
+    "title_tr": "春夜對月",
+    "author": "吾丘衍",
+    "author_tr": "吾丘衍",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜色春仍好，楼虚满月华。\n淡烟同引索，暖桂不成花。\n望影弦初上，凭高月为赊。\n芳林渐叶密，更起故林鸦。",
+    "content_tr": "夜色春仍好，樓虛滿月華。\n淡煙同引索，暖桂不成花。\n望影弦初上，憑高月爲賒。\n芳林漸葉密，更起故林鴉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

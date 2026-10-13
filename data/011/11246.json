@@ -1,0 +1,18 @@
+{
+  "work_id": 11246,
+  "work": {
+    "id": 11246,
+    "title": "云雨",
+    "title_tr": "雲雨",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云雨朝朝暮暮新，襄王魂断楚江春。\n武丁曾有中宵梦，惟觅岩前版筑人。",
+    "content_tr": "雲雨朝朝暮暮新，襄王魂斷楚江春。\n武丁曾有中宵夢，惟覓巖前版築人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

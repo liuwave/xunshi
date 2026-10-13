@@ -1,0 +1,18 @@
+{
+  "work_id": 13050,
+  "work": {
+    "id": 13050,
+    "title": "汴都纪行",
+    "title_tr": "汴都紀行",
+    "author": "汪元量",
+    "author_tr": "汪元量",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寻僧入相国寺，领客过太师桥。\n行到汴堤西畔，柳阴阴处鱼跳。",
+    "content_tr": "尋僧入相國寺，領客過太師橋。\n行到汴堤西畔，柳陰陰處魚跳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

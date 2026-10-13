@@ -1,0 +1,18 @@
+{
+  "work_id": 13579,
+  "work": {
+    "id": 13579,
+    "title": "和王子让二首",
+    "title_tr": "和王子讓二首",
+    "author": "李祁",
+    "author_tr": "李祁",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万顷烟波一叶舟，更无维楫任飘流。\n此身自合他乡死，争奈狂狐忆首丘。",
+    "content_tr": "萬頃煙波一葉舟，更無維楫任飄流。\n此身自合他鄉死，爭奈狂狐憶首丘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

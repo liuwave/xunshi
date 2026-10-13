@@ -1,0 +1,18 @@
+{
+  "work_id": 10902,
+  "work": {
+    "id": 10902,
+    "title": "同驾",
+    "title_tr": "同駕",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白日行天速，青山去国遥。\n昔年苍水佩，同驾紫云轺。\n汉节犹堪牧，虞旌不待招。\n人生夸气概，莫遣旅魂销。",
+    "content_tr": "白日行天速，青山去國遙。\n昔年蒼水佩，同駕紫雲軺。\n漢節猶堪牧，虞旌不待招。\n人生誇氣概，莫遣旅魂銷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

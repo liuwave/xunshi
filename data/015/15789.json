@@ -1,0 +1,18 @@
+{
+  "work_id": 15789,
+  "work": {
+    "id": 15789,
+    "title": "彩霞亭睡起纪梦书画梦斋壁",
+    "title_tr": "綵霞亭睡起紀夢書畫夢齋壁",
+    "author": "耶律铸",
+    "author_tr": "耶律鑄",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浴兰汤兮沐芳华，睡起鸡声透彩霞。\n怪得春风教梦稳，尽吹蝴蝶上梨花。",
+    "content_tr": "浴蘭湯兮沐芳華，睡起雞聲透綵霞。\n怪得春風教夢穩，盡吹蝴蝶上梨花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

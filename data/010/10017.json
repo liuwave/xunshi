@@ -1,0 +1,18 @@
+{
+  "work_id": 10017,
+  "work": {
+    "id": 10017,
+    "title": "题南",
+    "title_tr": "題南",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洞庭南去竹如云，老叶新梢乱不分。\n帝子不归风雨恶，深林何处觅湘君。",
+    "content_tr": "洞庭南去竹如雲，老葉新梢亂不分。\n帝子不歸風雨惡，深林何處覓湘君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

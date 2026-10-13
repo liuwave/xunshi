@@ -1,0 +1,18 @@
+{
+  "work_id": 10520,
+  "work": {
+    "id": 10520,
+    "title": "山行值雨",
+    "title_tr": "山行值雨",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山雨随云往返飞，行时沾湿避时稀。\n须臾驰过前冈去，满马斜阳就晒衣。",
+    "content_tr": "山雨隨雲往返飛，行時沾溼避時稀。\n須臾馳過前岡去，滿馬斜陽就曬衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

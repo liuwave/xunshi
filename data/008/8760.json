@@ -1,0 +1,18 @@
+{
+  "work_id": 8760,
+  "work": {
+    "id": 8760,
+    "title": "纸帐",
+    "title_tr": "紙帳",
+    "author": "叶颙",
+    "author_tr": "葉顒",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琴榻生虚白，吟帷异马融。\n睡无红雾入，醒有白云封。\n月窟光千丈，尘寰路万重。\n梅窗香影瘦，清梦听松风。",
+    "content_tr": "琴榻生虛白，吟帷異馬融。\n睡無紅霧入，醒有白雲封。\n月窟光千丈，塵寰路萬重。\n梅窗香影瘦，清夢聽松風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

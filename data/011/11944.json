@@ -1,0 +1,18 @@
+{
+  "work_id": 11944,
+  "work": {
+    "id": 11944,
+    "title": "唐宫咏",
+    "title_tr": "唐宮詠",
+    "author": "吴克恭",
+    "author_tr": "吳克恭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "斗草赌珠襦，穿花提玉壶。\n东头老供奉，好似执金吾。",
+    "content_tr": "鬥草賭珠襦，穿花提玉壺。\n東頭老供奉，好似執金吾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

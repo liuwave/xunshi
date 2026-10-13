@@ -1,0 +1,18 @@
+{
+  "work_id": 10004,
+  "work": {
+    "id": 10004,
+    "title": "题三友轩汤直学求赋三首",
+    "title_tr": "題三友軒湯直學求賦三首",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古松存古操，岂意受秦封。\n岁晚风尘表，空山作卧龙。",
+    "content_tr": "古鬆存古操，豈意受秦封。\n歲晚風塵表，空山作臥龍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 11086,
+  "work": {
+    "id": 11086,
+    "title": "渊明图",
+    "title_tr": "淵明圖",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "窈窕墟里烟，崎岖抚遐踪。\n松菊在三径，归来事春农。\n乘化乐天命，千古垂高风。",
+    "content_tr": "窈窕墟里煙，崎嶇撫遐蹤。\n鬆菊在三徑，歸來事春農。\n乘化樂天命，千古垂高風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

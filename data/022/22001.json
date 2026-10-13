@@ -1,0 +1,18 @@
+{
+  "work_id": 22001,
+  "work": {
+    "id": 22001,
+    "title": "清閟阁",
+    "title_tr": "清閟閣",
+    "author": "陈方",
+    "author_tr": "陳方",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湘帘半卷云当户，野鹤一声风满林。\n才立簟纹波细细，又疑墙影雪阴阴。\n竹摇棐几常开帙，花落藜床独抱琴。\n不谓世间仍得此，恍然飞屩驻仙岑。",
+    "content_tr": "湘簾半捲雲當戶，野鶴一聲風滿林。\n才立簟紋波細細，又疑牆影雪陰陰。\n竹搖棐幾常開帙，花落藜牀獨抱琴。\n不謂世間仍得此，恍然飛屩駐仙岑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 9321,
+  "work": {
+    "id": 9321,
+    "title": "吴兴杂咏",
+    "title_tr": "吳興雜詠",
+    "author": "朱晞颜",
+    "author_tr": "朱晞顏",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴兴山水窟，清远古今闻。\n水入孤城合，山来别县分。\n寒川明野烧，晓碓湿溪云。\n试买乌程酒，微馨透客醺。",
+    "content_tr": "吳興山水窟，清遠古今聞。\n水入孤城合，山來別縣分。\n寒川明野燒，曉碓溼溪雲。\n試買烏程酒，微馨透客醺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

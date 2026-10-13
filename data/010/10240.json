@@ -1,0 +1,18 @@
+{
+  "work_id": 10240,
+  "work": {
+    "id": 10240,
+    "title": "徐元庸寒泉庐",
+    "title_tr": "徐元庸寒泉廬",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孝子终天恨，寒泉未足云。\n水浆不入口，鹿豕与同群。\n手线今何在，杯棬岂忍闻。\n素冠曾有刺，珍重守孤坟。",
+    "content_tr": "孝子終天恨，寒泉未足雲。\n水漿不入口，鹿豕與同羣。\n手線今何在，杯棬豈忍聞。\n素冠曾有刺，珍重守孤墳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

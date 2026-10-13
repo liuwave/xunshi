@@ -1,0 +1,18 @@
+{
+  "work_id": 10003,
+  "work": {
+    "id": 10003,
+    "title": "和饶介之春夜七绝",
+    "title_tr": "和饒介之春夜七絕",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "新月不落地，四更犹有光。\n无人防白兔，窃夜捣玄霜。",
+    "content_tr": "新月不落地，四更猶有光。\n無人防白兔，竊夜搗玄霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

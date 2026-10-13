@@ -1,0 +1,18 @@
+{
+  "work_id": 10165,
+  "work": {
+    "id": 10165,
+    "title": "所思",
+    "title_tr": "所思",
+    "author": "朱希晦",
+    "author_tr": "朱希晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹦鹉本聪慧，不与凡鸟同。\n因以巧言语，何由脱樊笼。",
+    "content_tr": "鸚鵡本聰慧，不與凡鳥同。\n因以巧言語，何由脫樊籠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 13456,
+  "work": {
+    "id": 13456,
+    "title": "有樊",
+    "title_tr": "有樊",
+    "author": "李孝光",
+    "author_tr": "李孝光",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "有樊有樊，树余以荪。胡不萧艾，萧艾实繁。彼繁胡治，刈而为刍。\n嗟人有邑，曾不是图。匪余荪之病，余闻有命。",
+    "content_tr": "有樊有樊，樹餘以蓀。胡不蕭艾，蕭艾實繁。彼繁胡治，刈而爲芻。\n嗟人有邑，曾不是圖。匪餘蓀之病，餘聞有命。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 9500,
+  "work": {
+    "id": 9500,
+    "title": "张敞画眉图",
+    "title_tr": "張敞畫眉圖",
+    "author": "牟巘",
+    "author_tr": "牟巘",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眉妩臣罪小，君王一笑休。\n明日章台路，便面越风流。",
+    "content_tr": "眉嫵臣罪小，君王一笑休。\n明日章臺路，便面越風流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

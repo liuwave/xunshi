@@ -1,0 +1,18 @@
+{
+  "work_id": 10645,
+  "work": {
+    "id": 10645,
+    "title": "山行即事",
+    "title_tr": "山行即事",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山云容易作雨，岩瀑取次成川。\n石润犹开水硙，林霏仅有炊烟。",
+    "content_tr": "山雲容易作雨，巖瀑取次成川。\n石潤猶開水磑，林霏僅有炊煙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

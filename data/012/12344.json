@@ -1,0 +1,18 @@
+{
+  "work_id": 12344,
+  "work": {
+    "id": 12344,
+    "title": "集古重九",
+    "title_tr": "集古重九",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "事去人亡迹自留，白云犹似汉时秋。\n如今暂寄尊前笑，明日黄花蝶也愁。",
+    "content_tr": "事去人亡跡自留，白雲猶似漢時秋。\n如今暫寄尊前笑，明日黃花蝶也愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

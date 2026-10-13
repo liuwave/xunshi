@@ -1,0 +1,18 @@
+{
+  "work_id": 10014,
+  "work": {
+    "id": 10014,
+    "title": "唐明皇吹箫图二首",
+    "title_tr": "唐明皇吹簫圖二首",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寝殿春深昼漏迟，榻前侍女立多时。\n玉箫自按霓裳曲，赐与梨园子弟吹。",
+    "content_tr": "寢殿春深晝漏遲，榻前侍女立多時。\n玉簫自按霓裳曲，賜與梨園子弟吹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

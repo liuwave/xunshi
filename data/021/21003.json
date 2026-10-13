@@ -1,0 +1,18 @@
+{
+  "work_id": 21003,
+  "work": {
+    "id": 21003,
+    "title": "题萧照山水",
+    "title_tr": "題蕭照山水",
+    "author": "陆文圭",
+    "author_tr": "陸文圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闭门十日风雨，神游湘浦峡川。\n树影分开草店，雁声吹落渔船。",
+    "content_tr": "閉門十日風雨，神遊湘浦峽川。\n樹影分開草店，雁聲吹落漁船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

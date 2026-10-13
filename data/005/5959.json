@@ -1,0 +1,18 @@
+{
+  "work_id": 5959,
+  "work": {
+    "id": 5959,
+    "title": "东坡真迹",
+    "title_tr": "東坡真跡",
+    "author": "方回",
+    "author_tr": "方回",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欧苏一代两文忠，赖是滁阳起醉翁。\n谁欲儋州杀坡老，靖康战血鼓腥风。",
+    "content_tr": "歐蘇一代兩文忠，賴是滁陽起醉翁。\n誰欲儋州殺坡老，靖康戰血鼓腥風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

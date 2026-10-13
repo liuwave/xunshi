@@ -1,0 +1,18 @@
+{
+  "work_id": 10425,
+  "work": {
+    "id": 10425,
+    "title": "闻蝉",
+    "title_tr": "聞蟬",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昨日流莺今日蝉，无端世故苦相煎。\n长安多少封侯骨，雨打风吹过少年。",
+    "content_tr": "昨日流鶯今日蟬，無端世故苦相煎。\n長安多少封侯骨，雨打風吹過少年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

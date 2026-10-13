@@ -1,0 +1,18 @@
+{
+  "work_id": 12201,
+  "work": {
+    "id": 12201,
+    "title": "东山道中",
+    "title_tr": "東山道中",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "采遍山城草木芽，百年老树尽枯槎。\n眼前多少闲田地，雨后春耕有几家。",
+    "content_tr": "採遍山城草木芽，百年老樹盡枯槎。\n眼前多少閒田地，雨後春耕有幾家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

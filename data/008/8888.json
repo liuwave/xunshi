@@ -1,0 +1,18 @@
+{
+  "work_id": 8888,
+  "work": {
+    "id": 8888,
+    "title": "墨菊",
+    "title_tr": "墨菊",
+    "author": "叶颙",
+    "author_tr": "葉顒",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卸下前人金缕衣，萧萧玄鬓望东篱。\n西风乌帽高情远，细雨黄花旧梦非。\n露洗烟光浮嫩萼，云封秋色上疏枝。\n霜缣素影芳香断，迥首缁尘怨夕晖。",
+    "content_tr": "卸下前人金縷衣，蕭蕭玄鬢望東籬。\n西風烏帽高情遠，細雨黃花舊夢非。\n露洗煙光浮嫩萼，雲封秋色上疏枝。\n霜縑素影芳香斷，迥首緇塵怨夕暉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

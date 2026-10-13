@@ -1,0 +1,18 @@
+{
+  "work_id": 24122,
+  "work": {
+    "id": 24122,
+    "title": "王昭君二首其一",
+    "title_tr": "王昭君二首其一",
+    "author": "张昱",
+    "author_tr": "張昱",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉地非无雪，边城不见花。\n琵琶一万里，马上尽风沙。",
+    "content_tr": "漢地非無雪，邊城不見花。\n琵琶一萬里，馬上盡風沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

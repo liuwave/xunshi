@@ -1,0 +1,18 @@
+{
+  "work_id": 12010,
+  "work": {
+    "id": 12010,
+    "title": "答祁定之韵",
+    "title_tr": "荅祁定之韻",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄菊催秋暮，青山劝客归。\n事随时渐改，人与物皆非。\n爽气收残暑，闲云送落晖。\n平生会心似，别后往来稀。",
+    "content_tr": "黃菊催秋暮，青山勸客歸。\n事隨時漸改，人與物皆非。\n爽氣收殘暑，閒雲送落暉。\n平生會心似，別後往來稀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

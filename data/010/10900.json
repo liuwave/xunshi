@@ -1,0 +1,18 @@
+{
+  "work_id": 10900,
+  "work": {
+    "id": 10900,
+    "title": "腊月朔",
+    "title_tr": "臘月朔",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "羁客无颁朔，穷年有此朝。\n山明仍戴雪，水落不通潮。\n黄道环辰极，青阳转斗杓。\n仰关身万里，转壑梦连宵。",
+    "content_tr": "羈客無頒朔，窮年有此朝。\n山明仍戴雪，水落不通潮。\n黃道環辰極，青陽轉斗杓。\n仰關身萬里，轉壑夢連宵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

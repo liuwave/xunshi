@@ -1,0 +1,18 @@
+{
+  "work_id": 9110,
+  "work": {
+    "id": 9110,
+    "title": "西湖访古",
+    "title_tr": "西湖訪古",
+    "author": "白珽",
+    "author_tr": "白珽",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "隐约湖山一点青，秋风归去阻云程。\n贝宫珠阙无寻处，夜夜凌波哭月明。",
+    "content_tr": "隱約湖山一點青，秋風歸去阻雲程。\n貝宮珠闕無尋處，夜夜凌波哭月明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

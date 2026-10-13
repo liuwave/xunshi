@@ -1,0 +1,18 @@
+{
+  "work_id": 2816,
+  "work": {
+    "id": 2816,
+    "title": "招诗",
+    "title_tr": "招詩",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "周",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "畜君何尤。",
+    "content_tr": "畜君何尤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 12340,
+  "work": {
+    "id": 12340,
+    "title": "集古送客之南宫",
+    "title_tr": "集古送客之南宮",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧萧风竹夜窗寒，书剑催人不暂闲。\n对酒已成千里客，断肠声里唱阳关。",
+    "content_tr": "蕭蕭風竹夜窗寒，書劍催人不暫閒。\n對酒已成千裏客，斷腸聲裏唱陽關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

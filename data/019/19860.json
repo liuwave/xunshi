@@ -1,0 +1,18 @@
+{
+  "work_id": 19860,
+  "work": {
+    "id": 19860,
+    "title": "武夷一曲",
+    "title_tr": "武夷一曲",
+    "author": "陈普",
+    "author_tr": "陳普",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "虹桥一断几千龄，亲手文公再造成。\n何事游人尚迷路，乱寻无楫渡船撑。",
+    "content_tr": "虹橋一斷幾千齡，親手文公再造成。\n何事遊人尚迷路，亂尋無楫渡船撐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

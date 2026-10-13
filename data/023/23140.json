@@ -1,0 +1,18 @@
+{
+  "work_id": 23140,
+  "work": {
+    "id": 23140,
+    "title": "采莲曲三首",
+    "title_tr": "採蓮曲三首",
+    "author": "曹文晦",
+    "author_tr": "曹文晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "采莲入南浦，欲寄远方书。\n不知莲叶下，自有双鲤鱼。",
+    "content_tr": "採蓮入南浦，欲寄遠方書。\n不知蓮葉下，自有雙鯉魚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

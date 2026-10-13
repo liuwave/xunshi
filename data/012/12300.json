@@ -1,0 +1,18 @@
+{
+  "work_id": 12300,
+  "work": {
+    "id": 12300,
+    "title": "集古洛中",
+    "title_tr": "集古洛中",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洛阳犹自有残春，水北原南草色新。\n山酒一卮歌一曲，不能回避看花尘。",
+    "content_tr": "洛陽猶自有殘春，水北原南草色新。\n山酒一卮歌一曲，不能迴避看花塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

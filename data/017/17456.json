@@ -1,0 +1,18 @@
+{
+  "work_id": 17456,
+  "work": {
+    "id": 17456,
+    "title": "牧牛图",
+    "title_tr": "牧牛圖",
+    "author": "凌云翰",
+    "author_tr": "淩云翰",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃林地瘠奈牛何，此日周王已止戈。\n芳草平原春万里，牧童能唱太平歌。",
+    "content_tr": "桃林地瘠奈牛何，此日周王已止戈。\n芳草平原春萬里，牧童能唱太平歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

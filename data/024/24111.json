@@ -1,0 +1,18 @@
+{
+  "work_id": 24111,
+  "work": {
+    "id": 24111,
+    "title": "风雨牧牛图",
+    "title_tr": "風雨牧牛圖",
+    "author": "张昱",
+    "author_tr": "張昱",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "牧牛值风雨，牧具几脱手。\n不自风雨前，不自风雨后。",
+    "content_tr": "牧牛值風雨，牧具幾脫手。\n不自風雨前，不自風雨後。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

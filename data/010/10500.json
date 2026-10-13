@@ -1,0 +1,18 @@
+{
+  "work_id": 10500,
+  "work": {
+    "id": 10500,
+    "title": "山水横披",
+    "title_tr": "山水橫披",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渔翁袖手空舣棹，琴客攒眉欲绝弦。\n惟有群僧无俗恨，乱山孤寺静谈禅。",
+    "content_tr": "漁翁袖手空艤棹，琴客攢眉欲絕弦。\n惟有羣僧無俗恨，亂山孤寺靜談禪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

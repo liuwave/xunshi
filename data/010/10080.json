@@ -1,0 +1,18 @@
+{
+  "work_id": 10080,
+  "work": {
+    "id": 10080,
+    "title": "寄无际老禅",
+    "title_tr": "寄無際老禪",
+    "author": "朱希晦",
+    "author_tr": "朱希晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万事不挂服，把茅还盖头。\n林深从鹿卧，海阔任鸥浮。\n圆泽三生契，曹溪一宿留。\n我牵尘业在，衰白总成休。",
+    "content_tr": "萬事不掛服，把茅還蓋頭。\n林深從鹿臥，海闊任鷗浮。\n圓澤三生契，曹溪一宿留。\n我牽塵業在，衰白總成休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

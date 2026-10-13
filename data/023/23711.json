@@ -1,0 +1,18 @@
+{
+  "work_id": 23711,
+  "work": {
+    "id": 23711,
+    "title": "松屋",
+    "title_tr": "鬆屋",
+    "author": "张天英",
+    "author_tr": "張天英",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "四壁青萝月，长松白鹭巢。\n山风吹叶下，添覆一重茅。",
+    "content_tr": "四壁青蘿月，長鬆白鷺巢。\n山風吹葉下，添覆一重茅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

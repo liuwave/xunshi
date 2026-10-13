@@ -1,0 +1,18 @@
+{
+  "work_id": 6789,
+  "work": {
+    "id": 6789,
+    "title": "信安怀故人",
+    "title_tr": "信安懷故人",
+    "author": "尹廷高",
+    "author_tr": "尹廷高",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔年避地此飘蓬，访旧重来事不同。\n苍狗浮云春梦里，寒鸦古木夕阳中。\n死生契阔交情在，离合悲欢转眼空。\n野寺赓酬无复再，兔葵燕麦自摇风。",
+    "content_tr": "昔年避地此飄蓬，訪舊重來事不同。\n蒼狗浮雲春夢裏，寒鴉古木夕陽中。\n死生契闊交情在，離合悲歡轉眼空。\n野寺賡酬無復再，兔葵燕麥自搖風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

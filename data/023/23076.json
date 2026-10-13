@@ -1,0 +1,18 @@
+{
+  "work_id": 23076,
+  "work": {
+    "id": 23076,
+    "title": "夜鹭",
+    "title_tr": "夜鷺",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白鹭宿秋陂，夜寒如堕雪。\n久立不飞去，月明霜气冽。",
+    "content_tr": "白鷺宿秋陂，夜寒如墮雪。\n久立不飛去，月明霜氣冽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

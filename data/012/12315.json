@@ -1,0 +1,18 @@
+{
+  "work_id": 12315,
+  "work": {
+    "id": 12315,
+    "title": "集古寄远",
+    "title_tr": "集古寄遠",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃李年年上国新，单于鼓角隔山闻。\n一行书信千行泪，不是思君是恨君。",
+    "content_tr": "桃李年年上國新，單于鼓角隔山聞。\n一行書信千行淚，不是思君是恨君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

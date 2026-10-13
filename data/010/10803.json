@@ -1,0 +1,18 @@
+{
+  "work_id": 10803,
+  "work": {
+    "id": 10803,
+    "title": "龙吟轩",
+    "title_tr": "龍吟軒",
+    "author": "吾丘衍",
+    "author_tr": "吾丘衍",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "四山若龙盘，精庐剡溪曲。\n中有不蛰龙，长吟破幽绿。\n道人宴坐起，拂袖窗牖开。\n手持碧琅玕，听此风雨来。",
+    "content_tr": "四山若龍盤，精廬剡溪曲。\n中有不蟄龍，長吟破幽綠。\n道人宴坐起，拂袖窗牖開。\n手持碧琅玕，聽此風雨來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

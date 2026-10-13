@@ -1,0 +1,18 @@
+{
+  "work_id": 20210,
+  "work": {
+    "id": 20210,
+    "title": "题画黄葵",
+    "title_tr": "題畫黃葵",
+    "author": "袁易",
+    "author_tr": "袁易",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昔戎葵花下饮，金杯春滟绿鬟欹。\n只今花似金杯侧，独对西风咏折枝。",
+    "content_tr": "憶昔戎葵花下飲，金盃春灩綠鬟欹。\n祇今花似金盃側，獨對西風詠折枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

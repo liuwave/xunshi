@@ -1,0 +1,18 @@
+{
+  "work_id": 17500,
+  "work": {
+    "id": 17500,
+    "title": "赠沈山樵",
+    "title_tr": "贈沈山樵",
+    "author": "凌云翰",
+    "author_tr": "淩云翰",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "连蜷雌霓赋中闻，别有山樵管白云。\n能为苍生作霖雨，道人应不愧休文。",
+    "content_tr": "連蜷雌霓賦中聞，別有山樵管白雲。\n能爲蒼生作霖雨，道人應不愧休文。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

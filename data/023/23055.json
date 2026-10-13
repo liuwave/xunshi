@@ -1,0 +1,18 @@
+{
+  "work_id": 23055,
+  "work": {
+    "id": 23055,
+    "title": "华清宫",
+    "title_tr": "華清宮",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "柳暗春风远，花飞香梦残。\n夜深明月度，寂寞玉雕阑。",
+    "content_tr": "柳暗春風遠，花飛香夢殘。\n夜深明月度，寂寞玉雕闌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

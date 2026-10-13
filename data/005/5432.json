@@ -1,0 +1,18 @@
+{
+  "work_id": 5432,
+  "work": {
+    "id": 5432,
+    "title": "次韵仁近见和怀归五首",
+    "title_tr": "次韻仁近見和懷歸五首",
+    "author": "方回",
+    "author_tr": "方回",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诸公合沓据天津，往事微茫问汉滨。\n老病腐儒无可意，雪霜死草有重春。\n散花不复来天女，中酒焉能致圣人。\n谁且生尘赋罗袜，吾家已恐甑生尘。",
+    "content_tr": "諸公合沓據天津，往事微茫問漢濱。\n老病腐儒無可意，雪霜死草有重春。\n散花不復來天女，中酒焉能致聖人。\n誰且生塵賦羅襪，吾家已恐甑生塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

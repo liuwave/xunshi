@@ -1,0 +1,18 @@
+{
+  "work_id": 11011,
+  "work": {
+    "id": 11011,
+    "title": "题古木",
+    "title_tr": "題古木",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铁石皆生色，冰霜有岁华。\n春雷龙启蛰，星汉客乘槎。",
+    "content_tr": "鐵石皆生色，冰霜有歲華。\n春雷龍啓蟄，星漢客乘槎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

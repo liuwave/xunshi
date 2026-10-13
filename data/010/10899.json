@@ -1,0 +1,18 @@
+{
+  "work_id": 10899,
+  "work": {
+    "id": 10899,
+    "title": "雪霁",
+    "title_tr": "雪霽",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江上千峰雪，天边几缕霞。\n冻澌依岸梗，冰柱落檐花。\n野回山光薄，沙明树影斜。\n负暄貂已敝，抱病虱空爬。",
+    "content_tr": "江上千峯雪，天邊幾縷霞。\n凍澌依岸梗，冰柱落檐花。\n野回山光薄，沙明樹影斜。\n負暄貂已敝，抱病蝨空爬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 15427,
+  "work": {
+    "id": 15427,
+    "title": "颂古七首",
+    "title_tr": "頌古七首",
+    "author": "明本",
+    "author_tr": "明本",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "醉乘白鹤登银阙，梦跨青鸾入绛宫。\n酒醒眼开俱不见，一川桃李自春风。",
+    "content_tr": "醉乘白鶴登銀闕，夢跨青鸞入絳宮。\n酒醒眼開俱不見，一川桃李自春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

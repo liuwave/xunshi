@@ -1,0 +1,18 @@
+{
+  "work_id": 10999,
+  "work": {
+    "id": 10999,
+    "title": "赠刘懋观写真",
+    "title_tr": "贈劉懋觀寫真",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧萧霜鬓隔风尘，却有刘郎为写真。\n金马玉堂成昔梦，苍松白鹤伴闲身。\n伤心南土衣冠少，极目中天日月新。\n更许苏卿老归国，便应黄阁画麒麟。",
+    "content_tr": "蕭蕭霜鬢隔風塵，卻有劉郎爲寫真。\n金馬玉堂成昔夢，蒼松白鶴伴閒身。\n傷心南土衣冠少，極目中天日月新。\n更許蘇卿老歸國，便應黃閣畫麒麟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

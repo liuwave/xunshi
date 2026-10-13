@@ -1,0 +1,18 @@
+{
+  "work_id": 23456,
+  "work": {
+    "id": 23456,
+    "title": "暮春登鹤皋书楼",
+    "title_tr": "暮春登鶴皋書樓",
+    "author": "曹伯启",
+    "author_tr": "曹伯啓",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "官事源源无尽头，偶携佳友共登楼。\n游丝落絮春将尽，古是今非水自流。\n阅历人材温史册，消磨尘虑索茶瓯。\n南邻北里常相望，莫厌贫交杖屦稠。",
+    "content_tr": "官事源源無盡頭，偶攜佳友共登樓。\n遊絲落絮春將盡，古是今非水自流。\n閱歷人材溫史冊，消磨塵慮索茶甌。\n南鄰北里常相望，莫厭貧交杖屨稠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

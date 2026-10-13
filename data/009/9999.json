@@ -1,0 +1,18 @@
+{
+  "work_id": 9999,
+  "work": {
+    "id": 9999,
+    "title": "赵承旨竹石",
+    "title_tr": "趙承旨竹石",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石间生石笋，笋长又成林。\n林下纤纤草，王孙去国心。",
+    "content_tr": "石間生石筍，筍長又成林。\n林下纖纖草，王孫去國心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

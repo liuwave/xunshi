@@ -1,0 +1,18 @@
+{
+  "work_id": 12328,
+  "work": {
+    "id": 12328,
+    "title": "集古听歌",
+    "title_tr": "集古聽歌",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清歌空得隔花闻，寂寞堂前日又曛。\n共待夜深听一曲，女儿弦管弄参军。",
+    "content_tr": "清歌空得隔花聞，寂寞堂前日又曛。\n共待夜深聽一曲，女兒弦管弄參軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

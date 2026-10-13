@@ -1,0 +1,18 @@
+{
+  "work_id": 22343,
+  "work": {
+    "id": 22343,
+    "title": "读书灯",
+    "title_tr": "讀書燈",
+    "author": "张弘范",
+    "author_tr": "張弘範",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "半窗寒雨夜深深，烧断兰膏一寸金。\n莫笑十年尘壁上，也曾明破圣贤心。",
+    "content_tr": "半窗寒雨夜深深，燒斷蘭膏一寸金。\n莫笑十年塵壁上，也曾明破聖賢心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

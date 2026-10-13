@@ -1,0 +1,18 @@
+{
+  "work_id": 10001,
+  "work": {
+    "id": 10001,
+    "title": "居竹轩",
+    "title_tr": "居竹軒",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "定居人种竹，居定竹依人。\n新笋甜于肉，长竿健似身。",
+    "content_tr": "定居人種竹，居定竹依人。\n新筍甜於肉，長竿健似身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

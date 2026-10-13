@@ -1,0 +1,18 @@
+{
+  "work_id": 12357,
+  "work": {
+    "id": 12357,
+    "title": "集古寒食夜雨",
+    "title_tr": "集古寒食夜雨",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风景依稀似去年，鸟啼花发柳含烟。\n夜深斜搭秋千索，独向檐床看雨眠。",
+    "content_tr": "風景依稀似去年，鳥啼花發柳含煙。\n夜深斜搭鞦韆索，獨向檐牀看雨眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

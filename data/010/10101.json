@@ -1,0 +1,18 @@
+{
+  "work_id": 10101,
+  "work": {
+    "id": 10101,
+    "title": "悼时",
+    "title_tr": "悼時",
+    "author": "朱希晦",
+    "author_tr": "朱希晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北风猎猎吹沙尘，天阴雨雪愁杀人。\n江湖万顷舞蛟蜃，山薮千年藏凤麟。\n苏卿使节未归汉，商皓采芝先避秦。\n重华世远不复见，嗟哉风俗何由淳。",
+    "content_tr": "北風獵獵吹沙塵，天陰雨雪愁殺人。\n江湖萬頃舞蛟蜃，山藪千年藏鳳麟。\n蘇卿使節未歸漢，商皓採芝先避秦。\n重華世遠不復見，嗟哉風俗何由淳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

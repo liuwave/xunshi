@@ -1,0 +1,18 @@
+{
+  "work_id": 20123,
+  "work": {
+    "id": 20123,
+    "title": "偶成二首",
+    "title_tr": "偶成二首",
+    "author": "陈基",
+    "author_tr": "陳基",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "武陵溪水碧湾湾，窈窕幽期不可攀。\n戴胜桑间飞自得，王雎洲上语相关。\n歌成桃叶临流和，采得蘋花带月还。\n见说荔支浆已熟，不分涓滴到人间。",
+    "content_tr": "武陵溪水碧灣灣，窈窕幽期不可攀。\n戴勝桑間飛自得，王雎洲上語相關。\n歌成桃葉臨流和，採得蘋花帶月還。\n見說荔支漿已熟，不分涓滴到人間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

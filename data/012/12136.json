@@ -1,0 +1,18 @@
+{
+  "work_id": 12136,
+  "work": {
+    "id": 12136,
+    "title": "下太行",
+    "title_tr": "下太行",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山中日日伴云闲，不见闲云只见山。\n君去试从山下望，青山却在白云间。",
+    "content_tr": "山中日日伴雲閒，不見閒雲只見山。\n君去試從山下望，青山卻在白雲間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

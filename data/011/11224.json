@@ -1,0 +1,18 @@
+{
+  "work_id": 11224,
+  "work": {
+    "id": 11224,
+    "title": "琵琶",
+    "title_tr": "琵琶",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一片相思木，声含古塞秋。\n琵琶是谁制，长拨别离愁。",
+    "content_tr": "一片相思木，聲含古塞秋。\n琵琶是誰制，長撥別離愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

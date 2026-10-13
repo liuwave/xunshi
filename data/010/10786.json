@@ -1,0 +1,18 @@
+{
+  "work_id": 10786,
+  "work": {
+    "id": 10786,
+    "title": "题吴孟郯画溪山雨霁图",
+    "title_tr": "題吳孟郯畫溪山雨霽圖",
+    "author": "吾丘衍",
+    "author_tr": "吾丘衍",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨过西风晚，阴晴向此分。\n溪山净如染，犹有未归云。",
+    "content_tr": "雨過西風晚，陰晴向此分。\n溪山淨如染，猶有未歸雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

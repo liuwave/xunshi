@@ -1,0 +1,18 @@
+{
+  "work_id": 10753,
+  "work": {
+    "id": 10753,
+    "title": "小游仙",
+    "title_tr": "小遊仙",
+    "author": "吴惟善",
+    "author_tr": "吳惟善",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河汉无声海月寒，长鲸吸浪洞庭乾。\n一声铁笛风云动，人在危楼第几阑。",
+    "content_tr": "河漢無聲海月寒，長鯨吸浪洞庭乾。\n一聲鐵笛風雲動，人在危樓第幾闌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

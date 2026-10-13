@@ -1,0 +1,18 @@
+{
+  "work_id": 10191,
+  "work": {
+    "id": 10191,
+    "title": "海翁",
+    "title_tr": "海翁",
+    "author": "行端",
+    "author_tr": "行端",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "穷尽波澜绝一沤，馀生甘自老扁舟。\n四溟高卧月如昼，闲把渔蓑枕白头。",
+    "content_tr": "窮盡波瀾絕一漚，餘生甘自老扁舟。\n四溟高臥月如晝，閒把漁蓑枕白頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

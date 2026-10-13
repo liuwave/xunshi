@@ -1,0 +1,18 @@
+{
+  "work_id": 11150,
+  "work": {
+    "id": 11150,
+    "title": "咏雪用滕字韵",
+    "title_tr": "詠雪用滕字韻",
+    "author": "吕徽之",
+    "author_tr": "呂徽之",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天上九龙施法水，人间二鼠啮枯藤。\n鹜鹅声乱功收蔡，蝴蝶飞来妙过滕。",
+    "content_tr": "天上九龍施法水，人間二鼠齧枯藤。\n鶩鵝聲亂功收蔡，蝴蝶飛來妙過滕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

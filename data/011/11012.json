@@ -1,0 +1,18 @@
+{
+  "work_id": 11012,
+  "work": {
+    "id": 11012,
+    "title": "秋山山景图",
+    "title_tr": "秋山山景圖",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茅屋倚秋树，山楼延夕曛。\n流来桥下水，半是洞中云。",
+    "content_tr": "茅屋倚秋樹，山樓延夕曛。\n流來橋下水，半是洞中雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

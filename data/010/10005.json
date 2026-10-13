@@ -1,0 +1,18 @@
+{
+  "work_id": 10005,
+  "work": {
+    "id": 10005,
+    "title": "题宋子章竹",
+    "title_tr": "題宋子章竹",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄陵只在断云西，苦竹丛深望欲迷。\n帝子不归春又晚，满林烟雨鹧鸪啼。",
+    "content_tr": "黃陵只在斷雲西，苦竹叢深望欲迷。\n帝子不歸春又晚，滿林煙雨鷓鴣啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

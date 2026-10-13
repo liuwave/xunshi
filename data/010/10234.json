@@ -1,0 +1,18 @@
+{
+  "work_id": 10234,
+  "work": {
+    "id": 10234,
+    "title": "贾恭人哀挽",
+    "title_tr": "賈恭人哀輓",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "彼美涵濡厚，于归树立艰。\n持家夫效勇，袭职子承颜。\n海错供甘旨，河壖返佩环。\n因嗟陈孝妇，不见稿砧还。",
+    "content_tr": "彼美涵濡厚，于歸樹立艱。\n持家夫效勇，襲職子承顏。\n海錯供甘旨，河壖返佩環。\n因嗟陳孝婦，不見藁砧還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

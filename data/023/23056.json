@@ -1,0 +1,18 @@
+{
+  "work_id": 23056,
+  "work": {
+    "id": 23056,
+    "title": "长信宫",
+    "title_tr": "長信宮",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "珠箔疏流月，萤归定绣裳。\n宫西灯火合，歌吹起昭阳。",
+    "content_tr": "珠箔疏流月，螢歸定繡裳。\n宮西燈火合，歌吹起昭陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

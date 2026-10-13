@@ -1,0 +1,18 @@
+{
+  "work_id": 15123,
+  "work": {
+    "id": 15123,
+    "title": "池上晚步",
+    "title_tr": "池上晚步",
+    "author": "范梈",
+    "author_tr": "範梈",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清池斜步竹烟微，莺啭重门锁夕晖。\n退食幸堪无趋谒，见人惭道听公非。",
+    "content_tr": "清池斜步竹煙微，鶯囀重門鎖夕暉。\n退食幸堪無趨謁，見人慚道聽公非。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

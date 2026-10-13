@@ -1,0 +1,18 @@
+{
+  "work_id": 11335,
+  "work": {
+    "id": 11335,
+    "title": "春日绝句",
+    "title_tr": "春日絕句",
+    "author": "伯颜",
+    "author_tr": "伯顏",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "几片残红点客衣，小溪流水鳜鱼肥。\n画桥尽日无人过，杨柳青青燕子飞。",
+    "content_tr": "幾片殘紅點客衣，小溪流水鱖魚肥。\n畫橋盡日無人過，楊柳青青燕子飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

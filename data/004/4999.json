@@ -1,0 +1,18 @@
+{
+  "work_id": 4999,
+  "work": {
+    "id": 4999,
+    "title": "晨起二首",
+    "title_tr": "晨起二首",
+    "author": "方回",
+    "author_tr": "方回",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "近市招医士，空庖督爨奴。\n膻荤犹可绝，药饵岂容无。\n既欲营猫饭，仍当续马刍。\n晨兴百需缺，独喜见吾雏。",
+    "content_tr": "近市招醫士，空庖督爨奴。\n羶葷猶可絕，藥餌豈容無。\n既欲營貓飯，仍當續馬芻。\n晨興百需缺，獨喜見吾雛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

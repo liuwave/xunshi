@@ -1,0 +1,18 @@
+{
+  "work_id": 24169,
+  "work": {
+    "id": 24169,
+    "title": "咏鸡",
+    "title_tr": "詠雞",
+    "author": "张昱",
+    "author_tr": "張昱",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凤凰有五色，鸡亦有五德。\n鼓翼不妄啼，一声天下白。",
+    "content_tr": "鳳凰有五色，雞亦有五德。\n鼓翼不妄啼，一聲天下白。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

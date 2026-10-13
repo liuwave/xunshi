@@ -1,0 +1,18 @@
+{
+  "work_id": 16002,
+  "work": {
+    "id": 16002,
+    "title": "对酒吟",
+    "title_tr": "對酒吟",
+    "author": "耶律铸",
+    "author_tr": "耶律鑄",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫劳邹律唤春回，雪尽北山空自来。\n还笑独醒成底事，壮怀须对酒杯开。",
+    "content_tr": "莫勞鄒律喚春回，雪盡北山空自來。\n還笑獨醒成底事，壯懷須對酒杯開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

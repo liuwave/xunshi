@@ -1,0 +1,18 @@
+{
+  "work_id": 11223,
+  "work": {
+    "id": 11223,
+    "title": "商人妇",
+    "title_tr": "商人婦",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日日湖头望，望夫夫未回。\n无情春水恨，只送别船来。",
+    "content_tr": "日日湖頭望，望夫夫未回。\n無情春水恨，祇送別船來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

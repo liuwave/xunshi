@@ -1,0 +1,18 @@
+{
+  "work_id": 10009,
+  "work": {
+    "id": 10009,
+    "title": "邓孝子行卷二首",
+    "title_tr": "鄧孝子行卷二首",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "歌罢河东孝子诗，满堂宾客动嗟咨。\n何由得著斓斑服，一日娱亲十二时。",
+    "content_tr": "歌罷河東孝子詩，滿堂賓客動嗟諮。\n何由得著斕斑服，一日娛親十二時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 12189,
+  "work": {
+    "id": 12189,
+    "title": "长平怀古",
+    "title_tr": "長平懷古",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "赵括虽能读父书，长平一举见规模。\n纵横战国俱陈迹，只有青山似画图。",
+    "content_tr": "趙括雖能讀父書，長平一舉見規模。\n縱橫戰國俱陳跡，只有青山似畫圖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

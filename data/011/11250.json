@@ -1,0 +1,18 @@
+{
+  "work_id": 11250,
+  "work": {
+    "id": 11250,
+    "title": "汉宫",
+    "title_tr": "漢宮",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "武帝升遐玉殿空，金人夜泣月明中。\n三千嫔御无行幸，犹费丹砂饲守宫。",
+    "content_tr": "武帝升遐玉殿空，金人夜泣月明中。\n三千嬪御無行幸，猶費丹砂飼守宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

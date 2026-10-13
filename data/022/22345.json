@@ -1,0 +1,18 @@
+{
+  "work_id": 22345,
+  "work": {
+    "id": 22345,
+    "title": "泛舟",
+    "title_tr": "泛舟",
+    "author": "张弘范",
+    "author_tr": "張弘範",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "半岸澄波雨后平，一篙软绿信流行。\n满船明月双瓶酒，歌入荷花深处横。",
+    "content_tr": "半岸澄波雨後平，一篙軟綠信流行。\n滿船明月雙瓶酒，歌入荷花深處橫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

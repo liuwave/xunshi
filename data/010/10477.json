@@ -1,0 +1,18 @@
+{
+  "work_id": 10477,
+  "work": {
+    "id": 10477,
+    "title": "姑苏即事",
+    "title_tr": "姑蘇即事",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南北东西画舫通，卖鱼输稻不愁风。\n邻人使北归来说，车马京尘十丈红。",
+    "content_tr": "南北東西畫舫通，賣魚輸稻不愁風。\n鄰人使北歸來說，車馬京塵十丈紅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

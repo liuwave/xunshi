@@ -1,0 +1,18 @@
+{
+  "work_id": 21300,
+  "work": {
+    "id": 21300,
+    "title": "药名诗",
+    "title_tr": "藥名詩",
+    "author": "陈高",
+    "author_tr": "陳高",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "丈夫怀远志，儿女苦参商。\n过海防风浪，何当归故乡。",
+    "content_tr": "丈夫懷遠志，兒女苦蔘商。\n過海防風浪，何當歸故鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

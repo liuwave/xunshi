@@ -1,0 +1,18 @@
+{
+  "work_id": 10203,
+  "work": {
+    "id": 10203,
+    "title": "答内",
+    "title_tr": "答內",
+    "author": "吴仁叔",
+    "author_tr": "吳仁叔",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一幅空笺聊达意，佳人端的巧形言。\n贤妻若也投科试，应作人间女状元。",
+    "content_tr": "一幅空箋聊達意，佳人端的巧形言。\n賢妻若也投科試，應作人間女狀元。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 8765,
+  "work": {
+    "id": 8765,
+    "title": "闲居效陶体",
+    "title_tr": "閒居效陶體",
+    "author": "叶颙",
+    "author_tr": "葉顒",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "彭泽归官后，悠然对菊花。\n风云生杖履，雨露蔚桑麻。\n巷僻门常设，樽空酒屡赊。\n柴桑长在望，三径接晴霞。",
+    "content_tr": "彭澤歸官後，悠然對菊花。\n風雲生杖履，雨露蔚桑麻。\n巷僻門常設，樽空酒屢賒。\n柴桑長在望，三徑接晴霞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 23097,
+  "work": {
+    "id": 23097,
+    "title": "咏杨柳",
+    "title_tr": "詠楊柳",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "袅袅斜笼寒雨，年年萦乱愁肠。\n相对不堪憔悴，画眉羞斗纤长。",
+    "content_tr": "嫋嫋斜籠寒雨，年年縈亂愁腸。\n相對不堪憔悴，畫眉羞鬥纖長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

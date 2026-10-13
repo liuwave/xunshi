@@ -1,0 +1,18 @@
+{
+  "work_id": 12123,
+  "work": {
+    "id": 12123,
+    "title": "和筹堂四首琴",
+    "title_tr": "和籌堂四首琴",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山水有清音，琅然出枯木。\n若教俗耳听，丝竹不如肉。",
+    "content_tr": "山水有清音，琅然出枯木。\n若教俗耳聽，絲竹不如肉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

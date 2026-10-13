@@ -1,0 +1,18 @@
+{
+  "work_id": 23432,
+  "work": {
+    "id": 23432,
+    "title": "题桃花溪",
+    "title_tr": "題桃花溪",
+    "author": "张逊",
+    "author_tr": "張遜",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "种桃如种柳，容易得成花。\n千树恐无地，平原堪子家。\n晚风迎窈窕，春水绕污邪。\n久不通人问，循溪步曲斜。",
+    "content_tr": "種桃如種柳，容易得成花。\n千樹恐無地，平原堪子家。\n晚風迎窈窕，春水繞污邪。\n久不通人問，循溪步曲斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

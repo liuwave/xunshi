@@ -1,0 +1,18 @@
+{
+  "work_id": 24123,
+  "work": {
+    "id": 24123,
+    "title": "峡川",
+    "title_tr": "峽川",
+    "author": "张昱",
+    "author_tr": "張昱",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石与青天近，浮云向客低。\n自然堪下泪，不是有猿啼。",
+    "content_tr": "石與青天近，浮雲向客低。\n自然堪下淚，不是有猿啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

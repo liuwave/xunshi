@@ -1,0 +1,18 @@
+{
+  "work_id": 20231,
+  "work": {
+    "id": 20231,
+    "title": "南禅禅寺",
+    "title_tr": "南禪禪寺",
+    "author": "陈阳至",
+    "author_tr": "陳陽至",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水南山寺逢秋社，几树芙蓉未着花。\n薄暮凉风渐吹急，月明山路接溪沙。",
+    "content_tr": "水南山寺逢秋社，幾樹芙蓉未著花。\n薄暮涼風漸吹急，月明山路接溪沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

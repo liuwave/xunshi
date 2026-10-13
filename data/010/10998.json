@@ -1,0 +1,18 @@
+{
+  "work_id": 10998,
+  "work": {
+    "id": 10998,
+    "title": "赋樊氏茅屋",
+    "title_tr": "賦樊氏茅屋",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闻君茅屋住樊川，水影山光接几筵。\n花径约来寻酒伴，柴门系着钓鱼船。\n晴檐兴在从谁赋，秋树高风只自编。\n亦有数椽华盖下，杖藜何日白云边。",
+    "content_tr": "聞君茅屋住樊川，水影山光接几筵。\n花徑約來尋酒伴，柴門繫着釣魚船。\n晴檐興在從誰賦，秋樹高風只自編。\n亦有數椽華蓋下，杖藜何日白雲邊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

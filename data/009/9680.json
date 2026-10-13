@@ -1,0 +1,18 @@
+{
+  "work_id": 9680,
+  "work": {
+    "id": 9680,
+    "title": "晓晴",
+    "title_tr": "曉晴",
+    "author": "朱德润",
+    "author_tr": "朱德潤",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天寒欲晴犹雨，晓色将明未明。\n万里碧云平野，一林落叶无声。",
+    "content_tr": "天寒欲晴猶雨，曉色將明未明。\n萬里碧雲平野，一林落葉無聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

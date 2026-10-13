@@ -1,0 +1,18 @@
+{
+  "work_id": 11234,
+  "work": {
+    "id": 11234,
+    "title": "李三郎",
+    "title_tr": "李三郎",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独跨青骡栈阁间，华清休忆夜鸣銮。\n空教万马盘旋舞，不济崎岖蜀道难。",
+    "content_tr": "獨跨青騾棧閣間，華清休憶夜鳴鑾。\n空教萬馬盤旋舞，不濟崎嶇蜀道難。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

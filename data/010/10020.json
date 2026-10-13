@@ -1,0 +1,18 @@
+{
+  "work_id": 10020,
+  "work": {
+    "id": 10020,
+    "title": "再次韵",
+    "title_tr": "再次韻",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花烛银台沈水香，为郎先暖合欢床。\n小姑纳聘山堂上，缠酒红绡十丈长。",
+    "content_tr": "花燭銀臺瀋水香，爲郎先暖合歡牀。\n小姑納聘山堂上，纏酒紅綃十丈長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

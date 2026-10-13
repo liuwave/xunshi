@@ -1,0 +1,18 @@
+{
+  "work_id": 12490,
+  "work": {
+    "id": 12490,
+    "title": "渔隐图诗为程子纯赋",
+    "title_tr": "漁隱圖詩爲程子純賦",
+    "author": "杜本",
+    "author_tr": "杜本",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山下白云缥缈，水边红树依稀。\n信有桃源深处，渔人今亦忘归。",
+    "content_tr": "山下白雲縹緲，水邊紅樹依稀。\n信有桃源深處，漁人今亦忘歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

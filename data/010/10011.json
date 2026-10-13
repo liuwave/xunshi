@@ -1,0 +1,18 @@
+{
+  "work_id": 10011,
+  "work": {
+    "id": 10011,
+    "title": "送刘将军致仕归襄阳",
+    "title_tr": "送劉將軍致仕歸襄陽",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "当年铁马渡襄江，敌国闻风夜纳降。\n今日却归江上去，岘山青满读书窗。",
+    "content_tr": "當年鐵馬渡襄江，敵國聞風夜納降。\n今日卻歸江上去，峴山青滿讀書窗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 22333,
+  "work": {
+    "id": 22333,
+    "title": "老子送西游图",
+    "title_tr": "老子送西遊圖",
+    "author": "张弘范",
+    "author_tr": "張弘範",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玄教渊源自广成，五千文字总忘情。\n先生本是无为者，何苦青牛万里行。",
+    "content_tr": "玄教淵源自廣成，五千文字總忘情。\n先生本是無爲者，何苦青牛萬里行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

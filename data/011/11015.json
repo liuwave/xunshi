@@ -1,0 +1,18 @@
+{
+  "work_id": 11015,
+  "work": {
+    "id": 11015,
+    "title": "画龙",
+    "title_tr": "畫龍",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天用莫如龙，渊潜閟神功。\n一朝起平陆，八表皆雷风。",
+    "content_tr": "天用莫如龍，淵潛閟神功。\n一朝起平陸，八表皆雷風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 10987,
+  "work": {
+    "id": 10987,
+    "title": "九江冬至日",
+    "title_tr": "九江冬至日",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "愁坐孤城对日长，葭灰动处识微阳。\n八方云物瞻新候，几树梅花忆故乡。\n黄道春回天北陆，紫烟时想殿中央。\n频年凤历催颁朔，曾插金貂侍玉皇。",
+    "content_tr": "愁坐孤城對日長，葭灰動處識微陽。\n八方雲物瞻新候，幾樹梅花憶故鄉。\n黃道春迴天北陸，紫煙時想殿中央。\n頻年鳳歷催頒朔，曾插金貂侍玉皇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

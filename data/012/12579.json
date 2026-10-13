@@ -1,0 +1,18 @@
+{
+  "work_id": 12579,
+  "work": {
+    "id": 12579,
+    "title": "定情篇",
+    "title_tr": "定情篇",
+    "author": "李裕",
+    "author_tr": "李裕",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "愿作云台镜，团圆誓不亏。\n朝朝绮窗里，相对画蛾眉。",
+    "content_tr": "願作雲臺鏡，團圓誓不虧。\n朝朝綺窗裏，相對畫蛾眉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 12334,
+  "work": {
+    "id": 12334,
+    "title": "集古怀古",
+    "title_tr": "集古懷古",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "暮云宫阙古今情，芳草长含玉辇尘。\n春意自知无主惜，落花犹似堕楼人。",
+    "content_tr": "暮雲宮闕古今情，芳草長含玉輦塵。\n春意自知無主惜，落花猶似墮樓人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

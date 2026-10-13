@@ -1,0 +1,18 @@
+{
+  "work_id": 11101,
+  "work": {
+    "id": 11101,
+    "title": "庆原堂诗为萍乡刘氏作",
+    "title_tr": "慶原堂詩爲萍鄉劉氏作",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惟楚萍乡，邑里有堂。\n繄昔刘氏，肇基于唐。",
+    "content_tr": "惟楚萍鄉，邑里有堂。\n繄昔劉氏，肇基於唐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

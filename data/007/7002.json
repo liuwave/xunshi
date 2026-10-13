@@ -1,0 +1,18 @@
+{
+  "work_id": 7002,
+  "work": {
+    "id": 7002,
+    "title": "渡辽",
+    "title_tr": "渡遼",
+    "author": "王寂",
+    "author_tr": "王寂",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我家河朔望咸平，飞鸟犹须半月程。\n尽道辽阳天样远，渡辽何况更东行。",
+    "content_tr": "我家河朔望鹹平，飛鳥猶須半月程。\n盡道遼陽天樣遠，渡遼何況更東行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

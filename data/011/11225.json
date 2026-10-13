@@ -1,0 +1,18 @@
+{
+  "work_id": 11225,
+  "work": {
+    "id": 11225,
+    "title": "寄衣曲",
+    "title_tr": "寄衣曲",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闻有宫袍赐，翻令闺意伤。\n良人在行伍，祇待妾衣裳。",
+    "content_tr": "聞有宮袍賜，翻令閨意傷。\n良人在行伍，祇待妾衣裳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

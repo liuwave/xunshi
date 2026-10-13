@@ -1,0 +1,18 @@
+{
+  "work_id": 12237,
+  "work": {
+    "id": 12237,
+    "title": "老杜醉归图",
+    "title_tr": "老杜醉歸圖",
+    "author": "李俊民",
+    "author_tr": "李俊民",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花下骑驴不踏泥，花闲醉后复何之。\n殷勤骥子扶归去，明日重来别有诗。",
+    "content_tr": "花下騎驢不踏泥，花閒醉後復何之。\n慇勤驥子扶歸去，明日重來別有詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

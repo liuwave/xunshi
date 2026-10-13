@@ -1,0 +1,18 @@
+{
+  "work_id": 10000,
+  "work": {
+    "id": 10000,
+    "title": "坐雨",
+    "title_tr": "坐雨",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行云都是梦，听雨甚于秋。\n㶁㶁盈阶水，时时一尺流。",
+    "content_tr": "行雲都是夢，聽雨甚於秋。\n㶁㶁盈階水，時時一尺流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

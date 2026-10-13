@@ -1,0 +1,18 @@
+{
+  "work_id": 11748,
+  "work": {
+    "id": 11748,
+    "title": "山水小景",
+    "title_tr": "山水小景",
+    "author": "吴景奎",
+    "author_tr": "吳景奎",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋满西山爽气多，山人帷箔卷烟萝。\n清溪只在云林外，夜半月明闻棹歌。",
+    "content_tr": "秋滿西山爽氣多，山人帷箔捲菸蘿。\n清溪只在雲林外，夜半月明聞棹歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

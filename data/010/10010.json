@@ -1,0 +1,18 @@
+{
+  "work_id": 10010,
+  "work": {
+    "id": 10010,
+    "title": "秋塘戏鹅图",
+    "title_tr": "秋塘戲鵝圖",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "满塘秋水看苍鹅，草软沙平奈尔何。\n记得一群黄似酒，杏花梁上落红多。",
+    "content_tr": "滿塘秋水看蒼鵝，草軟沙平奈爾何。\n記得一羣黃似酒，杏花樑上落紅多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

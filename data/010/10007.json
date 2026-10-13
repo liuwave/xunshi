@@ -1,0 +1,18 @@
+{
+  "work_id": 10007,
+  "work": {
+    "id": 10007,
+    "title": "徽庙御画栀子白头翁",
+    "title_tr": "徽廟御畫梔子白頭翁",
+    "author": "成廷圭",
+    "author_tr": "成廷圭",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "栀子红时人正愁，故宫衰草不胜秋。\n西风吹落青城月，啼得山禽也白头。",
+    "content_tr": "梔子紅時人正愁，故宮衰草不勝秋。\n西風吹落青城月，啼得山禽也白頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

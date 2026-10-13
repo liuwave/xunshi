@@ -1,0 +1,18 @@
+{
+  "work_id": 11213,
+  "work": {
+    "id": 11213,
+    "title": "江上意",
+    "title_tr": "江上意",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝来暮还去，寒潮不曾住。\n江水亦有情，佳期几番误。",
+    "content_tr": "朝來暮還去，寒潮不曾住。\n江水亦有情，佳期幾番誤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

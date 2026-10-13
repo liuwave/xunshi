@@ -1,0 +1,18 @@
+{
+  "work_id": 10440,
+  "work": {
+    "id": 10440,
+    "title": "秋江小景",
+    "title_tr": "秋江小景",
+    "author": "宋褧",
+    "author_tr": "宋褧",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜落吴江息暮涛，荻芦花叶冷萧骚。\n山林真隐今谁在，画里渔舟亦自高。",
+    "content_tr": "霜落吳江息暮濤，荻蘆花葉冷蕭騷。\n山林真隱今誰在，畫裏漁舟亦自高。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

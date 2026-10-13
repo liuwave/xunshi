@@ -1,0 +1,18 @@
+{
+  "work_id": 11285,
+  "work": {
+    "id": 11285,
+    "title": "阿房宫图",
+    "title_tr": "阿房宮圖",
+    "author": "宋无",
+    "author_tr": "宋無",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千门万户矗青冥，六国脂膏四海兵。\n岂但此中非帝业，当时犹更有儒坑。",
+    "content_tr": "千門萬戶矗青冥，六國脂膏四海兵。\n豈但此中非帝業，當時猶更有儒坑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

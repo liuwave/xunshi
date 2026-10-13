@@ -1,0 +1,18 @@
+{
+  "work_id": 10100,
+  "work": {
+    "id": 10100,
+    "title": "时危",
+    "title_tr": "時危",
+    "author": "朱希晦",
+    "author_tr": "朱希晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "初闻群盗起河北，胡乃流毒江东西。\n落日空城见烟树，秋风满地喧霜鼙。\n人忍贪残作蛇豕，畴能愤切诛鲸鲵。\n中兴自古须将相，济时有策安黔黎。",
+    "content_tr": "初聞羣盜起河北，胡乃流毒江東西。\n落日空城見煙樹，秋風滿地喧霜鼙。\n人忍貪殘作蛇豕，疇能憤切誅鯨鯢。\n中興自古須將相，濟時有策安黔黎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

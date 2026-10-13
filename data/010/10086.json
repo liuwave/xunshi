@@ -1,0 +1,18 @@
+{
+  "work_id": 10086,
+  "work": {
+    "id": 10086,
+    "title": "春日自况",
+    "title_tr": "春日自況",
+    "author": "朱希晦",
+    "author_tr": "朱希晦",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江边雨初过，正是踏青时。\n载酒兴不浅，杖藜行较迟。\n日阴团碧树，风暖韵黄鹂。\n与客恣游赏，醉来还赋诗。",
+    "content_tr": "江邊雨初過，正是踏青時。\n載酒興不淺，杖藜行較遲。\n日陰團碧樹，風煖韻黃鸝。\n與客恣遊賞，醉來還賦詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

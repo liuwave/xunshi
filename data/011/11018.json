@@ -1,0 +1,18 @@
+{
+  "work_id": 11018,
+  "work": {
+    "id": 11018,
+    "title": "赤壁赋画图",
+    "title_tr": "赤壁賦畫圖",
+    "author": "吴当",
+    "author_tr": "吳當",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水落江潭月满汀，秋光一色漾空青。\n长歌窈窕吹箫者，只许飞来白鹤听。",
+    "content_tr": "水落江潭月滿汀，秋光一色漾空青。\n長歌窈窕吹簫者，祗許飛來白鶴聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 10800,
+  "work": {
+    "id": 10800,
+    "title": "长江巨浪图",
+    "title_tr": "長江巨浪圖",
+    "author": "吾丘衍",
+    "author_tr": "吾丘衍",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卷中秋色似江皋，已觉轩窗走六鳌。\n笑我气吞云梦泽，更将椽笔起波涛。",
+    "content_tr": "卷中秋色似江皋，已覺軒窗走六鰲。\n笑我氣吞雲夢澤，更將椽筆起波濤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
