@@ -1,0 +1,24 @@
+{
+  "work_id": 167,
+  "work": {
+    "id": 167,
+    "title": "断句",
+    "title_tr": "斷句",
+    "author": "苏麟",
+    "author_tr": "蘇麟",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "近水楼台先得月，向阳花木易逢春。",
+    "content_tr": "近水樓臺先得月，向陽花木易逢春。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "靠近水边的楼台先得到月光，向着太阳的花木容易遇到春天。",
+    "annotation": "",
+    "appreciation": "此联只存两句而独立成篇。以近水楼台先得月、向阳花木易逢春属对，取譬极其浅近明白：所处的位置不同，所受的惠泽便有先后之别。两句对仗工稳，物象寻常而理趣盎然，既可作纯粹的写景佳句读，又常被人借来感慨人事，谓际遇如何常系于地位之亲疏远近，而不全在才具高下。后世引用多取其第二层意思，以喻因地位亲疏而机遇悬殊，讽意深长。正因语浅而意深，譬近而旨远，遂成千古传诵的名句。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

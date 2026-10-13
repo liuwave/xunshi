@@ -1,0 +1,24 @@
+{
+  "work_id": 657,
+  "work": {
+    "id": 657,
+    "title": "问刘十九",
+    "title_tr": "問劉十九",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿蚁新醅酒，红泥小火炉。\n晚来天欲雪，能饮一杯无？",
+    "content_tr": "綠蟻新醅酒，紅泥小火爐。\n晚來天欲雪，能飲一杯無？"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "浮着绿色酒沫的新酿米酒，红泥砌成的小火炉。\n晚上天将要下雪，能来喝一杯吗？",
+    "annotation": "绿蚁：新酿的米酒未经过滤，浮起的酒渣色微绿如蚁。\n醅（pēi）：未过滤的酒。",
+    "appreciation": "全诗如一张邀饮的便笺。绿蚁、红泥两两设色，小火炉带来融融暖意；「晚来天欲雪」以欲雪之寒反衬炉酒之暖，情味顿生；末句以口语相询作结，殷勤亲切，把候友人即来的期待都留在问句里。二十字中有色、有温、有邀约，平淡之中见真挚，是白居易通俗晓畅诗风的代表之作。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

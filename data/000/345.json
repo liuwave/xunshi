@@ -1,0 +1,18 @@
+{
+  "work_id": 345,
+  "work": {
+    "id": 345,
+    "title": "履园丛话·水学·三江",
+    "title_tr": "履園叢話·水學·三江",
+    "author": "钱泳",
+    "author_tr": "錢泳",
+    "dynasty": "清",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "大凡治事，必需通观全局，不可执一而论。昔人有专浚吴淞而舍刘河、白茅者，亦有专治刘河而舍吴淞、白茅者，是未察三吴水势也。",
+    "content_tr": "大凡治事，必需通觀全局，不可執一而論。昔人有專浚吳淞而舍劉河、白茅者，亦有專治劉河而舍吳淞、白茅者，是未察三吳水勢也。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

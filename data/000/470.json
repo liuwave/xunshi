@@ -1,0 +1,24 @@
+{
+  "work_id": 470,
+  "work": {
+    "id": 470,
+    "title": "鸟鸣涧",
+    "title_tr": "鳥鳴澗",
+    "author": "王维",
+    "author_tr": "王維",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人闲桂花落，夜静春山空。\n月出惊山鸟，时鸣春涧中。",
+    "content_tr": "人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "人闲静时桂花飘落，夜静了春山显得空寂。\n月亮出来惊动了山鸟，不时在春天的山涧中鸣叫。",
+    "annotation": "空：空寂。\n时：时时，不时。",
+    "appreciation": "二十字写春山夜静。「人闲桂花落」以人闲方能察觉花落，静字自见；「夜静春山空」更进一层，山愈静愈觉空。后两句月出惊鸟、时鸣涧中，以一声鸟鸣破空寂，而静意愈深，即所谓以动衬静。全诗无人事、无机心，花落、月出、鸟鸣皆自然之音，与「空山不见人」诸作同一机杼，于极静中见生趣。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

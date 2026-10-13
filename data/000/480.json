@@ -1,0 +1,18 @@
+{
+  "work_id": 480,
+  "work": {
+    "id": 480,
+    "title": "盘铭",
+    "title_tr": "盤銘",
+    "author": "商汤",
+    "author_tr": "商湯",
+    "dynasty": "商",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "苟日新，日日新，又日新。",
+    "content_tr": "苟日新，日日新，又日新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

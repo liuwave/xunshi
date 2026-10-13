@@ -1,0 +1,24 @@
+{
+  "work_id": 660,
+  "work": {
+    "id": 660,
+    "title": "十二月十五夜",
+    "title_tr": "十二月十五夜",
+    "author": "袁枚",
+    "author_tr": "袁枚",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沉沉更鼓急，渐渐人声绝。\n吹灯窗更明，月照一天雪。",
+    "content_tr": "沉沉更鼓急，漸漸人聲絕。\n吹燈窗更明，月照一天雪。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "沉沉的更鼓声急促，渐渐的人声断绝。\n吹灭灯火，窗前反而更明亮，月光照耀着满天的白雪。",
+    "annotation": "更（gēng）鼓：旧时报更的鼓。",
+    "appreciation": "二十字写雪夜。前两句以更鼓转急、人声渐绝写夜之深、境之静；后两句陡生妙趣——吹灯之后窗前反而更亮，因月色映雪、雪光反照，灯灭恰成了月雪之明的注脚，反常合道；末句「月照一天雪」总揽全局，天地澄澈如洗。全诗从听觉入静，再以视觉翻转收束，小诗而有奇趣，是清人绝句中写静夜的佳构。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

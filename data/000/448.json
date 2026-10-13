@@ -1,0 +1,24 @@
+{
+  "work_id": 448,
+  "work": {
+    "id": 448,
+    "title": "鹿柴",
+    "title_tr": "鹿柴",
+    "author": "王维",
+    "author_tr": "王維",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空山不见人，但闻人语响。\n返景入深林，复照青苔上。",
+    "content_tr": "空山不見人，但聞人語響。\n返景入深林，復照青苔上。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "空寂的山中看不见人，只听到有人说话的声音。\n夕阳返照的光进入深林，重新照在青苔上。",
+    "annotation": "返景（yǐng）：夕阳返照之光。\n景：同「影」，日光。",
+    "appreciation": "鹿柴二十字写空山深林的静境。前两句以「不见人」与「人语响」相对，以偶闻的语响反衬空寂；后两句写返照的夕阳穿入深林，重又照上青苔，光色的瞬息明暗更衬托出林间的幽暗与静谧。声音与光影都以动写静、以明衬暗，见出诗人在观照自然时的禅趣，画面清幽，余响不绝。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}
