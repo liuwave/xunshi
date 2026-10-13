@@ -1,0 +1,24 @@
+{
+  "work_id": 635221,
+  "work": {
+    "id": 635221,
+    "title": "句  其三",
+    "title_tr": "句  其三",
+    "author": "左纬",
+    "author_tr": "左緯",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "禽巢先觉晓，蚁穴未知霜。",
+    "content_tr": "禽巢先覺曉，蟻穴未知霜。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "禽鸟在巢中先觉到天亮，蚁穴中的蚂蚁还不知道下了霜。",
+    "annotation": "蚁穴：蚂蚁的巢穴。",
+    "appreciation": "此联以禽觉晓、蚁未知霜对写：禽鸟栖巢，感曙色之先；蚁穴居下，蔽严霜之至。一动一觉，一先一后，自然物候在两种小生命身上显出迟速之异。字面纯是景语，却暗寓见识长短之分。左纬此联以物喻理，不发议论，而先与未知对照之中，讥短见之意已在言外，对仗轻捷而意涵深沉。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

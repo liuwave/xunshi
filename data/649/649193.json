@@ -1,0 +1,24 @@
+{
+  "work_id": 649193,
+  "work": {
+    "id": 649193,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王濯",
+    "author_tr": "王濯",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绝壁高千丈，清泉应六时。",
+    "content_tr": "絕壁高千丈，清泉應六時。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "绝壁高耸千丈，清泉长流，应和着六时。",
+    "annotation": "六时：古印度将一昼夜分为晨朝、日中、日没、初夜、中夜、后夜六时，诗中借指泉水昼夜长流不息。",
+    "appreciation": "十字一联，写山寺附近的绝壁与清泉。上句以「高千丈」极言壁立之峻，是纵向的夸张；下句以「应六时」极言泉流之久，是时间上的绵长。一高一深，一静一动，一白一青，对仗之中自见天地清寂。「应」字尤妙，仿佛泉水与四时六刻默默相契，无人而自动。此联虽短，却把山寺的高远与幽邃一并收尽，笔意清峭，是大历、晚唐写景联一路的路数，残句而气象已足。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

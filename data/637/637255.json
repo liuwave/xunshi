@@ -1,0 +1,24 @@
+{
+  "work_id": 637255,
+  "work": {
+    "id": 637255,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "陈与义",
+    "author_tr": "陳與義",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野鸭飞无数，桃花湿满枝。\n竹舆鸣细雨，山客有新诗。",
+    "content_tr": "野鴨飛無數，桃花濕滿枝。\n竹輿鳴細雨，山客有新詩。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "野鸭飞起无数，桃花湿润满枝。竹轿在细雨中作响，山客有了新诗。",
+    "annotation": "竹舆：竹轿。",
+    "appreciation": "此诗写山行遇雨的清新小景。前两句“野鸭飞无数”“桃花湿满枝”以疏朗笔写雨后生机，鸭飞花湿，动静相生；后两句“竹舆鸣细雨”写行中之声，“山客有新诗”点出吟兴，四句皆白描而意趣自出。全诗仅二十字，不着情语，却于野鸭、湿桃、细雨、竹轿之间，写出山客从容得句、与自然相得的闲适，是小品中见性灵之作。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

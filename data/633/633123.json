@@ -1,0 +1,18 @@
+{
+  "work_id": 633123,
+  "work": {
+    "id": 633123,
+    "title": "读书",
+    "title_tr": "讀書",
+    "author": "吕本中",
+    "author_tr": "呂本中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老去有余业，读书空作劳。\n时闻夜虫响，每伴午鸡号。\n久静能忘病，因行得出遨。\n胡为良自苦，膏火自煎熬。",
+    "content_tr": "老去有餘業，讀書空作勞。\n時聞夜蟲響，每伴午雞號。\n久靜能忘病，因行得出遨。\n胡爲良自苦，膏火自煎熬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

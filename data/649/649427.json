@@ -1,0 +1,18 @@
+{
+  "work_id": 649427,
+  "work": {
+    "id": 649427,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "叶衡",
+    "author_tr": "葉衡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东家屋被西家盖，仔细思量无利害。\n他时折屋别陈词，如今且以壁为界。",
+    "content_tr": "東家屋被西家蓋，仔細思量無利害。\n他時折屋別陳詞，如今且以壁爲界。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

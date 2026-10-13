@@ -1,0 +1,24 @@
+{
+  "work_id": 640793,
+  "work": {
+    "id": 640793,
+    "title": "句",
+    "title_tr": "句",
+    "author": "吕氏",
+    "author_tr": "呂氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "前身当是陶渊明，爱酒不入远公社。",
+    "content_tr": "前身當是陶淵明，愛酒不入遠公社。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "前身应当是陶渊明，爱酒而不入远公之社。",
+    "annotation": "远公：东晋高僧慧远，居庐山东林寺，曾结白莲社。\n陶渊明：东晋诗人，相传慧远招其入社，陶以嗜酒辞。",
+    "appreciation": "前身当是陶渊明，爱酒不入远公社。以评定调：诗人前身应是陶渊明，因爱酒而不入慧远白莲之社。全句借陶渊明典故自况，既点出嗜酒之癖，又标举一种不肯随附、独守性灵的士人姿态。用当是二字留有余地，不坐实而言其神似，于戏语中见风骨。是宋人喜以先贤自喻的小品笔法，寥寥十四字，而胸襟、性情俱可想见，自有清狂之气。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

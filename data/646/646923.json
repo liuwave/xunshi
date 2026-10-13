@@ -1,0 +1,18 @@
+{
+  "work_id": 646923,
+  "work": {
+    "id": 646923,
+    "title": "黄鹤楼",
+    "title_tr": "黄鶴樓",
+    "author": "王十朋",
+    "author_tr": "王十朋",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云锁吕公洞，月明黄鹤楼。\n抱关非故卒，谁见羽衣游。",
+    "content_tr": "雲鎖呂公洞，月明黄鶴樓。\n抱關非故卒，誰見羽衣游。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

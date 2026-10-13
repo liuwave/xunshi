@@ -1,0 +1,18 @@
+{
+  "work_id": 628122,
+  "work": {
+    "id": 628122,
+    "title": "杜鹃",
+    "title_tr": "杜鵑",
+    "author": "郑瑴",
+    "author_tr": "鄭瑴",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杜鹃飞飞无定栖，寄巢生子百鸟依。\n园林花老昼夜啼，安得百鸟挟以归。",
+    "content_tr": "杜鵑飛飛無定棲，寄巢生子百鳥依。\n園林花老晝夜啼，安得百鳥挾以歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

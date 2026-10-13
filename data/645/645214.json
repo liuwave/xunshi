@@ -1,0 +1,18 @@
+{
+  "work_id": 645214,
+  "work": {
+    "id": 645214,
+    "title": "武侯祠",
+    "title_tr": "武侯祠",
+    "author": "李石",
+    "author_tr": "李石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风弄波涛鼓角喧，蜀江犹有阵图存。\n纶巾羽扇人何在，眼看群儿戯棘门。",
+    "content_tr": "風弄波濤鼓角喧，蜀江猶有陣圖存。\n綸巾羽扇人何在，眼看羣兒戯棘門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

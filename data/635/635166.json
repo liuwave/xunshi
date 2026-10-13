@@ -1,0 +1,24 @@
+{
+  "work_id": 635166,
+  "work": {
+    "id": 635166,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张俊",
+    "author_tr": "張俊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嵩岭便从云外见，岘山应向雪中看。",
+    "content_tr": "嵩嶺便從雲外見，峴山應向雪中看。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "嵩山便可从云外望见，岘山应当在雪中观看。",
+    "annotation": "嵩岭：嵩山，在今河南登封。\n岘山：在今湖北襄阳，晋羊祜曾登此山。",
+    "appreciation": "此为残句，仅存一联。上句嵩岭云外见，写远望之高；下句岘山雪中看，写近赏之幽。两句分写两山，一云一雪，一干一湿，以对举之势撑开一幅山水镜头。嵩岭居中土，岘山在襄阳，一联之中南北形胜俱到；而应向雪中看的应字，把实地观赏化作悬想，残句虽短，已含俯仰江山之概。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

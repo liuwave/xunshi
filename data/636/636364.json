@@ -1,0 +1,18 @@
+{
+  "work_id": 636364,
+  "work": {
+    "id": 636364,
+    "title": "次韵何文缜墨梅二绝  其二",
+    "title_tr": "次韻何文縝墨梅二絕  其二",
+    "author": "墨梅",
+    "author_tr": "墨梅",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昨江湖倒载归，暗香夹路雨霏微。\n谁人貌得春风景，远看如烟近却非。",
+    "content_tr": "憶昨江湖倒載歸，暗香夾路雨霏微。\n誰人貌得春風景，遠看如煙近卻非。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

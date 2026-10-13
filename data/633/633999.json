@@ -1,0 +1,18 @@
+{
+  "work_id": 633999,
+  "work": {
+    "id": 633999,
+    "title": "潇湘亭",
+    "title_tr": "瀟湘亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏绿柳平芜远际天，青山回抱水相连。\n半空梅雨昏窗色，一棹萍风破暝烟。\n酒到愁来那觉醉，诗逢佳客不论篇。\n只知身在将军府，一梦江南落枕边。",
+    "content_tr": "疏綠柳平蕪遠際天，青山迴抱水相連。\n半空梅雨昏窗色，一棹萍風破暝煙。\n酒到愁來那覺醉，詩逢佳客不論篇。\n只知身在將軍府，一夢江南落枕邊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

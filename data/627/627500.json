@@ -1,0 +1,18 @@
+{
+  "work_id": 627500,
+  "work": {
+    "id": 627500,
+    "title": "咏史",
+    "title_tr": "詠史",
+    "author": "李光",
+    "author_tr": "李光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "入关不守旧山河，汉用张良作网罗。\n垓下不知兵已合，夜深方讶楚人多。",
+    "content_tr": "入關不守舊山河，漢用張良作網羅。\n垓下不知兵已合，夜深方訝楚人多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

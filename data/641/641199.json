@@ -1,0 +1,18 @@
+{
+  "work_id": 641199,
+  "work": {
+    "id": 641199,
+    "title": "凤凰曲",
+    "title_tr": "鳳凰曲",
+    "author": "曹勋",
+    "author_tr": "曹勛",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帝子学凤吹，逸响萦回风。\n双飞翔紫霞，驾景凌轻虹。\n戢影入青霭，声断彩云空。",
+    "content_tr": "帝子學鳳吹，逸響縈回風。\n雙飛翔紫霞，駕景凌輕虹。\n戢影入青靄，聲斷彩雲空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

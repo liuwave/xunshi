@@ -1,0 +1,18 @@
+{
+  "work_id": 648237,
+  "work": {
+    "id": 648237,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "邓深",
+    "author_tr": "鄧深",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹅鸭江村曲，人家竹树深。\n闲云自来去，皎日屡晴阴。\n水送园蔬叶，谷传樵斧音。\n瘦驴鞭不动，风处得披襟。",
+    "content_tr": "鵝鴨江村曲，人家竹樹深。\n閑雲自來去，皎日屢晴陰。\n水送園蔬葉，谷傳樵斧音。\n瘦驢鞭不動，風處得披襟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

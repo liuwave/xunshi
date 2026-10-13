@@ -1,0 +1,24 @@
+{
+  "work_id": 635399,
+  "work": {
+    "id": 635399,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王蕃",
+    "author_tr": "王蕃",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南亩桑麻无旧户，西园桃李变新栽。",
+    "content_tr": "南畝桑麻無舊戶，西園桃李變新栽。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "南亩的桑麻已没有旧日的人家，西园的桃李变成了新栽的树。",
+    "annotation": "南亩：泛指农田。\n西园：泛指园囿。",
+    "appreciation": "此联写乱后墟落。南亩桑麻无旧户，是田畴荒芜、旧人散尽；西园桃李变新栽，是园主易姓、花木重栽。一无变之间，盛时人物俱成陈迹。两句皆以地名领起，南北对举，田与园对，旧户与新栽对，看似平叙，而沧桑之叹全在无与变二字。残句虽只十四字，已见时代翻覆。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

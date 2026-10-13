@@ -1,0 +1,18 @@
+{
+  "work_id": 633394,
+  "work": {
+    "id": 633394,
+    "title": "采莲曲",
+    "title_tr": "采蓮曲",
+    "author": "吕本中",
+    "author_tr": "呂本中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "芳时并采曾莲舟，一段相思水缓流。\n憎杀回风无意绪，解侬锦缆转船头。",
+    "content_tr": "芳時並採曾蓮舟，一段相思水緩流。\n憎殺回風無意緒，解儂錦纜轉船頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

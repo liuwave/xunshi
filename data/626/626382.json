@@ -1,0 +1,18 @@
+{
+  "work_id": 626382,
+  "work": {
+    "id": 626382,
+    "title": "挽诗",
+    "title_tr": "挽詩",
+    "author": "李彭",
+    "author_tr": "李彭",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "周南留滞登封日，鲁国逍遥曳杖时。\n海内时流今略尽，不知谁作蔡邕碑。",
+    "content_tr": "周南留滯登封日，魯國逍遙曳杖時。\n海內時流今略盡，不知誰作蔡邕碑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 629200,
+  "work": {
+    "id": 629200,
+    "title": "宫词  其一一",
+    "title_tr": "宮詞  其一一",
+    "author": "宋徽宗",
+    "author_tr": "宋徽宗",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云台呈瑞出坤珍，龙角层芝玉色新。\n从此九茎何足尚，图书麟阁永无伦。",
+    "content_tr": "雲臺呈瑞出坤珍，龍角層芝玉色新。\n從此九莖何足尚，圖書麟閣永無倫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

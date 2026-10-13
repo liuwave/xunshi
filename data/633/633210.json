@@ -1,0 +1,18 @@
+{
+  "work_id": 633210,
+  "work": {
+    "id": 633210,
+    "title": "贾谊",
+    "title_tr": "賈誼",
+    "author": "吕本中",
+    "author_tr": "呂本中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孔丘墨翟并称贤，始信先生学未坚。\n何事退之传此谬，亦将余论点遗编。",
+    "content_tr": "孔丘墨翟並稱賢，始信先生學未堅。\n何事退之傳此謬，亦將餘論點遺編。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

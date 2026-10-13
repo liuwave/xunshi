@@ -1,0 +1,18 @@
+{
+  "work_id": 641207,
+  "work": {
+    "id": 641207,
+    "title": "汉宫词三首  其一",
+    "title_tr": "漢宮詞三首  其一",
+    "author": "曹勋",
+    "author_tr": "曹勛",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜漏沉沉度建章，千门万户锁深房。\n入宫不识君王面，犹被傍人妬晓粧。",
+    "content_tr": "夜漏沉沉度建章，千門萬戶鎖深房。\n入宮不識君王面，猶被傍人妬曉粧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 637371,
+  "work": {
+    "id": 637371,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李善",
+    "author_tr": "李善",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无穷基有无穷问，第一人为第一官。",
+    "content_tr": "無窮基有無窮問，第一人爲第一官。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "无穷的基业有那无穷的疑问，第一等人做那第一等的官。",
+    "annotation": "",
+    "appreciation": "此为残句，语似格言而意含讽喻。上句「无穷基有无穷问」，言基业虽称无穷，所生之忧患疑问亦复无穷，暗指富贵权势未必能免思虑；下句「第一人为第一官」，以顶真般的叠词强调位极之人居位亦极，表面颂扬，细味却有不甘人下或讥世态炎凉之意。两句皆用复叠，「无穷」对「第一」，节奏短促而语气斩截。因仅存断句，无从考其全篇脉络，只能就字面看其对举工整、理带机锋，近于宋人好以议论入诗的习气。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

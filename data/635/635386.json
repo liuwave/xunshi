@@ -1,0 +1,24 @@
+{
+  "work_id": 635386,
+  "work": {
+    "id": 635386,
+    "title": "偈",
+    "title_tr": "偈",
+    "author": "释清了",
+    "author_tr": "釋清了",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天晓浓霜白，依然境末分。\n出门无所辨，华鸟寂无闻。",
+    "content_tr": "天曉濃霜白，依然境末分。\n出門無所辨，華鳥寂無聞。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "天亮时浓霜一片白，心中仍然未对境生分别。出门无所辨识，花鸟寂静无声。",
+    "annotation": "境末分：即境未分，指未对外境生分别心。末，通未。\n华鸟：花鸟。",
+    "appreciation": "此偈写破晓出行所见。天晓霜白是外景，境末分是内心；霜白而境未分，正是禅家不于境上生心的境界。下二句出门无所辨、花鸟寂无闻，把视觉听觉一齐放平，将清晨的霜白静寂写成一味。四句由景入禅，由外境归内心，不施棒喝，而禅寂之意自现。清了此偈以平常语入平常境，正与浓霜花鸟的清晨同一机杼。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

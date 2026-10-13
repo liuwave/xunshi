@@ -1,0 +1,24 @@
+{
+  "work_id": 639348,
+  "work": {
+    "id": 639348,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "曾慥",
+    "author_tr": "曾慥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风三度发孤妍，扑面幽香十里传。",
+    "content_tr": "秋風三度發孤妍，撲面幽香十里傳。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "秋风里第三次绽放出孤高的妍丽，扑面的幽香一直传到十里之外。",
+    "annotation": "",
+    "appreciation": "秋风三度发孤妍，扑面幽香十里传。上句写花在秋风中三度绽放，孤妍二字既状花之清丽，亦见其孤高不群；下句写幽香扑面、远传十里，由视觉转嗅觉，以香之广远衬花之精神。全诗虽短，却以孤立骨，暗含诗人于萧瑟秋风中独赏清芳的孤高情怀，物我之间形成一种默契的呼应。三度点明时序流转，十里极言其远，尺幅之中见深致，是咏物小句不即不离的写法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

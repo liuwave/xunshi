@@ -1,0 +1,24 @@
+{
+  "work_id": 635175,
+  "work": {
+    "id": 635175,
+    "title": "句",
+    "title_tr": "句",
+    "author": "华山道人",
+    "author_tr": "華山道人",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北蕃群犬窥篱落，惊起南朝老大虫。",
+    "content_tr": "北蕃群犬窺籬落，驚起南朝老大蟲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "北方蕃族的群犬窥视篱笆，惊起了南朝的大老虎。",
+    "annotation": "北蕃：指北方外族。\n篱落：篱笆。\n老大虫：即大虫，唐宋俗语指老虎。",
+    "appreciation": "华山道人此联以比喻对举：北蕃群犬窥篱，南朝老大虫惊起。以犬喻外族之贪窥，以大虫喻南朝之威棱，意象粗豪而对仗工稳。篱落对老大虫，一卑一尊；窥对惊起，一静一动。联句虽残，气势开张，将边警突至、守军猛醒的瞬间浓缩于十四字，道人本色在粗服乱头中见凛然。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

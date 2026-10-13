@@ -1,0 +1,24 @@
+{
+  "work_id": 639366,
+  "work": {
+    "id": 639366,
+    "title": "句",
+    "title_tr": "句",
+    "author": "罗大全",
+    "author_tr": "羅大全",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "愿挽玻瓈江，霈作东州雨。",
+    "content_tr": "願挽玻瓈江，霈作東州雨。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "愿挽起如玻璃般澄澈的江水，沛然降作东州的甘雨。",
+    "annotation": "玻瓈（bō lí）：同玻璃，此处形容江水澄澈如玻璃。\n霈（pèi）：大雨、甘霖。\n东州：东方州郡（具体所指存疑）。",
+    "appreciation": "愿挽玻瓈江，霈作东州雨。仅十字而怀抱显豁：上句以玻瓈喻江水澄澈晶莹，又暗含挽之豪情与人力可回天之念；下句霈字写大雨沛然，愿以此一江之水化作甘霖泽被东州。全诗以祈愿口吻，将爱民济物之志托于自然意象，虽短小而气象开阔，见士大夫以天下为念的胸襟。语言质朴而立意高远，十字之中自见格局，是短章见大之例。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

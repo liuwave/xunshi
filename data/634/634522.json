@@ -1,0 +1,18 @@
+{
+  "work_id": 634522,
+  "work": {
+    "id": 634522,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "张表臣",
+    "author_tr": "張表臣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "射飞何必捐金弹，抵鹊虚烦用夜光。\n切玉昆吾宁刺豕，断蛟干越岂刲羊。",
+    "content_tr": "射飛何必捐金彈，抵鵲虛煩用夜光。\n切玉昆吾寧刺豕，斷蛟干越豈刲羊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

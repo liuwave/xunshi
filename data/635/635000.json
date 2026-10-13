@@ -1,0 +1,18 @@
+{
+  "work_id": 635000,
+  "work": {
+    "id": 635000,
+    "title": "春日偶题",
+    "title_tr": "春日偶題",
+    "author": "陈东",
+    "author_tr": "陳東",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "驱除睡思茶瓯外，收拾春光酒盏中。\n万种穷愁浑不问，世间此乐几人同。",
+    "content_tr": "驅除睡思茶甌外，收拾春光酒盞中。\n萬種窮愁渾不問，世間此樂幾人同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

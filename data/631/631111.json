@@ -1,0 +1,18 @@
+{
+  "work_id": 631111,
+  "work": {
+    "id": 631111,
+    "title": "春雨",
+    "title_tr": "春雨",
+    "author": "李纲",
+    "author_tr": "李綱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春晚雨声碎，天深云影低。\n萧萧度远岫，脉脉涨前溪。\n芳润归花蕾，清寒作燕泥。\n池塘梦生草，碧色已凄迷。",
+    "content_tr": "春晚雨聲碎，天深雲影低。\n蕭蕭度遠岫，脉脉漲前溪。\n芳潤歸花蕾，清寒作燕泥。\n池塘夢生草，碧色已凄迷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

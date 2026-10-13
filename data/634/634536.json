@@ -1,0 +1,18 @@
+{
+  "work_id": 634536,
+  "work": {
+    "id": 634536,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "侯延庆",
+    "author_tr": "侯延慶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云来万山动，云去天一色。\n长啸两三声，天高秋月白。",
+    "content_tr": "雲來萬山動，雲去天一色。\n長嘯兩三聲，天高秋月白。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 645828,
+  "work": {
+    "id": 645828,
+    "title": "回文绝句",
+    "title_tr": "回文絕句",
+    "author": "黄公度",
+    "author_tr": "黄公度",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "歌阕一尊清昼长，曲池小景晚风凉。\n波微动处见鱼戏，荷半开时过雨香。",
+    "content_tr": "歌闋一尊清晝長，曲池小景晚風凉。\n波微動處見魚戲，荷半開時過雨香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

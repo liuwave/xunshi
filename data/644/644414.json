@@ -1,0 +1,24 @@
+{
+  "work_id": 644414,
+  "work": {
+    "id": 644414,
+    "title": "句",
+    "title_tr": "句",
+    "author": "谢凤",
+    "author_tr": "謝鳳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "两袖清风蓬岛路，一襟明月海天秋。",
+    "content_tr": "兩袖清風蓬島路，一襟明月海天秋。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "两袖清风走在蓬莱仙岛之路，一襟明月海天秋色。",
+    "annotation": "蓬岛：蓬莱仙岛，泛指仙境。",
+    "appreciation": "此联写高洁出尘之怀，意象清远。“两袖清风蓬岛路”以“两袖清风”写宦囊萧然、操守廉洁，又兼飘然仙举之致，“蓬岛路”点蓬莱仙境，喻去尘脱俗之途；“一襟明月海天秋”以“一襟明月”写襟怀澄澈如月，“海天秋”拓开寥廓秋景，心境与物境同其清空。两句对仗精整，以“清风”“明月”二物贯串，把廉洁自守与超然物外之怀融于海天秋色，不著议论而高致自见，是宋人写胸次小联的佳构。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

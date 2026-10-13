@@ -1,0 +1,24 @@
+{
+  "work_id": 635364,
+  "work": {
+    "id": 635364,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "陆宰",
+    "author_tr": "陸宰",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "奴爱才如萧颖士，婢知诗郑康成。",
+    "content_tr": "奴愛才如蕭穎士，婢知詩鄭康成。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "奴仆爱才像萧颖士，婢女知诗像郑康成。",
+    "annotation": "萧颖士：唐代文士，喜奖掖后进。\n郑康成：郑玄，东汉经学家；世传其家婢女皆能引《诗》应对。",
+    "appreciation": "此联连用两典：奴爱才如萧颖士，婢知诗如郑康成。萧颖士喜奖拔后进，郑康成家婢皆能引《诗》应对，一主于才，一主于学。两句以奴仆婢妾之微，反衬主人门风之雅。对仗工稳，用典如在目前，陆宰以十四字写家世儒雅，不直言门第而门第自见，残句中已见清切。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

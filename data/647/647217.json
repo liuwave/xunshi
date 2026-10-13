@@ -1,0 +1,18 @@
+{
+  "work_id": 647217,
+  "work": {
+    "id": 647217,
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "王予可",
+    "author_tr": "王予可",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水曲朱门漪漾漫，一帘花雨月波寒。\n金闺背衬鸳鸯冷，春困秋千立画干。",
+    "content_tr": "水曲朱門漪漾漫，一簾花雨月波寒。\n金閨背襯鴛鴦冷，春困秋千立畫干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

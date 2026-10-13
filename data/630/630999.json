@@ -1,0 +1,18 @@
+{
+  "work_id": 630999,
+  "work": {
+    "id": 630999,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "李纲",
+    "author_tr": "李綱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "殷侯左降惟书字，陆相南迁不著书。\n今我新诗三百首，坐令二子觉区区。",
+    "content_tr": "殷侯左降惟書字，陸相南遷不著書。\n今我新詩三百首，坐令二子覺區區。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

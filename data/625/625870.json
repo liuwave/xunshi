@@ -1,0 +1,18 @@
+{
+  "work_id": 625870,
+  "work": {
+    "id": 625870,
+    "title": "咏史",
+    "title_tr": "詠史",
+    "author": "徐俯",
+    "author_tr": "徐俯",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楚汉分争辨士忧，东归那复割鸿沟。\n郑君立义不名藉，项伯胡颜肯姓刘。",
+    "content_tr": "楚漢分爭辨士憂，東歸那復割鴻溝。\n鄭君立義不名藉，項伯胡顔肯姓劉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

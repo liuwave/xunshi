@@ -1,0 +1,18 @@
+{
+  "work_id": 642000,
+  "work": {
+    "id": 642000,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "尼正觉",
+    "author_tr": "尼正覺",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春朝湖上风兼雨，世事如花落又开。\n退省闭门真乐处，闲云终日去还来。",
+    "content_tr": "春朝湖上風兼雨，世事如花落又開。\n退省閉門真樂處，閑雲終日去還來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 626709,
+  "work": {
+    "id": 626709,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "张扩",
+    "author_tr": "張擴",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "范侯渥漥种，出水已权奇。\n失身肉马群，俯首枯豆萁。",
+    "content_tr": "范侯渥漥種，出水已權奇。\n失身肉馬羣，俯首枯豆萁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

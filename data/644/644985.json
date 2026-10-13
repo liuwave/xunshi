@@ -1,0 +1,24 @@
+{
+  "work_id": 644985,
+  "work": {
+    "id": 644985,
+    "title": "句",
+    "title_tr": "句",
+    "author": "胡汾",
+    "author_tr": "胡汾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轮中如有物，光外更无空。",
+    "content_tr": "輪中如有物，光外更無空。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "轮中如有物：轮中好像有物。\n光外更无空：光之外更无空处。",
+    "annotation": "",
+    "appreciation": "此残句语意玄远，似咏轮与光，含蕴理趣。「轮中如有物」写轮内似含实有之物，若虚若实，令人疑其中有体；「光外更无空」谓光之所及更无空缺，满盈无隙，一片澄明。物与空对举，有与无相参，颇近禅理或物理之辨——轮转之中似藏实体，光耀之外了无虚空，二者一藏一显，互为映照。仅存十字，已足启人思议，然上下文尽佚，其确指难明，或咏器物，或寓玄理，皆未可确证。姑就字面立论，存其理趣可也，不必强为之说。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

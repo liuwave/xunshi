@@ -1,0 +1,18 @@
+{
+  "work_id": 631579,
+  "work": {
+    "id": 631579,
+    "title": "梁谿八咏 中隐堂",
+    "title_tr": "梁谿八詠 中隱堂",
+    "author": "李纲",
+    "author_tr": "李綱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不在山林不市朝，且将图史当渔樵。\n桂花想见秋来盛，香满西风取次飘。",
+    "content_tr": "不在山林不市朝，且將圖史當漁樵。\n桂花想見秋來盛，香滿西風取次飄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
