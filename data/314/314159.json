@@ -1,0 +1,18 @@
+{
+  "work_id": 314159,
+  "work": {
+    "id": 314159,
+    "title": "奉和家大人草堂课耕韵",
+    "title_tr": "奉和家大人草堂課耕韻",
+    "author": "李美仪",
+    "author_tr": "李美儀",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东舍幽栖处，柴门接野田。\n一春滋草径，三月酿花天。\n林雀喧晨霁，邻鸡报午烟。\n频年收获好，膝下得欢然。",
+    "content_tr": "東舍幽棲處，柴門接野田。\n一春滋草徑，三月釀花天。\n林雀喧晨霽，鄰雞報午煙。\n頻年收穫好，膝下得歡然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

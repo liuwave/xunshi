@@ -1,0 +1,18 @@
+{
+  "work_id": 300198,
+  "work": {
+    "id": 300198,
+    "title": "江上吹笳曲",
+    "title_tr": "江上吹笳曲",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨柳青青覆浅沙，西陵江上暮吹笳。\n前旌已渡猫儿口，后部还寻师子花。",
+    "content_tr": "楊栁青青覆淺沙，西陵江上暮吹笳。\n前旌已渡猫兒口，後部還尋師子花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

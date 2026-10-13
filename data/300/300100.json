@@ -1,0 +1,18 @@
+{
+  "work_id": 300100,
+  "work": {
+    "id": 300100,
+    "title": "渔山平贼凯歌四首 其三",
+    "title_tr": "漁山平賊凱歌四首 其三",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "单车刺史旧行边，山郡饥来寇盗连。\n降幡齐出兰阴砦，解剑争归濑上田。",
+    "content_tr": "單車刺史舊行邊，山郡飢來宼盜連。\n䧏幡齊出蘭隂砦，解劍爭歸瀨上田。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

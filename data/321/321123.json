@@ -1,0 +1,18 @@
+{
+  "work_id": 321123,
+  "work": {
+    "id": 321123,
+    "title": "海门杂感",
+    "title_tr": "海門雜感",
+    "author": "姚浚昌",
+    "author_tr": "姚浚昌",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铁瓮城东接浦江，偻船旧部本无双。\n沿边不是无胡马，未筑三城已受降。",
+    "content_tr": "鐵甕城東接浦江，僂船舊部本無雙。\n沿邊不是無胡馬，未築三城已受降。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

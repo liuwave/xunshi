@@ -1,0 +1,18 @@
+{
+  "work_id": 300309,
+  "work": {
+    "id": 300309,
+    "title": "重和绝句 其一",
+    "title_tr": "重和絶句 其一",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "燕子楼前双燕飞，旧时桃叶渡头稀。\n只怜尚有秦淮水，载得花船缓缓归。",
+    "content_tr": "燕子樓前雙燕飛，舊時桃葉渡頭稀。\n只憐尚有秦淮水，載得花船緩緩歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

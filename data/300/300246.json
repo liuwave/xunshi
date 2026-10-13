@@ -1,0 +1,18 @@
+{
+  "work_id": 300246,
+  "work": {
+    "id": 300246,
+    "title": "题墨牡丹画",
+    "title_tr": "題墨牡丹畵",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一枝初向洛桥分，漠漠春山淡淡云。\n恰似汉宫新赐浴，风前试着墨丝裙。",
+    "content_tr": "一枝初向洛橋分，漠漠春山淡淡雲。\n恰似漢宮新賜浴，風前試着墨絲裙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

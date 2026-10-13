@@ -1,0 +1,18 @@
+{
+  "work_id": 323123,
+  "work": {
+    "id": 323123,
+    "title": "滁州看山",
+    "title_tr": "滁州看山",
+    "author": "查慎行",
+    "author_tr": "查慎行",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雾薄疏林晴暧暧，雪消幽涧响潺潺。\n晓来冲雾踏残雪，爱看环滁面面山。",
+    "content_tr": "霧薄疎林晴曖曖，雪消幽澗響潺潺。\n曉來衝霧踏殘雪，愛看環滁面靣山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

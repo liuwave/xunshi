@@ -1,0 +1,18 @@
+{
+  "work_id": 321231,
+  "work": {
+    "id": 321231,
+    "title": "宿云栖庵",
+    "title_tr": "宿雲棲庵",
+    "author": "柯崇朴",
+    "author_tr": "柯崇樸",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "远公遗迹在，古寺暮云封。\n磴转苍苔合，岩回碧树重。\n香台时下鸟，阴壑暗藏龙。\n坐久心忘寂，沈沈听夜钟。",
+    "content_tr": "遠公遺蹟在，古寺暮雲封。\n磴轉蒼苔合，巖回碧樹重。\n香臺時下鳥，陰壑暗藏龍。\n坐久心忘寂，沈沈聽夜鍾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 321100,
+  "work": {
+    "id": 321100,
+    "title": "望山庄",
+    "title_tr": "望山莊",
+    "author": "施国义",
+    "author_tr": "施國義",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "几处花飞淡远天，夕阳芳草带晴烟。\n声声布谷催人急，野老荷锄归暮田。",
+    "content_tr": "幾處花飛淡遠天，夕陽芳草帶晴煙。\n聲聲布穀催人急，野老荷鋤歸暮田。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

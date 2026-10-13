@@ -1,0 +1,18 @@
+{
+  "work_id": 321678,
+  "work": {
+    "id": 321678,
+    "title": "古诗四章 其一",
+    "title_tr": "古詩四章 其一",
+    "author": "查慎行",
+    "author_tr": "查慎行",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天荒地亦老，变化蕃草木。\n自从开辟来，悦人以红绿。\n有荣斯有瘁，坐觉流转速。\n传语好风光，宁能衒无目。",
+    "content_tr": "天荒地亦老，變化蕃草木。\n自從開闢來，悅人以紅綠。\n有榮斯有瘁，坐覺流轉速。\n傳語好風光，寧能衒無目。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

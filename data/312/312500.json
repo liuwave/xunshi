@@ -1,0 +1,18 @@
+{
+  "work_id": 312500,
+  "work": {
+    "id": 312500,
+    "title": "和《梦西陂秋日》韵",
+    "title_tr": "和《夢西陂秋日》韻",
+    "author": "宋至",
+    "author_tr": "宋至",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西陂西望足烟波，听彻渔家铜斗歌。\n春梦秋归偶题句，莺花撩乱客思多。",
+    "content_tr": "西陂西望足煙波，聽徹漁家銅斗歌。\n春夢秋歸偶題句，鶯花撩亂客思多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

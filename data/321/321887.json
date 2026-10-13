@@ -1,0 +1,18 @@
+{
+  "work_id": 321887,
+  "work": {
+    "id": 321887,
+    "title": "鸦拾粒行",
+    "title_tr": "鴉拾粒行",
+    "author": "查慎行",
+    "author_tr": "查慎行",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "牛前仰而犁，鸦后俯以拾。\n牛岂为鸦耕，鸦因牛得粒。\n农夫呞牛长苦饥，不如鸦群饱食东西飞。",
+    "content_tr": "牛前仰而犂，鴉後俛以拾。\n牛豈爲鴉耕，鴉因牛得粒。\n農夫呞牛長苦饑，不如鴉群飽食東西飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

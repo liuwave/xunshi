@@ -1,0 +1,18 @@
+{
+  "work_id": 300000,
+  "work": {
+    "id": 300000,
+    "title": "江南杂诗四首 其二",
+    "title_tr": "江南雜詩四首 其二",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "聚宝门前路，长干寺外桥。\n市帘斜挂处，山叶下萧萧。",
+    "content_tr": "聚寶門前路，長干寺外橋。\n市帘斜掛處，山葉下蕭蕭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

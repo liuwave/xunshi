@@ -1,0 +1,18 @@
+{
+  "work_id": 300245,
+  "work": {
+    "id": 300245,
+    "title": "题影幛",
+    "title_tr": "題影幛",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉树茏葱照绿苔，鸳鸯湖上石城隈。\n是谁写出沧洲意，错认麻姑渡海来。",
+    "content_tr": "玉樹蘢蔥照綠苔，鴛鴦湖上石城隈。\n是誰寫出滄洲意，錯認麻姑渡海來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

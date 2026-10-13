@@ -1,0 +1,18 @@
+{
+  "work_id": 303030,
+  "work": {
+    "id": 303030,
+    "title": "南园（乙巳、丙午、丁未稿，清光绪卅一、卅二、卅三年）",
+    "title_tr": "南園（乙巳、丙午、丁未稿，清光緒卅一、卅二、卅三年）",
+    "author": "丘逢甲",
+    "author_tr": "丘逢甲",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉带河边万柳丝，跨河楼阁郁参差。\n重来只恐风光异，再为南园住少时。",
+    "content_tr": "玉帶河邊萬柳絲，跨河樓閣鬱參差。\n重來祗恐風光異，再為南園住少時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

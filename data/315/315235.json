@@ -1,0 +1,18 @@
+{
+  "work_id": 315235,
+  "work": {
+    "id": 315235,
+    "title": "分宜咏古",
+    "title_tr": "分宜詠古",
+    "author": "沈毓荪",
+    "author_tr": "沈毓蓀",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "钤山辜负读书台，山上{钦鸟}䲹去不回。\n千古青词惜英主，廿年黄阁误庸才。\n声华梁窦宾僚续，局样京攸父子开。\n今日朱门何处问，村连下界牧羊来。",
+    "content_tr": "鈐山辜負讀書檯，山上{欽鳥}䲹去不回。\n千古青詞惜英主，廿年黃閣誤庸才。\n聲華樑竇賓僚續，局樣京攸父子開。\n今日朱門何處問，村連下界牧羊來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

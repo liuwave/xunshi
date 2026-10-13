@@ -1,0 +1,18 @@
+{
+  "work_id": 300003,
+  "work": {
+    "id": 300003,
+    "title": "和送春曲 其一",
+    "title_tr": "和送春曲 其一",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "芳草茫茫路，春光任去遥。\n生年苦离别，不复上河桥。",
+    "content_tr": "芳草茫茫路，春光任去遙。\n生年苦離别，不復上河橋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

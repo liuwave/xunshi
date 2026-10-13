@@ -1,0 +1,18 @@
+{
+  "work_id": 302726,
+  "work": {
+    "id": 302726,
+    "title": "酒田",
+    "title_tr": "酒田",
+    "author": "丘逢甲",
+    "author_tr": "丘逢甲",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麻姑峰头彩云光，麻姑峰下酒田香。\n不向麻姑买沧海，但买酒田耕夕阳。",
+    "content_tr": "麻姑峯頭彩雲光，麻姑峯下酒田香。\n不向麻姑買滄海，但買酒田耕夕陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

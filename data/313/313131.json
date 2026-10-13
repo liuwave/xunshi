@@ -1,0 +1,18 @@
+{
+  "work_id": 313131,
+  "work": {
+    "id": 313131,
+    "title": "青溪曲",
+    "title_tr": "青溪曲",
+    "author": "李敬",
+    "author_tr": "李敬",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十里青溪半藕花，亭台相向夕阳斜。\n小姑不解伤心事，夜夜月明来浣纱。",
+    "content_tr": "十里青溪半藕花，亭臺相向夕陽斜。\n小姑不解傷心事，夜夜月明來浣紗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

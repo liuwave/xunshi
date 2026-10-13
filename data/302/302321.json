@@ -1,0 +1,18 @@
+{
+  "work_id": 302321,
+  "work": {
+    "id": 302321,
+    "title": "羊城中秋",
+    "title_tr": "羊城中秋",
+    "author": "丘逢甲",
+    "author_tr": "丘逢甲",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长啸天南念远游，尉佗台畔作中秋。\n酒杯借我酬佳节，明月随人到广州。\n说饼但馀名士气，飞觞终取虏王头。\n大江东去连沧海，且听珠娘发棹讴。",
+    "content_tr": "長嘯天南念遠遊，尉佗臺畔作中秋。\n酒杯借我酬佳節，明月隨人到廣州。\n說餅但餘名士氣，飛觴終取虜王頭。\n大江東去連滄海，且聽珠娘發棹謳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

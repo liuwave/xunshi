@@ -1,0 +1,18 @@
+{
+  "work_id": 300025,
+  "work": {
+    "id": 300025,
+    "title": "山居杂诗 其十一",
+    "title_tr": "山居雜詩 其十一",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "落花流前溪，溪石拥花住。\n浣女不解愁，素指拨流去。",
+    "content_tr": "落花流前溪，溪石擁花住。\n浣女不解愁，素指撥流去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

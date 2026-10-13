@@ -1,0 +1,18 @@
+{
+  "work_id": 301733,
+  "work": {
+    "id": 301733,
+    "title": "锦江东下绝句",
+    "title_tr": "錦江東下絕句",
+    "author": "毛澄",
+    "author_tr": "毛澄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春江风信冷于秋，不必秋心始算愁。\n水似镜奁山似黛，一帆烟雨下眉州。",
+    "content_tr": "春江風信冷於秋，不必秋心始算愁。\n水似鏡奩山似黛，一帆煙雨下眉州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 300050,
+  "work": {
+    "id": 300050,
+    "title": "天衣杂咏诗 其十一 双乌",
+    "title_tr": "天衣襍詠詩 其十一 雙烏",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山白项乌，年年送雏去。\n祇为恋丹轮，双栖贝多树。",
+    "content_tr": "青山白項烏，年年送雛去。\n祇為戀丹輪，雙棲貝多樹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

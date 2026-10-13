@@ -1,0 +1,18 @@
+{
+  "work_id": 300213,
+  "work": {
+    "id": 300213,
+    "title": "发采石",
+    "title_tr": "發采石",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天门相望楚江秋，采石矶边旧酒楼。\n醉里乘潮牵缆上，不疑江水向东流。",
+    "content_tr": "天門相望楚江秋，采石磯邉舊酒樓。\n醉裏乗潮牽纜上，不疑江水向東流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

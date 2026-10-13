@@ -1,0 +1,18 @@
+{
+  "work_id": 300228,
+  "work": {
+    "id": 300228,
+    "title": "甘泉宫词 其一",
+    "title_tr": "甘泉宮詞 其一",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉苑通天拂羽旗，平明驾幸集灵池。\n紫衣使者持瑄玉，候祀甘泉泰乙祠。",
+    "content_tr": "漢苑通天拂羽旗，平明駕幸集靈池。\n紫衣使者持瑄玉，候祀甘泉泰乙祠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 312345,
+  "work": {
+    "id": 312345,
+    "title": "望太行山",
+    "title_tr": "望太行山",
+    "author": "李?媖",
+    "author_tr": "李?媖",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "太行天下脊，形胜孰能齐。\n一线盘空上，三霄入望低。\n杂花薰巘崿，怪石碎轮啼。\n千古孙阳顾，何人解骏嘶。",
+    "content_tr": "太行天下脊，形勝孰能齊。\n一線盤空上，三霄入望低。\n雜花薰巘崿，怪石碎輪啼。\n千古孫陽顧，何人解駿嘶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

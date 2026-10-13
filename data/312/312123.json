@@ -1,0 +1,18 @@
+{
+  "work_id": 312123,
+  "work": {
+    "id": 312123,
+    "title": "夜月登大观亭",
+    "title_tr": "夜月登大觀亭",
+    "author": "李振钧",
+    "author_tr": "李振鈞",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里初秋月，中江第一亭。\n堑深规地险，祠古吊忠灵。\n云共遥天碧，镫馀隔岸青。\n登高发长啸，疑有蛰龙听。",
+    "content_tr": "萬里初秋月，中江第一亭。\n塹深規地險，祠古吊忠靈。\n雲共遙天碧，鐙餘隔岸青。\n登高發長嘯，疑有蟄龍聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

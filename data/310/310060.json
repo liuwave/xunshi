@@ -1,0 +1,18 @@
+{
+  "work_id": 310060,
+  "work": {
+    "id": 310060,
+    "title": "秦州词",
+    "title_tr": "秦州詞",
+    "author": "吕履恒",
+    "author_tr": "呂履恆",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嘉陵江水向西流，大散关南天正秋。\n一夜猿啼枫叶落，征人十万下秦州。",
+    "content_tr": "嘉陵江水向西流，大散關南天正秋。\n一夜猿啼楓葉落，徵人十萬下秦州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

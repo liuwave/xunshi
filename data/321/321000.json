@@ -1,0 +1,18 @@
+{
+  "work_id": 321000,
+  "work": {
+    "id": 321000,
+    "title": "甲戌湘上即事",
+    "title_tr": "甲戌湘上即事",
+    "author": "金应澍",
+    "author_tr": "金應澍",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白发嬉春日，红颜醉酒时。\n病多思旧里，事少积新诗。\n倦鸟飞难定，寒梅放较迟。\n欲归归未得，计拙有谁知。",
+    "content_tr": "白髮嬉春日，紅顏醉酒時。\n病多思舊里，事少積新詩。\n倦鳥飛難定，寒梅放較遲。\n欲歸歸未得，計拙有誰知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 300045,
+  "work": {
+    "id": 300045,
+    "title": "江南杂诗四首 其一",
+    "title_tr": "江南雜詩四首 其一",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十里秦淮水，曾经送泰娘。\n红船停浅濑，画阁覆垂杨。",
+    "content_tr": "十里秦淮水，曾經送泰娘。\n紅船停淺瀨，畫閣覆垂楊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 321999,
+  "work": {
+    "id": 321999,
+    "title": "大小米滩",
+    "title_tr": "大小米灘",
+    "author": "查慎行",
+    "author_tr": "查慎行",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "掀波成山石作底，风平石出波弥弥。\n秋天一碧雨新洗，大滩小滩如撒米。",
+    "content_tr": "掀波成山石作底，風平石出波瀰瀰。\n秋天一碧雨新洗，大灘小灘如撒米。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

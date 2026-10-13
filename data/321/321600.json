@@ -1,0 +1,18 @@
+{
+  "work_id": 321600,
+  "work": {
+    "id": 321600,
+    "title": "古诗四章 其四",
+    "title_tr": "古詩四章 其四",
+    "author": "查慎行",
+    "author_tr": "查慎行",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "徒歌易成谣，独唱难为喁。\n我琴谁我瑟，我鼓谁我钟。\n知音苟弗存，奚取觌面逢。\n遥遥千载下，或有牙与钟。",
+    "content_tr": "徒歌易成謡，獨唱難爲喁。\n我琴誰我瑟，我鼓誰我鐘。\n知音苟弗存，奚取覿面逢。\n遥遥千載下，或有牙與鍾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

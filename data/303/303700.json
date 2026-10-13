@@ -1,0 +1,18 @@
+{
+  "work_id": 303700,
+  "work": {
+    "id": 303700,
+    "title": "木兰秋夜",
+    "title_tr": "木蘭秋夜",
+    "author": "永璂",
+    "author_tr": "永璂",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云敛长空素月圆，碧天秋色锁寒烟。\n不知雁响沈何处，古塞疏镫客未眠。",
+    "content_tr": "雲斂長空素月圓，碧天秋色鎖寒煙。\n不知雁響沈何處，古塞疏鐙客未眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 300400,
+  "work": {
+    "id": 300400,
+    "title": "雪中别二友",
+    "title_tr": "雪中别二友",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梁园客散暮云低，阏伯祠前重解携。\n愁见马蹄残雪上，两行东去一行西。",
+    "content_tr": "梁園客散暮雲低，閼伯祠前重解擕。\n愁見馬蹄殘雪上，兩行東去一行西。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

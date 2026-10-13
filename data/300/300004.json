@@ -1,0 +1,18 @@
+{
+  "work_id": 300004,
+  "work": {
+    "id": 300004,
+    "title": "吴阊侬歌",
+    "title_tr": "吴閶儂歌",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阿侬住扬州，不若住吴阊。\n前楼姑苏台，后园脂粉塘。",
+    "content_tr": "阿儂住揚州，不若住吴閶。\n前樓姑蘓臺，後園脂粉塘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

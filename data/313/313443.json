@@ -1,0 +1,18 @@
+{
+  "work_id": 313443,
+  "work": {
+    "id": 313443,
+    "title": "咏史五绝句",
+    "title_tr": "詠史五絕句",
+    "author": "李锴",
+    "author_tr": "李鍇",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渔阳羯鼓声惨悽，一曲霓裳万马嘶。\n剩有剑门西岭雪，年年常待翠华西。",
+    "content_tr": "漁陽羯鼓聲慘悽，一曲霓裳萬馬嘶。\n剩有劍門西嶺雪，年年常待翠華西。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

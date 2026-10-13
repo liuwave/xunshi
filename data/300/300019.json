@@ -1,0 +1,18 @@
+{
+  "work_id": 300019,
+  "work": {
+    "id": 300019,
+    "title": "孟山",
+    "title_tr": "孟山",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旅宿斟珠酒，同行赠宝刀。\n孟家山下过，须避此中豪。",
+    "content_tr": "旅宿斟珠酒，同行贈寶刀。\n孟家山下過，須避此中豪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

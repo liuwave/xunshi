@@ -1,0 +1,18 @@
+{
+  "work_id": 306544,
+  "work": {
+    "id": 306544,
+    "title": "一字诗",
+    "title_tr": "一字詩",
+    "author": "何佩玉",
+    "author_tr": "何佩玉",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一花一柳一鱼矶，一抹斜阳一鸟飞。\n一山一水中一寺，一林黄叶一僧归。",
+    "content_tr": "一花一柳一魚磯，一抹斜陽一鳥飛。\n一山一水中一寺，一林黃葉一僧歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

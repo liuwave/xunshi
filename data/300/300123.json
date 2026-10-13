@@ -1,0 +1,18 @@
+{
+  "work_id": 300123,
+  "work": {
+    "id": 300123,
+    "title": "渔山平贼凯歌四首 其二",
+    "title_tr": "漁山平賊凱歌四首 其二",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "节使行军出鉴湖，铜鱼符间木鱼符。\n虎爪山头驰牧马，鸡心岭下射飞狐。",
+    "content_tr": "節使行軍出鑑湖，銅魚符間木魚符。\n虎爪山頭馳牧馬，雞心嶺下射飛狐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

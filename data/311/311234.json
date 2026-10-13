@@ -1,0 +1,18 @@
+{
+  "work_id": 311234,
+  "work": {
+    "id": 311234,
+    "title": "梅花和余澹心韵 其四",
+    "title_tr": "梅花和余澹心韻 其四",
+    "author": "吴绮",
+    "author_tr": "吳綺",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老干空存古藓痕，平生不近五侯门。\n春来江上无多路，月到山中各一村。\n拟共芳心惟翠羽，欲消寒色有青尊。\n此时桃李浑无色，独惜幽香为返魂。",
+    "content_tr": "老榦空存古蘚痕，平生不近五侯門。\n春來江上無多路，月到山中各一村。\n擬共芳心惟翠羽，欲消寒色有青尊。\n此時桃李渾無色，獨惜幽香為返魂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

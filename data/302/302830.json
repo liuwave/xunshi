@@ -1,0 +1,18 @@
+{
+  "work_id": 302830,
+  "work": {
+    "id": 302830,
+    "title": "秋雁歌",
+    "title_tr": "秋雁歌",
+    "author": "丘逢甲",
+    "author_tr": "丘逢甲",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西风吹雁秋南翔，天高野阔稀稻粱。\n一雁下从野凫去，群雁思之不能置。\n天涯目断寒云飞，误入罗网何时归？",
+    "content_tr": "西風吹雁秋南翔，天高野闊稀稻粱。\n一雁下從野鳧去，羣雁思之不能置。\n天涯目斷寒雲飛，誤入羅網何時歸？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

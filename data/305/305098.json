@@ -1,0 +1,18 @@
+{
+  "work_id": 305098,
+  "work": {
+    "id": 305098,
+    "title": "题蒹葭庵",
+    "title_tr": "題蒹葭菴",
+    "author": "朱鹤龄",
+    "author_tr": "朱鶴齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荻岸萧萧万里风，接天波影和霜空。\n数声清梵寒烟外，应有鱼龙候晓钟。",
+    "content_tr": "荻㟁蕭蕭萬里風，接天波影和霜空。\n數聲清梵寒烟外，應有魚龍候曉鐘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

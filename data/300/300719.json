@@ -1,0 +1,18 @@
+{
+  "work_id": 300719,
+  "work": {
+    "id": 300719,
+    "title": "碧山庵",
+    "title_tr": "碧山庵",
+    "author": "毛奇龄",
+    "author_tr": "毛奇齡",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "团标八尺挂长帏，雨后斜翻松顶晖。\n山半沙门持钵下，碧天片片落僧衣。",
+    "content_tr": "團標八尺掛長幃，雨後斜翻松頂暉。\n山半沙門持鉢下，碧天片片落僧衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

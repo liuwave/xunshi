@@ -1,0 +1,18 @@
+{
+  "work_id": 312001,
+  "work": {
+    "id": 312001,
+    "title": "曹用笔",
+    "title_tr": "曹用筆",
+    "author": "吴萃恩",
+    "author_tr": "吳萃恩",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君家誉重建安文，余技中书又策勋。\n留画丹青引中马，风流长忆故将军。",
+    "content_tr": "君家譽重建安文，餘技中書又策勳。\n留畫丹青引中馬，風流長憶故將軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
