@@ -140,10 +140,17 @@ async function main() {
   // ISSUE_BODY 由 workflow 用 toJSON 传入（防换行注入）；手动 dispatch 时没有它，
   // 就按 issue 号自己取。两条路都覆盖，补跑老 Issue 也能用。
   let rawBody = '';
+  // 注意：workflow 里 toJSON(github.event.issue.body) 在 dispatch 时会渲染成字符串
+  // "null"，JSON.parse 出来是 null 而不是空串 —— 必须当「没传」处理再去取，否则
+  // 会把一条真实纠错误判成非纠错 Issue（实测 Issue #1 补跑时踩到）。
   const envBody = env('ISSUE_BODY');
-  if (envBody) {
-    try { rawBody = JSON.parse(envBody); } catch { rawBody = envBody; }
-  } else if (issueNo) {
+  if (envBody && envBody !== 'null' && envBody !== '""') {
+    try {
+      const v = JSON.parse(envBody);
+      rawBody = typeof v === 'string' ? v : '';
+    } catch { rawBody = envBody; }
+  }
+  if (!rawBody && issueNo) {
     const it = await gh(`/repos/${repo}/issues/${issueNo}`);
     rawBody = it.body || '';
   }

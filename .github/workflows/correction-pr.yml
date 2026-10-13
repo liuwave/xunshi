@@ -49,7 +49,8 @@ jobs:
           # 必须用 toJSON 包一层：Issue 正文含换行/引号/反引号，直接插值会破坏 env 赋值
           # 并被当成 shell 注入。toJSON 输出合法的 JSON 字符串，脚本内再 parse。
           # 手动 dispatch 时为空，脚本会按 issue 号自己取正文。
-          ISSUE_BODY: ${{ toJSON(github.event.issue.body) }}
+          # 手动 dispatch 时为空（写成 '' 而不是 null，避免脚本把字符串 "null" 当正文）
+          ISSUE_BODY: ${{ github.event.issue.body && toJSON(github.event.issue.body) || '' }}
           ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
           ISSUE_AUTHOR: ${{ toJSON(github.event.issue.user.login) }}
         run: node .github/scripts/correction-pr.mjs
