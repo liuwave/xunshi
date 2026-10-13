@@ -1,0 +1,18 @@
+{
+  "work_id": 392345,
+  "work": {
+    "id": 392345,
+    "title": "借书戏作",
+    "title_tr": "借書戲作",
+    "author": "姜特立",
+    "author_tr": "姜特立",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无书阅市交何少，有书觅羊趣何卑。\n争似北邻两公子，不嫌俗士笑渠痴。",
+    "content_tr": "無書閱市交何少，有書覓羊趣何卑。\n爭似北鄰兩公子，不嫌俗士笑渠癡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

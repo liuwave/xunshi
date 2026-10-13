@@ -1,0 +1,18 @@
+{
+  "work_id": 384701,
+  "work": {
+    "id": 384701,
+    "title": "夜闻牛歌",
+    "title_tr": "夜聞牛歌",
+    "author": "宋庠",
+    "author_tr": "宋庠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧萧墟落暮云寒，坏曲薪歌浃野欢。\n何处饭牛归路远，一声辛苦愬漫漫。",
+    "content_tr": "蕭蕭墟落暮雲寒，壞曲薪歌浹野歡。\n何處飯牛歸路遠，一聲辛苦愬漫漫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 393004,
+  "work": {
+    "id": 393004,
+    "title": "曹娥庙碑",
+    "title_tr": "曹娥廟碑",
+    "author": "姚铉",
+    "author_tr": "姚鉉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "箫鼓声中浪渺弥，古枫阴砌藓封碑。\n行人到此自恭肃，不似巫山云雨祠。",
+    "content_tr": "簫鼓聲中浪渺瀰，古楓陰砌蘚封碑。\n行人到此自恭肅，不似巫山雲雨祠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

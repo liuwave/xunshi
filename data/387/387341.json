@@ -1,0 +1,18 @@
+{
+  "work_id": 387341,
+  "work": {
+    "id": 387341,
+    "title": "潇湘暮雪",
+    "title_tr": "瀟湘暮雪",
+    "author": "周行己",
+    "author_tr": "周行己",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冻云垂地雪纷飞，日暮天寒雁已归。\n犹有江头问津者，不知此去欲何依。",
+    "content_tr": "凍雲垂地雪紛飛，日暮天寒雁已歸。\n猶有江頭問津者，不知此去欲何依。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

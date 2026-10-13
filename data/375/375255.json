@@ -1,0 +1,18 @@
+{
+  "work_id": 375255,
+  "work": {
+    "id": 375255,
+    "title": "听鸽铃",
+    "title_tr": "聽鴿鈴",
+    "author": "朱翌",
+    "author_tr": "朱翌",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蓬蒿门巷久张罗，岂有笼坊重客过。\n天外鸽铃惊午枕，儿童误起听长呵。",
+    "content_tr": "蓬蒿門巷久張羅，豈有籠坊重客過。\n天外鴿鈴驚午枕，兒童誤起聽長呵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

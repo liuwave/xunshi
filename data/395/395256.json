@@ -1,0 +1,18 @@
+{
+  "work_id": 395256,
+  "work": {
+    "id": 395256,
+    "title": "读杜牧之诗",
+    "title_tr": "讀杜牧之詩",
+    "author": "胡仲弓",
+    "author_tr": "胡仲弓",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风流不减晋诸贤，涌出胸中万斛泉。\n吟到秦淮商女句，令人忆杀杜樊川。",
+    "content_tr": "風流不減晉諸賢，涌出胸中萬斛泉。\n吟到秦淮商女句，令人憶殺杜樊川。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

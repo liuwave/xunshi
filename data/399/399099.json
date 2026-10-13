@@ -1,0 +1,18 @@
+{
+  "work_id": 399099,
+  "work": {
+    "id": 399099,
+    "title": "沛中歌",
+    "title_tr": "沛中歌",
+    "author": "柴望",
+    "author_tr": "柴望",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秦时日月汉山河，家计今谁与仲多。\n天子不知天下贵，酒中惟唱沛中歌。",
+    "content_tr": "秦時日月漢山河，家計今誰與仲多。\n天子不知天下貴，酒中惟唱沛中歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

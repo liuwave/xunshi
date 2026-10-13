@@ -1,0 +1,18 @@
+{
+  "work_id": 380000,
+  "work": {
+    "id": 380000,
+    "title": "苏词",
+    "title_tr": "蘇詞",
+    "author": "李龙高",
+    "author_tr": "李龍高",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翩翩彩笔赋梅花，只忆朝云不忆家。\n为说坡仙休怅恨，昭君犹自弄琵琶。",
+    "content_tr": "翩翩綵筆賦梅花，只憶朝雲不憶家。\n爲說坡仙休悵恨，昭君猶自弄琵琶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 380005,
+  "work": {
+    "id": 380005,
+    "title": "红罗亭",
+    "title_tr": "紅羅亭",
+    "author": "李龙高",
+    "author_tr": "李龍高",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红云绛雪镂繁华，侍宴流连彻暮鸦。\n车马不来歌吹断，春风一半属谁家。",
+    "content_tr": "紅雲絳雪鏤繁華，侍宴流連徹暮鴉。\n車馬不來歌吹斷，春風一半屬誰家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

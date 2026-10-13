@@ -1,0 +1,18 @@
+{
+  "work_id": 385000,
+  "work": {
+    "id": 385000,
+    "title": "和王夷仲韵",
+    "title_tr": "和王夷仲韻",
+    "author": "吴芾",
+    "author_tr": "吳芾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "故人声气合，交契久弥深。\n不弃荒村陋，来分古木阴。\n意倾陈笃论，兴发出高吟。\n岂料逃空谷，犹闻正始音。",
+    "content_tr": "故人聲氣合，交契久彌深。\n不棄荒村陋，來分古木陰。\n意傾陳篤論，興發出高吟。\n豈料逃空谷，猶聞正始音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
