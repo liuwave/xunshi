@@ -1,0 +1,18 @@
+{
+  "work_id": 39500,
+  "work": {
+    "id": 39500,
+    "title": "书楼怀古",
+    "title_tr": "書樓懷古",
+    "author": "羊士谔",
+    "author_tr": "羊士諤",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何独文翁化，风流与代深。\n泉云无旧辙，骚雅有遗音。\n远目穷巴汉，闲情阅古今。\n忘言意不极，日暮但横琴。",
+    "content_tr": "何獨文翁化，風流與代深。\n泉雲無舊轍，騷雅有遺音。\n遠目窮巴漢，閒情閱古今。\n忘言意不極，日暮但橫琴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

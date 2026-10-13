@@ -1,0 +1,18 @@
+{
+  "work_id": 42512,
+  "work": {
+    "id": 42512,
+    "title": "舟行晚泊江上寺",
+    "title_tr": "舟行晚泊江上寺",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "久劳风水上，禅客喜相依。\n挂衲虽无分，修心未觉非。\n日沈山虎出，钟动寺禽归。\n月上潮平后，谈空渐入微。",
+    "content_tr": "久勞風水上，禪客喜相依。\n掛衲雖無分，修心未覺非。\n日沈山虎出，鍾動寺禽歸。\n月上潮平後，談空漸入微。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

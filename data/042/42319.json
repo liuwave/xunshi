@@ -1,0 +1,18 @@
+{
+  "work_id": 42319,
+  "work": {
+    "id": 42319,
+    "title": "和州绝句",
+    "title_tr": "和州絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江湖醉渡十年春，牛渚山边六问津。\n历阳前事知何实，高位纷纷见陷人。",
+    "content_tr": "江湖醉渡十年春，牛渚山邊六問津。\n歷陽前事知何實，高位紛紛見陷人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42339,
+  "work": {
+    "id": 42339,
+    "title": "倡楼戏赠",
+    "title_tr": "倡樓戲贈",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细柳桥边深半春，缬衣帘里动香尘。\n无端有寄闲消息，背插金钗笑向人。",
+    "content_tr": "細柳橋邊深半春，纈衣簾裏動香塵。\n無端有寄閒消息，背插金釵笑向人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 37860,
+  "work": {
+    "id": 37860,
+    "title": "舟中读元九诗",
+    "title_tr": "舟中讀元九詩",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "把君诗卷灯前读，诗尽灯残天未明。\n眼痛灭灯犹闇坐，逆风吹浪打船声。",
+    "content_tr": "把君詩卷燈前讀，詩盡燈殘天未明。\n眼痛滅燈猶闇坐，逆風吹浪打船聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

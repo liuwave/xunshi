@@ -1,0 +1,18 @@
+{
+  "work_id": 34445,
+  "work": {
+    "id": 34445,
+    "title": "咏廿四气诗 · 春分二月中",
+    "title_tr": "詠廿四氣詩 · 春分二月中",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "二气莫交争，春分雨处行。\n雨来看电影，云过听雷声。\n山色连天碧，林花向日明。\n梁间玄鸟语，欲似解人情。",
+    "content_tr": "二氣莫交爭，春分雨處行。\n雨來看電影，雲過聽雷聲。\n山色連天碧，林花向日明。\n樑間玄鳥語，欲似解人情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

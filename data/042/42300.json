@@ -1,0 +1,18 @@
+{
+  "work_id": 42300,
+  "work": {
+    "id": 42300,
+    "title": "入茶山下题水口草市绝句",
+    "title_tr": "入茶山下題水口草市絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倚溪侵岭多高树，夸酒书旗有小楼。\n惊起鸳鸯岂无恨，一双飞去却回头。",
+    "content_tr": "倚溪侵嶺多高樹，誇酒書旗有小樓。\n驚起鴛鴦豈無恨，一雙飛去卻回頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

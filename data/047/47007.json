@@ -1,0 +1,18 @@
+{
+  "work_id": 47007,
+  "work": {
+    "id": 47007,
+    "title": "入黄溪闻猿",
+    "title_tr": "入黃溪聞猿",
+    "author": "柳宗元",
+    "author_tr": "柳宗元",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "溪路千里曲，哀猿何处鸣。\n孤臣泪已尽，虚作断肠声。",
+    "content_tr": "溪路千里曲，哀猿何處鳴。\n孤臣淚已盡，虛作斷腸聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

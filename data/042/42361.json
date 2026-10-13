@@ -1,0 +1,18 @@
+{
+  "work_id": 42361,
+  "work": {
+    "id": 42361,
+    "title": "赠猎骑",
+    "title_tr": "贈獵騎",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "已落双雕血尚新，鸣鞭走马又翻身。\n凭君莫射南来雁，恐有家书寄远人。",
+    "content_tr": "已落雙鵰血尚新，鳴鞭走馬又翻身。\n憑君莫射南來雁，恐有家書寄遠人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

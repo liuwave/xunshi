@@ -1,0 +1,18 @@
+{
+  "work_id": 43291,
+  "work": {
+    "id": 43291,
+    "title": "过楚宫",
+    "title_tr": "過楚宮",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "巫峡迢迢旧楚宫，至今云雨暗丹枫。\n微生尽恋人间乐，只有襄王忆梦中。",
+    "content_tr": "巫峽迢迢舊楚宮，至今雲雨暗丹楓。\n微生盡戀人間樂，只有襄王憶夢中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

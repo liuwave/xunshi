@@ -1,0 +1,18 @@
+{
+  "work_id": 42738,
+  "work": {
+    "id": 42738,
+    "title": "湘云",
+    "title_tr": "湘雲",
+    "author": "吴商浩",
+    "author_tr": "吳商浩",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "□满湘江云莹空，纷纷长对水溶溶。\n日西遥望自归处，尽挂九疑千万峰。",
+    "content_tr": "□滿湘江雲瑩空，紛紛長對水溶溶。\n日西遙望自歸處，盡掛九疑千萬峯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

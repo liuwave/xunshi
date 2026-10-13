@@ -1,0 +1,18 @@
+{
+  "work_id": 32987,
+  "work": {
+    "id": 32987,
+    "title": "长安早秋",
+    "title_tr": "長安早秋",
+    "author": "子兰",
+    "author_tr": "子蘭",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风舞槐花落御沟，终南山色入城秋。\n门门走马徵兵急，公子笙歌醉玉楼。",
+    "content_tr": "風舞槐花落御溝，終南山色入城秋。\n門門走馬徵兵急，公子笙歌醉玉樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

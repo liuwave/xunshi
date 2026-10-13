@@ -1,0 +1,18 @@
+{
+  "work_id": 42287,
+  "work": {
+    "id": 42287,
+    "title": "题张处士山庄一绝",
+    "title_tr": "題張處士山莊一絕",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "好鸟疑敲磬，风蝉认轧筝。\n修篁与嘉树，偏倚半岩生。",
+    "content_tr": "好鳥疑敲磬，風蟬認軋箏。\n修篁與嘉樹，偏倚半巖生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 45519,
+  "work": {
+    "id": 45519,
+    "title": "感怀其二",
+    "title_tr": "感懷其二",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋气悲万物，惊风振长道。\n登高有所思，寒雨伤百草。\n平生有亲爱，零落不相保。\n五情今已伤，安得自能老。",
+    "content_tr": "秋氣悲萬物，驚風振長道。\n登高有所思，寒雨傷百草。\n平生有親愛，零落不相保。\n五情今已傷，安得自能老。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

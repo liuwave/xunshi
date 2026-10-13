@@ -1,0 +1,18 @@
+{
+  "work_id": 41353,
+  "work": {
+    "id": 41353,
+    "title": "近闻",
+    "title_tr": "近聞",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "近闻犬戎远遁逃，牧马不敢侵临洮。\n渭水逶迤白日净，陇山萧瑟秋云高。\n崆峒五原亦无事，北庭数有关中使。\n似闻赞普更求亲，舅甥和好应难弃。",
+    "content_tr": "近聞犬戎遠遁逃，牧馬不敢侵臨洮。\n渭水逶迤白日淨，隴山蕭瑟秋雲高。\n崆峒五原亦無事，北庭數有關中使。\n似聞贊普更求親，舅甥和好應難棄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

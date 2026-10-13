@@ -1,0 +1,18 @@
+{
+  "work_id": 45506,
+  "work": {
+    "id": 45506,
+    "title": "边城吟",
+    "title_tr": "邊城吟",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西城近日天，俗禀气候偏。\n行子独自渴，主人仍卖泉。\n烧烽碧云外，牧马青坡巅。\n何处鹘突梦，归思寄仰眠。",
+    "content_tr": "西城近日天，俗稟氣候偏。\n行子獨自渴，主人仍賣泉。\n燒烽碧雲外，牧馬青坡巔。\n何處鶻突夢，歸思寄仰眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

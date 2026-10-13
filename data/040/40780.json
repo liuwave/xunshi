@@ -1,0 +1,18 @@
+{
+  "work_id": 40780,
+  "work": {
+    "id": 40780,
+    "title": "滕王亭子",
+    "title_tr": "滕王亭子",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寞春山路，君王不复行。\n古墙犹竹色，虚阁自松声。\n鸟雀荒村暮，云霞过客情。\n尚思歌吹入，千骑把霓旌。",
+    "content_tr": "寂寞春山路，君王不復行。\n古牆猶竹色，虛閣自鬆聲。\n鳥雀荒村暮，雲霞過客情。\n尚思歌吹入，千騎把霓旌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

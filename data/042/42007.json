@@ -1,0 +1,18 @@
+{
+  "work_id": 42007,
+  "work": {
+    "id": 42007,
+    "title": "马",
+    "title_tr": "馬",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天马本来东，嘶惊御史骢。\n苍龙遥逐日，紫燕迥追风。\n明月来鞍上，浮云落盖中。\n得随穆天子，何假唐成公。",
+    "content_tr": "天馬本來東，嘶驚御史驄。\n蒼龍遙逐日，紫燕迥追風。\n明月來鞍上，浮雲落蓋中。\n得隨穆天子，何假唐成公。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

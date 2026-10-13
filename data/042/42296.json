@@ -1,0 +1,18 @@
+{
+  "work_id": 42296,
+  "work": {
+    "id": 42296,
+    "title": "池州清溪",
+    "title_tr": "池州清溪",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "弄溪终日到黄昏，照数秋来白发根。\n何物赖君千遍洗，笔头尘土渐无痕。",
+    "content_tr": "弄溪終日到黃昏，照數秋來白髮根。\n何物賴君千遍洗，筆頭塵土漸無痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

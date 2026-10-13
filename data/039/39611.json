@@ -1,0 +1,18 @@
+{
+  "work_id": 39611,
+  "work": {
+    "id": 39611,
+    "title": "赋山火诗",
+    "title_tr": "賦山火詩",
+    "author": "江油令",
+    "author_tr": "江油令",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野火烧山去，人归火不归。\n焰随红日去，烟逐暮云飞。",
+    "content_tr": "野火燒山去，人歸火不歸。\n焰隨紅日去，煙逐暮雲飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

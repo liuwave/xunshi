@@ -1,0 +1,18 @@
+{
+  "work_id": 42394,
+  "work": {
+    "id": 42394,
+    "title": "隋宫春",
+    "title_tr": "隋宮春",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙舟东下事成空，蔓草萋萋满故宫。\n亡国亡家为颜色，露桃犹自恨春风。",
+    "content_tr": "龍舟東下事成空，蔓草萋萋滿故宮。\n亡國亡家爲顏色，露桃猶自恨春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

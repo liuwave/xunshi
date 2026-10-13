@@ -1,0 +1,18 @@
+{
+  "work_id": 42377,
+  "work": {
+    "id": 42377,
+    "title": "长安晴望",
+    "title_tr": "長安晴望",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翠屏山对凤城开，碧落摇光霁后来。\n回识六龙巡幸处，飞烟闲绕望春台。",
+    "content_tr": "翠屏山對鳳城開，碧落搖光霽後來。\n回識六龍巡幸處，飛煙閒繞望春臺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

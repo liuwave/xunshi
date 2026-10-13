@@ -1,0 +1,18 @@
+{
+  "work_id": 47699,
+  "work": {
+    "id": 47699,
+    "title": "咏史诗金陵",
+    "title_tr": "詠史詩金陵",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "侯景长驱十万人，可怜梁武坐蒙尘。\n生前不得空王力，徒向金田自舍身。",
+    "content_tr": "侯景長驅十萬人，可憐樑武坐蒙塵。\n生前不得空王力，徒向金田自捨身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

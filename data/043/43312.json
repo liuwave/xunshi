@@ -1,0 +1,18 @@
+{
+  "work_id": 43312,
+  "work": {
+    "id": 43312,
+    "title": "樱桃花下",
+    "title_tr": "櫻桃花下",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "流莺舞蝶两相欺，不取花芳正结时。\n他日未开今日谢，嘉辰长短是参差。",
+    "content_tr": "流鶯舞蝶兩相欺，不取花芳正結時。\n他日未開今日謝，嘉辰長短是參差。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

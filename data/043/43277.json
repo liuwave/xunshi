@@ -1,0 +1,18 @@
+{
+  "work_id": 43277,
+  "work": {
+    "id": 43277,
+    "title": "关门柳",
+    "title_tr": "關門柳",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "永定河边一行柳，依依长发故年春。\n东来西去人情薄，不为清阴减路尘。",
+    "content_tr": "永定河邊一行柳，依依長髮故年春。\n東來西去人情薄，不爲清陰減路塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

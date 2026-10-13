@@ -1,0 +1,18 @@
+{
+  "work_id": 42303,
+  "work": {
+    "id": 42303,
+    "title": "柳绝句",
+    "title_tr": "柳絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "数树新开翠影齐，倚风情态被春迷。\n依依故国樊川恨，半掩村桥半掩溪。",
+    "content_tr": "數樹新開翠影齊，倚風情態被春迷。\n依依故國樊川恨，半掩村橋半掩溪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

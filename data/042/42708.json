@@ -1,0 +1,18 @@
+{
+  "work_id": 42708,
+  "work": {
+    "id": 42708,
+    "title": "寄李隐居",
+    "title_tr": "寄李隱居",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自小栖玄到老闲，如云如鹤住应难。\n溪山不必将钱买，赢得来来去去看。",
+    "content_tr": "自小棲玄到老閒，如雲如鶴住應難。\n溪山不必將錢買，贏得來來去去看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

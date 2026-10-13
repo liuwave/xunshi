@@ -1,0 +1,18 @@
+{
+  "work_id": 42713,
+  "work": {
+    "id": 42713,
+    "title": "马上行",
+    "title_tr": "馬上行",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五里复五里，去时无住时。\n日将家渐远，犹恨马行迟。",
+    "content_tr": "五里復五里，去時無住時。\n日將家漸遠，猶恨馬行遲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

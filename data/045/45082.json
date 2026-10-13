@@ -1,0 +1,18 @@
+{
+  "work_id": 45082,
+  "work": {
+    "id": 45082,
+    "title": "赠王九",
+    "title_tr": "贈王九",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日暮田家远，山中勿久淹。\n归人须早去，稚子望陶潜。",
+    "content_tr": "日暮田家遠，山中勿久淹。\n歸人須早去，稚子望陶潛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

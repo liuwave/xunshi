@@ -1,0 +1,18 @@
+{
+  "work_id": 42157,
+  "work": {
+    "id": 42157,
+    "title": "见志",
+    "title_tr": "見志",
+    "author": "李播",
+    "author_tr": "李播",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "去岁买琴不与价，今年沽酒未还钱。\n门前债主雁行立，屋里醉人鱼贯眠。",
+    "content_tr": "去歲買琴不與價，今年沽酒未還錢。\n門前債主雁行立，屋裏醉人魚貫眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

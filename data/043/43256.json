@@ -1,0 +1,18 @@
+{
+  "work_id": 43256,
+  "work": {
+    "id": 43256,
+    "title": "月夕",
+    "title_tr": "月夕",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "草下阴虫叶上霜，朱栏迢遰压湖光。\n兔寒蟾冷桂花白，此夜姮娥应断肠。",
+    "content_tr": "草下陰蟲葉上霜，朱欄迢遰壓湖光。\n兔寒蟾冷桂花白，此夜姮娥應斷腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

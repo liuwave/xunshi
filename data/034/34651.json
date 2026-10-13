@@ -1,0 +1,18 @@
+{
+  "work_id": 34651,
+  "work": {
+    "id": 34651,
+    "title": "书乐天纸",
+    "title_tr": "書樂天紙",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金銮殿里书残纸，乞与荆州元判司。\n不忍拈将等闲用，半封京信半题诗。",
+    "content_tr": "金鑾殿裏書殘紙，乞與荊州元判司。\n不忍拈將等閒用，半封京信半題詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

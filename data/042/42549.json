@@ -1,0 +1,18 @@
+{
+  "work_id": 42549,
+  "work": {
+    "id": 42549,
+    "title": "塞上伤战士",
+    "title_tr": "塞上傷戰士",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "战士说辛勤，书生不忍闻。\n三边远天子，一命信将军。\n野火烧人骨，阴风卷阵云。\n其如禁城里，何以重要勋。",
+    "content_tr": "戰士說辛勤，書生不忍聞。\n三邊遠天子，一命信將軍。\n野火燒人骨，陰風捲陣雲。\n其如禁城裏，何以重要勳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

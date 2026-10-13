@@ -1,0 +1,18 @@
+{
+  "work_id": 34359,
+  "work": {
+    "id": 34359,
+    "title": "咏项羽",
+    "title_tr": "詠項羽",
+    "author": "于季子",
+    "author_tr": "於季子",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北伐虽全赵，东归不王秦。\n空歌拔山力，羞作渡江人。",
+    "content_tr": "北伐雖全趙，東歸不王秦。\n空歌拔山力，羞作渡江人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

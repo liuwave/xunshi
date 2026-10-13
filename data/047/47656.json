@@ -1,0 +1,18 @@
+{
+  "work_id": 47656,
+  "work": {
+    "id": 47656,
+    "title": "咏史诗平城",
+    "title_tr": "詠史詩平城",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉帝西征陷虏尘，一朝围解议和亲。\n当时已有吹毛剑，何事无人杀奉春。",
+    "content_tr": "漢帝西征陷虜塵，一朝圍解議和親。\n當時已有吹毛劍，何事無人殺奉春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

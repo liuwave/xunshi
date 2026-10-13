@@ -1,0 +1,18 @@
+{
+  "work_id": 38280,
+  "work": {
+    "id": 38280,
+    "title": "听歌六绝句离别难",
+    "title_tr": "聽歌六絕句離別難",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿杨陌上送行人，马去车回一望尘。\n不觉别时红泪尽，归来无泪可沾巾。",
+    "content_tr": "綠楊陌上送行人，馬去車回一望塵。\n不覺別時紅淚盡，歸來無淚可沾巾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

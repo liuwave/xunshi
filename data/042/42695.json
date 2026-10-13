@@ -1,0 +1,18 @@
+{
+  "work_id": 42695,
+  "work": {
+    "id": 42695,
+    "title": "哭贝韬",
+    "title_tr": "哭貝韜",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "交朋来哭我来歌，喜傍山家葬荔萝。\n四海十年人杀尽，似君埋少不埋多。",
+    "content_tr": "交朋來哭我來歌，喜傍山家葬荔蘿。\n四海十年人殺盡，似君埋少不埋多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

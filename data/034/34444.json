@@ -1,0 +1,18 @@
+{
+  "work_id": 34444,
+  "work": {
+    "id": 34444,
+    "title": "咏廿四气诗 · 雨水正月中",
+    "title_tr": "詠廿四氣詩 · 雨水正月中",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨水洗春容，平田已见龙。\n祭鱼盈浦屿，归雁捧山峰。\n云色轻还重，风光淡又浓。\n向春入二月，花色影重重。",
+    "content_tr": "雨水洗春容，平田已見龍。\n祭魚盈浦嶼，歸雁捧山峯。\n雲色輕還重，風光淡又濃。\n向春入二月，花色影重重。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42277,
+  "work": {
+    "id": 42277,
+    "title": "独柳",
+    "title_tr": "獨柳",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "含烟一株柳，拂地摇风久。\n佳人不忍折，怅望回纤手。",
+    "content_tr": "含煙一株柳，拂地搖風久。\n佳人不忍折，悵望回纖手。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

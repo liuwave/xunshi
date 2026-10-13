@@ -1,0 +1,18 @@
+{
+  "work_id": 35201,
+  "work": {
+    "id": 35201,
+    "title": "晚留",
+    "title_tr": "晚留",
+    "author": "王勃",
+    "author_tr": "王勃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宝鸡辞旧役，仙凤历遗墟。\n去此近城阙，青山明月初。",
+    "content_tr": "寶雞辭舊役，仙鳳歷遺墟。\n去此近城闕，青山明月初。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

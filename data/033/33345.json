@@ -1,0 +1,18 @@
+{
+  "work_id": 33345,
+  "work": {
+    "id": 33345,
+    "title": "杂曲歌辞太和第一",
+    "title_tr": "雜曲歌辭太和第一",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "国门卿相旧山庄，圣主移来宴绿芳。\n帘外辗为车马路，花间踏出舞人场。",
+    "content_tr": "國門卿相舊山莊，聖主移來宴綠芳。\n簾外輾爲車馬路，花間踏出舞人場。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

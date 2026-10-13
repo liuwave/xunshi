@@ -1,0 +1,18 @@
+{
+  "work_id": 43235,
+  "work": {
+    "id": 43235,
+    "title": "公子",
+    "title_tr": "公子",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "外戚封侯自有恩，平明通籍九华门。\n金唐公主年应小，二十君王未许婚。",
+    "content_tr": "外戚封侯自有恩，平明通籍九華門。\n金唐公主年應小，二十君王未許婚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

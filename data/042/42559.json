@@ -1,0 +1,18 @@
+{
+  "work_id": 42559,
+  "work": {
+    "id": 42559,
+    "title": "寄窦处士",
+    "title_tr": "寄竇處士",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漳水醉中别，今来犹未醒。\n半生因酒废，大国几时宁。\n海畔将军柳，天边处士星。\n游人不可见，春入乱山青。",
+    "content_tr": "漳水醉中別，今來猶未醒。\n半生因酒廢，大國幾時寧。\n海畔將軍柳，天邊處士星。\n遊人不可見，春入亂山青。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

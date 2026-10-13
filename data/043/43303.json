@@ -1,0 +1,18 @@
+{
+  "work_id": 43303,
+  "work": {
+    "id": 43303,
+    "title": "海上",
+    "title_tr": "海上",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石桥东望海连天，徐福空来不得仙。\n直遣麻姑与搔背，可能留命待桑田。",
+    "content_tr": "石橋東望海連天，徐福空來不得仙。\n直遣麻姑與搔背，可能留命待桑田。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

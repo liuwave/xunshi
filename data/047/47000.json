@@ -1,0 +1,18 @@
+{
+  "work_id": 47000,
+  "work": {
+    "id": 47000,
+    "title": "得卢衡州书因以诗寄",
+    "title_tr": "得盧衡州書因以詩寄",
+    "author": "柳宗元",
+    "author_tr": "柳宗元",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "临蒸且莫叹炎方，为报秋来雁几行。\n林邑东回山似戟，牂牁南下水如汤。\n蒹葭淅沥含秋雾，橘柚玲珑透夕阳。\n非是白蘋洲畔客，还将远意问潇湘。",
+    "content_tr": "臨蒸且莫嘆炎方，爲報秋來雁幾行。\n林邑東回山似戟，牂牁南下水如湯。\n蒹葭淅瀝含秋霧，橘柚玲瓏透夕陽。\n非是白蘋洲畔客，還將遠意問瀟湘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 35355,
+  "work": {
+    "id": 35355,
+    "title": "裴六书堂",
+    "title_tr": "裴六書堂",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲堂闭空阴，竹林但清响。\n窗下长啸客，区中无遗想。\n经纶精微言，兼济当独往。",
+    "content_tr": "閒堂閉空陰，竹林但清響。\n窗下長嘯客，區中無遺想。\n經綸精微言，兼濟當獨往。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

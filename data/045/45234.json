@@ -1,0 +1,18 @@
+{
+  "work_id": 45234,
+  "work": {
+    "id": 45234,
+    "title": "三代门再吟",
+    "title_tr": "三代門再吟",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万古龙门一旦开，无成甘死作黄能。\n司空定有匡尧术，九载之前何处来。",
+    "content_tr": "萬古龍門一旦開，無成甘死作黃能。\n司空定有匡堯術，九載之前何處來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

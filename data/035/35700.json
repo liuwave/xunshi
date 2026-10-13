@@ -1,0 +1,18 @@
+{
+  "work_id": 35700,
+  "work": {
+    "id": 35700,
+    "title": "辋川集 · 文杏馆",
+    "title_tr": "輞川集·文杏館",
+    "author": "王维",
+    "author_tr": "王維",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "文杏裁为梁，香茅结为宇。\n不知栋里云，去作人间雨。",
+    "content_tr": "文杏裁爲樑，香茅結爲宇。\n不知棟裏雲，去作人間雨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

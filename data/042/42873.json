@@ -1,0 +1,18 @@
+{
+  "work_id": 42873,
+  "work": {
+    "id": 42873,
+    "title": "郊庙歌辞让皇帝庙乐章迎神",
+    "title_tr": "郊廟歌辭讓皇帝廟樂章迎神",
+    "author": "李舒",
+    "author_tr": "李舒",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "皇矣天宗，德先王季。\n因心则友，克让以位。\n爰命有司，式遵前志。\n神其降灵，昭飨祀事。",
+    "content_tr": "皇矣天宗，德先王季。\n因心則友，克讓以位。\n爰命有司，式遵前志。\n神其降靈，昭饗祀事。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

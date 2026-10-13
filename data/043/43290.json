@@ -1,0 +1,18 @@
+{
+  "work_id": 43290,
+  "work": {
+    "id": 43290,
+    "title": "日日",
+    "title_tr": "日日",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日日春光斗日光，山城斜路杏花香。\n几时心绪浑无事，得及游丝百尺长。",
+    "content_tr": "日日春光鬥日光，山城斜路杏花香。\n幾時心緒渾無事，得及遊絲百尺長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

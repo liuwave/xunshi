@@ -1,0 +1,18 @@
+{
+  "work_id": 43267,
+  "work": {
+    "id": 43267,
+    "title": "宫辞",
+    "title_tr": "宮辭",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君恩如水向东流，得宠忧移失宠愁。\n莫向尊前奏花落，凉风只在殿西头。",
+    "content_tr": "君恩如水向東流，得寵憂移失寵愁。\n莫向尊前奏花落，涼風只在殿西頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

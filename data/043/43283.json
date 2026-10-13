@@ -1,0 +1,18 @@
+{
+  "work_id": 43283,
+  "work": {
+    "id": 43283,
+    "title": "旧顿",
+    "title_tr": "舊頓",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东人望幸久咨嗟，四海于今是一家。\n犹锁平时旧行殿，尽无宫户有宫鸦。",
+    "content_tr": "東人望幸久諮嗟，四海於今是一家。\n猶鎖平時舊行殿，盡無宮戶有宮鴉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

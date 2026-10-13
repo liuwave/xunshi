@@ -1,0 +1,18 @@
+{
+  "work_id": 42342,
+  "work": {
+    "id": 42342,
+    "title": "宣州开元寺南楼",
+    "title_tr": "宣州開元寺南樓",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小楼才受一床横，终日看山酒满倾。\n可惜和风夜来雨，醉中虚度打窗声。",
+    "content_tr": "小樓才受一牀橫，終日看山酒滿傾。\n可惜和風夜來雨，醉中虛度打窗聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

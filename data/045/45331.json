@@ -1,0 +1,18 @@
+{
+  "work_id": 45331,
+  "work": {
+    "id": 45331,
+    "title": "后汉门光武",
+    "title_tr": "後漢門光武",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "成败非儒孰可量，儒生何指指萧王。\n萧王得众能宽裕，吴汉归来帝业昌。",
+    "content_tr": "成敗非儒孰可量，儒生何指指蕭王。\n蕭王得衆能寬裕，吳漢歸來帝業昌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 33800,
+  "work": {
+    "id": 33800,
+    "title": "舞曲歌辞柘枝词",
+    "title_tr": "舞曲歌辭柘枝詞",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "词",
+    "rhythmic": "舞曲歌辞柘枝词",
+    "content": "将军奉命即须行，塞外领彊兵。闻道烽烟动，腰间宝剑匣中鸣。",
+    "content_tr": "將軍奉命即須行，塞外領彊兵。聞道烽煙動，腰間寶劍匣中鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

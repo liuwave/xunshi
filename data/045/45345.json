@@ -1,0 +1,18 @@
+{
+  "work_id": 45345,
+  "work": {
+    "id": 45345,
+    "title": "后汉门周都妻",
+    "title_tr": "後漢門周都妻",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿水双鸳一已沈，皇天更欲配何禽。\n不将血涕随霜刃，谁见朱殷未死心。",
+    "content_tr": "綠水雙鴛一已沈，皇天更欲配何禽。\n不將血涕隨霜刃，誰見朱殷未死心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

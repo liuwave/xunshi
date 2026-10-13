@@ -1,0 +1,18 @@
+{
+  "work_id": 35301,
+  "work": {
+    "id": 35301,
+    "title": "云山清晓",
+    "title_tr": "雲山清曉",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍深翠浅瀑峥潺，岂谓讥秦始爱山。\n一炬咸阳机冢赤，紫霄巍立晓云间。",
+    "content_tr": "蒼深翠淺瀑崢潺，豈謂譏秦始愛山。\n一炬咸陽機冢赤，紫霄巍立曉雲間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

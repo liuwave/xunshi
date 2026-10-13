@@ -1,0 +1,18 @@
+{
+  "work_id": 38172,
+  "work": {
+    "id": 38172,
+    "title": "醉后听唱桂华曲",
+    "title_tr": "醉後聽唱桂華曲",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桂华词意苦丁宁，唱到常娥醉便醒。\n此是人间肠断曲，莫教不得意人听。",
+    "content_tr": "桂華詞意苦丁寧，唱到常娥醉便醒。\n此是人間腸斷曲，莫教不得意人聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

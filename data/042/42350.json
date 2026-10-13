@@ -1,0 +1,18 @@
+{
+  "work_id": 42350,
+  "work": {
+    "id": 42350,
+    "title": "及第后寄长安故人",
+    "title_tr": "及第後寄長安故人",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东都放榜未花开，三十三人走马回。\n秦地少年多酿酒，已将春色入关来。",
+    "content_tr": "東都放榜未花開，三十三人走馬回。\n秦地少年多釀酒，已將春色入關來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

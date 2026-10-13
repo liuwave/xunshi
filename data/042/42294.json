@@ -1,0 +1,18 @@
+{
+  "work_id": 42294,
+  "work": {
+    "id": 42294,
+    "title": "齐安郡后池绝句",
+    "title_tr": "齊安郡後池絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "菱透浮萍绿锦池，夏莺千啭弄蔷薇。\n尽日无人看微雨，鸳鸯相对浴红衣。",
+    "content_tr": "菱透浮萍綠錦池，夏鶯千囀弄薔薇。\n盡日無人看微雨，鴛鴦相對浴紅衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

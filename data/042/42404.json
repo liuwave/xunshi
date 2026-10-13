@@ -1,0 +1,18 @@
+{
+  "work_id": 42404,
+  "work": {
+    "id": 42404,
+    "title": "怅诗",
+    "title_tr": "悵詩",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自是寻春去校迟，不须惆怅怨芳时。\n狂风落尽深红色，绿叶成阴子满枝。",
+    "content_tr": "自是尋春去校遲，不須惆悵怨芳時。\n狂風落盡深紅色，綠葉成陰子滿枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

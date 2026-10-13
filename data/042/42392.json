@@ -1,0 +1,18 @@
+{
+  "work_id": 42392,
+  "work": {
+    "id": 42392,
+    "title": "闲题",
+    "title_tr": "閒題",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "男儿所在即为家，百镒黄金一朵花。\n借问春风何处好，绿杨深巷马头斜。",
+    "content_tr": "男兒所在即爲家，百鎰黃金一朵花。\n借問春風何處好，綠楊深巷馬頭斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

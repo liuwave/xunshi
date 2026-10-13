@@ -1,0 +1,18 @@
+{
+  "work_id": 43911,
+  "work": {
+    "id": 43911,
+    "title": "南流夜郎寄内",
+    "title_tr": "南流夜郎寄內",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜郎天外怨离居，明月楼中音信疏。\n北雁春归看欲尽，南来不得豫章书。",
+    "content_tr": "夜郎天外怨離居，明月樓中音信疏。\n北雁春歸看欲盡，南來不得豫章書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

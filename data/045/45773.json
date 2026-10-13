@@ -1,0 +1,18 @@
+{
+  "work_id": 45773,
+  "work": {
+    "id": 45773,
+    "title": "游子行",
+    "title_tr": "遊子行",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萱草生堂阶，游子行天涯。\n慈亲倚门望，不见萱草花。",
+    "content_tr": "萱草生堂階，遊子行天涯。\n慈親倚門望，不見萱草花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

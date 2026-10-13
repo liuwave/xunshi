@@ -1,0 +1,18 @@
+{
+  "work_id": 42265,
+  "work": {
+    "id": 42265,
+    "title": "经古行宫",
+    "title_tr": "經古行宮",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "台阁参差倚太阳，年年花发满山香。\n重门勘锁青春晚，深殿垂帘白日长。\n草色芊绵侵御路，泉声呜咽绕宫墙。\n先皇一去无回驾，红粉云环空断肠。",
+    "content_tr": "臺閣參差倚太陽，年年花發滿山香。\n重門勘鎖青春晚，深殿垂簾白日長。\n草色芊綿侵御路，泉聲嗚咽繞宮牆。\n先皇一去無回駕，紅粉雲環空斷腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

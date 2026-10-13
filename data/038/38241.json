@@ -1,0 +1,18 @@
+{
+  "work_id": 38241,
+  "work": {
+    "id": 38241,
+    "title": "答客说",
+    "title_tr": "荅客說",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吾学空门非学仙，恐君此说是虚传。\n海山不是吾归处，归即应归兜率天。",
+    "content_tr": "吾學空門非學仙，恐君此說是虛傳。\n海山不是吾歸處，歸即應歸兜率天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

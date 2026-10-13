@@ -1,0 +1,18 @@
+{
+  "work_id": 42282,
+  "work": {
+    "id": 42282,
+    "title": "题敬爱寺楼",
+    "title_tr": "題敬愛寺樓",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "暮景千山雪，春寒百尺楼。\n独登还独下，谁会我悠悠。",
+    "content_tr": "暮景千山雪，春寒百尺樓。\n獨登還獨下，誰會我悠悠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

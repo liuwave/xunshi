@@ -1,0 +1,18 @@
+{
+  "work_id": 37905,
+  "work": {
+    "id": 37905,
+    "title": "赠江客",
+    "title_tr": "贈江客",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江柳影寒新雨地，塞鸿声急欲霜天。\n愁君独向沙头宿，水绕芦花月满船。",
+    "content_tr": "江柳影寒新雨地，塞鴻聲急欲霜天。\n愁君獨向沙頭宿，水繞蘆花月滿船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

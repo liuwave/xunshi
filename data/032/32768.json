@@ -1,0 +1,18 @@
+{
+  "work_id": 32768,
+  "work": {
+    "id": 32768,
+    "title": "夜泊湘江",
+    "title_tr": "夜泊湘江",
+    "author": "于武陵",
+    "author_tr": "于武陵",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北风吹楚树，此地独先秋。\n何事屈原恨，不随湘水流。\n凉天生片月，竟夕伴孤舟。\n一作南行客，无成空白头。",
+    "content_tr": "北風吹楚樹，此地獨先秋。\n何事屈原恨，不隨湘水流。\n涼天生片月，竟夕伴孤舟。\n一作南行客，無成空白頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 43876,
+  "work": {
+    "id": 43876,
+    "title": "乌牙寺",
+    "title_tr": "烏牙寺",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜宿乌牙寺，举手扪星辰。\n不敢高声语，恐惊天上人。",
+    "content_tr": "夜宿烏牙寺，舉手捫星辰。\n不敢高聲語，恐驚天上人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42321,
+  "work": {
+    "id": 42321,
+    "title": "送李群玉赴举",
+    "title_tr": "送李羣玉赴舉",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "故人别来面如雪，一榻拂云秋影中。\n玉白花红三百首，五陵谁唱与春风。",
+    "content_tr": "故人別來面如雪，一榻拂雲秋影中。\n玉白花紅三百首，五陵誰唱與春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

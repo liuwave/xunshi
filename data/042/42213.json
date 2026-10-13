@@ -1,0 +1,18 @@
+{
+  "work_id": 42213,
+  "work": {
+    "id": 42213,
+    "title": "润州二首",
+    "title_tr": "潤州二首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "句吴亭东千里秋，放歌曾作昔年游。\n青苔寺里无马迹，绿水桥边多酒楼。\n大抵南朝皆旷达，可怜东晋最风流。\n月明更想桓伊在，一笛闻吹出塞愁。",
+    "content_tr": "句吳亭東千里秋，放歌曾作昔年遊。\n青苔寺裏無馬跡，綠水橋邊多酒樓。\n大抵南朝皆曠達，可憐東晉最風流。\n月明更想桓伊在，一笛聞吹出塞愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

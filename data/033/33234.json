@@ -1,0 +1,18 @@
+{
+  "work_id": 33234,
+  "work": {
+    "id": 33234,
+    "title": "郊庙歌辞梁太庙乐舞辞帝盥",
+    "title_tr": "郊廟歌辭樑太廟樂舞辭帝盥",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庄肃莅事，周旋礼容。\n祼鬯严洁，穆穆雍雍。",
+    "content_tr": "莊肅蒞事，周旋禮容。\n祼鬯嚴潔，穆穆雍雍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

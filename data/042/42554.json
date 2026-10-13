@@ -1,0 +1,18 @@
+{
+  "work_id": 42554,
+  "work": {
+    "id": 42554,
+    "title": "春日闲居即事",
+    "title_tr": "春日閒居即事",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "未得青云志，春同秋日情。\n花开如叶落，莺语似蝉鸣。\n道合和贫守，诗堪与命争。\n饥寒是吾事，断定不归耕。",
+    "content_tr": "未得青雲志，春同秋日情。\n花開如葉落，鶯語似蟬鳴。\n道合和貧守，詩堪與命爭。\n飢寒是吾事，斷定不歸耕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

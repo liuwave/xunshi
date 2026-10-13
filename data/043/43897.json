@@ -1,0 +1,18 @@
+{
+  "work_id": 43897,
+  "work": {
+    "id": 43897,
+    "title": "客中行",
+    "title_tr": "客中行",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "兰陵美酒郁金香，玉碗盛来琥珀光。\n但使主人能醉客，不知何处是他乡。",
+    "content_tr": "蘭陵美酒鬱金香，玉椀盛來琥珀光。\n但使主人能醉客，不知何處是他鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

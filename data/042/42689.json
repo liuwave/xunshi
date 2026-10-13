@@ -1,0 +1,18 @@
+{
+  "work_id": 42689,
+  "work": {
+    "id": 42689,
+    "title": "钓叟",
+    "title_tr": "釣叟",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茅屋深湾里，钓船横竹门。\n经营衣食外，犹得弄儿孙。",
+    "content_tr": "茅屋深灣裏，釣船橫竹門。\n經營衣食外，猶得弄兒孫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

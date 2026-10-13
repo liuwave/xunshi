@@ -1,0 +1,18 @@
+{
+  "work_id": 43123,
+  "work": {
+    "id": 43123,
+    "title": "赠刘司户",
+    "title_tr": "贈劉司戶",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江风吹浪动云根，重碇危樯白日昏。\n已断燕鸿初起势，更惊骚客后归魂。\n汉廷急诏谁先入，楚路高歌自欲翻。\n万里相逢欢复泣，凤巢西隔九重门。",
+    "content_tr": "江風吹浪動雲根，重碇危檣白日昏。\n已斷燕鴻初起勢，更驚騷客後歸魂。\n漢廷急詔誰先入，楚路高歌自欲翻。\n萬里相逢歡復泣，鳳巢西隔九重門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

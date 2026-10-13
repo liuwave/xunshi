@@ -1,0 +1,18 @@
+{
+  "work_id": 36428,
+  "work": {
+    "id": 36428,
+    "title": "汉宫词",
+    "title_tr": "漢宮詞",
+    "author": "左偃",
+    "author_tr": "左偃",
+    "dynasty": "五代十国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒烛照清夜，笙歌隔藓墙。\n一从飞燕入，便不见君王。",
+    "content_tr": "寒燭照清夜，笙歌隔蘚牆。\n一從飛燕入，便不見君王。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

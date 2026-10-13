@@ -1,0 +1,18 @@
+{
+  "work_id": 45094,
+  "work": {
+    "id": 45094,
+    "title": "问舟子",
+    "title_tr": "問舟子",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "向夕问舟子，前程复几多。\n湾头正堪泊，淮里足风波。",
+    "content_tr": "向夕問舟子，前程復幾多。\n灣頭正堪泊，淮裏足風波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

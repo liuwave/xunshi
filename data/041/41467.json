@@ -1,0 +1,18 @@
+{
+  "work_id": 41467,
+  "work": {
+    "id": 41467,
+    "title": "春水生二绝",
+    "title_tr": "春水生二絕",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "二月六夜春水生，门前小滩浑欲平。\n鸬鹚鸂鶒莫漫喜，吾与汝曹俱眼明。",
+    "content_tr": "二月六夜春水生，門前小灘渾欲平。\n鸕鶿鸂鶒莫漫喜，吾與汝曹俱眼明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

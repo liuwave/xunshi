@@ -1,0 +1,18 @@
+{
+  "work_id": 37829,
+  "work": {
+    "id": 37829,
+    "title": "赋得听边鸿",
+    "title_tr": "賦得聽邊鴻",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惊风吹起塞鸿群，半拂平沙半入云。\n为问昭君月下听，何如苏武雪中闻。",
+    "content_tr": "驚風吹起塞鴻羣，半拂平沙半入雲。\n爲問昭君月下聽，何如蘇武雪中聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

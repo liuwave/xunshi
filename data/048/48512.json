@@ -1,0 +1,18 @@
+{
+  "work_id": 48512,
+  "work": {
+    "id": 48512,
+    "title": "吴赤壁",
+    "title_tr": "吳赤壁",
+    "author": "孙元晏",
+    "author_tr": "孫元晏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "会猎书来举国惊，只应周鲁不教迎。\n曹公一战奔波后，赤壁功传万古名。",
+    "content_tr": "會獵書來舉國驚，祗應周魯不教迎。\n曹公一戰奔波後，赤壁功傳萬古名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

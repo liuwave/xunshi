@@ -1,0 +1,18 @@
+{
+  "work_id": 43333,
+  "work": {
+    "id": 43333,
+    "title": "戏题赠稷山驿吏王全",
+    "title_tr": "戲題贈稷山驛吏王全",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绛台驿吏老风尘，耽酒成仙几十春。\n过客不劳询甲子，惟书亥字与时人。",
+    "content_tr": "絳臺驛吏老風塵，耽酒成仙幾十春。\n過客不勞詢甲子，惟書亥字與時人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

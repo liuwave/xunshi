@@ -1,0 +1,18 @@
+{
+  "work_id": 47743,
+  "work": {
+    "id": 47743,
+    "title": "咏史诗射熊馆",
+    "title_tr": "詠史詩射熊館",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉帝荒唐不解忧，大夸田猎废农收。\n子云徒献长杨赋，肯念高皇沐雨秋。",
+    "content_tr": "漢帝荒唐不解憂，大誇田獵廢農收。\n子云徒獻長楊賦，肯念高皇沐雨秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

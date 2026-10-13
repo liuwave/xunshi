@@ -1,0 +1,18 @@
+{
+  "work_id": 42280,
+  "work": {
+    "id": 42280,
+    "title": "哭李给事中敏",
+    "title_tr": "哭李給事中敏",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阳陵郭门外，陂陁丈五坟。\n九泉如结友，兹地好埋君。",
+    "content_tr": "陽陵郭門外，陂陁丈五墳。\n九泉如結友，茲地好埋君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

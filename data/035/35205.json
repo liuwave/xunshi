@@ -1,0 +1,18 @@
+{
+  "work_id": 35205,
+  "work": {
+    "id": 35205,
+    "title": "春庄",
+    "title_tr": "春莊",
+    "author": "王勃",
+    "author_tr": "王勃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山中兰叶径，城外李桃园。\n岂知人事静，不觉鸟声喧。",
+    "content_tr": "山中蘭葉徑，城外李桃園。\n豈知人事靜，不覺鳥聲喧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

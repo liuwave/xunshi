@@ -1,0 +1,18 @@
+{
+  "work_id": 43234,
+  "work": {
+    "id": 43234,
+    "title": "留赠畏之其二",
+    "title_tr": "留贈畏之其二",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "待得郎来月已低，寒暄不道醉如泥。\n五更又欲向何处，骑马出门乌夜啼。",
+    "content_tr": "待得郎來月已低，寒暄不道醉如泥。\n五更又欲向何處，騎馬出門烏夜啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

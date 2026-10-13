@@ -1,0 +1,18 @@
+{
+  "work_id": 42353,
+  "work": {
+    "id": 42353,
+    "title": "方响",
+    "title_tr": "方響",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "数条秋水挂琅玕，玉手丁当怕夜寒。\n曲尽连敲三四下，恐惊珠泪落金盘。",
+    "content_tr": "數條秋水掛琅玕，玉手丁當怕夜寒。\n曲盡連敲三四下，恐驚珠淚落金盤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

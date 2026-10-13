@@ -1,0 +1,18 @@
+{
+  "work_id": 42343,
+  "work": {
+    "id": 42343,
+    "title": "留赠",
+    "title_tr": "留贈",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "舞靴应任闲人看，笑脸还须待我开。\n不用镜前空有泪，蔷薇花谢即归来。",
+    "content_tr": "舞靴應任閒人看，笑臉還須待我開。\n不用鏡前空有淚，薔薇花謝即歸來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

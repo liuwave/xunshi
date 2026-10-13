@@ -1,0 +1,18 @@
+{
+  "work_id": 30123,
+  "work": {
+    "id": 30123,
+    "title": "聚景园",
+    "title_tr": "聚景園",
+    "author": "卫芳华鬼",
+    "author_tr": "衛芳華鬼",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湖上园亭好，重来忆旧游。\n徵歌调玉树，阅舞按梁州。\n径狭花迎辇，池深柳拂舟。\n昔人皆已没，谁与话风流？",
+    "content_tr": "湖上園亭好，重來憶舊遊。\n徵歌調玉樹，閱舞按梁州。\n徑狹花迎輦，池深柳拂舟。\n昔人皆已沒，誰與話風流？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 33867,
+  "work": {
+    "id": 33867,
+    "title": "题窗上诗",
+    "title_tr": "題窗上詩",
+    "author": "隔窗鬼",
+    "author_tr": "隔窗鬼",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何人窗下读书声，南斗阑干北斗横。\n千里思家归不得，春风肠断石头城。",
+    "content_tr": "何人窗下讀書聲，南鬥闌干北斗橫。\n千里思家歸不得，春風腸斷石頭城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

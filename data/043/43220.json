@@ -1,0 +1,18 @@
+{
+  "work_id": 43220,
+  "work": {
+    "id": 43220,
+    "title": "初起",
+    "title_tr": "初起",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "想像咸池日欲光，五更钟后更回肠。\n三年苦雾巴江水，不为离人照屋梁。",
+    "content_tr": "想像咸池日欲光，五更鐘後更迴腸。\n三年苦霧巴江水，不爲離人照屋樑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 43292,
+  "work": {
+    "id": 43292,
+    "title": "龙池",
+    "title_tr": "龍池",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙池赐酒敞云屏，羯鼓声高众乐停。\n夜半宴归宫漏永，薛王沉醉寿王醒。",
+    "content_tr": "龍池賜酒敞雲屏，羯鼓聲高衆樂停。\n夜半宴歸宮漏永，薛王沉醉壽王醒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

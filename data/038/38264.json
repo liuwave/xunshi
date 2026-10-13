@@ -1,0 +1,18 @@
+{
+  "work_id": 38264,
+  "work": {
+    "id": 38264,
+    "title": "九老图诗",
+    "title_tr": "九老圖詩",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪作须眉云作衣，辽东华表鹤双归。\n当时一鹤犹希有，何况今逢两令威。",
+    "content_tr": "雪作鬚眉雲作衣，遼東華表鶴雙歸。\n當時一鶴猶希有，何況今逢兩令威。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

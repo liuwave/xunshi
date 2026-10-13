@@ -1,0 +1,18 @@
+{
+  "work_id": 42474,
+  "work": {
+    "id": 42474,
+    "title": "游茅山",
+    "title_tr": "遊茅山",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "步步入山门，仙家鸟径分。\n渔樵不到处，麋鹿自成群。\n石面迸出水，松头穿破云。\n道人星月下，相次礼茅君。",
+    "content_tr": "步步入山門，仙家鳥徑分。\n漁樵不到處，麋鹿自成羣。\n石面迸出水，鬆頭穿破雲。\n道人星月下，相次禮茅君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

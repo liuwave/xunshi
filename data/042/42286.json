@@ -1,0 +1,18 @@
+{
+  "work_id": 42286,
+  "work": {
+    "id": 42286,
+    "title": "送卢秀才一绝",
+    "title_tr": "送盧秀才一絕",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春濑与烟远，送君孤棹开。\n潺湲如不改，愁更钓鱼来。",
+    "content_tr": "春瀨與煙遠，送君孤棹開。\n潺湲如不改，愁更釣魚來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 47701,
+  "work": {
+    "id": 47701,
+    "title": "咏史诗汨罗",
+    "title_tr": "詠史詩汨羅",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "襄王不用直臣筹，放逐南来泽国秋。\n自向波间葬鱼腹，楚人徒倚济川舟。",
+    "content_tr": "襄王不用直臣籌，放逐南來澤國秋。\n自向波間葬魚腹，楚人徒倚濟川舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

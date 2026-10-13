@@ -1,0 +1,18 @@
+{
+  "work_id": 33001,
+  "work": {
+    "id": 33001,
+    "title": "鲍防《云门寺济公上方偈序》郑概《山石榴偈》",
+    "title_tr": "鮑防《雲門寺濟公上方偈序》鄭槩《山石榴偈》",
+    "author": "浙东众诗人",
+    "author_tr": "浙東衆詩人",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何方而有，天上人间。\n色空我性，对尔空山。",
+    "content_tr": "何方而有，天上人間。\n色空我性，對爾空山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

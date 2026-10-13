@@ -1,0 +1,18 @@
+{
+  "work_id": 45678,
+  "work": {
+    "id": 45678,
+    "title": "送玄亮师",
+    "title_tr": "送玄亮師",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "兰泉涤我襟，杉月栖我心。\n茗啜绿净花，经诵清柔音。\n何处笑为别，淡情愁不侵。",
+    "content_tr": "蘭泉滌我襟，杉月棲我心。\n茗啜綠淨花，經誦清柔音。\n何處笑爲別，淡情愁不侵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

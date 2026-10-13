@@ -1,0 +1,18 @@
+{
+  "work_id": 45500,
+  "work": {
+    "id": 45500,
+    "title": "山老吟",
+    "title_tr": "山老吟",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不行山下地，唯种山上田。\n腰斧斫旅松，手飘汲家泉。\n讵知文字力，莫记日月迁。\n蟠木为我身，始得全天年。",
+    "content_tr": "不行山下地，唯種山上田。\n腰斧斫旅鬆，手飄汲家泉。\n詎知文字力，莫記日月遷。\n蟠木爲我身，始得全天年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

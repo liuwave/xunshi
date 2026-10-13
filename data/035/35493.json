@@ -1,0 +1,18 @@
+{
+  "work_id": 35493,
+  "work": {
+    "id": 35493,
+    "title": "汉苑行",
+    "title_tr": "漢苑行",
+    "author": "王涯",
+    "author_tr": "王涯",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "二月春风遍柳条，九天仙乐奏云韶。\n蓬莱殿后花如锦，紫阁阶前雪未销。",
+    "content_tr": "二月春風遍柳條，九天仙樂奏雲韶。\n蓬萊殿後花如錦，紫閣階前雪未銷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

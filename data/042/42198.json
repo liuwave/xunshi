@@ -1,0 +1,18 @@
+{
+  "work_id": 42198,
+  "work": {
+    "id": 42198,
+    "title": "西山草堂",
+    "title_tr": "西山草堂",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何处人事少，西峰旧草堂。\n晒书秋日晚，洗药石泉香。\n后岭有微雨，北窗生晓凉。\n徒劳问归路，峰叠绕家乡。",
+    "content_tr": "何處人事少，西峯舊草堂。\n曬書秋日晚，洗藥石泉香。\n後嶺有微雨，北窗生曉涼。\n徒勞問歸路，峯疊繞家鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

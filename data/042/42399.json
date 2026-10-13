@@ -1,0 +1,18 @@
+{
+  "work_id": 42399,
+  "work": {
+    "id": 42399,
+    "title": "醉倒",
+    "title_tr": "醉倒",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日晴空乐下仙云，俱在凉亭送使君。\n莫辞一盏即相请，还是三年更不闻。",
+    "content_tr": "日晴空樂下仙雲，俱在涼亭送使君。\n莫辭一盞即相請，還是三年更不聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

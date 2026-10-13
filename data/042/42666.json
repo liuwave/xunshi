@@ -1,0 +1,18 @@
+{
+  "work_id": 42666,
+  "work": {
+    "id": 42666,
+    "title": "赠休粮僧",
+    "title_tr": "贈休糧僧",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自言因病学休粮，本意非求不死方。\n徒有至人传道术，更无斋客到禅房。\n雨中林鸟归巢晚，霜后岩猿拾橡忙。\n争似吾师无一事，稳披云衲坐藤床。",
+    "content_tr": "自言因病學休糧，本意非求不死方。\n徒有至人傳道術，更無齋客到禪房。\n雨中林鳥歸巢晚，霜後巖猿拾橡忙。\n爭似吾師無一事，穩披雲衲坐藤牀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

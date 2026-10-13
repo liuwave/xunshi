@@ -1,0 +1,18 @@
+{
+  "work_id": 40625,
+  "work": {
+    "id": 40625,
+    "title": "赠毕四",
+    "title_tr": "贈畢四",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "才大今诗伯，家贫苦宦卑。\n饥寒奴仆贱，颜状老翁为。\n同调嗟谁惜，论文笑自知。\n流传江鲍体，相顾免无儿。",
+    "content_tr": "才大今詩伯，家貧苦宦卑。\n飢寒奴僕賤，顏狀老翁爲。\n同調嗟誰惜，論文笑自知。\n流傳江鮑體，相顧免無兒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

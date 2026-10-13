@@ -1,0 +1,18 @@
+{
+  "work_id": 49250,
+  "work": {
+    "id": 49250,
+    "title": "天明联句",
+    "title_tr": "天明聯句",
+    "author": "商山三丈夫",
+    "author_tr": "商山三丈夫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幽树高高影，山花寂寂香。\n山天遥历历，山水急汤汤。",
+    "content_tr": "幽樹高高影，山花寂寂香。\n山天遙歷歷，山水急湯湯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

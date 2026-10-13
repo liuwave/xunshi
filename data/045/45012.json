@@ -1,0 +1,18 @@
+{
+  "work_id": 45012,
+  "work": {
+    "id": 45012,
+    "title": "广陵别薛八",
+    "title_tr": "廣陵別薛八",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "士有不得志，栖栖吴楚间。\n广陵相遇罢，彭蠡泛舟还。\n樯出江中树，波连海上山。\n风帆明日远，何处更追攀。",
+    "content_tr": "士有不得志，棲棲吳楚間。\n廣陵相遇罷，彭蠡泛舟還。\n檣出江中樹，波連海上山。\n風帆明日遠，何處更追攀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

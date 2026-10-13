@@ -1,0 +1,18 @@
+{
+  "work_id": 38729,
+  "work": {
+    "id": 38729,
+    "title": "舟中雨夜",
+    "title_tr": "舟中雨夜",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江云闇悠悠，江风冷修修。\n夜雨滴船背，风浪打船头。\n船中有病客，左降向江州。",
+    "content_tr": "江雲闇悠悠，江風冷修修。\n夜雨滴船背，風浪打船頭。\n船中有病客，左降向江州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 47039,
+  "work": {
+    "id": 47039,
+    "title": "雨中赠仙人山贾山人",
+    "title_tr": "雨中贈仙人山賈山人",
+    "author": "柳宗元",
+    "author_tr": "柳宗元",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒江夜雨声潺潺，晓云遮尽仙人山。\n遥知玄豹在深处，下笑羁绊泥涂间。",
+    "content_tr": "寒江夜雨聲潺潺，曉雲遮盡仙人山。\n遙知玄豹在深處，下笑羈絆泥塗間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

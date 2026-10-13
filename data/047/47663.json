@@ -1,0 +1,18 @@
+{
+  "work_id": 47663,
+  "work": {
+    "id": 47663,
+    "title": "咏史诗会稽山",
+    "title_tr": "詠史詩會稽山",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "越王兵败已山栖，岂望全生出会稽。\n何事夫差无远虑，更开罗网放鲸鲵。",
+    "content_tr": "越王兵敗已山棲，豈望全生出會稽。\n何事夫差無遠慮，更開羅網放鯨鯢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

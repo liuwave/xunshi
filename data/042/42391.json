@@ -1,0 +1,18 @@
+{
+  "work_id": 42391,
+  "work": {
+    "id": 42391,
+    "title": "边上闻笳三首",
+    "title_tr": "邊上聞笳三首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何处吹笳薄暮天，塞垣高鸟没狼烟。\n游人一听头堪白，苏武争禁十九年。",
+    "content_tr": "何處吹笳薄暮天，塞垣高鳥沒狼煙。\n遊人一聽頭堪白，蘇武爭禁十九年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

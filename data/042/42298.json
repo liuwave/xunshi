@@ -1,0 +1,18 @@
+{
+  "work_id": 42298,
+  "work": {
+    "id": 42298,
+    "title": "赠李秀才",
+    "title_tr": "贈李秀才",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "骨清年少眼如冰，凤羽参差五色层。\n天上麒麟时一下，人间不独有徐陵。",
+    "content_tr": "骨清年少眼如冰，鳳羽參差五色層。\n天上麒麟時一下，人間不獨有徐陵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

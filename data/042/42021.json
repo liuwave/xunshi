@@ -1,0 +1,18 @@
+{
+  "work_id": 42021,
+  "work": {
+    "id": 42021,
+    "title": "送司马先生",
+    "title_tr": "送司馬先生",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蓬阁桃源两处分，人间海上不相闻。\n一朝琴里悲黄鹤，何日山头望白云。",
+    "content_tr": "蓬閣桃源兩處分，人間海上不相聞。\n一朝琴裏悲黃鶴，何日山頭望白雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 43232,
+  "work": {
+    "id": 43232,
+    "title": "三月十日流杯亭",
+    "title_tr": "三月十日流杯亭",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "身属中军少得归，木兰花尽失春期。\n偷随柳絮到城外，行过水西闻子规。",
+    "content_tr": "身屬中軍少得歸，木蘭花盡失春期。\n偷隨柳絮到城外，行過水西聞子規。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

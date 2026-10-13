@@ -1,0 +1,18 @@
+{
+  "work_id": 43219,
+  "work": {
+    "id": 43219,
+    "title": "石榴",
+    "title_tr": "石榴",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "榴枝婀娜榴实繁，榴膜轻明榴子鲜。\n可羡瑶池碧桃树，碧桃红颊一千年。",
+    "content_tr": "榴枝婀娜榴實繁，榴膜輕明榴子鮮。\n可羨瑤池碧桃樹，碧桃紅頰一千年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

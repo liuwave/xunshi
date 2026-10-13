@@ -1,0 +1,18 @@
+{
+  "work_id": 42214,
+  "work": {
+    "id": 42214,
+    "title": "西江怀古",
+    "title_tr": "西江懷古",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上吞巴汉控潇湘，怒似连山净镜光。\n魏帝缝囊真戏剧，苻坚投棰更荒唐。\n千秋钓艇歌明月，万里沙鸥弄夕阳。\n范蠡清尘何寂寞，好风唯属往来商。",
+    "content_tr": "上吞巴漢控瀟湘，怒似連山淨鏡光。\n魏帝縫囊真戲劇，苻堅投箠更荒唐。\n千秋釣艇歌明月，萬里沙鷗弄夕陽。\n范蠡清塵何寂寞，好風唯屬往來商。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

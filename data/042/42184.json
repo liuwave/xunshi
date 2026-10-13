@@ -1,0 +1,18 @@
+{
+  "work_id": 42184,
+  "work": {
+    "id": 42184,
+    "title": "春日寄许浑先辈",
+    "title_tr": "春日寄許渾先輩",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蓟北雁初去，湘南春又归。\n水流沧海急，人到白头稀。\n塞路尽何处，我愁当落晖。\n终须接鸳鹭，霄汉共高飞。",
+    "content_tr": "薊北雁初去，湘南春又歸。\n水流滄海急，人到白頭稀。\n塞路盡何處，我愁當落暉。\n終須接鴛鷺，霄漢共高飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

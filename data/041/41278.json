@@ -1,0 +1,18 @@
+{
+  "work_id": 41278,
+  "work": {
+    "id": 41278,
+    "title": "题壁画马歌",
+    "title_tr": "題壁畫馬歌",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "韦侯别我有所适，知我怜君画无敌。\n戏拈秃笔扫骅骝，歘见骐驎出东壁。\n一匹龁草一匹嘶，坐看千里当霜蹄。\n时危安得真致此，与人同生亦同死。",
+    "content_tr": "韋侯別我有所適，知我憐君畫無敵。\n戲拈禿筆埽驊騮，歘見騏驎出東壁。\n一匹齕草一匹嘶，坐看千里當霜蹄。\n時危安得真致此，與人同生亦同死。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

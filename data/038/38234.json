@@ -1,0 +1,18 @@
+{
+  "work_id": 38234,
+  "work": {
+    "id": 38234,
+    "title": "池鹤八绝句乌赠鹤",
+    "title_tr": "池鶴八絕句烏贈鶴",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "与君白黑大分明，纵不相亲莫见轻。\n我每夜啼君怨别，玉徽琴里忝同声。",
+    "content_tr": "與君白黑大分明，縱不相親莫見輕。\n我每夜啼君怨別，玉徽琴裏忝同聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

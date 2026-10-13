@@ -1,0 +1,18 @@
+{
+  "work_id": 42371,
+  "work": {
+    "id": 42371,
+    "title": "长安雪后",
+    "title_tr": "長安雪後",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秦陵汉苑参差雪，北阙南山次第春。\n车马满城原上去，岂知惆怅有闲人。",
+    "content_tr": "秦陵漢苑參差雪，北闕南山次第春。\n車馬滿城原上去，豈知惆悵有閒人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42380,
+  "work": {
+    "id": 42380,
+    "title": "寄杜子二首",
+    "title_tr": "寄杜子二首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不识长杨事北胡，且教红袖醉来扶。\n狂风烈焰虽千尺，豁得平生俊气无。",
+    "content_tr": "不識長楊事北胡，且教紅袖醉來扶。\n狂風烈燄雖千尺，豁得平生俊氣無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

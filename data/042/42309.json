@@ -1,0 +1,18 @@
+{
+  "work_id": 42309,
+  "work": {
+    "id": 42309,
+    "title": "赠朱道灵",
+    "title_tr": "贈朱道靈",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "刘根丹篆三千字，郭璞青囊两卷书。\n牛渚矶南谢山北，白云深处有岩居。",
+    "content_tr": "劉根丹篆三千字，郭璞青囊兩卷書。\n牛渚磯南謝山北，白雲深處有巖居。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

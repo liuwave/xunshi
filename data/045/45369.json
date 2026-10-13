@@ -1,0 +1,18 @@
+{
+  "work_id": 45369,
+  "work": {
+    "id": 45369,
+    "title": "六朝门再吟",
+    "title_tr": "六朝門再吟",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空知勇锐不知兵，困兽孤军未可轻。\n安有长驱百馀万，身驰几旅欲先征。",
+    "content_tr": "空知勇銳不知兵，困獸孤軍未可輕。\n安有長驅百餘萬，身馳幾旅欲先徵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

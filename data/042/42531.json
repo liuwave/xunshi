@@ -1,0 +1,18 @@
+{
+  "work_id": 42531,
+  "work": {
+    "id": 42531,
+    "title": "江岸秋思",
+    "title_tr": "江岸秋思",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "驱马傍江行，乡愁步步生。\n举鞭挥柳色，随手失蝉声。\n秋稼缘长道，寒云约古城。\n家贫遇丰岁，无地可归耕。",
+    "content_tr": "驅馬傍江行，鄉愁步步生。\n舉鞭揮柳色，隨手失蟬聲。\n秋稼緣長道，寒雲約古城。\n家貧遇豐歲，無地可歸耕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

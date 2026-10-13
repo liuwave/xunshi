@@ -1,0 +1,18 @@
+{
+  "work_id": 42295,
+  "work": {
+    "id": 42295,
+    "title": "题齐安城楼",
+    "title_tr": "題齊安城樓",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "呜咽江楼角一声，微阳潋潋落寒汀。\n不用凭阑苦回首，故乡七十五长亭。",
+    "content_tr": "嗚咽江樓角一聲，微陽瀲瀲落寒汀。\n不用憑闌苦回首，故鄉七十五長亭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

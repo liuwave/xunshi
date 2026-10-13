@@ -1,0 +1,18 @@
+{
+  "work_id": 37890,
+  "work": {
+    "id": 37890,
+    "title": "湖上闲望",
+    "title_tr": "湖上閒望",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "藤花浪拂紫茸条，菰叶风翻绿剪刀。\n闲弄水芳生楚思，时时合眼咏离骚。",
+    "content_tr": "藤花浪拂紫茸條，菰葉風翻綠剪刀。\n閒弄水芳生楚思，時時閤眼詠離騷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

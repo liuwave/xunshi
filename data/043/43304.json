@@ -1,0 +1,18 @@
+{
+  "work_id": 43304,
+  "work": {
+    "id": 43304,
+    "title": "白云夫旧居",
+    "title_tr": "白雲夫舊居",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平生误识白云夫，再到仙檐忆酒垆。\n墙外万株人绝迹，夕阳惟照欲栖乌。",
+    "content_tr": "平生誤識白雲夫，再到仙檐憶酒壚。\n牆外萬株人絕跡，夕陽惟照欲棲烏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

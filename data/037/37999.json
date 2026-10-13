@@ -1,0 +1,18 @@
+{
+  "work_id": 37999,
+  "work": {
+    "id": 37999,
+    "title": "醉戏诸妓",
+    "title_tr": "醉戲諸妓",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "席上争飞使君酒，歌中多唱舍人诗。\n不知明日休官后，逐我东山去是谁。",
+    "content_tr": "席上爭飛使君酒，歌中多唱舍人詩。\n不知明日休官後，逐我東山去是誰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42345,
+  "work": {
+    "id": 42345,
+    "title": "南陵道中",
+    "title_tr": "南陵道中",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南陵水面漫悠悠，风紧云轻欲变秋。\n正是客心孤回处，谁家红袖凭江楼。",
+    "content_tr": "南陵水面漫悠悠，風緊雲輕欲變秋。\n正是客心孤回處，誰家紅袖憑江樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

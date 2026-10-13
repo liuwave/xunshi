@@ -1,0 +1,18 @@
+{
+  "work_id": 42863,
+  "work": {
+    "id": 42863,
+    "title": "百花原",
+    "title_tr": "百花原",
+    "author": "李颀",
+    "author_tr": "李頎",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百花原头望京师，黄河水流无已时。\n穷秋旷野行人绝，马首东来知是谁。",
+    "content_tr": "百花原頭望京師，黃河水流無已時。\n窮秋曠野行人絶，馬首東來知是誰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

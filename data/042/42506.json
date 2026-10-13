@@ -1,0 +1,18 @@
+{
+  "work_id": 42506,
+  "work": {
+    "id": 42506,
+    "title": "望远",
+    "title_tr": "望遠",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门前通大道，望远上高台。\n落日人行尽，穷边信不来。\n还闻战得胜，未见敕招回。\n却入机中坐，新愁织不开。",
+    "content_tr": "門前通大道，望遠上高臺。\n落日人行盡，窮邊信不來。\n還聞戰得勝，未見敕招回。\n卻入機中坐，新愁織不開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

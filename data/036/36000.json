@@ -1,0 +1,18 @@
+{
+  "work_id": 36000,
+  "work": {
+    "id": 36000,
+    "title": "九仙公主旧庄",
+    "title_tr": "九仙公主舊莊",
+    "author": "王建",
+    "author_tr": "王建",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙居五里外门西，石路亲回御马蹄。\n天使来栽宫里树，罗衣自买院前溪。\n野牛行傍浇花井，本主分将灌药畦。\n楼上凤皇飞去后，白云红叶属山鸡。",
+    "content_tr": "仙居五里外門西，石路親回御馬蹄。\n天使來栽宮裏樹，羅衣自買院前溪。\n野牛行傍澆花井，本主分將灌藥畦。\n樓上鳳皇飛去後，白雲紅葉屬山雞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

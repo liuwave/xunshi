@@ -1,0 +1,18 @@
+{
+  "work_id": 48245,
+  "work": {
+    "id": 48245,
+    "title": "寄杜先生诗",
+    "title_tr": "寄杜先生詩",
+    "author": "孙偓",
+    "author_tr": "孫偓",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜀国信难遇，楚乡心更愁。\n我行同范蠡，师举效浮丘。\n他日相逢处，多应在十洲。",
+    "content_tr": "蜀國信難遇，楚鄉心更愁。\n我行同范蠡，師舉效浮丘。\n他日相逢處，多應在十洲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

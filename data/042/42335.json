@@ -1,0 +1,18 @@
+{
+  "work_id": 42335,
+  "work": {
+    "id": 42335,
+    "title": "送隐者一绝",
+    "title_tr": "送隱者一絕",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无媒径路草萧萧，自古云林远市朝。\n公道世间唯白发，贵人头上不曾饶。",
+    "content_tr": "無媒徑路草蕭蕭，自古云林遠市朝。\n公道世間唯白髮，貴人頭上不曾饒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

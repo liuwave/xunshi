@@ -1,0 +1,18 @@
+{
+  "work_id": 42777,
+  "work": {
+    "id": 42777,
+    "title": "题书卷后语",
+    "title_tr": "題書卷後語",
+    "author": "杜兼",
+    "author_tr": "杜兼",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倩俸写来手自校，汝曹读之知圣道，坠之鬻之为不孝。",
+    "content_tr": "倩俸寫來手自校，汝曹讀之知聖道，墜之鬻之爲不孝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

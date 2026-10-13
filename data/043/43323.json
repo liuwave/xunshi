@@ -1,0 +1,18 @@
+{
+  "work_id": 43323,
+  "work": {
+    "id": 43323,
+    "title": "失猿",
+    "title_tr": "失猿",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "祝融南去万重云，清啸无因更一闻。\n莫遣碧江通箭道，不教肠断忆同群。",
+    "content_tr": "祝融南去萬重雲，清嘯無因更一聞。\n莫遣碧江通箭道，不教腸斷憶同羣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

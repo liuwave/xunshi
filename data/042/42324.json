@@ -1,0 +1,18 @@
+{
+  "work_id": 42324,
+  "work": {
+    "id": 42324,
+    "title": "题元",
+    "title_tr": "題元",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水接西江天外声，小斋松影拂云平。\n何人教我吹长笛，与倚春风弄月明。",
+    "content_tr": "水接西江天外聲，小齋鬆影拂雲平。\n何人教我吹長笛，與倚春風弄月明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

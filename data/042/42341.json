@@ -1,0 +1,18 @@
+{
+  "work_id": 42341,
+  "work": {
+    "id": 42341,
+    "title": "寄题宣州开元寺",
+    "title_tr": "寄題宣州開元寺",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "松寺曾同一鹤栖，夜深台殿月高低。\n何人为倚东楼柱，正是千山雪涨溪。",
+    "content_tr": "鬆寺曾同一鶴棲，夜深臺殿月高低。\n何人爲倚東樓柱，正是千山雪漲溪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

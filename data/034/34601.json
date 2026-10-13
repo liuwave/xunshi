@@ -1,0 +1,18 @@
+{
+  "work_id": 34601,
+  "work": {
+    "id": 34601,
+    "title": "独醉",
+    "title_tr": "獨醉",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一树芳菲也当春，漫随车马拥行尘。\n桃花解笑莺能语，自醉自眠那藉人。",
+    "content_tr": "一樹芳菲也當春，漫隨車馬擁行塵。\n桃花解笑鶯能語，自醉自眠那藉人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

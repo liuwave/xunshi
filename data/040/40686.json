@@ -1,0 +1,18 @@
+{
+  "work_id": 40686,
+  "work": {
+    "id": 40686,
+    "title": "云山",
+    "title_tr": "雲山",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "京洛云山外，音书静不来。\n神交作赋客，力尽望乡台。\n衰疾江边卧，亲朋日暮回。\n白鸥元水宿，何事有馀哀。",
+    "content_tr": "京洛雲山外，音書靜不來。\n神交作賦客，力盡望鄉臺。\n衰疾江邊臥，親朋日暮回。\n白鷗元水宿，何事有餘哀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 33713,
+  "work": {
+    "id": 33713,
+    "title": "故都",
+    "title_tr": "故都",
+    "author": "罗隐",
+    "author_tr": "羅隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江南江北两风流，一作迷津一拜侯。\n至竟不如隋炀帝，破家犹得到扬州。",
+    "content_tr": "江南江北兩風流，一作迷津一拜侯。\n至竟不如隋煬帝，破家猶得到揚州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

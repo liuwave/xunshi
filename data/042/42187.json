@@ -1,0 +1,18 @@
+{
+  "work_id": 42187,
+  "work": {
+    "id": 42187,
+    "title": "别怀",
+    "title_tr": "別懷",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "相别徒成泣，经过总是空。\n劳生惯离别，夜梦苦西东。\n去路三湘浪，归程一片风。\n他年寄消息，书在鲤鱼中。",
+    "content_tr": "相別徒成泣，經過總是空。\n勞生慣離別，夜夢苦西東。\n去路三湘浪，歸程一片風。\n他年寄消息，書在鯉魚中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

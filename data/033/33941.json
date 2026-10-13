@@ -1,0 +1,18 @@
+{
+  "work_id": 33941,
+  "work": {
+    "id": 33941,
+    "title": "古仙词",
+    "title_tr": "古仙詞",
+    "author": "纥干著",
+    "author_tr": "紇幹著",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "珠幡绛节晓霞中，汉武清斋待少翁。\n不向人间恋春色，桃花自满紫阳宫。",
+    "content_tr": "珠幡絳節曉霞中，漢武清齋待少翁。\n不向人間戀春色，桃花自滿紫陽宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

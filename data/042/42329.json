@@ -1,0 +1,18 @@
+{
+  "work_id": 42329,
+  "work": {
+    "id": 42329,
+    "title": "春尽途中",
+    "title_tr": "春盡途中",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "田园不事来游宦，故国谁教尔别离。\n独倚关亭还把酒，一年春尽送春诗。",
+    "content_tr": "田園不事來遊宦，故國誰教爾別離。\n獨倚關亭還把酒，一年春盡送春詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

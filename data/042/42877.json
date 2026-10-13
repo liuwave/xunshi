@@ -1,0 +1,18 @@
+{
+  "work_id": 42877,
+  "work": {
+    "id": 42877,
+    "title": "郊庙歌辞让皇帝庙乐章亚献终献",
+    "title_tr": "郊廟歌辭讓皇帝廟樂章亞獻終獻",
+    "author": "李舒",
+    "author_tr": "李舒",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秩礼有序，和音既同。\n九仪不忒，三揖将终。\n孝感藩后，相维辟公。\n四时之典，永永无穷。",
+    "content_tr": "秩禮有序，和音既同。\n九儀不忒，三揖將終。\n孝感藩後，相維闢公。\n四時之典，永永無窮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

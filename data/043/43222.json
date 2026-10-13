@@ -1,0 +1,18 @@
+{
+  "work_id": 43222,
+  "work": {
+    "id": 43222,
+    "title": "赠歌妓二首",
+    "title_tr": "贈歌妓二首",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水精如意玉连环，下蔡城危莫破颜。\n红绽樱桃含白雪，断肠声里唱阳关。",
+    "content_tr": "水精如意玉連環，下蔡城危莫破顏。\n紅綻櫻桃含白雪，斷腸聲裏唱陽關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

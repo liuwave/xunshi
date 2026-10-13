@@ -1,0 +1,18 @@
+{
+  "work_id": 42223,
+  "work": {
+    "id": 42223,
+    "title": "柳长句",
+    "title_tr": "柳長句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日落水流西复东，春光不尽柳何穷。\n巫娥庙里低含雨，宋玉宅前斜带风。\n不嫌榆荚共争翠，深与桃花相映红。\n灞上汉南千万树，几人游宦别离中。",
+    "content_tr": "日落水流西復東，春光不盡柳何窮。\n巫娥廟裏低含雨，宋玉宅前斜帶風。\n不嫌榆莢共爭翠，深與桃花相映紅。\n灞上漢南千萬樹，幾人遊宦別離中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

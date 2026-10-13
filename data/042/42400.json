@@ -1,0 +1,18 @@
+{
+  "work_id": 42400,
+  "work": {
+    "id": 42400,
+    "title": "兵部",
+    "title_tr": "兵部",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "华堂今日绮筵开，谁唤分司御史来。\n偶发狂言惊满坐，三重粉面一时回。",
+    "content_tr": "華堂今日綺筵開，誰喚分司御史來。\n偶發狂言驚滿坐，三重粉面一時回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

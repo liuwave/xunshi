@@ -1,0 +1,18 @@
+{
+  "work_id": 42308,
+  "work": {
+    "id": 42308,
+    "title": "见吴秀才与池妓别因成绝句",
+    "title_tr": "見吳秀才與池妓別因成絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红烛短时羌笛怨，清歌咽处蜀弦高。\n万里分飞两行泪，满江寒雨正萧骚。",
+    "content_tr": "紅燭短時羌笛怨，清歌咽處蜀弦高。\n萬里分飛兩行淚，滿江寒雨正蕭騷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

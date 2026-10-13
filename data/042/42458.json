@@ -1,0 +1,18 @@
+{
+  "work_id": 42458,
+  "work": {
+    "id": 42458,
+    "title": "阮客旧居",
+    "title_tr": "阮客舊居",
+    "author": "李阳冰",
+    "author_tr": "李陽冰",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阮客身何在，仙云洞口横。\n人间不到处，今日此中行。",
+    "content_tr": "阮客身何在，仙雲洞口橫。\n人間不到處，今日此中行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

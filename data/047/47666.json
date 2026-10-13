@@ -1,0 +1,18 @@
+{
+  "work_id": 47666,
+  "work": {
+    "id": 47666,
+    "title": "咏史诗秦庭",
+    "title_tr": "詠史詩秦庭",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楚国君臣草莽间，吴王戈甲未东还。\n包胥不动咸阳哭，争得秦兵出武关。",
+    "content_tr": "楚國君臣草莽間，吳王戈甲未東還。\n包胥不動咸陽哭，爭得秦兵出武關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 33709,
+  "work": {
+    "id": 33709,
+    "title": "西施",
+    "title_tr": "西施",
+    "author": "罗隐",
+    "author_tr": "羅隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "家国兴亡自有时，吴人何苦怨西施。\n西施若解倾吴国，越国亡来又是谁。",
+    "content_tr": "家國興亡自有時，吳人何苦怨西施。\n西施若解傾吳國，越國亡來又是誰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

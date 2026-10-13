@@ -1,0 +1,18 @@
+{
+  "work_id": 42191,
+  "work": {
+    "id": 42191,
+    "title": "长安夜月",
+    "title_tr": "長安夜月",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒光垂静夜，皓彩满重城。\n万国尽分照，谁家无此明。\n古槐疏影薄，仙桂动秋声。\n独有长门里，蛾眉对晓晴。",
+    "content_tr": "寒光垂靜夜，皓彩滿重城。\n萬國盡分照，誰家無此明。\n古槐疏影薄，仙桂動秋聲。\n獨有長門裏，蛾眉對曉晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

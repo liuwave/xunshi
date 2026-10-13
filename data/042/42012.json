@@ -1,0 +1,18 @@
+{
+  "work_id": 42012,
+  "work": {
+    "id": 42012,
+    "title": "羊",
+    "title_tr": "羊",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绝饮惩浇俗，行驱梦逸材。\n仙人拥石去，童子驭车来。\n夜玉含星动，晨毡映雪开。\n莫言鸿渐力，长牧上林隈。",
+    "content_tr": "絕飲懲澆俗，行驅夢逸材。\n仙人擁石去，童子馭車來。\n夜玉含星動，晨氈映雪開。\n莫言鴻漸力，長牧上林隈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

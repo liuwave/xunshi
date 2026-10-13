@@ -1,0 +1,18 @@
+{
+  "work_id": 42393,
+  "work": {
+    "id": 42393,
+    "title": "重登科",
+    "title_tr": "重登科",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "星汉离宫月出轮，满街含笑绮罗春。\n花前每被青蛾问，何事重来只一人。",
+    "content_tr": "星漢離宮月出輪，滿街含笑綺羅春。\n花前每被青蛾問，何事重來只一人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

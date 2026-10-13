@@ -1,0 +1,18 @@
+{
+  "work_id": 42275,
+  "work": {
+    "id": 42275,
+    "title": "不饮赠酒",
+    "title_tr": "不飲贈酒",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细算人生事，彭殇共一筹。\n与愁争底事，要尔作戈矛。",
+    "content_tr": "細算人生事，彭殤共一籌。\n與愁爭底事，要爾作戈矛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

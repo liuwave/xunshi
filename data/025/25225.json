@@ -1,0 +1,18 @@
+{
+  "work_id": 25225,
+  "work": {
+    "id": 25225,
+    "title": "鸭滩",
+    "title_tr": "鴨灘",
+    "author": "麦澄",
+    "author_tr": "麥澄",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "中流乱石水交加，滚滚寒声带雪花。\n霜月不随流水去，只将秋色伴渔家。",
+    "content_tr": "中流亂石水交加，滾滾寒聲帶雪花。\n霜月不隨流水去，只將秋色伴漁家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

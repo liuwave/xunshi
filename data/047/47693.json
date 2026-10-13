@@ -1,0 +1,18 @@
+{
+  "work_id": 47693,
+  "work": {
+    "id": 47693,
+    "title": "咏史诗姑苏台",
+    "title_tr": "詠史詩姑蘇臺",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴王恃霸弃雄才，贪向姑苏醉醁醅。\n不觉钱塘江上月，一宵西送越兵来。",
+    "content_tr": "吳王恃霸棄雄才，貪向姑蘇醉醁醅。\n不覺錢塘江上月，一宵西送越兵來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

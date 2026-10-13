@@ -1,0 +1,18 @@
+{
+  "work_id": 42381,
+  "work": {
+    "id": 42381,
+    "title": "江南送左师",
+    "title_tr": "江南送左師",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江南为客正悲秋，更送吾师古渡头。\n惆怅不同尘土别，水云踪迹去悠悠。",
+    "content_tr": "江南爲客正悲秋，更送吾師古渡頭。\n惆悵不同塵土別，水雲蹤跡去悠悠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

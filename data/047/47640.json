@@ -1,0 +1,18 @@
+{
+  "work_id": 47640,
+  "work": {
+    "id": 47640,
+    "title": "咏史诗陈宫",
+    "title_tr": "詠史詩陳宮",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "陈国机权未可涯，如何后主恣娇奢。\n不知即入宫中井，犹自听吹玉树花。",
+    "content_tr": "陳國機權未可涯，如何後主恣嬌奢。\n不知即入宮中井，猶自聽吹玉樹花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

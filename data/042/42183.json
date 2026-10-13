@@ -1,0 +1,18 @@
+{
+  "work_id": 42183,
+  "work": {
+    "id": 42183,
+    "title": "寝夜",
+    "title_tr": "寢夜",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蛩唱如波咽，更深似水寒。\n露华惊弊褐，灯影挂尘冠。\n故国初离梦，前溪更下滩。\n纷纷毫发事，多少宦游难。",
+    "content_tr": "蛩唱如波咽，更深似水寒。\n露華驚弊褐，燈影掛塵冠。\n故國初離夢，前溪更下灘。\n紛紛毫髮事，多少宦遊難。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

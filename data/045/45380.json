@@ -1,0 +1,18 @@
+{
+  "work_id": 45380,
+  "work": {
+    "id": 45380,
+    "title": "六朝门宣帝",
+    "title_tr": "六朝門宣帝",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宣帝骄奢恣所为，后宫升降略无时。\n乘危自有妻公在，安许鸾凰是尉迟。",
+    "content_tr": "宣帝驕奢恣所爲，後宮升降略無時。\n乘危自有妻公在，安許鸞凰是尉遲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

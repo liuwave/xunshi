@@ -1,0 +1,18 @@
+{
+  "work_id": 38100,
+  "work": {
+    "id": 38100,
+    "title": "夭老",
+    "title_tr": "夭老",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "早世身如风里烛，暮年发似镜中丝。\n谁人断得人间事，少夭堪伤老又悲。",
+    "content_tr": "早世身如風裏燭，暮年發似鏡中絲。\n誰人斷得人間事，少夭堪傷老又悲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

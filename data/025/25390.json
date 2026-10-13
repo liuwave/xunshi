@@ -1,0 +1,18 @@
+{
+  "work_id": 25390,
+  "work": {
+    "id": 25390,
+    "title": "平安驿",
+    "title_tr": "平安驛",
+    "author": "傅若金",
+    "author_tr": "傅若金",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤灯夜宿平安驿，欲寄音书无使将。\n南雁数声秋雨里，却先行客过潇湘。",
+    "content_tr": "孤燈夜宿平安驛，欲寄音書無使將。\n南雁數聲秋雨裏，卻先行客過瀟湘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

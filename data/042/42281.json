@@ -1,0 +1,18 @@
+{
+  "work_id": 42281,
+  "work": {
+    "id": 42281,
+    "title": "黄州竹径斗",
+    "title_tr": "黃州竹徑鬥",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "竹浊蟠小径，屈折斗蛇来。\n三年得归去，知绕几千回。",
+    "content_tr": "竹濁蟠小徑，屈折鬥蛇來。\n三年得歸去，知繞幾千回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

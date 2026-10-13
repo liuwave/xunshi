@@ -1,0 +1,18 @@
+{
+  "work_id": 42330,
+  "work": {
+    "id": 42330,
+    "title": "题村舍",
+    "title_tr": "題村舍",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三树稚桑春未到，扶床乳女午啼饥。\n潜销暗铄归何处，万指侯家自不知。",
+    "content_tr": "三樹稚桑春未到，扶牀乳女午啼飢。\n潛銷暗鑠歸何處，萬指侯家自不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

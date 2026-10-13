@@ -1,0 +1,18 @@
+{
+  "work_id": 35500,
+  "work": {
+    "id": 35500,
+    "title": "相和歌辞从军行三首",
+    "title_tr": "相和歌辭從軍行三首",
+    "author": "王涯",
+    "author_tr": "王涯",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旌甲从军久，风云识阵难。\n今朝韩信计，日下斩成安。",
+    "content_tr": "旌甲從軍久，風雲識陣難。\n今朝韓信計，日下斬成安。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

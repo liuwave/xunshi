@@ -1,0 +1,18 @@
+{
+  "work_id": 43124,
+  "work": {
+    "id": 43124,
+    "title": "南朝",
+    "title_tr": "南朝",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玄武湖中玉漏催，鸡鸣埭口绣襦回。\n谁言琼树朝朝见，不及金莲步步来。\n敌国军营漂木柹，前朝神庙锁烟煤。\n满宫学士皆颜色，江令当年只费才。",
+    "content_tr": "玄武湖中玉漏催，雞鳴埭口繡襦回。\n誰言瓊樹朝朝見，不及金蓮步步來。\n敵國軍營漂木柹，前朝神廟鎖煙煤。\n滿宮學士皆顏色，江令當年只費才。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

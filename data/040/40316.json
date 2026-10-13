@@ -1,0 +1,18 @@
+{
+  "work_id": 40316,
+  "work": {
+    "id": 40316,
+    "title": "杨将军挽歌",
+    "title_tr": "楊將軍輓歌",
+    "author": "宋之问",
+    "author_tr": "宋之問",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "亭寒照苦月，陇暗积愁云。\n今日山门树，何处有将军。",
+    "content_tr": "亭寒照苦月，隴暗積愁雲。\n今日山門樹，何處有將軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42106,
+  "work": {
+    "id": 42106,
+    "title": "上黄堆烽",
+    "title_tr": "上黃堆烽",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "心期紫阁山中月，身过黄堆烽上云。\n年发已从书剑老，戎衣更逐霍将军。",
+    "content_tr": "心期紫閣山中月，身過黃堆烽上雲。\n年發已從書劍老，戎衣更逐霍將軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

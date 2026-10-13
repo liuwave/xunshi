@@ -1,0 +1,18 @@
+{
+  "work_id": 45501,
+  "work": {
+    "id": 45501,
+    "title": "苦寒吟",
+    "title_tr": "苦寒吟",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天寒色青苍，北风叫枯桑。\n厚冰无裂文，短日有冷光。\n敲石不得火，壮阴夺正阳。\n苦调竟何言，冻吟成此章。",
+    "content_tr": "天寒色青蒼，北風叫枯桑。\n厚冰無裂文，短日有冷光。\n敲石不得火，壯陰奪正陽。\n苦調竟何言，凍吟成此章。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

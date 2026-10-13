@@ -1,0 +1,18 @@
+{
+  "work_id": 28002,
+  "work": {
+    "id": 28002,
+    "title": "漫赋",
+    "title_tr": "漫賦",
+    "author": "杨仲玉",
+    "author_tr": "楊仲玉",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高咏三秋夜，飞鸿和远音。\n悠然乐无极，山月照幽林。",
+    "content_tr": "高詠三秋夜，飛鴻和遠音。\n悠然樂無極，山月照幽林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

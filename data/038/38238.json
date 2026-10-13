@@ -1,0 +1,18 @@
+{
+  "work_id": 38238,
+  "work": {
+    "id": 38238,
+    "title": "池鹤八绝句鹅赠鹤",
+    "title_tr": "池鶴八絕句鵝贈鶴",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君因风送入青云，我被人驱向鸭群。\n雪颈霜毛红网掌，请看何处不如君。",
+    "content_tr": "君因風送入青雲，我被人驅向鴨羣。\n雪頸霜毛紅網掌，請看何處不如君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

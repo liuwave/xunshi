@@ -1,0 +1,18 @@
+{
+  "work_id": 42193,
+  "work": {
+    "id": 42193,
+    "title": "贻友人",
+    "title_tr": "貽友人",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自是东西客，逢人又送人。\n不应相见老，只是别离频。\n度日还知暮，平生未识春。\n傥无迁谷分，归去养天真。",
+    "content_tr": "自是東西客，逢人又送人。\n不應相見老，秖是別離頻。\n度日還知暮，平生未識春。\n儻無遷谷分，歸去養天真。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

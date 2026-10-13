@@ -1,0 +1,18 @@
+{
+  "work_id": 45800,
+  "work": {
+    "id": 45800,
+    "title": "紫阁隐者",
+    "title_tr": "紫閣隱者",
+    "author": "尚颜",
+    "author_tr": "尚顏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天高紫阁侵，隐者信沈沈。\n道长年兼长，云深草复深。\n如非禅客见，即是猎人寻。\n北笑长安道，埃尘古到今。",
+    "content_tr": "天高紫閣侵，隱者信沈沈。\n道長年兼長，雲深草復深。\n如非禪客見，即是獵人尋。\n北笑長安道，埃塵古到今。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

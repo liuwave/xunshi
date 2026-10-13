@@ -1,0 +1,18 @@
+{
+  "work_id": 47719,
+  "work": {
+    "id": 47719,
+    "title": "咏史诗吴宫",
+    "title_tr": "詠史詩吳宮",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "草长黄池千里馀，归来宗庙已丘墟。\n出师不听忠臣谏，徒耻穷泉见子胥。",
+    "content_tr": "草長黃池千里餘，歸來宗廟已丘墟。\n出師不聽忠臣諫，徒恥窮泉見子胥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

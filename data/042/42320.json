@@ -1,0 +1,18 @@
+{
+  "work_id": 42320,
+  "work": {
+    "id": 42320,
+    "title": "题横江馆",
+    "title_tr": "題橫江館",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孙家兄弟晋龙骧，驰骋功名业帝王。\n至竟江山谁是主，苔矶空属钓鱼郎。",
+    "content_tr": "孫家兄弟晉龍驤，馳騁功名業帝王。\n至竟江山誰是主，苔磯空屬釣魚郎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

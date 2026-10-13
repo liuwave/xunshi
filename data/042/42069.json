@@ -1,0 +1,18 @@
+{
+  "work_id": 42069,
+  "work": {
+    "id": 42069,
+    "title": "赋得路傍一株柳送邢校书赴延州使府",
+    "title_tr": "賦得路傍一株柳送邢校書赴延州使府",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "路傍一株柳，此路向延州。\n延州在何处，此路起悠悠。",
+    "content_tr": "路傍一株柳，此路向延州。\n延州在何處，此路起悠悠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

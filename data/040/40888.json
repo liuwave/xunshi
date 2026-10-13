@@ -1,0 +1,18 @@
+{
+  "work_id": 40888,
+  "work": {
+    "id": 40888,
+    "title": "朝二首",
+    "title_tr": "朝二首",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清旭楚宫南，霜空万岭含。\n野人时独往，云木晓相参。\n俊鹘无声过，饥乌下食贪。\n病身终不动，摇落任江潭。",
+    "content_tr": "清旭楚宮南，霜空萬嶺含。\n野人時獨往，雲木曉相參。\n俊鶻無聲過，飢烏下食貪。\n病身終不動，搖落任江潭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

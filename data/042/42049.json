@@ -1,0 +1,18 @@
+{
+  "work_id": 42049,
+  "work": {
+    "id": 42049,
+    "title": "杂曲歌辞桃花行",
+    "title_tr": "雜曲歌辭桃花行",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岁去无言忽憔悴，时来含笑吐氛氲。\n不能拥路迷仙客，故欲开蹊侍圣君。",
+    "content_tr": "歲去無言忽憔悴，時來含笑吐氛氳。\n不能擁路迷仙客，故欲開蹊侍聖君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

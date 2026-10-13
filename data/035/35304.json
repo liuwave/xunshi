@@ -1,0 +1,18 @@
+{
+  "work_id": 35304,
+  "work": {
+    "id": 35304,
+    "title": "西宫春怨",
+    "title_tr": "西宮春怨",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西宫夜静百花香，欲卷珠帘春恨长。\n斜抱云和深见月，朦胧树色隐昭阳。",
+    "content_tr": "西宮夜靜百花香，欲捲珠簾春恨長。\n斜抱雲和深見月，朦朧樹色隱昭陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

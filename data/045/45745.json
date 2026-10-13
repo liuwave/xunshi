@@ -1,0 +1,18 @@
+{
+  "work_id": 45745,
+  "work": {
+    "id": 45745,
+    "title": "借车",
+    "title_tr": "借車",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "借车载家具，家具少于车。\n借者莫弹指，贫穷何足嗟。\n百年徒役走，万事尽随花。",
+    "content_tr": "借車載傢俱，傢俱少於車。\n借者莫彈指，貧窮何足嗟。\n百年徒役走，萬事盡隨花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

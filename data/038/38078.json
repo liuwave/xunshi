@@ -1,0 +1,18 @@
+{
+  "work_id": 38078,
+  "work": {
+    "id": 38078,
+    "title": "小桥柳",
+    "title_tr": "小橋柳",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细水涓涓似泪流，日西惆怅小桥头。\n衰杨叶尽空枝在，犹被霜风吹不休。",
+    "content_tr": "細水涓涓似淚流，日西惆悵小橋頭。\n衰楊葉盡空枝在，猶被霜風吹不休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

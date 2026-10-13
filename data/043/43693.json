@@ -1,0 +1,18 @@
+{
+  "work_id": 43693,
+  "work": {
+    "id": 43693,
+    "title": "文公讲堂",
+    "title_tr": "文公講堂",
+    "author": "岑参",
+    "author_tr": "岑參",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "文公不可见，空使蜀人传。\n讲席何时散，高台岂复全。\n丰碑文字灭，冥漠不知年。",
+    "content_tr": "文公不可見，空使蜀人傳。\n講席何時散，高臺豈復全。\n豐碑文字滅，冥漠不知年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

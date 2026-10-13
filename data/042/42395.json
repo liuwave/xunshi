@@ -1,0 +1,18 @@
+{
+  "work_id": 42395,
+  "work": {
+    "id": 42395,
+    "title": "蛮中醉",
+    "title_tr": "蠻中醉",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瘴塞蛮江入洞流，人家多在竹棚头。\n青山海上无城郭，唯见松牌出象州。",
+    "content_tr": "瘴塞蠻江入洞流，人家多在竹棚頭。\n青山海上無城郭，唯見鬆牌出象州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42537,
+  "work": {
+    "id": 42537,
+    "title": "读友人诗",
+    "title_tr": "讀友人詩",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君诗通大雅，吟觉古风生。\n外却浮华景，中含教化情。\n名应高日月，道可润公卿。\n莫以孤寒耻，孤寒达更荣。",
+    "content_tr": "君詩通大雅，吟覺古風生。\n外卻浮華景，中含教化情。\n名應高日月，道可潤公卿。\n莫以孤寒恥，孤寒達更榮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

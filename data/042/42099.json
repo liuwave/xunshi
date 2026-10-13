@@ -1,0 +1,18 @@
+{
+  "work_id": 42099,
+  "work": {
+    "id": 42099,
+    "title": "隋宫燕",
+    "title_tr": "隋宮燕",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "燕语如伤旧国春，宫花一落已成尘。\n自从一闭风光后，几度飞来不见人。",
+    "content_tr": "燕語如傷舊國春，宮花一落已成塵。\n自從一閉風光後，幾度飛來不見人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

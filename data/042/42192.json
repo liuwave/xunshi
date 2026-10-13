@@ -1,0 +1,18 @@
+{
+  "work_id": 42192,
+  "work": {
+    "id": 42192,
+    "title": "旅情",
+    "title_tr": "旅情",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "窗虚枕簟凉，寝倦忆潇湘。\n山色几时老，人心终日忙。\n松风半夜雨，帘月满堂霜。\n匹马好归去，江头橘正香。",
+    "content_tr": "窗虛枕簟涼，寢倦憶瀟湘。\n山色幾時老，人心終日忙。\n松風半夜雨，簾月滿堂霜。\n匹馬好歸去，江頭橘正香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

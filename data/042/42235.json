@@ -1,0 +1,18 @@
+{
+  "work_id": 42235,
+  "work": {
+    "id": 42235,
+    "title": "寄宣州郑谏议",
+    "title_tr": "寄宣州鄭諫議",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "大夫官重醉江东，潇洒名儒振古风。\n文石陛前辞圣主，碧云天外作冥鸿。\n五言宁谢颜光禄，百岁须齐卫武公。\n再拜宜同丈人行，过庭交分有无同。",
+    "content_tr": "大夫官重醉江東，瀟灑名儒振古風。\n文石陛前辭聖主，碧雲天外作冥鴻。\n五言寧謝顏光祿，百歲須齊衛武公。\n再拜宜同丈人行，過庭交分有無同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

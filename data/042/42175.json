@@ -1,0 +1,18 @@
+{
+  "work_id": 42175,
+  "work": {
+    "id": 42175,
+    "title": "赠张祜",
+    "title_tr": "贈張祜",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗韵一逢君，平生称所闻。\n粉毫唯画月，琼尺只裁云。\n鲸阵人人慑，秋星历历分。\n数篇留别我，羞杀李将军。",
+    "content_tr": "詩韻一逢君，平生稱所聞。\n粉毫唯畫月，瓊尺只裁雲。\n鯨陣人人懾，秋星曆歷分。\n數篇留別我，羞殺李將軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

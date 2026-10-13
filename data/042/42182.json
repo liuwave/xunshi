@@ -1,0 +1,18 @@
+{
+  "work_id": 42182,
+  "work": {
+    "id": 42182,
+    "title": "书怀寄卢州",
+    "title_tr": "書懷寄盧州",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谢山南畔州，风物最宜秋。\n太守悬金印，佳人敞画楼。\n凝缸暗醉夕，残月上汀州。\n可惜当年鬓，朱门不得游。",
+    "content_tr": "謝山南畔州，風物最宜秋。\n太守懸金印，佳人敞畫樓。\n凝缸暗醉夕，殘月上汀州。\n可惜當年鬢，朱門不得遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

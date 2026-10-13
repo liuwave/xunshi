@@ -1,0 +1,18 @@
+{
+  "work_id": 42006,
+  "work": {
+    "id": 42006,
+    "title": "象",
+    "title_tr": "象",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郁林开郡毕，维扬作贡初。\n万推方演梦，惠子正焚书。\n执燧奔吴战，量舟入魏墟。\n六牙行致远，千叶奉高居。",
+    "content_tr": "鬱林開郡畢，維揚作貢初。\n萬推方演夢，惠子正焚書。\n執燧奔吳戰，量舟入魏墟。\n六牙行致遠，千葉奉高居。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

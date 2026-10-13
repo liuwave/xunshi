@@ -1,0 +1,18 @@
+{
+  "work_id": 38127,
+  "work": {
+    "id": 38127,
+    "title": "问鹤",
+    "title_tr": "問鶴",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乌鸢争食雀争窠，独立池边风雪多。\n尽日踏冰翘一足，不鸣不动意如何。",
+    "content_tr": "烏鳶爭食雀爭窠，獨立池邊風雪多。\n盡日蹋冰翹一足，不鳴不動意如何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

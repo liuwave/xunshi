@@ -1,0 +1,18 @@
+{
+  "work_id": 42290,
+  "work": {
+    "id": 42290,
+    "title": "春晚题韦家亭子",
+    "title_tr": "春晚題韋家亭子",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "拥鼻侵襟花草香，高台春去恨茫茫。\n蔫红半落平池晚，曲渚飘成锦一张。",
+    "content_tr": "擁鼻侵襟花草香，高臺春去恨茫茫。\n蔫紅半落平池晚，曲渚飄成錦一張。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

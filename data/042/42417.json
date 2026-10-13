@@ -1,0 +1,18 @@
+{
+  "work_id": 42417,
+  "work": {
+    "id": 42417,
+    "title": "扬州三首其三",
+    "title_tr": "揚州三首其三",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "街垂千步柳，霞映两重城。\n天碧台阁丽，风凉歌管清。\n纤腰间长袖，玉佩杂繁缨。\n拖轴诚为壮，豪华不可名。\n自是荒淫罪，何妨作帝京。",
+    "content_tr": "街垂千步柳，霞映兩重城。\n天碧臺閣麗，風涼歌管清。\n纖腰間長袖，玉佩雜繁纓。\n拖軸誠爲壯，豪華不可名。\n自是荒淫罪，何妨作帝京。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

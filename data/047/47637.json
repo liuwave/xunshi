@@ -1,0 +1,18 @@
+{
+  "work_id": 47637,
+  "work": {
+    "id": 47637,
+    "title": "咏史诗夷陵",
+    "title_tr": "詠史詩夷陵",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夷陵城阙倚朝云，战败秦师纵火焚。\n何事三千珠履客，不能西御武安君。",
+    "content_tr": "夷陵城闕倚朝雲，戰敗秦師縱火焚。\n何事三千珠履客，不能西禦武安君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42161,
+  "work": {
+    "id": 42161,
+    "title": "忆游朱坡四韵",
+    "title_tr": "憶遊朱坡四韻",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋草樊川路，斜阳覆盎门。\n猎逢韩嫣骑，树识馆陶园。\n带雨经荷沼，盘烟下竹村。\n如今归不得，自戴望天盆。",
+    "content_tr": "秋草樊川路，斜陽覆盎門。\n獵逢韓嫣騎，樹識館陶園。\n帶雨經荷沼，盤煙下竹村。\n如今歸不得，自戴望天盆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

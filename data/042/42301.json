@@ -1,0 +1,18 @@
+{
+  "work_id": 42301,
+  "work": {
+    "id": 42301,
+    "title": "初冬夜饮",
+    "title_tr": "初冬夜飲",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "淮阳多病偶求欢，客袖侵霜与烛盘。\n砌下梨花一堆雪，明年谁此凭阑干。",
+    "content_tr": "淮陽多病偶求歡，客袖侵霜與燭盤。\n砌下梨花一堆雪，明年誰此憑闌干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

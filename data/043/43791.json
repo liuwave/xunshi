@@ -1,0 +1,18 @@
+{
+  "work_id": 43791,
+  "work": {
+    "id": 43791,
+    "title": "沙丘城下寄杜甫",
+    "title_tr": "沙丘城下寄杜甫",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我来竟何事，高卧沙丘城。\n城边有古树，日夕连秋声。\n鲁酒不可醉，齐歌空复情。\n思君若汶水，浩荡寄南征。",
+    "content_tr": "我來竟何事，高臥沙丘城。\n城邊有古樹，日夕連秋聲。\n魯酒不可醉，齊歌空復情。\n思君若汶水，浩蕩寄南征。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

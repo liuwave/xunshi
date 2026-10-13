@@ -1,0 +1,18 @@
+{
+  "work_id": 33111,
+  "work": {
+    "id": 33111,
+    "title": "鬼门关谚",
+    "title_tr": "鬼門關諺",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鬼门关，十人去，九不还。",
+    "content_tr": "鬼門關，十人去，九不還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

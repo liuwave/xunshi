@@ -1,0 +1,18 @@
+{
+  "work_id": 45090,
+  "work": {
+    "id": 45090,
+    "title": "檀溪寻故人",
+    "title_tr": "檀溪尋故人",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花伴成龙竹，池分跃马溪。\n田园人不见，疑向洞中栖。",
+    "content_tr": "花伴成龍竹，池分躍馬溪。\n田園人不見，疑向洞中棲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

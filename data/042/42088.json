@@ -1,0 +1,18 @@
+{
+  "work_id": 42088,
+  "work": {
+    "id": 42088,
+    "title": "听晓",
+    "title_tr": "聽曉",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "边霜昨夜堕关榆，吹角当城汉月孤。\n无限塞鸿飞不度，秋风卷入小单于。",
+    "content_tr": "邊霜昨夜墮關榆，吹角當城漢月孤。\n無限塞鴻飛不度，秋風捲入小單于。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

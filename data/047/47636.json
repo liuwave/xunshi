@@ -1,0 +1,18 @@
+{
+  "work_id": 47636,
+  "work": {
+    "id": 47636,
+    "title": "咏史诗黄金台",
+    "title_tr": "詠史詩黃金臺",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北乘羸马到燕然，此地何人复礼贤。\n若问昭王无处所，黄金台上草连天。",
+    "content_tr": "北乘羸馬到燕然，此地何人復禮賢。\n若問昭王無處所，黃金臺上草連天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

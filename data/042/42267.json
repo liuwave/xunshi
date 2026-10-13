@@ -1,0 +1,18 @@
+{
+  "work_id": 42267,
+  "work": {
+    "id": 42267,
+    "title": "寄湘中友人",
+    "title_tr": "寄湘中友人",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫恋醉乡迷酒杯，流年长怕少年催。\n西陵水阔鱼难到，南国路遥书未回。\n匹马计程愁日尽，一蝉何事引秋来。\n相如已定题桥志，江上无由梦钓台。",
+    "content_tr": "莫戀醉鄉迷酒杯，流年長怕少年催。\n西陵水闊魚難到，南國路遙書未回。\n匹馬計程愁日盡，一蟬何事引秋來。\n相如已定題橋志，江上無由夢釣臺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

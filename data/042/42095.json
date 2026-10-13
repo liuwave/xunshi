@@ -1,0 +1,18 @@
+{
+  "work_id": 42095,
+  "work": {
+    "id": 42095,
+    "title": "扬州送客",
+    "title_tr": "揚州送客",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南行直入鹧鸪群，万岁桥边一送君。\n闻道望乡闻不得，梅花暗落岭头云。",
+    "content_tr": "南行直入鷓鴣羣，萬歲橋邊一送君。\n聞道望鄉聞不得，梅花暗落嶺頭雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

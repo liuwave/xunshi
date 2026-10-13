@@ -1,0 +1,18 @@
+{
+  "work_id": 33333,
+  "work": {
+    "id": 33333,
+    "title": "杂曲歌辞水调歌第四",
+    "title_tr": "雜曲歌辭水調歌第四",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "陇头一段气长秋，举目萧条总是愁。\n只为征人多下泪，年年添作断肠流。",
+    "content_tr": "隴頭一段氣長秋，舉目蕭條總是愁。\n秖爲徵人多下淚，年年添作斷腸流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 35345,
+  "work": {
+    "id": 35345,
+    "title": "宿裴氏山庄",
+    "title_tr": "宿裴氏山莊",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍苍竹林暮，吾亦知所投。\n静坐山斋月，清溪闻远流。\n西峰下微雨，向晓白云收。\n遂解尘中组，终南春可游。",
+    "content_tr": "蒼蒼竹林暮，吾亦知所投。\n靜坐山齋月，清溪聞遠流。\n西峯下微雨，向曉白雲收。\n遂解塵中組，終南春可遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 49868,
+  "work": {
+    "id": 49868,
+    "title": "又诗一首",
+    "title_tr": "又詩一首",
+    "author": "马湘",
+    "author_tr": "馬湘",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔日曾随魏伯阳，无端醉卧紫金床。\n东君谓我多情赖，罚向人间作酒狂。",
+    "content_tr": "昔日曾隨魏伯陽，無端醉臥紫金牀。\n東君謂我多情賴，罰向人間作酒狂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

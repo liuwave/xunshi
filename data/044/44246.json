@@ -1,0 +1,18 @@
+{
+  "work_id": 44246,
+  "work": {
+    "id": 44246,
+    "title": "洞灵观流泉",
+    "title_tr": "洞靈觀流泉",
+    "author": "李郢",
+    "author_tr": "李郢",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石上苔芜水上烟，潺湲声在观门前。\n千岩万壑分流去，更引飞花入洞天。",
+    "content_tr": "石上苔蕪水上煙，潺湲聲在觀門前。\n千巖萬壑分流去，更引飛花入洞天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

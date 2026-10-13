@@ -1,0 +1,18 @@
+{
+  "work_id": 43872,
+  "work": {
+    "id": 43872,
+    "title": "巴女词",
+    "title_tr": "巴女詞",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "巴水急如箭，巴船去若飞。\n十月三千里，郎行几岁归。",
+    "content_tr": "巴水急如箭，巴船去若飛。\n十月三千里，郎行幾歲歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

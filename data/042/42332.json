@@ -1,0 +1,18 @@
+{
+  "work_id": 42332,
+  "work": {
+    "id": 42332,
+    "title": "题木兰庙",
+    "title_tr": "題木蘭廟",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "弯弓征战作男儿，梦里曾经与画眉。\n几度思归还把酒，拂云堆上祝明妃。",
+    "content_tr": "彎弓征戰作男兒，夢裏曾經與畫眉。\n幾度思歸還把酒，拂雲堆上祝明妃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

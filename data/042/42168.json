@@ -1,0 +1,18 @@
+{
+  "work_id": 42168,
+  "work": {
+    "id": 42168,
+    "title": "秋晚早发新定",
+    "title_tr": "秋晚早發新定",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "解印书千轴，重阳酒百缸。\n凉风满红树，晓月下秋江。\n岩壑会归去，尘埃终不降。\n悬缨未敢濯，严濑碧淙淙。",
+    "content_tr": "解印書千軸，重陽酒百缸。\n涼風滿紅樹，曉月下秋江。\n巖壑會歸去，塵埃終不降。\n懸纓未敢濯，嚴瀨碧淙淙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

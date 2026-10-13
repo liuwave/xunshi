@@ -1,0 +1,18 @@
+{
+  "work_id": 42163,
+  "work": {
+    "id": 42163,
+    "title": "扬州三首",
+    "title_tr": "揚州三首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "炀帝雷塘土，迷藏有旧楼。\n谁家唱水调，明月满扬州。\n骏马宜闲出，千金好旧游。\n喧阗醉年少，半脱紫茸裘。",
+    "content_tr": "煬帝雷塘土，迷藏有舊樓。\n誰家唱水調，明月滿揚州。\n駿馬宜閒出，千金好舊遊。\n喧闐醉年少，半脫紫茸裘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

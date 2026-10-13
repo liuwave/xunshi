@@ -1,0 +1,18 @@
+{
+  "work_id": 42390,
+  "work": {
+    "id": 42390,
+    "title": "洛中二首",
+    "title_tr": "洛中二首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "柳动晴风拂路尘，年年宫阙锁浓春。\n一从翠辇无巡幸，老却蛾眉几许人。",
+    "content_tr": "柳動晴風拂路塵，年年宮闕鎖濃春。\n一從翠輦無巡幸，老卻蛾眉幾許人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

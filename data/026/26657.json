@@ -1,0 +1,18 @@
+{
+  "work_id": 26657,
+  "work": {
+    "id": 26657,
+    "title": "柯亭",
+    "title_tr": "柯亭",
+    "author": "黄镇成",
+    "author_tr": "黃鎮成",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金碧楼台宅梵王，柯亭无处问中郎。\n何当截取如椽干，吹起昆丘紫凤凰。",
+    "content_tr": "金碧樓臺宅梵王，柯亭無處問中郎。\n何當截取如椽幹，吹起昆丘紫鳳凰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

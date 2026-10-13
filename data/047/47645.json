@@ -1,0 +1,18 @@
+{
+  "work_id": 47645,
+  "work": {
+    "id": 47645,
+    "title": "咏史诗汉宫",
+    "title_tr": "詠史詩漢宮",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明妃远嫁泣西风，玉箸双垂出汉宫。\n何事将军封万户，却令红粉为和戎。",
+    "content_tr": "明妃遠嫁泣西風，玉箸雙垂出漢宮。\n何事將軍封萬戶，卻令紅粉爲和戎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

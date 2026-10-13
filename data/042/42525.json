@@ -1,0 +1,18 @@
+{
+  "work_id": 42525,
+  "work": {
+    "id": 42525,
+    "title": "秋晨有感",
+    "title_tr": "秋晨有感",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "木叶落时节，旅人初梦惊。\n钟才枕上尽，事已眼前生。\n吟发不长黑，世交无久情。\n且将公道约，未忍便归耕。",
+    "content_tr": "木葉落時節，旅人初夢驚。\n鍾才枕上盡，事已眼前生。\n吟發不長黑，世交無久情。\n且將公道約，未忍便歸耕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

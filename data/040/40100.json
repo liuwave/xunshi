@@ -1,0 +1,18 @@
+{
+  "work_id": 40100,
+  "work": {
+    "id": 40100,
+    "title": "送虞道士",
+    "title_tr": "送虞道士",
+    "author": "李中",
+    "author_tr": "李中",
+    "dynasty": "五代十国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟霞聚散通三岛，星斗分明在一壶。\n笑说馀杭沽酒去，蔡家重要会麻姑。",
+    "content_tr": "煙霞聚散通三島，星斗分明在一壺。\n笑說餘杭沽酒去，蔡家重要會麻姑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

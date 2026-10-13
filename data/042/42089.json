@@ -1,0 +1,18 @@
+{
+  "work_id": 42089,
+  "work": {
+    "id": 42089,
+    "title": "暮过回乐烽",
+    "title_tr": "暮過回樂烽",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烽火高飞百尺台，黄昏遥自碛西来。\n昔时征战回应乐，今日从军乐未回。",
+    "content_tr": "烽火高飛百尺臺，黃昏遙自磧西來。\n昔時征戰迴應樂，今日從軍樂未回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

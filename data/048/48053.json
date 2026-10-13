@@ -1,0 +1,18 @@
+{
+  "work_id": 48053,
+  "work": {
+    "id": 48053,
+    "title": "庐山独夜",
+    "title_tr": "廬山獨夜",
+    "author": "徐凝",
+    "author_tr": "徐凝",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒空五老雪，斜月九江云。\n钟声知何处，苍苍树里闻。",
+    "content_tr": "寒空五老雪，斜月九江雲。\n鐘聲知何處，蒼蒼樹裏聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

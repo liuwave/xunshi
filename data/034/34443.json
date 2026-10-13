@@ -1,0 +1,18 @@
+{
+  "work_id": 34443,
+  "work": {
+    "id": 34443,
+    "title": "咏廿四气诗 · 谷雨三月中",
+    "title_tr": "詠廿四氣詩 · 穀雨三月中",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谷雨春光晓，山川黛色青。\n叶间鸣戴胜，泽水长浮萍。\n暖屋生蚕蚁，喧风引麦葶。\n鸣鸠徒拂羽，信矣不堪听。",
+    "content_tr": "穀雨春光曉，山川黛色青。\n葉間鳴戴勝，澤水長浮萍。\n暖屋生蠶蟻，喧風引麥葶。\n鳴鳩徒拂羽，信矣不堪聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

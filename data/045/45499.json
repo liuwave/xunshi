@@ -1,0 +1,18 @@
+{
+  "work_id": 45499,
+  "work": {
+    "id": 45499,
+    "title": "归信吟",
+    "title_tr": "歸信吟",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泪墨洒为书，将寄万里亲。\n书去魂亦去，兀然空一身。",
+    "content_tr": "淚墨灑爲書，將寄萬里親。\n書去魂亦去，兀然空一身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

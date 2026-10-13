@@ -1,0 +1,18 @@
+{
+  "work_id": 43269,
+  "work": {
+    "id": 43269,
+    "title": "楚吟",
+    "title_tr": "楚吟",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山上离宫宫上楼，楼前宫畔暮江流。\n楚天长短黄昏雨，宋玉无愁亦自愁。",
+    "content_tr": "山上離宮宮上樓，樓前宮畔暮江流。\n楚天長短黃昏雨，宋玉無愁亦自愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

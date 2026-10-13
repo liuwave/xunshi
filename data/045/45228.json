@@ -1,0 +1,18 @@
+{
+  "work_id": 45228,
+  "work": {
+    "id": 45228,
+    "title": "吟叙",
+    "title_tr": "吟敘",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "历代兴亡亿万心，圣人观古贵知今。\n古今成败无多事，月殿花台幸一吟。",
+    "content_tr": "歷代興亡億萬心，聖人觀古貴知今。\n古今成敗無多事，月殿花臺幸一吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

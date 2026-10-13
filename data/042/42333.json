@@ -1,0 +1,18 @@
+{
+  "work_id": 42333,
+  "work": {
+    "id": 42333,
+    "title": "入商山",
+    "title_tr": "入商山",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "早入商山百里云，蓝溪桥下水声分。\n流水旧声人旧耳，此回呜咽不堪闻。",
+    "content_tr": "早入商山百里雲，藍溪橋下水聲分。\n流水舊聲人舊耳，此回嗚咽不堪聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

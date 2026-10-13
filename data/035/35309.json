@@ -1,0 +1,18 @@
+{
+  "work_id": 35309,
+  "work": {
+    "id": 35309,
+    "title": "送李五",
+    "title_tr": "送李五",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉碗金罍倾送君，江西日入起黄云。\n扁舟乘月暂来去，谁道沧浪吴楚分。",
+    "content_tr": "玉盌金罍傾送君，江西日入起黃雲。\n扁舟乘月暫來去，誰道滄浪吳楚分。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

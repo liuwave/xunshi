@@ -1,0 +1,18 @@
+{
+  "work_id": 42721,
+  "work": {
+    "id": 42721,
+    "title": "咏灯",
+    "title_tr": "詠燈",
+    "author": "李昪",
+    "author_tr": "李昪",
+    "dynasty": "五代十国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一点分明值万金，开时惟怕冷风侵。\n主人若也勤挑拨，敢向尊前不尽心。",
+    "content_tr": "一點分明值萬金，開時惟怕冷風侵。\n主人若也勤挑撥，敢向尊前不盡心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

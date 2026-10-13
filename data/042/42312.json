@@ -1,0 +1,18 @@
+{
+  "work_id": 42312,
+  "work": {
+    "id": 42312,
+    "title": "新定途中",
+    "title_tr": "新定途中",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无端偶效张文纪，下杜乡园别五秋。\n重过江南更千里，万山深处一孤舟。",
+    "content_tr": "無端偶效張文紀，下杜鄉園別五秋。\n重過江南更千里，萬山深處一孤舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

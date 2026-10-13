@@ -1,0 +1,18 @@
+{
+  "work_id": 43300,
+  "work": {
+    "id": 43300,
+    "title": "海客",
+    "title_tr": "海客",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海客乘槎上紫氛，星娥罢织一相闻。\n只应不惮牵牛妒，聊用支机石赠君。",
+    "content_tr": "海客乘槎上紫氛，星娥罷織一相聞。\n只應不憚牽牛妒，聊用支機石贈君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 25500,
+  "work": {
+    "id": 25500,
+    "title": "渊明辞",
+    "title_tr": "淵明辭",
+    "author": "彭炳",
+    "author_tr": "彭炳",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "醉倚苍江看落花，阿舒扶上短辕车。\n河山万里皆刘裕，五柳春风自一家。",
+    "content_tr": "醉倚蒼江看落花，阿舒扶上短轅車。\n河山萬里皆劉裕，五柳春風自一家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

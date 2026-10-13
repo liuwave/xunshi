@@ -1,0 +1,18 @@
+{
+  "work_id": 42200,
+  "work": {
+    "id": 42200,
+    "title": "宿东横山",
+    "title_tr": "宿東橫山",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤舟路渐赊，时见碧桃花。\n溪雨滩声急，岩风树势斜。\n猕猴悬弱柳，鸂鶒睡横楂。\n谩向仙林宿，无人识阮家。",
+    "content_tr": "孤舟路漸賒，時見碧桃花。\n溪雨灘聲急，巖風樹勢斜。\n獼猴懸弱柳，鸂鶒睡橫楂。\n謾向仙林宿，無人識阮家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

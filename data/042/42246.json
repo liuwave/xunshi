@@ -1,0 +1,18 @@
+{
+  "work_id": 42246,
+  "work": {
+    "id": 42246,
+    "title": "寄唐州李玭",
+    "title_tr": "寄唐州李玭",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "累代功勋照世光，奚胡闻道死心降。\n书功笔秃三千管，领节门排十六双。\n先揖耿弇声寂寂，今看黄霸事摐摐。\n时人欲识胸襟否，彭蠡秋连万里江。",
+    "content_tr": "累代功勳照世光，奚胡聞道死心降。\n書功筆禿三千管，領節門排十六雙。\n先揖耿弇聲寂寂，今看黃霸事摐摐。\n時人慾識胸襟否，彭蠡秋連萬里江。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

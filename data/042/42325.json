@@ -1,0 +1,18 @@
+{
+  "work_id": 42325,
+  "work": {
+    "id": 42325,
+    "title": "郑瓘协律",
+    "title_tr": "鄭瓘協律",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "广文遗韵留樗散，鸡犬图书共一船。\n自说江湖不归事，阻风中酒过年年。",
+    "content_tr": "廣文遺韻留樗散，雞犬圖書共一船。\n自說江湖不歸事，阻風中酒過年年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42086,
+  "work": {
+    "id": 42086,
+    "title": "扬州怀古",
+    "title_tr": "揚州懷古",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "故国歌钟地，长桥车马尘。\n彭城阁边柳，偏似不胜春。",
+    "content_tr": "故國歌鐘地，長橋車馬塵。\n彭城閣邊柳，偏似不勝春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

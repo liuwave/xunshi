@@ -1,0 +1,18 @@
+{
+  "work_id": 35400,
+  "work": {
+    "id": 35400,
+    "title": "相和歌辞明妃曲",
+    "title_tr": "相和歌辭明妃曲",
+    "author": "王偃",
+    "author_tr": "王偃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北望单于日半斜，明君马上泣胡沙。\n一双泪滴黄河水，应得东流入汉家。",
+    "content_tr": "北望單于日半斜，明君馬上泣胡沙。\n一雙淚滴黃河水，應得東流入漢家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

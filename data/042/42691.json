@@ -1,0 +1,18 @@
+{
+  "work_id": 42691,
+  "work": {
+    "id": 42691,
+    "title": "读诸家诗",
+    "title_tr": "讀諸家詩",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "辞赋文章能者稀，难中难者莫过诗。\n直应吟骨无生死，只我前身是阿谁。",
+    "content_tr": "辭賦文章能者稀，難中難者莫過詩。\n直應吟骨無生死，祗我前身是阿誰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

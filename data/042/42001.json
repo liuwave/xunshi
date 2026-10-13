@@ -1,0 +1,18 @@
+{
+  "work_id": 42001,
+  "work": {
+    "id": 42001,
+    "title": "凫",
+    "title_tr": "鳧",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "飒沓睢阳涘，浮游汉水隈。\n钱飞出井见，鹤引入琴哀。\n李陵赋诗罢，王乔曳舄来。\n何当归太液，翱集动成雷。",
+    "content_tr": "颯沓睢陽涘，浮游漢水隈。\n錢飛出井見，鶴引入琴哀。\n李陵賦詩罷，王喬曳舄來。\n何當歸太液，翱集動成雷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

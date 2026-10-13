@@ -1,0 +1,18 @@
+{
+  "work_id": 45232,
+  "work": {
+    "id": 45232,
+    "title": "唐虞门再吟",
+    "title_tr": "唐虞門再吟",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "潇湘何代泣幽魂，骨化重泉志尚存。\n若道地中休下泪，不应新竹有啼痕。",
+    "content_tr": "瀟湘何代泣幽魂，骨化重泉志尚存。\n若道地中休下淚，不應新竹有啼痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

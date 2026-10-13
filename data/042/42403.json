@@ -1,0 +1,18 @@
+{
+  "work_id": 42403,
+  "work": {
+    "id": 42403,
+    "title": "寄牛相公",
+    "title_tr": "寄牛相公",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉水横冲蜀浪分，危楼点的拂孤云。\n六年仁政讴歌去，柳绕春堤处处闻。",
+    "content_tr": "漢水橫衝蜀浪分，危樓點的拂孤雲。\n六年仁政謳歌去，柳繞春堤處處聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

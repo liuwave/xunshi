@@ -1,0 +1,18 @@
+{
+  "work_id": 43218,
+  "work": {
+    "id": 43218,
+    "title": "嘲樱桃",
+    "title_tr": "嘲櫻桃",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朱实鸟含尽，青楼人未归。\n南园无限树，独自叶如帏。",
+    "content_tr": "朱實鳥含盡，青樓人未歸。\n南園無限樹，獨自葉如幃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

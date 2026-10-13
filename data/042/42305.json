@@ -1,0 +1,18 @@
+{
+  "work_id": 42305,
+  "work": {
+    "id": 42305,
+    "title": "伤猿",
+    "title_tr": "傷猿",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独折南园一朵梅，重寻幽坎已生苔。\n无端晚吹惊高树，似袅长枝欲下来。",
+    "content_tr": "獨折南園一朵梅，重尋幽坎已生苔。\n無端晚吹驚高樹，似嫋長枝欲下來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42360,
+  "work": {
+    "id": 42360,
+    "title": "洛阳秋夕",
+    "title_tr": "洛陽秋夕",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泠泠寒水带霜风，更在天桥夜景中。\n清禁漏闲烟树寂，月轮移在上阳宫。",
+    "content_tr": "泠泠寒水帶霜風，更在天橋夜景中。\n清禁漏閒煙樹寂，月輪移在上陽宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

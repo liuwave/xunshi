@@ -1,0 +1,18 @@
+{
+  "work_id": 45310,
+  "work": {
+    "id": 45310,
+    "title": "秦门再吟",
+    "title_tr": "秦門再吟",
+    "author": "周昙",
+    "author_tr": "周曇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "盗贼纵横主恶闻，遂为流矢犯君轩。\n怪言何不早言者，若使早言还不存。",
+    "content_tr": "盜賊縱橫主惡聞，遂爲流矢犯君軒。\n怪言何不早言者，若使早言還不存。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

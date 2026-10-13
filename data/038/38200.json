@@ -1,0 +1,18 @@
+{
+  "work_id": 38200,
+  "work": {
+    "id": 38200,
+    "title": "山中五绝句林下樗",
+    "title_tr": "山中五絕句林下樗",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "香檀文桂苦雕镌，生理何曾得自全。\n知我无材老樗否，一枝不损尽天年。",
+    "content_tr": "香檀文桂苦雕鐫，生理何曾得自全。\n知我無材老樗否，一枝不損盡天年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

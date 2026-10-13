@@ -1,0 +1,18 @@
+{
+  "work_id": 42477,
+  "work": {
+    "id": 42477,
+    "title": "送友游吴越",
+    "title_tr": "送友遊吳越",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "去越从吴过，吴疆与越连。\n有园多种橘，无水不生莲。\n夜市桥边火，春风寺外船。\n此中偏重客，君去必经年。",
+    "content_tr": "去越從吳過，吳疆與越連。\n有園多種橘，無水不生蓮。\n夜市橋邊火，春風寺外船。\n此中偏重客，君去必經年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

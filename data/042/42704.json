@@ -1,0 +1,18 @@
+{
+  "work_id": 42704,
+  "work": {
+    "id": 42704,
+    "title": "秋夜闻砧",
+    "title_tr": "秋夜聞砧",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荒凉客舍眠秋色，砧杵家家弄月明。\n不及巴山听猿夜，三声中有不愁声。",
+    "content_tr": "荒涼客舍眠秋色，砧杵家家弄月明。\n不及巴山聽猿夜，三聲中有不愁聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

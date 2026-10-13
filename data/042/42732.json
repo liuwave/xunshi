@@ -1,0 +1,18 @@
+{
+  "work_id": 42732,
+  "work": {
+    "id": 42732,
+    "title": "巫峡听猿",
+    "title_tr": "巫峽聽猿",
+    "author": "吴商浩",
+    "author_tr": "吳商浩",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "巴江猿啸苦，响入客舟中。\n孤枕破残梦，三声随晓风。\n连云波澹澹，和雾雨蒙蒙。\n巫峡去家远，不堪魂断空。",
+    "content_tr": "巴江猿嘯苦，響入客舟中。\n孤枕破殘夢，三聲隨曉風。\n連雲波澹澹，和霧雨濛濛。\n巫峽去家遠，不堪魂斷空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

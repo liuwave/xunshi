@@ -1,0 +1,18 @@
+{
+  "work_id": 49678,
+  "work": {
+    "id": 49678,
+    "title": "连昌宫词二首门",
+    "title_tr": "連昌宮詞二首門",
+    "author": "陆龟蒙",
+    "author_tr": "陸龜蒙",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金铺零落兽镮空，斜掩双扉细草中。\n日暮鸟归宫树绿，不闻鸦轧闭春风。",
+    "content_tr": "金鋪零落獸鐶空，斜掩雙扉細草中。\n日暮鳥歸宮樹綠，不聞鴉軋閉春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

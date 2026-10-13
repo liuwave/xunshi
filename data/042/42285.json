@@ -1,0 +1,18 @@
+{
+  "work_id": 42285,
+  "work": {
+    "id": 42285,
+    "title": "重题绝句一首",
+    "title_tr": "重題絕句一首",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "邮亭寄人世，人世寄邮亭。\n何如自筹度，鸿路有冥冥。",
+    "content_tr": "郵亭寄人世，人世寄郵亭。\n何如自籌度，鴻路有冥冥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

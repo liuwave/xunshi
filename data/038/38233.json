@@ -1,0 +1,18 @@
+{
+  "work_id": 38233,
+  "work": {
+    "id": 38233,
+    "title": "池鹤八绝句鹤答鸡",
+    "title_tr": "池鶴八絕句鶴荅雞",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尔争伉俪泥中斗，吾整羽仪松上栖。\n不可遣他天下眼，却轻野鹤重家鸡。",
+    "content_tr": "爾爭伉儷泥中鬥，吾整羽儀鬆上棲。\n不可遣他天下眼，卻輕野鶴重家雞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

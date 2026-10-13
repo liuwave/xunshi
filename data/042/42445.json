@@ -1,0 +1,18 @@
+{
+  "work_id": 42445,
+  "work": {
+    "id": 42445,
+    "title": "答李曜",
+    "title_tr": "答李曜",
+    "author": "吴圆",
+    "author_tr": "吳圓",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曳履优容日日欢，须言达德倍汍澜。\n韶光今已输先手，领得蠙珠掌上看。",
+    "content_tr": "曳履優容日日歡，須言達德倍汍瀾。\n韶光今已輸先手，領得蠙珠掌上看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

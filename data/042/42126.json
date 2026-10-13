@@ -1,0 +1,18 @@
+{
+  "work_id": 42126,
+  "work": {
+    "id": 42126,
+    "title": "观回军三韵",
+    "title_tr": "觀回軍三韻",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行行上陇头，陇月暗悠悠。\n万里将军没，回旌陇戍秋。\n谁令呜咽水，重入故营流。",
+    "content_tr": "行行上隴頭，隴月暗悠悠。\n萬里將軍沒，回旌隴戍秋。\n誰令嗚咽水，重入故營流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

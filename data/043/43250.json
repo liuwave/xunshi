@@ -1,0 +1,18 @@
+{
+  "work_id": 43250,
+  "work": {
+    "id": 43250,
+    "title": "江东",
+    "title_tr": "江東",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惊鱼拨剌燕翩翾，独自江东上钓船。\n今日春光太漂荡，谢家轻絮沈郎钱。",
+    "content_tr": "驚魚撥剌燕翩翾，獨自江東上釣船。\n今日春光太漂盪，謝家輕絮沈郎錢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

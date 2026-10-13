@@ -1,0 +1,18 @@
+{
+  "work_id": 42378,
+  "work": {
+    "id": 42378,
+    "title": "岁旦",
+    "title_tr": "歲旦",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "星河犹在整朝衣，远望天门再拜归。\n笑向春风初五十，敢言知命且知非。",
+    "content_tr": "星河猶在整朝衣，遠望天門再拜歸。\n笑向春風初五十，敢言知命且知非。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

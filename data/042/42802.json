@@ -1,0 +1,18 @@
+{
+  "work_id": 42802,
+  "work": {
+    "id": 42802,
+    "title": "陈十六东亭",
+    "title_tr": "陳十六東亭",
+    "author": "李颀",
+    "author_tr": "李頎",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "馀春伴蝴蝶，把酒听黄鹂。\n最是淹留处，残花三两枝。",
+    "content_tr": "餘春伴蝴蝶，把酒聽黃鸝。\n最是淹留處，殘花三兩枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

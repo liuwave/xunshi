@@ -1,0 +1,18 @@
+{
+  "work_id": 47630,
+  "work": {
+    "id": 47630,
+    "title": "咏史诗阳台",
+    "title_tr": "詠史詩陽臺",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楚国城池飒已空，阳台云雨过无踪。\n何人更有襄王梦，寂寂巫山十二重。",
+    "content_tr": "楚國城池颯已空，陽臺雲雨過無蹤。\n何人更有襄王夢，寂寂巫山十二重。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

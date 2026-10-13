@@ -1,0 +1,18 @@
+{
+  "work_id": 42703,
+  "work": {
+    "id": 42703,
+    "title": "秋夜苦吟",
+    "title_tr": "秋夜苦吟",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吟尽三更未著题，竹风松雨共凄凄。\n此时若有人来听，始觉巴猿不解啼。",
+    "content_tr": "吟盡三更未著題，竹風鬆雨共悽悽。\n此時若有人來聽，始覺巴猿不解啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

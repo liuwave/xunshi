@@ -1,0 +1,18 @@
+{
+  "work_id": 42328,
+  "work": {
+    "id": 42328,
+    "title": "途中一绝",
+    "title_tr": "途中一絕",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "镜中丝发悲来惯，衣上尘痕拂渐难。\n惆怅江湖钓竿手，却遮西日向长安。",
+    "content_tr": "鏡中絲髮悲來慣，衣上塵痕拂漸難。\n惆悵江湖釣竿手，卻遮西日向長安。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

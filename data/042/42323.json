@@ -1,0 +1,18 @@
+{
+  "work_id": 42323,
+  "work": {
+    "id": 42323,
+    "title": "汴河阻冻",
+    "title_tr": "汴河阻凍",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千里长河初冻时，玉珂瑶佩响参差。\n浮生却似冰底水，日夜东流人不知。",
+    "content_tr": "千里長河初凍時，玉珂瑤佩響參差。\n浮生卻似冰底水，日夜東流人不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

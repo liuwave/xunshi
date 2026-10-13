@@ -1,0 +1,18 @@
+{
+  "work_id": 25796,
+  "work": {
+    "id": 25796,
+    "title": "不平诗",
+    "title_tr": "不平詩",
+    "author": "无名子",
+    "author_tr": "無名子",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天遣魔军杀不平，不平人杀不平人。\n不平人杀不平者，杀尽不平方太平。",
+    "content_tr": "天遣魔軍殺不平，不平人殺不平人。\n不平人殺不平者，殺盡不平方太平。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

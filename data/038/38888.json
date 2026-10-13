@@ -1,0 +1,18 @@
+{
+  "work_id": 38888,
+  "work": {
+    "id": 38888,
+    "title": "劝我酒",
+    "title_tr": "勸我酒",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "劝我酒，我不辞，请君歌，歌莫迟。\n歌声长，辞亦切，此辞听者堪愁绝。\n洛阳女儿面似花，河南大尹头如雪。",
+    "content_tr": "勸我酒，我不辭，請君歌，歌莫遲。\n歌聲長，辭亦切，此辭聽者堪愁絕。\n洛陽女兒面似花，河南大尹頭如雪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

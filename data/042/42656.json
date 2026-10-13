@@ -1,0 +1,18 @@
+{
+  "work_id": 42656,
+  "work": {
+    "id": 42656,
+    "title": "辞杨侍郎",
+    "title_tr": "辭楊侍郎",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春在门阑秋未离，不因人荐只因诗。\n半年宾馆成前事，一日侯门失旧知。\n霜岛树凋猿叫夜，湖田谷熟雁来时。\n西风万里东归去，更把愁心说向谁。",
+    "content_tr": "春在門闌秋未離，不因人薦只因詩。\n半年賓館成前事，一日侯門失舊知。\n霜島樹凋猿叫夜，湖田穀熟雁來時。\n西風萬里東歸去，更把愁心說向誰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

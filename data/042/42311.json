@@ -1,0 +1,18 @@
+{
+  "work_id": 42311,
+  "work": {
+    "id": 42311,
+    "title": "哭韩绰",
+    "title_tr": "哭韓綽",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平明送葬上都门，绋翣交横逐去魂。\n归来冷笑悲身事，唤妇呼儿索酒盆。",
+    "content_tr": "平明送葬上都門，紼翣交橫逐去魂。\n歸來冷笑悲身事，喚婦呼兒索酒盆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

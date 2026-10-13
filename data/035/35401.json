@@ -1,0 +1,18 @@
+{
+  "work_id": 35401,
+  "work": {
+    "id": 35401,
+    "title": "杂曲歌辞夜夜曲",
+    "title_tr": "雜曲歌辭夜夜曲",
+    "author": "王偃",
+    "author_tr": "王偃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北斗星移银汉低，班姬愁思凤城西。\n青槐陌上人行绝，明月楼前乌夜啼。",
+    "content_tr": "北斗星移銀漢低，班姬愁思鳳城西。\n青槐陌上人行絕，明月樓前烏夜啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

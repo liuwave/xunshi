@@ -1,0 +1,18 @@
+{
+  "work_id": 42101,
+  "work": {
+    "id": 42101,
+    "title": "上汝州郡楼",
+    "title_tr": "上汝州郡樓",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄昏鼓角似边州，三十年前上此楼。\n今日山城对垂泪，伤心不独为悲秋。",
+    "content_tr": "黃昏鼓角似邊州，三十年前上此樓。\n今日山城對垂淚，傷心不獨爲悲秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

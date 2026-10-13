@@ -1,0 +1,18 @@
+{
+  "work_id": 43274,
+  "work": {
+    "id": 43274,
+    "title": "东阿王",
+    "title_tr": "東阿王",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "国事分明属灌均，西陵魂断夜来人。\n君王不得为天子，半为当时赋洛神。",
+    "content_tr": "國事分明屬灌均，西陵魂斷夜來人。\n君王不得爲天子，半爲當時賦洛神。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

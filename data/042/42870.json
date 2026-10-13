@@ -1,0 +1,18 @@
+{
+  "work_id": 42870,
+  "work": {
+    "id": 42870,
+    "title": "郊庙歌辞德明兴圣庙乐章德明酌献",
+    "title_tr": "郊廟歌辭德明興聖廟樂章德明酌獻",
+    "author": "李舒",
+    "author_tr": "李舒",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清庙奕奕，和乐雍雍。\n器尊牺象，礼属宗公。\n白水方祼，黄流在中。\n谟明之德，万古清风。",
+    "content_tr": "清廟奕奕，和樂雍雍。\n器尊犧象，禮屬宗公。\n白水方祼，黃流在中。\n謨明之德，萬古清風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

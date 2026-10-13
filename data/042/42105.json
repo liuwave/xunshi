@@ -1,0 +1,18 @@
+{
+  "work_id": 42105,
+  "work": {
+    "id": 42105,
+    "title": "寄许炼师",
+    "title_tr": "寄許鍊師",
+    "author": "李益",
+    "author_tr": "李益",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扫石焚香礼碧空，露华偏湿蕊珠宫。\n如何说得天坛上，万里无云月在中。",
+    "content_tr": "掃石焚香禮碧空，露華偏溼蕊珠宮。\n如何說得天壇上，萬里無雲月在中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

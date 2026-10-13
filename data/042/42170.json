@@ -1,0 +1,18 @@
+{
+  "work_id": 42170,
+  "work": {
+    "id": 42170,
+    "title": "题白蘋洲",
+    "title_tr": "題白蘋洲",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山鸟飞红带，亭薇拆紫花。\n溪光初透彻，秋色正清华。\n静处知生乐，喧中见死夸。\n无多圭组累，终不负烟霞。",
+    "content_tr": "山鳥飛紅帶，亭薇拆紫花。\n溪光初透徹，秋色正清華。\n靜處知生樂，喧中見死誇。\n無多圭組累，終不負煙霞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

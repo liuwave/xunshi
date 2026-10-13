@@ -1,0 +1,18 @@
+{
+  "work_id": 42167,
+  "work": {
+    "id": 42167,
+    "title": "睦州四韵",
+    "title_tr": "睦州四韻",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "州在钓台边，溪山实可怜。\n有家皆掩映，无处不潺湲。\n好树鸣幽鸟，晴楼入野烟。\n残春杜陵客，中酒落花前。",
+    "content_tr": "州在釣臺邊，溪山實可憐。\n有家皆掩映，無處不潺湲。\n好樹鳴幽鳥，晴樓入野煙。\n殘春杜陵客，中酒落花前。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

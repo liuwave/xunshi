@@ -1,0 +1,18 @@
+{
+  "work_id": 25001,
+  "work": {
+    "id": 25001,
+    "title": "新秋即事",
+    "title_tr": "新秋即事",
+    "author": "许有壬",
+    "author_tr": "許有壬",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫踏苍苔破，茨门昼亦关。\n林风秋入树，波日晚摇山。\n原野苍茫外，烟霏指顾间。\n更须安一榻，月夜不须还。",
+    "content_tr": "莫蹋蒼苔破，茨門晝亦關。\n林風秋入樹，波日晚搖山。\n原野蒼茫外，煙霏指顧間。\n更須安一榻，月夜不須還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

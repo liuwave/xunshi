@@ -1,0 +1,18 @@
+{
+  "work_id": 38198,
+  "work": {
+    "id": 38198,
+    "title": "山中五绝句岭上云",
+    "title_tr": "山中五絕句嶺上雲",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岭上白云朝未散，田中青麦旱将枯。\n自生自灭成何事，能逐东风作雨无。",
+    "content_tr": "嶺上白雲朝未散，田中青麥旱將枯。\n自生自滅成何事，能逐東風作雨無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

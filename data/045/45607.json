@@ -1,0 +1,18 @@
+{
+  "work_id": 45607,
+  "work": {
+    "id": 45607,
+    "title": "京山行",
+    "title_tr": "京山行",
+    "author": "孟郊",
+    "author_tr": "孟郊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "众䖟聚病马，流血不得行。\n后路起夜色，前山闻虎声。\n此时游子心，百尺风中旌。",
+    "content_tr": "衆䖟聚病馬，流血不得行。\n後路起夜色，前山聞虎聲。\n此時遊子心，百尺風中旌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

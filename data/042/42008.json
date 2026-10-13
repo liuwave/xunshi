@@ -1,0 +1,18 @@
+{
+  "work_id": 42008,
+  "work": {
+    "id": 42008,
+    "title": "牛",
+    "title_tr": "牛",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "齐歌初入相，燕阵早横功。\n欲向桃林下，先过梓树中。\n在吴频喘月，奔梦屡惊风。\n不用五丁士，如何九折通。",
+    "content_tr": "齊歌初入相，燕陣早橫功。\n欲向桃林下，先過梓樹中。\n在吳頻喘月，奔夢屢驚風。\n不用五丁士，如何九折通。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

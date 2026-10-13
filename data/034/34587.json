@@ -1,0 +1,18 @@
+{
+  "work_id": 34587,
+  "work": {
+    "id": 34587,
+    "title": "醉行",
+    "title_tr": "醉行",
+    "author": "元稹",
+    "author_tr": "元稹",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风方索漠，霜貌足暌携。\n今日骑骢马，街中醉踏泥。",
+    "content_tr": "秋風方索漠，霜貌足暌攜。\n今日騎驄馬，街中醉蹋泥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

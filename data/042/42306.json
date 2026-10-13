@@ -1,0 +1,18 @@
+{
+  "work_id": 42306,
+  "work": {
+    "id": 42306,
+    "title": "醉后题僧院",
+    "title_tr": "醉後題僧院",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "离心忽忽复悽悽，雨晦倾瓶取醉泥。\n可羡高僧共心语，一如携稚往东西。",
+    "content_tr": "離心忽忽復悽悽，雨晦傾瓶取醉泥。\n可羨高僧共心語，一如攜稚往東西。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

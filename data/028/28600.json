@@ -1,0 +1,18 @@
+{
+  "work_id": 28600,
+  "work": {
+    "id": 28600,
+    "title": "独夜",
+    "title_tr": "獨夜",
+    "author": "赵孟頫",
+    "author_tr": "趙孟頫",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风动林叶，夜雨滴池荷。\n孤客睡不著，乱蛩鸣更多。",
+    "content_tr": "秋風動林葉，夜雨滴池荷。\n孤客睡不著，亂蛩鳴更多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

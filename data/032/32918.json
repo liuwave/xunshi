@@ -1,0 +1,18 @@
+{
+  "work_id": 32918,
+  "work": {
+    "id": 32918,
+    "title": "胡笳曲",
+    "title_tr": "胡笳曲",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "月明星稀霜满野，毡车夜宿阴山下。\n汉家自失李将军，单于公然来牧马。",
+    "content_tr": "月明星稀霜滿野，氈車夜宿陰山下。\n漢家自失李將軍，單于公然來牧馬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

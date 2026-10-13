@@ -1,0 +1,18 @@
+{
+  "work_id": 33112,
+  "work": {
+    "id": 33112,
+    "title": "谚",
+    "title_tr": "諺",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "枣子塞鼻孔，悬栖阁却种。\n蝉鸣蛁蟟唤，黍种糕糜断。",
+    "content_tr": "棗子塞鼻孔，懸棲閣卻種。\n蟬鳴蛁蟟喚，黍種糕糜斷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

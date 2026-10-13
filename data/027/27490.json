@@ -1,0 +1,18 @@
+{
+  "work_id": 27490,
+  "work": {
+    "id": 27490,
+    "title": "宫词十二首",
+    "title_tr": "宮詞十二首",
+    "author": "杨维桢",
+    "author_tr": "楊維楨",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡人报晓五门开，卤簿千官泊虎台。\n天上鴐鹅先有信，九重鸾驾上都回。",
+    "content_tr": "雞人報曉五門開，鹵簿千官泊虎臺。\n天上鴐鵝先有信，九重鸞駕上都回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

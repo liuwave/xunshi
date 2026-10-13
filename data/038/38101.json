@@ -1,0 +1,18 @@
+{
+  "work_id": 38101,
+  "work": {
+    "id": 38101,
+    "title": "秋池",
+    "title_tr": "秋池",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洗浪清风透水霜，水边闲坐一绳床。\n眼尘心垢见皆尽，不是秋池是道场。",
+    "content_tr": "洗浪清風透水霜，水邊閒坐一繩牀。\n眼塵心垢見皆盡，不是秋池是道場。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

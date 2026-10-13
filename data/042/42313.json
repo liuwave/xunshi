@@ -1,0 +1,18 @@
+{
+  "work_id": 42313,
+  "work": {
+    "id": 42313,
+    "title": "除官赴阙商山道中绝句",
+    "title_tr": "除官赴闕商山道中絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水叠鸣珂树如帐，长杨春殿九门珂。\n我来惆怅不自决，欲去欲住终如何。",
+    "content_tr": "水疊鳴珂樹如帳，長楊春殿九門珂。\n我來惆悵不自決，欲去欲住終如何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 42011,
+  "work": {
+    "id": 42011,
+    "title": "鹿",
+    "title_tr": "鹿",
+    "author": "李峤",
+    "author_tr": "李嶠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "涿鹿闻中冀，秦原辟帝畿。\n柰花开旧苑，萍叶蔼前诗。\n道士乘仙日，先生折角时。\n方怀丈夫志，抗首别心期。",
+    "content_tr": "涿鹿聞中冀，秦原闢帝畿。\n柰花開舊苑，萍葉藹前詩。\n道士乘仙日，先生折角時。\n方懷丈夫志，抗首別心期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

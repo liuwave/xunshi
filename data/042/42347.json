@@ -1,0 +1,18 @@
+{
+  "work_id": 42347,
+  "work": {
+    "id": 42347,
+    "title": "醉赠薛道封",
+    "title_tr": "醉贈薛道封",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饮酒论文四百刻，水分云隔二三年。\n男儿事业知公有，卖与明君直几钱。",
+    "content_tr": "飲酒論文四百刻，水分雲隔二三年。\n男兒事業知公有，賣與明君直幾錢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

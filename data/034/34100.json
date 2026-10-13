@@ -1,0 +1,18 @@
+{
+  "work_id": 34100,
+  "work": {
+    "id": 34100,
+    "title": "拟长安春词",
+    "title_tr": "擬長安春詞",
+    "author": "皎然",
+    "author_tr": "僧皎然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春信在河源，春风荡妾魂。\n春歌杂鶗鴂，春梦绕轘辕。\n春絮愁偏满，春丝闷更繁。\n春期不可定，春曲懒新翻。",
+    "content_tr": "春信在河源，春風蕩妾魂。\n春歌雜鶗鴂，春夢繞轘轅。\n春絮愁偏滿，春絲悶更繁。\n春期不可定，春曲懶新翻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

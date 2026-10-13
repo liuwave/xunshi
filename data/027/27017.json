@@ -1,0 +1,18 @@
+{
+  "work_id": 27017,
+  "work": {
+    "id": 27017,
+    "title": "宣和墨竹寒雀",
+    "title_tr": "宣和墨竹寒雀",
+    "author": "虞集",
+    "author_tr": "虞集",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洒墨写琅玕，深宫春昼闲。\n萧条数枝雪，不似纥干山。",
+    "content_tr": "灑墨寫琅玕，深宮春晝閒。\n蕭條數枝雪，不似紇幹山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

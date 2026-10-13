@@ -1,0 +1,18 @@
+{
+  "work_id": 42483,
+  "work": {
+    "id": 42483,
+    "title": "赠欧阳明府",
+    "title_tr": "贈歐陽明府",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "贤宰宰斯邑，政闻闾里间。\n都缘民讼少，长觉吏徒闲。\n帆落樽前浦，钟鸣枕上山。\n回舟却惆怅，数宿钓鱼湾。",
+    "content_tr": "賢宰宰斯邑，政聞閭里間。\n都緣民訟少，長覺吏徒閒。\n帆落樽前浦，鐘鳴枕上山。\n回舟卻惆悵，數宿釣魚灣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

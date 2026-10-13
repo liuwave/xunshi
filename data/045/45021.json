@@ -1,0 +1,18 @@
+{
+  "work_id": 45021,
+  "work": {
+    "id": 45021,
+    "title": "寻天台山",
+    "title_tr": "尋天台山",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吾友太乙子，餐霞卧赤城。\n欲寻华顶去，不惮恶溪名。\n歇马凭云宿，扬帆截海行。\n高高翠微里，遥见石梁横。",
+    "content_tr": "吾友太乙子，餐霞臥赤城。\n欲尋華頂去，不憚惡溪名。\n歇馬憑雲宿，揚帆截海行。\n高高翠微裏，遙見石樑橫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

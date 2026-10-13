@@ -1,0 +1,18 @@
+{
+  "work_id": 42276,
+  "work": {
+    "id": 42276,
+    "title": "过田家宅",
+    "title_tr": "過田家宅",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "安邑南门外，谁家板筑高。\n奉诚园里地，墙缺见蓬蒿。",
+    "content_tr": "安邑南門外，誰家板築高。\n奉誠園裏地，牆缺見蓬蒿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

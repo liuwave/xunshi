@@ -1,0 +1,18 @@
+{
+  "work_id": 42349,
+  "work": {
+    "id": 42349,
+    "title": "入关",
+    "title_tr": "入關",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东西南北数衢通，曾取江西径过东。\n今日更寻南去路，未秋应有北归鸿。",
+    "content_tr": "東西南北數衢通，曾取江西徑過東。\n今日更尋南去路，未秋應有北歸鴻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

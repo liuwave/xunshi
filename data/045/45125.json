@@ -1,0 +1,18 @@
+{
+  "work_id": 45125,
+  "work": {
+    "id": 45125,
+    "title": "秋宵月下有怀",
+    "title_tr": "秋宵月下有懷",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋空明月悬，光彩露沾湿。\n惊鹊栖未定，飞萤卷帘入。\n庭槐寒影疏，邻杵夜声急。\n佳期旷何许，望望空伫立。",
+    "content_tr": "秋空明月懸，光彩露沾溼。\n驚鵲棲未定，飛螢捲簾入。\n庭槐寒影疏，鄰杵夜聲急。\n佳期曠何許，望望空佇立。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

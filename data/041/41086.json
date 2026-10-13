@@ -1,0 +1,18 @@
+{
+  "work_id": 41086,
+  "work": {
+    "id": 41086,
+    "title": "武侯庙",
+    "title_tr": "武侯廟",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "遗庙丹青落，空山草木长。\n犹闻辞后主，不复卧南阳。",
+    "content_tr": "遺廟丹青落，空山草木長。\n猶聞辭後主，不復臥南陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

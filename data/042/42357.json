@@ -1,0 +1,18 @@
+{
+  "work_id": 42357,
+  "work": {
+    "id": 42357,
+    "title": "走笔送杜十三归京",
+    "title_tr": "走筆送杜十三歸京",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟鸿上汉声声远，逸骥寻云步步高。\n应笑内兄年六十，郡城闲坐养霜毛。",
+    "content_tr": "煙鴻上漢聲聲遠，逸驥尋雲步步高。\n應笑內兄年六十，郡城閒坐養霜毛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
