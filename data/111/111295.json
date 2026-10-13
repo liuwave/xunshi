@@ -1,0 +1,18 @@
+{
+  "work_id": 111295,
+  "work": {
+    "id": 111295,
+    "title": "题郑子寿野趣",
+    "title_tr": "題鄭子壽野趣",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "菜花园圃槿花篱，麦满前坡水满池。\n野老横竿拦鸭过，牧儿携笛倚牛吹。",
+    "content_tr": "菜花園圃槿花籬，麥滿前坡水滿池。\n野老橫竿攔鴨過，牧兒携笛倚牛吹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

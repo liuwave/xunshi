@@ -1,0 +1,18 @@
+{
+  "work_id": 120130,
+  "work": {
+    "id": 120130,
+    "title": "师友六言一首",
+    "title_tr": "師友六言一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闻诸师者本同，取之友者亦公。\n高才有出象外，精义不离个中。\n南渡大儒管见，西山先生正宗。",
+    "content_tr": "聞諸師者本同，取之友者亦公。\n高才有出象外，精義不離箇中。\n南渡大儒管見，西山先生正宗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

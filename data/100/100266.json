@@ -1,0 +1,18 @@
+{
+  "work_id": 100266,
+  "work": {
+    "id": 100266,
+    "title": "春词 其四",
+    "title_tr": "春詞 其四",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天光地气与年新，不觉人间一物陈。\n初令雷霆端有信，旧馀霰雪敢无垠。",
+    "content_tr": "天光地氣與年新，不覺人間一物陳。\n初令雷霆端有信，舊餘霰雪敢無垠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

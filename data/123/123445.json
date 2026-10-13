@@ -1,0 +1,18 @@
+{
+  "work_id": 123445,
+  "work": {
+    "id": 123445,
+    "title": "已往",
+    "title_tr": "已往",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "前三十万岁已往，后千亿年来无穷。\n化工团土为愚汉，傀儡牵丝弄老翁。\n尧桀是非俱蔓草，嬴刘成败等飞鸿。\n午窗睡起摩双眼，落尽瓶花糁桉红。",
+    "content_tr": "前三十萬歲已往，後千億年來無窮。\n化工團土爲愚漢，傀儡牽絲弄老翁。\n堯桀是非俱蔓草，嬴劉成敗等飛鴻。\n午窗睡起摩雙眼，落盡瓶花糝桉紅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

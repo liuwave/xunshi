@@ -1,0 +1,18 @@
+{
+  "work_id": 123781,
+  "work": {
+    "id": 123781,
+    "title": "春热",
+    "title_tr": "春熱",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "地气冬来不复藏，桃花都向腊前芳。\n无寒疑是青春老，耐静从他白日长。\n野蝶舞馀还自去，沙鸥飞断却成行。\n迎风尽著单衣坐，净几留心看药方。",
+    "content_tr": "地氣冬來不復藏，桃花都向臘前芳。\n無寒疑是青春老，耐靜從他白日長。\n野蝶舞餘還自去，沙鷗飛斷卻成行。\n迎風盡著單衣坐，淨幾留心看藥方。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

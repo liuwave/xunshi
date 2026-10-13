@@ -1,0 +1,18 @@
+{
+  "work_id": 123949,
+  "work": {
+    "id": 123949,
+    "title": "戏简文浩然诗成不往也",
+    "title_tr": "戲簡文浩然詩成不往也",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "临贺山泉清似政，公厨酿酒色如泉。\n因山相望虽千里，岂是江头无便船。",
+    "content_tr": "臨賀山泉清似政，公廚釀酒色如泉。\n因山相望雖千里，豈是江頭無便船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

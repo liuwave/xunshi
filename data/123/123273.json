@@ -1,0 +1,18 @@
+{
+  "work_id": 123273,
+  "work": {
+    "id": 123273,
+    "title": "湖庄杂诗 其二",
+    "title_tr": "湖莊雜詩 其二",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野水平湖阔，云山叠嶂深。\n一溪横驿道，两岸挟神林。\n乱石通人迹，孤舟系客心。\n几年茅苇地，松桧已侵寻。",
+    "content_tr": "野水平湖闊，雲山疊嶂深。\n一溪橫驛道，兩岸挾神林。\n亂石通人迹，孤舟繫客心。\n幾年茅葦地，松檜已侵尋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

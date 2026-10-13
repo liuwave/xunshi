@@ -1,0 +1,18 @@
+{
+  "work_id": 111786,
+  "work": {
+    "id": 111786,
+    "title": "题日记",
+    "title_tr": "題日記",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁言万事转头空，未转头时亦梦中。\n若向梦中寻梦觉，觉来还入大槐宫。",
+    "content_tr": "誰言萬事轉頭空，未轉頭時亦夢中。\n若向夢中尋夢覺，覺來還入大槐宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

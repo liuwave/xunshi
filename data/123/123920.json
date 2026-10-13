@@ -1,0 +1,18 @@
+{
+  "work_id": 123920,
+  "work": {
+    "id": 123920,
+    "title": "无诗",
+    "title_tr": "無詩",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "草创园亭随意坐，任缘花竹倩人栽。\n雁声与客将寒去，枊色知春有信来。\n逸气暂时因酒见，物华空自把诗催。\n案头秃笔无才思，不赋一言真陋哉。",
+    "content_tr": "草創園亭隨意坐，任緣花竹倩人栽。\n雁聲與客將寒去，枊色知春有信來。\n逸氣暫時因酒見，物華空自把詩催。\n案頭禿筆無才思，不賦一言真陋哉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

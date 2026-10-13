@@ -1,0 +1,18 @@
+{
+  "work_id": 123654,
+  "work": {
+    "id": 123654,
+    "title": "蒲中杂咏红云阁",
+    "title_tr": "蒲中雜詠紅雲閣",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "香风百步锦江秋，片断明霞晚不收。\n幕府诸郎总清丽，一樽相与最风流。",
+    "content_tr": "香風百步錦江秋，片斷明霞晚不收。\n幕府諸郎總清麗，一樽相與最風流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 121212,
+  "work": {
+    "id": 121212,
+    "title": "夜分不寐二首",
+    "title_tr": "夜分不寐二首",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晴缸红花久未落，耿耿秋思饶端倪。\n倾荷破月共天宇，女子墙高乌夜啼。",
+    "content_tr": "晴缸紅花久未落，耿耿秋思饒端倪。\n傾荷破月共天宇，女子牆高烏夜啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

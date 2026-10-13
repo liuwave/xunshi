@@ -1,0 +1,18 @@
+{
+  "work_id": 123909,
+  "work": {
+    "id": 123909,
+    "title": "浦江道中",
+    "title_tr": "浦江道中",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惊忧度岁月，靡觉佳序临。\n玉露破金菊，方知秋气深。",
+    "content_tr": "驚憂度歲月，靡覺佳序臨。\n玉露破金菊，方知秋氣深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

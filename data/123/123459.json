@@ -1,0 +1,18 @@
+{
+  "work_id": 123459,
+  "work": {
+    "id": 123459,
+    "title": "寄孚老",
+    "title_tr": "寄孚老",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "双眼常时看屋椽，从来不结俗人缘。\n早年曾悟出师表，晚岁始参齐物篇。\n魔垒孤军降百万，诗坛一首当三千。\n清溪结得茆庵未，闲欲寻君共泛船。",
+    "content_tr": "雙眼常時看屋椽，從來不結俗人緣。\n早年曾悟出師表，晚歲始參齊物篇。\n魔壘孤軍降百萬，詩壇一首當三千。\n清溪結得茆菴未，閑欲尋君共泛船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100022,
+  "work": {
+    "id": 100022,
+    "title": "题玄麓山八景 其五 饮鹤川",
+    "title_tr": "題玄麓山八景 其五 飲鶴川",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渴鹤忽飞来，爱此一勺清。\n五湖非不多，恐染凫鹜腥。",
+    "content_tr": "渴鶴忽飛來，愛此一勺清。\n五湖非不多，恐染鳬鶩腥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

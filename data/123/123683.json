@@ -1,0 +1,18 @@
+{
+  "work_id": 123683,
+  "work": {
+    "id": 123683,
+    "title": "欲游静林不果",
+    "title_tr": "欲遊靜林不果",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "林泉共一山，欲往不得暇。\n我不如陶生，日到远公社。\n安得缩地术，坐我云门下。",
+    "content_tr": "林泉共一山，欲往不得暇。\n我不如陶生，日到遠公社。\n安得縮地術，坐我雲門下。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

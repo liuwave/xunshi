@@ -1,0 +1,18 @@
+{
+  "work_id": 111293,
+  "work": {
+    "id": 111293,
+    "title": "山村 其一",
+    "title_tr": "山村 其一",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山崦谁家绿树中，短墙半露石榴红。\n萧然门巷无人到，三两孙随白发翁。",
+    "content_tr": "山崦誰家綠樹中，短牆半露石榴紅。\n蕭然門巷無人到，三兩孫隨白髮翁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

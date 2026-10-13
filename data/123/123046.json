@@ -1,0 +1,18 @@
+{
+  "work_id": 123046,
+  "work": {
+    "id": 123046,
+    "title": "谒僧不值",
+    "title_tr": "謁僧不值",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古寺人闲僧掩扉，客来下马解尘衣。\n双松带月风蝉噪，古阁鸣钟夕鸟归。",
+    "content_tr": "古寺人閒僧掩扉，客來下馬解塵衣。\n雙松带月風蟬噪，古閣鳴鐘夕鳥歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

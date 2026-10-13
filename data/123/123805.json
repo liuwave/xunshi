@@ -1,0 +1,18 @@
+{
+  "work_id": 123805,
+  "work": {
+    "id": 123805,
+    "title": "元旦二首",
+    "title_tr": "元旦二首",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "正月烧灯夜，封川转觉幽。\n十分凭月色，数点照城头。\n俗习那知陋，安陵谅不愁。\n家家松火畔，舂米未曾休。",
+    "content_tr": "正月燒燈夜，封川轉覺幽。\n十分憑月色，數點照城頭。\n俗習那知陋，安陵諒不愁。\n家家鬆火畔，舂米未曾休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

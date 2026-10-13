@@ -1,0 +1,18 @@
+{
+  "work_id": 100331,
+  "work": {
+    "id": 100331,
+    "title": "边头作",
+    "title_tr": "邊頭作",
+    "author": "李端",
+    "author_tr": "李端",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "邠郊泉脉动，落日上城楼。\n羊马水草足，羌胡帐幕稠。\n射雕过海岸，传箭怯边州。\n何事归朝将，今年又拜侯。",
+    "content_tr": "邠郊泉脉動，落日上城樓。\n羊馬水草足，羌胡帳幕稠。\n射鵰過海岸，傳箭怯邊州。\n何事歸朝將，今年又拜侯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 101686,
+  "work": {
+    "id": 101686,
+    "title": "南湖夜闻歌者（壬辰）",
+    "title_tr": "南湖夜聞歌者（壬辰）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轻舟暗度古城东，惆怅霜天落塞鸿。\n谁向夜深歌水调，伤心不待管弦终。",
+    "content_tr": "輕舟暗度古城東，惆悵霜天落塞鴻。\n誰向夜深歌水調，傷心不待管絃終。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

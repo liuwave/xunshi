@@ -1,0 +1,18 @@
+{
+  "work_id": 123628,
+  "work": {
+    "id": 123628,
+    "title": "再用花字韵示止老二首",
+    "title_tr": "再用花字韻示止老二首",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灵龙夜吠千年木，丹鼎光腾九转砂。\n鹤驭云軿竟何许，岩前老尽碧桃花。",
+    "content_tr": "靈龍夜吠千年木，丹鼎光騰九轉砂。\n鶴馭雲軿竟何許，巖前老盡碧桃花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

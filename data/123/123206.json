@@ -1,0 +1,18 @@
+{
+  "work_id": 123206,
+  "work": {
+    "id": 123206,
+    "title": "道中遣兴",
+    "title_tr": "道中遣興",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "游宦何曾乐，佳时又出门。\n春深花处处，社近鼓村村。\n天地一羁旅，江山千吐吞。\n平生黄奶误，今日曲生尊。",
+    "content_tr": "遊宦何曾樂，佳時又出門。\n春深花處處，社近鼓村村。\n天地一羈旅，江山千吐吞。\n平生黃奶誤，今日麴生尊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

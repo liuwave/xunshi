@@ -1,0 +1,18 @@
+{
+  "work_id": 111049,
+  "work": {
+    "id": 111049,
+    "title": "江阴浮远堂",
+    "title_tr": "江陰浮遠堂",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "横冈下瞰大江流，浮远堂前万里愁。\n最苦无山遮望眼，淮南极目尽神州。",
+    "content_tr": "橫岡下瞰大江流，浮遠堂前萬里愁。\n最苦無山遮望眼，淮南極目盡神州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

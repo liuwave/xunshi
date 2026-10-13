@@ -1,0 +1,18 @@
+{
+  "work_id": 123221,
+  "work": {
+    "id": 123221,
+    "title": "湖庄谢客",
+    "title_tr": "湖莊謝客",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渐撤疏篱短作垣，与春期约老田园。\n晴多易得花开早，地迥难藏鸟语喧。\n我欲偷安频谢客，人谁见许数敲门。\n定知桃李平生误，下已成蹊漫不言。",
+    "content_tr": "漸撤疏籬短作垣，與春期約老田園。\n晴多易得花開早，地迥難藏鳥語喧。\n我欲偷安頻謝客，人誰見許數敲門。\n定知桃李平生誤，下已成蹊漫不言。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

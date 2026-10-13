@@ -1,0 +1,18 @@
+{
+  "work_id": 123123,
+  "work": {
+    "id": 123123,
+    "title": "雨中同官游野园",
+    "title_tr": "雨中同官遊野園",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忙了三年乍得闲，便乘风雨看溪山。\n可怜过眼事多少，都不关心春往还。\n老至但惊霜上鬓，兴来聊复酒开颜。\n如今便作游人唤，更欲徜徉紫翠间。",
+    "content_tr": "忙了三年乍得閒，便乘風雨看溪山。\n可憐過眼事多少，都不關心春往還。\n老至但驚霜上鬢，興來聊復酒開顏。\n如今便作遊人喚，更欲徜徉紫翠間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

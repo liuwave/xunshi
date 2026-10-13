@@ -1,0 +1,18 @@
+{
+  "work_id": 123754,
+  "work": {
+    "id": 123754,
+    "title": "蒲中杂咏 北阁",
+    "title_tr": "蒲中雜詠 北閣",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一时相见万夫雄，蔓草荒陵剑甲空。\n争战百年无处问，高城弦管正春风。",
+    "content_tr": "一時相見萬夫雄，蔓草荒陵劍甲空。\n争戰百年無處問，高城絃管正春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

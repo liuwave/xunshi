@@ -1,0 +1,18 @@
+{
+  "work_id": 123179,
+  "work": {
+    "id": 123179,
+    "title": "使君见示鹿鸣诗走笔奉和",
+    "title_tr": "使君見示鹿鳴詩走筆奉和",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眼明及见决科文，发策当书第一勋。\n八句催行歌白雪，一言合意定青云。\n君今去亦朝天上，主圣还须对夜分。\n遥想朱华传敕处，九重春色醉朝曛。",
+    "content_tr": "眼明及見決科文，發策當書第一勳。\n八句催行歌白雪，一言合意定青雲。\n君今去亦朝天上，主聖還須對夜分。\n遙想朱華傳敕處，九重春色醉朝曛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123247,
+  "work": {
+    "id": 123247,
+    "title": "赠日者",
+    "title_tr": "贈日者",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我本无能人，简册强缠绕。\n饶舌苦譊譊，外貌似了了。\n应酬聊复尔，懒惰亦不少。\n眨眼鼻如雷，黄昏到天晓。",
+    "content_tr": "我本無能人，簡冊強纏繞。\n饒舌苦譊譊，外貌似了了。\n應酬聊復爾，懶惰亦不少。\n眨眼鼻如雷，黃昏到天曉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

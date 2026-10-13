@@ -1,0 +1,18 @@
+{
+  "work_id": 123621,
+  "work": {
+    "id": 123621,
+    "title": "将至常山先寄诸幼",
+    "title_tr": "將至常山先寄諸幼",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "经年游宦叹离群，相见提携数候门。\n一笑相看即无事，径须归办酒盈樽。",
+    "content_tr": "經年遊宦嘆離羣，相見提攜數候門。\n一笑相看即無事，徑須歸辦酒盈樽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

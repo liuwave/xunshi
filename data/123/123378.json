@@ -1,0 +1,18 @@
+{
+  "work_id": 123378,
+  "work": {
+    "id": 123378,
+    "title": "题酒店楼壁绝句八首 其三",
+    "title_tr": "题酒店楼壁绝句八首 其三",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仲任书卷尽，平君不数充。\n相逢何以慰？细酌对春风。",
+    "content_tr": "仲任书卷尽，平君不数充。\n相逢何以慰？细酌对春风。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

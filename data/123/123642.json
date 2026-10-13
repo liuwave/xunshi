@@ -1,0 +1,18 @@
+{
+  "work_id": 123642,
+  "work": {
+    "id": 123642,
+    "title": "正月十八日枕上",
+    "title_tr": "正月十八日枕上",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空笼疏幔晓寒清，小醉醒然不作酲。\n攲枕谁能寻断梦，卧闻童子诵经声。",
+    "content_tr": "空籠疏幔曉寒清，小醉醒然不作酲。\n攲枕誰能尋斷夢，臥聞童子誦經聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

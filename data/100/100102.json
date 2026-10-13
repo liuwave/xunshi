@@ -1,0 +1,18 @@
+{
+  "work_id": 100102,
+  "work": {
+    "id": 100102,
+    "title": "仲夏月夜怀陈西安",
+    "title_tr": "仲夏月夜懷陳西安",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长怅浮云点太清，只今何许问天晴。\n浑怜短夜相催下，不放孤光自在明。\n幸与高楼通远览，未劳残烛更前行。\n此心对酒萧条在，咄咄置之聊自倾。",
+    "content_tr": "長悵浮雲點太清，祇今何許問天晴。\n渾憐短夜相催下，不放孤光自在明。\n幸與高樓通遠覽，未勞殘燭更前行。\n此心對酒蕭條在，咄咄置之聊自傾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

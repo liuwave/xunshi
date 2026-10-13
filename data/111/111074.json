@@ -1,0 +1,18 @@
+{
+  "work_id": 111074,
+  "work": {
+    "id": 111074,
+    "title": "豫章东湖",
+    "title_tr": "豫章東湖",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "亭亭绿荷叶，密密罩清波。\n为见湖光少，却嫌荷叶多。",
+    "content_tr": "亭亭綠荷葉，密密罩清波。\n爲見湖光少，卻嫌荷葉多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

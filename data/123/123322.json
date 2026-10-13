@@ -1,0 +1,18 @@
+{
+  "work_id": 123322,
+  "work": {
+    "id": 123322,
+    "title": "上巳日舍舟丰城",
+    "title_tr": "上巳日舍舟豐城",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "路出丰城县，篮舆了夕阳。\n何人共列坐，胜事忆流觞。\n帝里衣冠近，家山念虑长。\n慇勤楼下水，今夜到吾乡。",
+    "content_tr": "路出豐城縣，籃輿了夕陽。\n何人共列坐，勝事憶流觴。\n帝里衣冠近，家山念慮長。\n慇懃樓下水，今夜到吾鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

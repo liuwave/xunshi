@@ -1,0 +1,18 @@
+{
+  "work_id": 123815,
+  "work": {
+    "id": 123815,
+    "title": "故居",
+    "title_tr": "故居",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北山三十里，忆得旧书堂。\n小径通蔬圃，新醅压酒床。\n晚凉荷叶嫩，细雨橘花香。\n此梦今何许，随缘又一方。",
+    "content_tr": "北山三十里，憶得舊書堂。\n小徑通蔬圃，新醅壓酒牀。\n晚涼荷葉嫩，細雨橘花香。\n此夢今何許，隨緣又一方。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100512,
+  "work": {
+    "id": 100512,
+    "title": "初秋雨晴",
+    "title_tr": "初秋雨晴",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨后风凉暑气收，庭梧叶叶报初秋。\n浮云尽逐黄昏去，楼角新蟾挂玉钩。",
+    "content_tr": "雨後風涼暑氣收，庭梧葉葉報初秋。\n浮雲盡逐黃昏去，樓角新蟾掛玉鉤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

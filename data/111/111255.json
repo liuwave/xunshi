@@ -1,0 +1,18 @@
+{
+  "work_id": 111255,
+  "work": {
+    "id": 111255,
+    "title": "山村 其二",
+    "title_tr": "山村 其二",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万竹稍头云气生，四风吹雨又吹晴。\n题诗未了下山去，一路吟声杂水声。",
+    "content_tr": "萬竹稍頭雲氣生，四風吹雨又吹晴。\n題詩未了下山去，一路吟聲雜水聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

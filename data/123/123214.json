@@ -1,0 +1,18 @@
+{
+  "work_id": 123214,
+  "work": {
+    "id": 123214,
+    "title": "舟中连雨",
+    "title_tr": "舟中連雨",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客里逢连雨，龙公不贷人。\n一蓬遮晦朔，万虑入悲辛。\n忽忽淹吾道，堂堂送此春。\n谁欤讼风伯，挥扫鉴中尘。",
+    "content_tr": "客裏逢連雨，龍公不貸人。\n一蓬遮晦朔，萬慮入悲辛。\n忽忽淹吾道，堂堂送此春。\n誰歟訟風伯，揮掃鑑中塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

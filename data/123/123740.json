@@ -1,0 +1,18 @@
+{
+  "work_id": 123740,
+  "work": {
+    "id": 123740,
+    "title": "蒲中杂咏 建安堂",
+    "title_tr": "蒲中雜詠 建安堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "潇然一枕北窗凉，唤取樵青发嫩香。\n净洗西州羊炙口，要看妙语落冰霜。",
+    "content_tr": "瀟然一枕北窗涼，喚取樵青發嫩香。\n淨洗西州羊炙口，要看妙語落冰霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

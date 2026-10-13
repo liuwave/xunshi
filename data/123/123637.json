@@ -1,0 +1,18 @@
+{
+  "work_id": 123637,
+  "work": {
+    "id": 123637,
+    "title": "蒲中杂咏吏隐堂",
+    "title_tr": "蒲中雜詠吏隱堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉麈逍遥岸葛巾，鸾钗宝瑟奉清樽。\n寄声与问鸳行旧，何似栖栖金马门。",
+    "content_tr": "玉麈逍遙岸葛巾，鸞釵寶瑟奉清樽。\n寄聲與問鴛行舊，何似棲棲金馬門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

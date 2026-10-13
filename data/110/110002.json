@@ -1,0 +1,18 @@
+{
+  "work_id": 110002,
+  "work": {
+    "id": 110002,
+    "title": "送阎中孚郎中知磁州",
+    "title_tr": "送閻中孚郎中知磁州",
+    "author": "梅尧臣",
+    "author_tr": "梅堯臣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "箫管梁王台，风雪邯郸道。\n君行守赵城，我向夷门老。\n持麾邦寄重，歌裤民欣早。\n重冈古猎场，惊兔离衰草。",
+    "content_tr": "簫管樑王臺，風雪邯鄲道。\n君行守趙城，我向夷門老。\n持麾邦寄重，歌褲民欣早。\n重岡古獵場，驚兔離衰草。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

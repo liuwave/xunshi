@@ -1,0 +1,18 @@
+{
+  "work_id": 100068,
+  "work": {
+    "id": 100068,
+    "title": "寄远曲其三",
+    "title_tr": "寄逺曲其三",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "妾有五字诗，寄君君勿忘。\n十朝成一字，字字九回肠。",
+    "content_tr": "妾有五字詩，寄君君勿忘。\n十朝成一字，字字九囘腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

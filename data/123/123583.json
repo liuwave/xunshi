@@ -1,0 +1,18 @@
+{
+  "work_id": 123583,
+  "work": {
+    "id": 123583,
+    "title": "后数日雪再作",
+    "title_tr": "後數日雪再作",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三见江南白，端来伴酒樽。\n作寒催岁暮，流润压冬温。\n云卧山容湿，天低水气昏。\n东风犹有信，昨夜到前村。",
+    "content_tr": "三見江南白，端來伴酒樽。\n作寒催歲暮，流潤壓冬溫。\n雲臥山容溼，天低水氣昏。\n東風猶有信，昨夜到前村。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

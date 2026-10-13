@@ -1,0 +1,18 @@
+{
+  "work_id": 111278,
+  "work": {
+    "id": 111278,
+    "title": "客中秋晚",
+    "title_tr": "客中秋晚",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "榴花才放客辞家，客里因循见菊花。\n独坐西楼对风雨，天寒犹自著轻纱。",
+    "content_tr": "榴花纔放客辭家，客裏因循見菊花。\n獨坐西樓對風雨，天寒猶自著輕紗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111213,
+  "work": {
+    "id": 111213,
+    "title": "越上青店候别杨休文",
+    "title_tr": "越上青店候別楊休文",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千载江湖共此心，老来相见怕分襟。\n手搔白发望君至，车马不来溪水深。",
+    "content_tr": "千載江湖共此心，老來相見怕分襟。\n手搔白髮望君至，車馬不來溪水深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

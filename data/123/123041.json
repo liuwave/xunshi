@@ -1,0 +1,18 @@
+{
+  "work_id": 123041,
+  "work": {
+    "id": 123041,
+    "title": "初离陈寄孙户曹兄弟",
+    "title_tr": "初離陳寄孫戶曹兄弟",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三年流落寓于陈，一命青衫淮水滨。\n城北桥边长送别，扁丹今自作行人。",
+    "content_tr": "三年流落寓於陳，一命青衫淮水濱。\n城北橋邊長送別，扁丹今自作行人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

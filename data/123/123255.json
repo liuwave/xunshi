@@ -1,0 +1,18 @@
+{
+  "work_id": 123255,
+  "work": {
+    "id": 123255,
+    "title": "经丘台",
+    "title_tr": "經丘臺",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寻壑初不惮，经丘亦忘疲。\n人见崎岖处，不知心坦夷。",
+    "content_tr": "尋壑初不憚，經丘亦忘疲。\n人見崎嶇處，不知心坦夷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

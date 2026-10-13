@@ -1,0 +1,18 @@
+{
+  "work_id": 123045,
+  "work": {
+    "id": 123045,
+    "title": "西湖三首 其三",
+    "title_tr": "西湖三首 其三",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一曲清池柳岸风，长苗新稻短蒲茸。\n功名由命何须问，幸有沧浪作钓翁。",
+    "content_tr": "一曲清池柳岸風，長苗新稻短蒲茸。\n功名由命何須問，幸有滄浪作釣翁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

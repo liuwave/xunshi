@@ -1,0 +1,18 @@
+{
+  "work_id": 123653,
+  "work": {
+    "id": 123653,
+    "title": "蒲中杂咏进思阁",
+    "title_tr": "蒲中雜詠進思閣",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧生雅意定何哉，何复留情任剸裁。\n但把一杯无事酒，幕中年少尽长才。",
+    "content_tr": "蕭生雅意定何哉，何復留情任剸裁。\n但把一杯無事酒，幕中年少盡長才。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

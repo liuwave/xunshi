@@ -1,0 +1,18 @@
+{
+  "work_id": 123007,
+  "work": {
+    "id": 123007,
+    "title": "晚卧",
+    "title_tr": "晚卧",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日落烦暑退，秋晴河汉明。\n微云映天白，纤月过林清。\n独卧谁晤语，幽怀殊未平。\n萧萧夜深冷，皓露满前楹。",
+    "content_tr": "日落煩暑退，秋晴河漢明。\n微雲映天白，纖月過林清。\n獨卧誰晤語，幽懷殊未平。\n蕭蕭夜深冷，皓露滿前楹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

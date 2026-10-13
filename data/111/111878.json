@@ -1,0 +1,18 @@
+{
+  "work_id": 111878,
+  "work": {
+    "id": 111878,
+    "title": "五月闻莺二首",
+    "title_tr": "五月聞鶯二首",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桑阴净尽麦头齐，江上闻莺每岁迟。\n不及晓风鹎鵊子，迎春啼到送春时。",
+    "content_tr": "桑陰淨盡麥頭齊，江上聞鶯每歲遲。\n不及曉風鵯鵊子，迎春啼到送春時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

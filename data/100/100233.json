@@ -1,0 +1,18 @@
+{
+  "work_id": 100233,
+  "work": {
+    "id": 100233,
+    "title": "春词 其十六",
+    "title_tr": "春詞 其十六",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琐窗朱户无寒到，长似春光日日来。\n自是螽斯载风什，可烦箫磬祀高禖。",
+    "content_tr": "瑣窗朱戶無寒到，長似春光日日來。\n自是螽斯載風什，可煩簫磬祀高禖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

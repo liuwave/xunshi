@@ -1,0 +1,18 @@
+{
+  "work_id": 123725,
+  "work": {
+    "id": 123725,
+    "title": "蒲中杂咏 精思轩",
+    "title_tr": "蒲中雜詠 精思軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "穷年兀兀究遗编，圣处工夫也自贤。\n政苦齑盐食不足，诸生毋诮腹便便。",
+    "content_tr": "窮年兀兀究遺編，聖處工夫也自賢。\n政苦虀鹽食不足，諸生毋誚腹便便。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

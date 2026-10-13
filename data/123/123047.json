@@ -1,0 +1,18 @@
+{
+  "work_id": 123047,
+  "work": {
+    "id": 123047,
+    "title": "初离山阳 寄城中友人二首 其一",
+    "title_tr": "初離山陽 寄城中友人二首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "落月昏昏向水低，五更残烛一声鸡。\n祇应魂梦犹东去，从此扁舟日向西。",
+    "content_tr": "落月昏昏向水低，五更殘燭一聲雞。\n祇應魂夢猶東去，從此扁舟日向西。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

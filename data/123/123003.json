@@ -1,0 +1,18 @@
+{
+  "work_id": 123003,
+  "work": {
+    "id": 123003,
+    "title": "陋屋",
+    "title_tr": "陋屋",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "陋屋秋霖后，荒城落叶中。\n坏墙朝插菌，幽草昼闻蛩。\n岂是不浪出，直缘无奈慵。\n何劳求季主，吾自了穷通。",
+    "content_tr": "陋屋秋霖後，荒城落葉中。\n壞牆朝插菌，幽草晝聞蛩。\n豈是不浪出，直緣無奈慵。\n何勞求季主，吾自了窮通。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111935,
+  "work": {
+    "id": 111935,
+    "title": "邯郸驿",
+    "title_tr": "邯鄲驛",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长安大道走邯郸，倚瑟佳人怅望间。\n若见膻腥似今日，汉宫何用忆关山。",
+    "content_tr": "長安大道走邯鄲，倚瑟佳人悵望間。\n若見羶腥似今日，漢宮何用憶關山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

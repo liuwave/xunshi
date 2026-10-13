@@ -1,0 +1,18 @@
+{
+  "work_id": 100105,
+  "work": {
+    "id": 100105,
+    "title": "和孙守",
+    "title_tr": "和孫守",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "回首长城卧落霞，云开桂影过昏鸦。\n不须更要千红翠，醉眼灯前已乱花。",
+    "content_tr": "回首長城臥落霞，雲開桂影過昏鴉。\n不須更要千紅翠，醉眼燈前已亂花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

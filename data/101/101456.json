@@ -1,0 +1,18 @@
+{
+  "work_id": 101456,
+  "work": {
+    "id": 101456,
+    "title": "咏古二首 其二 （丁卯）",
+    "title_tr": "詠古二首 其二 （丁卯）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海内词章有定称，南来庾信北徐陵。\n谁知著作修文殿，物论翻归祖孝徵。",
+    "content_tr": "海内詞章有定稱，南來庾信北徐陵。\n誰知著作修文殿，物論翻歸祖孝徵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

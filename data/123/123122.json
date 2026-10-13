@@ -1,0 +1,18 @@
+{
+  "work_id": 123122,
+  "work": {
+    "id": 123122,
+    "title": "魏总干嘉父以果斋求诗为赋二章",
+    "title_tr": "魏總幹嘉父以果齋求詩爲賦二章",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "偶向斋名见一斑，其中蓄德尚多端。\n讲明自有安心要，出处还须中节看。\n持以赠君成我拙，归而求此有兄难。\n当年射策封章意，暴虎如由胆亦寒。",
+    "content_tr": "偶向齋名見一斑，其中蓄德尚多端。\n講明自有安心要，出處還須中節看。\n持以贈君成我拙，歸而求此有兄難。\n當年射策封章意，暴虎如由膽亦寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

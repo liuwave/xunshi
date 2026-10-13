@@ -1,0 +1,18 @@
+{
+  "work_id": 123745,
+  "work": {
+    "id": 123745,
+    "title": "蒲中杂咏 淙玉亭",
+    "title_tr": "蒲中雜詠 淙玉亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "跳珠溅雪满空岩，疏涤心灵爽气严。\n仿佛瑶台明月下，佩环声在水晶帘。",
+    "content_tr": "跳珠濺雪滿空巖，疏滌心靈爽氣嚴。\n彷彿瑶臺明月下，佩環聲在水晶簾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111212,
+  "work": {
+    "id": 111212,
+    "title": "楼上观山",
+    "title_tr": "樓上觀山",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "九陌黄尘没马头，人来人去几时休。\n谁家有酒身无事，长对青山不下楼。",
+    "content_tr": "九陌黃塵沒馬頭，人來人去幾時休。\n誰家有酒身無事，長對青山不下樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

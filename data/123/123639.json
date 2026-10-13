@@ -1,0 +1,18 @@
+{
+  "work_id": 123639,
+  "work": {
+    "id": 123639,
+    "title": "客舍重九",
+    "title_tr": "客舍重九",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "半月征衫困路尘，一樽芳酒谩情亲。\n心知不是陶彭泽，只恐黄花解笑人。",
+    "content_tr": "半月征衫困路塵，一樽芳酒謾情親。\n心知不是陶彭澤，只恐黃花解笑人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

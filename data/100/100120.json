@@ -1,0 +1,18 @@
+{
+  "work_id": 100120,
+  "work": {
+    "id": 100120,
+    "title": "雨中采石菖蒲",
+    "title_tr": "雨中採石菖蒲",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋云作伴更谁俱，颇惯登山不用扶。\n笑怪河阳种花手，杖藜破雨觅菖蒲。",
+    "content_tr": "秋雲作伴更誰俱，頗慣登山不用扶。\n笑怪河陽種花手，杖藜破雨覓菖蒲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

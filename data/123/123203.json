@@ -1,0 +1,18 @@
+{
+  "work_id": 123203,
+  "work": {
+    "id": 123203,
+    "title": "忆归口号",
+    "title_tr": "憶歸口號",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "初无警策骤惊人，亦不媕婀巧进身。\n每向经筵持正论，愿于国脉奖忠臣。\n昔从新政趋严召，今为衰年避要津。\n陛下果能行古道，虽闲犹是太平民。",
+    "content_tr": "初無警策驟驚人，亦不媕婀巧進身。\n每向經筵持正論，願於國脈獎忠臣。\n昔從新政趨嚴召，今爲衰年避要津。\n陛下果能行古道，雖閒猶是太平民。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

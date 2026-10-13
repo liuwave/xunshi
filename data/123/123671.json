@@ -1,0 +1,18 @@
+{
+  "work_id": 123671,
+  "work": {
+    "id": 123671,
+    "title": "独坐东轩",
+    "title_tr": "獨坐東軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云山环合户深关，中有幽人竟日闲。\n好在窗前数竿竹，与君相伴老山间。",
+    "content_tr": "雲山環合戶深關，中有幽人竟日閒。\n好在窗前數竿竹，與君相伴老山間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

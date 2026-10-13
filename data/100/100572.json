@@ -1,0 +1,18 @@
+{
+  "work_id": 100572,
+  "work": {
+    "id": 100572,
+    "title": "夜雨二首 其一",
+    "title_tr": "夜雨二首 其一",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "抱影无眠坐夜阑，窗风战雨下琅玕。\n我将好况供陪梦，只恐灯花不耐寒。",
+    "content_tr": "抱影無眠坐夜闌，窗風戰雨下琅玕。\n我將好況供陪夢，只恐燈花不耐寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

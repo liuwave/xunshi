@@ -1,0 +1,18 @@
+{
+  "work_id": 123764,
+  "work": {
+    "id": 123764,
+    "title": "蒲中杂咏 河西亭",
+    "title_tr": "蒲中雜詠 河西亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "波光山色雨溟蒙，粉雉红楼杳霭中。\n自是人间佳丽地，不须寻访水晶宫。",
+    "content_tr": "波光山色雨溟濛，粉雉紅樓杳靄中。\n自是人間佳麗地，不須尋訪水晶宫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

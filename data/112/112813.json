@@ -1,0 +1,18 @@
+{
+  "work_id": 112813,
+  "work": {
+    "id": 112813,
+    "title": "孟浩然墓",
+    "title_tr": "孟浩然墓",
+    "author": "罗隐",
+    "author_tr": "羅隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "数步荒榛接旧蹊，寒江漠漠草凄凄。\n鹿门黄土无多少，恰到书生冢便低。",
+    "content_tr": "數步荒榛接舊蹊，寒江漠漠草淒淒。\n鹿門黃土無多少，恰到書生塚便低。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

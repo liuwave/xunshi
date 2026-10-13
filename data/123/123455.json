@@ -1,0 +1,18 @@
+{
+  "work_id": 123455,
+  "work": {
+    "id": 123455,
+    "title": "贺曾帅得祠 其二",
+    "title_tr": "賀曾帥得祠 其二",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千骑丛中旧拥旄，丹心犹在鬓萧骚。\n汉庭重少冯唐老，晋士趋卑张翰高。\n静看棋枰争胜负，闲驰笔阵寄雄豪。\n抢榆击水公俱乐，却是旁人叹不遭。",
+    "content_tr": "千騎叢中舊擁旄，丹心猶在鬢蕭騷。\n漢庭重少馮唐老，晉士趨卑張翰高。\n靜看棋枰爭勝負，閑馳筆陣寄雄豪。\n搶榆擊水公俱樂，却是旁人嘆不遭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

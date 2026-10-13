@@ -1,0 +1,18 @@
+{
+  "work_id": 120102,
+  "work": {
+    "id": 120102,
+    "title": "道房六言一首",
+    "title_tr": "道房六言一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "懒白衣作宰相，宁黄冠事老君。\n试问读三万轴，何如诵五千文。",
+    "content_tr": "懶白衣作宰相，寧黃冠事老君。\n試問讀三萬軸，何如誦五千文。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

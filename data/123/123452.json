@@ -1,0 +1,18 @@
+{
+  "work_id": 123452,
+  "work": {
+    "id": 123452,
+    "title": "次陈上舍韵",
+    "title_tr": "次陳上舍韻",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "壮不封侯老背时，云山得意合忘归。\n思鱼不肯歌长铗，射虎犹堪著短衣。\n椽笔枉将修野史，阵图少试解棋围。\n元龙心事应如许，何日相逢语入微。",
+    "content_tr": "壯不封侯老背時，雲山得意合忘歸。\n思魚不肯歌長鋏，射虎猶堪著短衣。\n椽筆枉將修野史，陣圖少試解棋圍。\n元龍心事應如許，何日相逢語入微。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

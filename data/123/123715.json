@@ -1,0 +1,18 @@
+{
+  "work_id": 123715,
+  "work": {
+    "id": 123715,
+    "title": "蒲中杂咏 行庆关",
+    "title_tr": "蒲中雜詠 行慶關",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "振跸鸣銮万马环，悲歌应鄙汉楼船。\n关头老吏亲曾见，千丈荣光夜烛天。",
+    "content_tr": "振蹕鳴鑾萬馬環，悲歌應鄙漢樓船。\n關頭老吏親曾見，千丈榮光夜燭天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

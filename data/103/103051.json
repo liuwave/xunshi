@@ -1,0 +1,18 @@
+{
+  "work_id": 103051,
+  "work": {
+    "id": 103051,
+    "title": "仙人词",
+    "title_tr": "仙人詞",
+    "author": "刘基",
+    "author_tr": "劉基",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东海鲸鲵白昼游，南溟风浪涌吞舟。\n三山亦在沧波里，自是神仙未解愁。",
+    "content_tr": "東海鯨鯢白晝遊，南溟風浪涌吞舟。\n三山亦在滄波里，自是神仙未解愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

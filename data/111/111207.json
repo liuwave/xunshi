@@ -1,0 +1,18 @@
+{
+  "work_id": 111207,
+  "work": {
+    "id": 111207,
+    "title": "江南新体",
+    "title_tr": "江南新體",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郎船江下泊，妾家楼上住。\n朝朝暮暮间，上下两相顾。\n相顾不相亲，风波愁杀人。",
+    "content_tr": "郎船江下泊，妾家樓上住。\n朝朝暮暮間，上下兩相顧。\n相顧不相親，風波愁殺人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

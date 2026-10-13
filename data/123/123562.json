@@ -1,0 +1,18 @@
+{
+  "work_id": 123562,
+  "work": {
+    "id": 123562,
+    "title": "清明诗",
+    "title_tr": "清明詩",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乡书难附北归云，燕子犹寻旧主人。\n流水迢迢长念远，飞花糁糁又伤春。\n向来轩冕非吾意，何处园林托此身。\n只有长歌一樽酒，暮年风味最情亲。",
+    "content_tr": "鄉書難附北歸雲，燕子猶尋舊主人。\n流水迢迢長念遠，飛花糝糝又傷春。\n向來軒冕非吾意，何處園林託此身。\n只有長歌一樽酒，暮年風味最情親。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100418,
+  "work": {
+    "id": 100418,
+    "title": "长宵",
+    "title_tr": "長宵",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜月照人悄，迢迢夜未阑。\n鸳帏梦展转，珠泪向谁弹。",
+    "content_tr": "霜月照人悄，迢迢夜未闌。\n鴛幃夢展轉，珠淚向誰彈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

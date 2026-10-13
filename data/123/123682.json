@@ -1,0 +1,18 @@
+{
+  "work_id": 123682,
+  "work": {
+    "id": 123682,
+    "title": "山门栖岩寺",
+    "title_tr": "山門棲巖寺",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天边箭筈一门通，香隔云萝几万重。\n好借岩风为披拂，移文有语笑尘容。",
+    "content_tr": "天邊箭筈一門通，香隔雲蘿幾萬重。\n好借巖風爲披拂，移文有語笑塵容。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

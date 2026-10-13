@@ -1,0 +1,18 @@
+{
+  "work_id": 117567,
+  "work": {
+    "id": 117567,
+    "title": "读古诗",
+    "title_tr": "讀古詩",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲读古人诗，因看古人意。\n古今时虽殊，其意固无异。\n喜怒与哀乐，贫贱与富贵。\n惜哉情何物，使人能如是。",
+    "content_tr": "閒讀古人詩，因看古人意。\n古今時雖殊，其意固無異。\n喜怒與哀樂，貧賤與富貴。\n惜哉情何物，使人能如是。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

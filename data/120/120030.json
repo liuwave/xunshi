@@ -1,0 +1,18 @@
+{
+  "work_id": 120030,
+  "work": {
+    "id": 120030,
+    "title": "杂记五言十首",
+    "title_tr": "雜記五言十首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青牛先已去，白鹤久方归。\n若欲分优劣，老聃贤令威。",
+    "content_tr": "青牛先已去，白鶴久方歸。\n若欲分優劣，老聃賢令威。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

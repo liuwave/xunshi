@@ -1,0 +1,18 @@
+{
+  "work_id": 111951,
+  "work": {
+    "id": 111951,
+    "title": "扁鹊墓",
+    "title_tr": "扁鵲墓",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "活人绝技古今无，名下从教世俗趋。\n坟土尚堪充药饵，莫嗔医者例多卢。",
+    "content_tr": "活人絕技古今無，名下從教世俗趨。\n墳土尚堪充藥餌，莫嗔醫者例多盧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

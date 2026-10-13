@@ -1,0 +1,18 @@
+{
+  "work_id": 122336,
+  "work": {
+    "id": 122336,
+    "title": "赵弟",
+    "title_tr": "趙弟",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "男儿何用立奇勋，赵弟从军初不闻。\n但斩郁城侯万户，不须猿臂老将军。",
+    "content_tr": "男兒何用立奇勳，趙弟從軍初不聞。\n但斬鬱城侯萬戶，不須猿臂老將軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

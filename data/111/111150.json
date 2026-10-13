@@ -1,0 +1,18 @@
+{
+  "work_id": 111150,
+  "work": {
+    "id": 111150,
+    "title": "盱眙北望",
+    "title_tr": "盱眙北望",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北望茫茫渺渺间，鸟飞不尽又飞还。\n难禁满目中原泪，莫上都梁第一山。",
+    "content_tr": "北望茫茫渺渺間，鳥飛不盡又飛還。\n難禁滿目中原淚，莫上都樑第一山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 112223,
+  "work": {
+    "id": 112223,
+    "title": "和马少伊韵",
+    "title_tr": "和馬少伊韻",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "气压伊吾一剑鸣，风生铜柱百蛮惊。\n君家自有堂堂阵，我欲周旋恐曳兵。",
+    "content_tr": "氣壓伊吾一劍鳴，風生銅柱百蠻驚。\n君家自有堂堂陣，我欲周旋恐曳兵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

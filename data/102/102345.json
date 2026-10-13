@@ -1,0 +1,18 @@
+{
+  "work_id": 102345,
+  "work": {
+    "id": 102345,
+    "title": "雨后即事二首 其二 （丁亥）",
+    "title_tr": "雨後即事二首 其二 （丁亥）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一雨平林外，群山倚杖前。\n蛙声浮岸草，鸟影度江天。\n鸣磬上方寺，扬帆何处船。\n坐疑秋气近，萧瑟感流年。",
+    "content_tr": "一雨平林外，羣山倚杖前。\n蛙聲浮岸草，鳥影度江天。\n鳴磬上方寺，揚帆何處船。\n坐疑秋氣近，蕭瑟感流年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

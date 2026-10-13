@@ -1,0 +1,18 @@
+{
+  "work_id": 123451,
+  "work": {
+    "id": 123451,
+    "title": "送黄凝云归常州",
+    "title_tr": "送黄凝雲歸常州",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一住京华能几日，故山欲去值春寒。\n石坛经雨草生遍，庭果落阶鸟啄残。\n云表鹤声朝返佩，林间虹气夜开丹。\n仙家缩地寻常事，试与思归倦客看。",
+    "content_tr": "一住京華能幾日，故山欲去值春寒。\n石壇經雨草生遍，庭果落階鳥啄殘。\n雲表鶴聲朝返佩，林間虹氣夜開丹。\n僊家縮地尋常事，試與思歸倦客看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

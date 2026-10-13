@@ -1,0 +1,18 @@
+{
+  "work_id": 123871,
+  "work": {
+    "id": 123871,
+    "title": "宿鹤岩二绝",
+    "title_tr": "宿鶴巖二絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岩头一望万家低，已觉尘寰不整齐。\n此祗人间最高处，况游物外照群迷。",
+    "content_tr": "巖頭一望萬家低，已覺塵寰不整齊。\n此祗人間最高處，況遊物外照羣迷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

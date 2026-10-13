@@ -1,0 +1,18 @@
+{
+  "work_id": 113333,
+  "work": {
+    "id": 113333,
+    "title": "阻雨不出",
+    "title_tr": "阻雨不出",
+    "author": "吕本中",
+    "author_tr": "呂本中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "年来尘土住都城，尚见东行半月程。\n一夜北风三尺雨，卧闻车马溅泥声。",
+    "content_tr": "年來塵土住都城，尚見東行半月程。\n一夜北風三尺雨，臥聞車馬濺泥聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

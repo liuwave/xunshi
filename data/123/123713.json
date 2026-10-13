@@ -1,0 +1,18 @@
+{
+  "work_id": 123713,
+  "work": {
+    "id": 123713,
+    "title": "蒲中杂咏 此君亭",
+    "title_tr": "蒲中雜詠 此君亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "飘零谁复问平安，只得幽人冷眼看。\n流水空山云暮合，此君无乃太清寒。",
+    "content_tr": "飄零誰復問平安，只得幽人冷眼看。\n流水空山雲暮合，此君無乃太清寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

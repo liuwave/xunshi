@@ -1,0 +1,18 @@
+{
+  "work_id": 120099,
+  "work": {
+    "id": 120099,
+    "title": "匡人一首",
+    "title_tr": "匡人一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "匡人不识夫子，往往发其笥中。\n但有深衣古履，元无宝玉大弓。",
+    "content_tr": "匡人不識夫子，往往發其笥中。\n但有深衣古履，元無寶玉大弓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

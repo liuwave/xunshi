@@ -1,0 +1,18 @@
+{
+  "work_id": 100410,
+  "work": {
+    "id": 100410,
+    "title": "谩成其二",
+    "title_tr": "謾成其二",
+    "author": "周邦彦",
+    "author_tr": "周邦彥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河声连底卷黄沙，回首方惊去国赊。\n唯有客情无尽处，暗随春水涨桃花。",
+    "content_tr": "河聲連底卷黃沙，回首方驚去國賒。\n唯有客情無盡處，暗隨春水漲桃花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

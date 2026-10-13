@@ -1,0 +1,18 @@
+{
+  "work_id": 117711,
+  "work": {
+    "id": 117711,
+    "title": "听天吟",
+    "title_tr": "聽天吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上天生我，上天死我。\n一听于天，有何不可。",
+    "content_tr": "上天生我，上天死我。\n一聽於天，有何不可。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

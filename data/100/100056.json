@@ -1,0 +1,18 @@
+{
+  "work_id": 100056,
+  "work": {
+    "id": 100056,
+    "title": "寄远曲其一",
+    "title_tr": "寄逺曲其一",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泪尽愁难尽，燕归人未归。\n遥知君念妾，似妾忆君时。",
+    "content_tr": "淚盡愁難盡，燕歸人未歸。\n遙知君念妾，似妾憶君時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

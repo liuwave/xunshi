@@ -1,0 +1,18 @@
+{
+  "work_id": 123189,
+  "work": {
+    "id": 123189,
+    "title": "书彭仲诚诗卷后",
+    "title_tr": "書彭仲誠詩卷後",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惠养无他务，廉勤以自持。\n能宽三邑责，不为一州私。\n逮此来归日，还如始至时。\n士民难借寇，唯有召棠思。",
+    "content_tr": "惠養無他務，廉勤以自持。\n能寬三邑責，不爲一州私。\n逮此來歸日，還如始至時。\n士民難借寇，唯有召棠思。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

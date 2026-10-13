@@ -1,0 +1,18 @@
+{
+  "work_id": 123049,
+  "work": {
+    "id": 123049,
+    "title": "用刘梦得三题 其二",
+    "title_tr": "用劉夢得三題 其二",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春已暮，把酒送春归。\n花落鸣禽散，草长游客稀。\n去年堂上燕，故故傍人飞。",
+    "content_tr": "春已暮，把酒送春歸。\n花落鳴禽散，草長遊客稀。\n去年堂上燕，故故傍人飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

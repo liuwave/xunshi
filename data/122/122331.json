@@ -1,0 +1,18 @@
+{
+  "work_id": 122331,
+  "work": {
+    "id": 122331,
+    "title": "远思",
+    "title_tr": "遠思",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "袅袅霜风吹碧梧，孤城残角奏单于。\n山川浩荡愁千里，楼阁黄昏月一梳。",
+    "content_tr": "嫋嫋霜風吹碧梧，孤城殘角奏單于。\n山川浩蕩愁千里，樓閣黃昏月一梳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

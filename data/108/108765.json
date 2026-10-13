@@ -1,0 +1,18 @@
+{
+  "work_id": 108765,
+  "work": {
+    "id": 108765,
+    "title": "送红梅行之有诗和依其韵和",
+    "title_tr": "送紅梅行之有詩和依其韻和",
+    "author": "梅尧臣",
+    "author_tr": "梅堯臣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "缀缀红梅肥似蜡，蒙蒙飞雨洒如脂。\n吴郎齿软食不得，翻忆张公大谷梨。",
+    "content_tr": "綴綴紅梅肥似蠟，濛濛飛雨灑如脂。\n吳郎齒軟食不得，翻憶張公大谷梨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

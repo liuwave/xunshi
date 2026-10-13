@@ -1,0 +1,18 @@
+{
+  "work_id": 123472,
+  "work": {
+    "id": 123472,
+    "title": "山行 其一",
+    "title_tr": "山行 其一",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麦畦微雨过，日照青湿湿。\n牧童坐短蓑，牛卧寒鸦立。",
+    "content_tr": "麥畦微雨過，日照青濕濕。\n牧童坐短蓑，牛卧寒鴉立。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

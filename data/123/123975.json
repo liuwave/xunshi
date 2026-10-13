@@ -1,0 +1,18 @@
+{
+  "work_id": 123975,
+  "work": {
+    "id": 123975,
+    "title": "甲子春晴久三月晦得频雨喜而为二绝句",
+    "title_tr": "甲子春晴久三月晦得頻雨喜而爲二絕句",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春晚郁蒸如溽暑，朝来萧飒似清秋。\n千山雨后阴云凝，三日楼前野水流。",
+    "content_tr": "春晚鬱蒸如溽暑，朝來蕭颯似清秋。\n千山雨後陰雲凝，三日樓前野水流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

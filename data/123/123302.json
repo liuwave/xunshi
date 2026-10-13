@@ -1,0 +1,18 @@
+{
+  "work_id": 123302,
+  "work": {
+    "id": 123302,
+    "title": "泛舟萧公陂",
+    "title_tr": "泛舟蕭公陂",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山水绕青炉鞴红，花开絮乱春欲空。\n太白酌酒尘世外，小舟荡桨农事中。\n筑堤溉田十里同，居民举手称萧公。\n萧公有惠何时穷，十里穮蓘无凶丰。",
+    "content_tr": "山水遶青鑪鞴紅，花開絮亂春欲空。\n太白酌酒塵世外，小舟蕩槳農事中。\n築堤溉田十里同，居民舉手稱蕭公。\n蕭公有惠何時窮，十里穮蔉無凶豐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123515,
+  "work": {
+    "id": 123515,
+    "title": "题六画 少陵骑驴",
+    "title_tr": "題六畫 少陵騎馿",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "市桥日莫蹇驴嘶，双袖龙钟醉似泥。\n回首长安泪沾臆，落花何处杜鹃啼。",
+    "content_tr": "市橋日莫蹇馿嘶，雙袖龍鍾醉似泥。\n回首長安淚沾臆，落花何處杜鵑啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

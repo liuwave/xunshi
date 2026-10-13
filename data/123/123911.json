@@ -1,0 +1,18 @@
+{
+  "work_id": 123911,
+  "work": {
+    "id": 123911,
+    "title": "就寝",
+    "title_tr": "就寢",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜坐苍颜得酒红，困来头重触屏风。\n径趋布被灯花落，梦在春寒细雨中。",
+    "content_tr": "夜坐蒼顏得酒紅，困來頭重觸屏風。\n徑趨布被燈花落，夢在春寒細雨中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

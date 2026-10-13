@@ -1,0 +1,18 @@
+{
+  "work_id": 118000,
+  "work": {
+    "id": 118000,
+    "title": "暮景",
+    "title_tr": "暮景",
+    "author": "黄庚",
+    "author_tr": "黃庚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浮云开合晚风轻，白鸟飞边落照明。\n一曲彩虹横界断，南山雷雨北山晴。",
+    "content_tr": "浮雲開合晚風輕，白鳥飛邊落照明。\n一曲彩虹橫界斷，南山雷雨北山晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

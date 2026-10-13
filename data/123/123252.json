@@ -1,0 +1,18 @@
+{
+  "work_id": 123252,
+  "work": {
+    "id": 123252,
+    "title": "蜀海棠",
+    "title_tr": "蜀海棠",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西蜀佳人巧欲言，红酣犹带醉时魂。\n子规叫断黄昏后，却忆乡情染露痕。",
+    "content_tr": "西蜀佳人巧欲言，紅酣猶帶醉時魂。\n子規叫斷黃昏後，卻憶鄉情染露痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123118,
+  "work": {
+    "id": 123118,
+    "title": "再次仁季咏梅韵",
+    "title_tr": "再次仁季詠梅韻",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "衙官桃李列芳台，岂有凡花敢并梅。\n雅健巧妨群动息，参差能作数番开。\n争先照眼春无限，索笑关心日几回。\n莫道暗香非是雪，许多蜂蝶不知来。",
+    "content_tr": "衙官桃李列芳臺，豈有凡花敢並梅。\n雅健巧妨羣動息，參差能作數番開。\n爭先照眼春無限，索笑關心日幾回。\n莫道暗香非是雪，許多蜂蝶不知來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 120301,
+  "work": {
+    "id": 120301,
+    "title": "记颜六言三首 其一",
+    "title_tr": "記顔六言三首 其一",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谤之则丧家狗，誉之则人中龙。\n华发去周柱下，深衣立鲁门东。",
+    "content_tr": "謗之則喪家狗，譽之則人中龍。\n華髮去周柱下，深衣立魯門東。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

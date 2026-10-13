@@ -1,0 +1,18 @@
+{
+  "work_id": 100524,
+  "work": {
+    "id": 100524,
+    "title": "陆贾",
+    "title_tr": "陸賈",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉方扰扰袭秦风，勇士相高马上功。\n惟有君侯守奇节，能将新语悟宸衷。",
+    "content_tr": "漢方擾擾襲秦風，勇士相高馬上功。\n惟有君侯守奇節，能將新語悟宸衷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

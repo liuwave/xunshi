@@ -1,0 +1,18 @@
+{
+  "work_id": 123480,
+  "work": {
+    "id": 123480,
+    "title": "题雅上人手抄唐诗后",
+    "title_tr": "題雅上人手抄唐詩後",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天孙锦段冰蚕茧，太古盘铭苍颉文。\n三百年来消息绝，无人为酬杜陵坟。",
+    "content_tr": "天孫錦段冰蠶繭，太古盤銘蒼頡文。\n三百年來消息絕，無人爲酬杜陵墳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

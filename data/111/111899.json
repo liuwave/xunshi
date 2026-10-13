@@ -1,0 +1,18 @@
+{
+  "work_id": 111899,
+  "work": {
+    "id": 111899,
+    "title": "刈麦",
+    "title_tr": "刈麥",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麦头熟颗已如珠，小阨惟忧积雨馀。\n丐我一晴天易耳，十分终惠莫乘除。",
+    "content_tr": "麥頭熟顆已如珠，小阨惟憂積雨餘。\n丐我一晴天易耳，十分終惠莫乘除。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

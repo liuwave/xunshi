@@ -1,0 +1,18 @@
+{
+  "work_id": 121105,
+  "work": {
+    "id": 121105,
+    "title": "太祖永昌陵",
+    "title_tr": "太祖永昌陵",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石马开陵道，阴虬结庙阿。\n飞云似不去，疑误大风歌。",
+    "content_tr": "石馬開陵道，陰虯結廟阿。\n飛雲似不去，疑誤大風歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

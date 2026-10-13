@@ -1,0 +1,18 @@
+{
+  "work_id": 111818,
+  "work": {
+    "id": 111818,
+    "title": "白鹭亭",
+    "title_tr": "白鷺亭",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倦游客舍不胜闲，日日清江见倚阑。\n少待西风吹雨过，更从二水看淮山。",
+    "content_tr": "倦遊客舍不勝閒，日日清江見倚闌。\n少待西風吹雨過，更從二水看淮山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 120118,
+  "work": {
+    "id": 120118,
+    "title": "读韩信马援传一首",
+    "title_tr": "讀韓信馬援傳一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "伏波自托真主，淮阴愿为假王。\n病厌鸢飞鼓躁，晚悲鸟尽弓藏。",
+    "content_tr": "伏波自託真主，淮陰願爲假王。\n病厭鳶飛鼓躁，晚悲鳥盡弓藏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

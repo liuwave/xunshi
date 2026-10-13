@@ -1,0 +1,18 @@
+{
+  "work_id": 123733,
+  "work": {
+    "id": 123733,
+    "title": "酬赠黄倅",
+    "title_tr": "酬贈黄倅",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翰墨文章妙若神，风流谈笑绝纤尘。\n才华最盛东西蜀，闻望相高一二人。\n清夺峨眉千岁雪，丽如锦水万花春。\n我生不识东坡老，犹及颐庵见后身。",
+    "content_tr": "翰墨文章妙若神，風流談笑絕纖塵。\n才華最盛東西蜀，聞望相高一二人。\n清奪峨眉千歲雪，麗如錦水萬花春。\n我生不識東坡老，猶及頤庵見後身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

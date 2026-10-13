@@ -1,0 +1,18 @@
+{
+  "work_id": 111122,
+  "work": {
+    "id": 111122,
+    "title": "李敷文酌别席上口占",
+    "title_tr": "李敷文酌別席上口占",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客子明朝早问程，樽前今夜苦为情。\n使君亦恐伤离别，不使佳人唱渭城。",
+    "content_tr": "客子明朝早問程，樽前今夜苦爲情。\n使君亦恐傷離別，不使佳人唱渭城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

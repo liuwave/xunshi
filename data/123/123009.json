@@ -1,0 +1,18 @@
+{
+  "work_id": 123009,
+  "work": {
+    "id": 123009,
+    "title": "道旁花",
+    "title_tr": "道旁花",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长夏百草秀，道旁多野花。\n无名自红紫，有意占年华。\n灼灼照流水，斑斑上古槎。\n中原何日扫，将尔付泥沙。",
+    "content_tr": "長夏百草秀，道旁多野花。\n無名自紅紫，有意占年華。\n灼灼照流水，斑斑上古槎。\n中原何日掃，將爾付泥沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

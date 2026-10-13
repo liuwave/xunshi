@@ -1,0 +1,18 @@
+{
+  "work_id": 117424,
+  "work": {
+    "id": 117424,
+    "title": "商君吟",
+    "title_tr": "商君吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "商鞅得君持法处，赵良终日正言时。\n当其命令炎如火，车裂如何都不知。",
+    "content_tr": "商鞅得君持法處，趙良終日正言時。\n當其命令炎如火，車裂如何都不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

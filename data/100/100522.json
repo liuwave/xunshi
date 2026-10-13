@@ -1,0 +1,18 @@
+{
+  "work_id": 100522,
+  "work": {
+    "id": 100522,
+    "title": "闻鹊",
+    "title_tr": "聞鵲",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "墙头花外说新情，拔去闲愁著耳听。\n青鸟已承云信息，预先来报两三声。",
+    "content_tr": "牆頭花外說新情，拔去閒愁著耳聽。\n青鳥已承雲信息，預先來報兩三聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

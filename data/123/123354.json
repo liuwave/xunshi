@@ -1,0 +1,18 @@
+{
+  "work_id": 123354,
+  "work": {
+    "id": 123354,
+    "title": "山家夏日九首 其六",
+    "title_tr": "山家夏日九首 其六",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山人有敝庐，竹树近扶疏。\n傍岩开灶井，横涧引庭除。\n障子游仙画，屏风章草书。\n谁言非面俗，更欲赋《闲居》。",
+    "content_tr": "山人有敝庐，竹树近扶疏。\n傍岩开灶井，横涧引庭除。\n障子游仙画，屏风章草书。\n谁言非面俗，更欲赋《閒居》。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

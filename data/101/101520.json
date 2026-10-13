@@ -1,0 +1,18 @@
+{
+  "work_id": 101520,
+  "work": {
+    "id": 101520,
+    "title": "南镇春游词（辛丑）",
+    "title_tr": "南鎭春游詞（辛丑）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄衫白帢染缁尘，惆怅花时已暮春。\n总向越王城下住，扁舟须负五湖人。",
+    "content_tr": "黄衫白帢染緇塵，惆悵花時已暮春。\n緫向越王城下住，扁舟須負五湖人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

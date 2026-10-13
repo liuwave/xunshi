@@ -1,0 +1,18 @@
+{
+  "work_id": 123788,
+  "work": {
+    "id": 123788,
+    "title": "忆昨",
+    "title_tr": "憶昨",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昨少年日，家无斗粟藏。\n衔杯须径醉，得意必真狂。\n老去惟思睡，年来祗念乡。\n幽斋谁共语，看彻篆纹香。",
+    "content_tr": "憶昨少年日，家無鬥粟藏。\n銜杯須徑醉，得意必真狂。\n老去惟思睡，年來祗念鄉。\n幽齋誰共語，看徹篆紋香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

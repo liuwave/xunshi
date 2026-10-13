@@ -1,0 +1,18 @@
+{
+  "work_id": 123051,
+  "work": {
+    "id": 123051,
+    "title": "别钱筠甫三首 其二",
+    "title_tr": "別錢筠甫三首 其二",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春灯欲尽晓鸡啼，残月影中征马嘶。\n为语相逢不消喜，相逢终有道分离。",
+    "content_tr": "春燈欲盡曉雞啼，殘月影中征馬嘶。\n爲語相逢不消喜，相逢終有道分離。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111965,
+  "work": {
+    "id": 111965,
+    "title": "东坡祠堂",
+    "title_tr": "東坡祠堂",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "化原坊里尚黉堂，闻道苏仙有奉尝。\n想见当年行乐处，牙旗铁马照金章。",
+    "content_tr": "化原坊裏尚黌堂，聞道蘇仙有奉嘗。\n想見當年行樂處，牙旗鐵馬照金章。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

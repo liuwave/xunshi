@@ -1,0 +1,18 @@
+{
+  "work_id": 123148,
+  "work": {
+    "id": 123148,
+    "title": "雨后早行",
+    "title_tr": "雨後早行",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鼓钲攒点担先行，未报平安睡已惊。\n灯火避明天弄晓，鸟乌无乐雨悭晴。\n唤来野渡水新涨，饱得晨炊烟自横。\n驿使岭头无一信，笋舆咿轧强贪程。",
+    "content_tr": "鼓鉦攢點擔先行，未報平安睡已驚。\n燈火避明天弄曉，鳥烏無樂雨慳晴。\n喚來野渡水新漲，飽得晨炊煙自橫。\n驛使嶺頭無一信，筍輿咿軋強貪程。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

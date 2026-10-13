@@ -1,0 +1,18 @@
+{
+  "work_id": 123481,
+  "work": {
+    "id": 123481,
+    "title": "次曾都仓韵",
+    "title_tr": "次曾都倉韻",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "学问渊源汲绠深，逢时肯作子光喑。\n平泉旧圃多奇石，栗里闲居只素琴。\n终竟封侯凭燕颔，莫夸对客割牛心。\n向来谢傅游山伴，尚有白头支道林。",
+    "content_tr": "學問淵源汲綆深，逢時肯作子光瘖。\n平泉舊圃多奇石，栗里閑居只素琴。\n終竟封侯憑燕頷，莫誇對客割牛心。\n向來謝傅游山伴，尚有白頭支道林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

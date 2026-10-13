@@ -1,0 +1,18 @@
+{
+  "work_id": 123903,
+  "work": {
+    "id": 123903,
+    "title": "用立春韵和卖药周道人",
+    "title_tr": "用立春韻和賣藥周道人",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万金家信隔秋冬，欲往谁能化鸟工。\n迁客何为未幽死，直缘君有古人风。",
+    "content_tr": "萬金家信隔秋冬，欲往誰能化鳥工。\n遷客何爲未幽死，直緣君有古人風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

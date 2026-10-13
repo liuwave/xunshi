@@ -1,0 +1,18 @@
+{
+  "work_id": 100086,
+  "work": {
+    "id": 100086,
+    "title": "寄远曲其二",
+    "title_tr": "寄逺曲其二",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忧心不可写，天际望归舟。\n江长望不极，更上一层楼。",
+    "content_tr": "憂心不可冩，天際望歸舟。\n江長望不極，更上一層樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

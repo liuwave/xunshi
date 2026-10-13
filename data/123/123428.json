@@ -1,0 +1,18 @@
+{
+  "work_id": 123428,
+  "work": {
+    "id": 123428,
+    "title": "郊原",
+    "title_tr": "郊原",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郊原春过后，日日长新梢。\n洗竹去蛛网，疏松留鹤巢。\n云衣慵补缀，月户自推敲。\n旧种梅花树，吾今与汝交。",
+    "content_tr": "郊原春過後，日日長新梢。\n洗竹去蛛網，疎松留鶴巢。\n雲衣慵補綴，月戶自推敲。\n舊種梅花樹，吾今與汝交。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

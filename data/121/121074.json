@@ -1,0 +1,18 @@
+{
+  "work_id": 121074,
+  "work": {
+    "id": 121074,
+    "title": "舒雁",
+    "title_tr": "舒雁",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庄周悲杀雁，本为不能鸣。\n宁识山阴误，能鸣亦就烹。",
+    "content_tr": "莊周悲殺雁，本爲不能鳴。\n寧識山陰誤，能鳴亦就烹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

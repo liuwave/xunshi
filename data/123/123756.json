@@ -1,0 +1,18 @@
+{
+  "work_id": 123756,
+  "work": {
+    "id": 123756,
+    "title": "蒲中杂咏 王母观",
+    "title_tr": "蒲中雜詠 王母觀",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "月下何人唱步虚，如闻仙子好楼居。\n五云缥缈星河阁，肠断青鸾一纸书。",
+    "content_tr": "月下何人唱步虛，如聞仙子好樓居。\n五雲縹緲星河閣，腸斷青鸞一紙書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

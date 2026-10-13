@@ -1,0 +1,18 @@
+{
+  "work_id": 100265,
+  "work": {
+    "id": 100265,
+    "title": "春词 其一",
+    "title_tr": "春詞 其一",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春逐东风行地上，德随和气散寰区。\n圣人中正观天下，道本无言教已孚。",
+    "content_tr": "春逐東風行地上，德隨和氣散寰區。\n聖人中正觀天下，道本無言教已孚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

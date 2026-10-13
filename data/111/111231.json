@@ -1,0 +1,18 @@
+{
+  "work_id": 111231,
+  "work": {
+    "id": 111231,
+    "title": "寄沈庄可",
+    "title_tr": "寄沈莊可",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无山可种菊，强号菊山人。\n结得诸公好，吟成五字新。\n红尘时在路，白发未离贫。\n吾辈浑如此，天公似不仁。",
+    "content_tr": "無山可種菊，强號菊山人。\n結得諸公好，吟成五字新。\n紅塵時在路，白髮未離貧。\n吾輩渾如此，天公似不仁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123422,
+  "work": {
+    "id": 123422,
+    "title": "送颜主簿之怀安",
+    "title_tr": "送顔主簿之懷安",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古廨大江边，多闲少俸钱。\n凤栖仇览棘，虹贯米家船。\n心静佛三昧，时来官九迁。\n外台兼督府，幕下正须贤。",
+    "content_tr": "古廨大江邊，多閑少俸錢。\n鳳棲仇覽棘，虹貫米家船。\n心靜佛三昧，時來官九遷。\n外臺兼督府，幕下正須賢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

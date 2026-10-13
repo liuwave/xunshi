@@ -1,0 +1,18 @@
+{
+  "work_id": 111963,
+  "work": {
+    "id": 111963,
+    "title": "吊陈叔宝词",
+    "title_tr": "吊陳叔寶詞",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "赏心亭上再来游，烟月迷人独自愁。\n行到江边无去路，却随潮水过扬州。",
+    "content_tr": "賞心亭上再來遊，煙月迷人獨自愁。\n行到江邊無去路，卻隨潮水過揚州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

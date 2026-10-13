@@ -1,0 +1,18 @@
+{
+  "work_id": 111000,
+  "work": {
+    "id": 111000,
+    "title": "南康县用东坡留题韵",
+    "title_tr": "南康縣用東坡留題韻",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "镜中双鬓已非鸦，身在江湖心在家。\n道路飘零如柳絮，山川迤逦近梅花。\n客行有债频沽酒，老怕无眠戒饮茶。\n昨夜梦归沧海上，钓竿横插雁边沙。",
+    "content_tr": "鏡中雙鬢已非鴉，身在江湖心在家。\n道路飄零如柳絮，山川迤邐近梅花。\n客行有債頻沽酒，老怕無眠戒飲茶。\n昨夜夢歸滄海上，釣竿橫插雁邊沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

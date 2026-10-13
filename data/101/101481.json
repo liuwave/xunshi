@@ -1,0 +1,18 @@
+{
+  "work_id": 101481,
+  "work": {
+    "id": 101481,
+    "title": "明妃曲（乙巳）",
+    "title_tr": "明妃曲（乙巳）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上林消息断归鸿，记抱琵琶出汉宫。\n红颊近来憔悴尽，春风更逊画图中。",
+    "content_tr": "上林消息斷歸鴻，記抱琵琶岀漢宮。\n紅頰近來憔悴盡，春風更遜畫圖中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

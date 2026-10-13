@@ -1,0 +1,18 @@
+{
+  "work_id": 123131,
+  "work": {
+    "id": 123131,
+    "title": "送赵主簿",
+    "title_tr": "送趙主簿",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "新诗燕婉似花繁，好在鹓行接羽翰。\n一笑相逢江海客，三年犹老簿书官。\n见闻我阙犹干禄，矍铄君能欲据鞍。\n却似岑参寮友会，阳春一曲和皆难。",
+    "content_tr": "新詩燕婉似花繁，好在鵷行接羽翰。\n一笑相逢江海客，三年猶老簿書官。\n見聞我闕猶幹祿，矍鑠君能欲據鞍。\n卻似岑參寮友會，陽春一曲和皆難。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111771,
+  "work": {
+    "id": 111771,
+    "title": "金氏庵",
+    "title_tr": "金氏庵",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "醉墨题窗侧暮鸦，蔓藤缘壁走青蛇。\n春深有燕捎飞蝶，日暮无人扫落花。",
+    "content_tr": "醉墨題窗側暮鴉，蔓藤緣壁走青蛇。\n春深有燕捎飛蝶，日暮無人掃落花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

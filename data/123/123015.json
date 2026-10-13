@@ -1,0 +1,18 @@
+{
+  "work_id": 123015,
+  "work": {
+    "id": 123015,
+    "title": "舟行六绝 其三",
+    "title_tr": "舟行六絕 其三",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "落景秋云晚不开，天寒古岸野船回。\n初惊波面微澜起，已觉风前细雨来。",
+    "content_tr": "落景秋雲晚不開，天寒古岸野船回。\n初驚波面微瀾起，已覺風前細雨來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

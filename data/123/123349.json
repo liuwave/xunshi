@@ -1,0 +1,18 @@
+{
+  "work_id": 123349,
+  "work": {
+    "id": 123349,
+    "title": "过郑处士山庄二首 其二",
+    "title_tr": "过郑处士山庄二首 其二",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "僻处开三径，幽居无四邻。\n横文彪子褥，碎点鹿胎巾。\n断篱栖夜雉，荒砌起朝麇。\n薄暮东溪上，犹言在渭滨。",
+    "content_tr": "僻处开三径，幽居无四邻。\n横文彪子褥，碎点鹿胎巾。\n断篱栖夜雉，荒砌起朝麇。\n薄暮东溪上，犹言在渭滨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

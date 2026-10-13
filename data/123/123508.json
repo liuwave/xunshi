@@ -1,0 +1,18 @@
+{
+  "work_id": 123508,
+  "work": {
+    "id": 123508,
+    "title": "题四画 榴花竹石鹤",
+    "title_tr": "題四畫 榴花竹石鶴",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "剪翮花前老可哀，寄声鹰隼莫相猜。\n旧游赤壁君知不，曾伴坡仙作赋来。",
+    "content_tr": "剪翮花前老可哀，寄聲鷹隼莫相猜。\n舊游赤壁君知不，曾伴坡仙作賦來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

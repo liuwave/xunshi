@@ -1,0 +1,18 @@
+{
+  "work_id": 111906,
+  "work": {
+    "id": 111906,
+    "title": "明日复雨凉再用韵二首",
+    "title_tr": "明日復雨涼再用韻二首",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东山朝日澹冥蒙，一片云生万叠中。\n宿雨未苏焦卷尽，又烦箕井唤雷公。",
+    "content_tr": "東山朝日澹冥濛，一片雲生萬疊中。\n宿雨未蘇焦卷盡，又煩箕井喚雷公。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

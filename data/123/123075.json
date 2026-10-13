@@ -1,0 +1,18 @@
+{
+  "work_id": 123075,
+  "work": {
+    "id": 123075,
+    "title": "漫成七首 其一",
+    "title_tr": "漫成七首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "应敌诗才惭古人，牵情春色空闲身。\n铺排物色虽甘拙，消散闲愁亦有神。",
+    "content_tr": "應敵詩才慚古人，牽情春色空閒身。\n鋪排物色雖甘拙，消散閒愁亦有神。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

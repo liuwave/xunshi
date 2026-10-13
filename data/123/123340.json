@@ -1,0 +1,18 @@
+{
+  "work_id": 123340,
+  "work": {
+    "id": 123340,
+    "title": "山家夏日九首 其七",
+    "title_tr": "山家夏日九首 其七",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幽居枕广川，长望郁芊芊。\n北岩采樵路，东坡种药田。\n涧泉通院井，山气杂厨烟。\n向夕林庭旷，萧条鸣一弦。",
+    "content_tr": "幽居枕广川，长望郁芊芊。\n北岩采樵路，东坡种药田。\n涧泉通院井，山气杂厨烟。\n向夕林庭旷，萧条鸣一弦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

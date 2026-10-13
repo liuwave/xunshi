@@ -1,0 +1,18 @@
+{
+  "work_id": 123739,
+  "work": {
+    "id": 123739,
+    "title": "蒲中杂咏 必种轩",
+    "title_tr": "蒲中雜詠 必種軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "此君风度固萧然，谁解招邀到此轩。\n要识维摩真面目，支离瘦骨寂无言。",
+    "content_tr": "此君風度固蕭然，誰解招邀到此軒。\n要識維摩真面目，支離瘦骨寂無言。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100513,
+  "work": {
+    "id": 100513,
+    "title": "雪夜赓笔",
+    "title_tr": "雪夜賡筆",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜雪飞花似月明，交连寒影透门庭。\n只宜挟策临窗坐，免用辛勤更聚萤。",
+    "content_tr": "夜雪飛花似月明，交連寒影透門庭。\n只宜挾策臨窗坐，免用辛勤更聚螢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

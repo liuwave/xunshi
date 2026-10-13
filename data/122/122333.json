@@ -1,0 +1,18 @@
+{
+  "work_id": 122333,
+  "work": {
+    "id": 122333,
+    "title": "宛丘道中",
+    "title_tr": "宛丘道中",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日斜沙路马翩翩，故欲迎凉不着鞭。\n谁解多情似新月，伴人归去照人眠。",
+    "content_tr": "日斜沙路馬翩翩，故欲迎涼不著鞭。\n誰解多情似新月，伴人歸去照人眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

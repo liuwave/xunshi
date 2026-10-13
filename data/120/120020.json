@@ -1,0 +1,18 @@
+{
+  "work_id": 120020,
+  "work": {
+    "id": 120020,
+    "title": "杂咏七言十首",
+    "title_tr": "雜詠七言十首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "回仙轻举乘白鹤，太白大醉骑鲸鱼。\n纯湖飞过人不识，入海问讯今何如。",
+    "content_tr": "回仙輕舉乘白鶴，太白大醉騎鯨魚。\n純湖飛過人不識，入海問訊今何如。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

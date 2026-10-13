@@ -1,0 +1,18 @@
+{
+  "work_id": 123873,
+  "work": {
+    "id": 123873,
+    "title": "和潘仲严八绝春晴",
+    "title_tr": "和潘仲嚴八絕春晴",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青烟漠漠昼无人，垂柳遮凉不见尘。\n饮水曲肱眠细草，绝胜肉食坐车茵。",
+    "content_tr": "青煙漠漠晝無人，垂柳遮涼不見塵。\n飲水曲肱眠細草，絕勝肉食坐車茵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

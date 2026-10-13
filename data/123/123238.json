@@ -1,0 +1,18 @@
+{
+  "work_id": 123238,
+  "work": {
+    "id": 123238,
+    "title": "飘飘台",
+    "title_tr": "飄飄臺",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清风怒折腰，断送斜川归。\n吾今已归了，无用频吹衣。",
+    "content_tr": "清風怒折腰，斷送斜川歸。\n吾今已歸了，無用頻吹衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123004,
+  "work": {
+    "id": 123004,
+    "title": "舟中晓思",
+    "title_tr": "舟中曉思",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "树色未啼鸟，桨声初度航。\n客灯青映壁，城角冷吹霜。\n飘泊年来甚，羁游情易伤。\n年丰清颍尾，吾计亦差良。",
+    "content_tr": "樹色未啼鳥，槳聲初度航。\n客燈青映壁，城角冷吹霜。\n飄泊年來甚，羈游情易傷。\n年豐清潁尾，吾計亦差良。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

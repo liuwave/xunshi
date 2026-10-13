@@ -1,0 +1,18 @@
+{
+  "work_id": 124789,
+  "work": {
+    "id": 124789,
+    "title": "舟行望野烧",
+    "title_tr": "舟行望野燒",
+    "author": "张煌言",
+    "author_tr": "張煌言",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朔气偏萧瑟，千山落木声；\n征帆残烧外，隐隐见孤城。",
+    "content_tr": "朔氣偏蕭瑟，千山落木聲；\n征帆殘燒外，隱隱見孤城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

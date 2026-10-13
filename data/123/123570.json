@@ -1,0 +1,18 @@
+{
+  "work_id": 123570,
+  "work": {
+    "id": 123570,
+    "title": "登兰溪亭",
+    "title_tr": "登蘭溪亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帆落溪风转，山明雾雨收。\n登临本乘兴，惝恍却生愁。\n独雁竟安往，潜鱼不可求。\n何年定归计，复此过扁舟。",
+    "content_tr": "帆落溪風轉，山明霧雨收。\n登臨本乘興，惝恍卻生愁。\n獨雁竟安往，潛魚不可求。\n何年定歸計，復此過扁舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

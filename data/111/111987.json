@@ -1,0 +1,18 @@
+{
+  "work_id": 111987,
+  "work": {
+    "id": 111987,
+    "title": "罗江",
+    "title_tr": "羅江",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岭北初程分外贪，惊心犹自怯晴岚。\n如何花木湘江上，也有黄茅似岭南。",
+    "content_tr": "嶺北初程分外貪，驚心猶自怯晴嵐。\n如何花木湘江上，也有黃茅似嶺南。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

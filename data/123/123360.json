@@ -1,0 +1,18 @@
+{
+  "work_id": 123360,
+  "work": {
+    "id": 123360,
+    "title": "题画幛背",
+    "title_tr": "题画幛背",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云霞图幛子，山水画屏风。\n不应须对许，坐惯青溪中。",
+    "content_tr": "云霞图幛子，山水画屏风。\n不应须对许，坐惯青溪中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123506,
+  "work": {
+    "id": 123506,
+    "title": "少陵",
+    "title_tr": "少陵",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "少陵弦断无胶续，鸾凤巢高隔五云。\n老子一身都是胆，要倾东海取龙筋。",
+    "content_tr": "少陵絃斷無膠續，鸞鳳巢高隔五雲。\n老子一身都是膽，要傾東海取龍筋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

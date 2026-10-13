@@ -1,0 +1,18 @@
+{
+  "work_id": 100004,
+  "work": {
+    "id": 100004,
+    "title": "题段将军征羌图",
+    "title_tr": "題段將軍征羌圖",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西域都护多男儿，护羌校尉仍出师。\n生羌八种来寇塞，白剑欲接双龙飞。\n凡亭山上血漂杵，奢延泽中鬼应语。\n至今有花皆成丹，疑是当年血未干。",
+    "content_tr": "西域都䕶多男兒，䕶羌校尉仍出師。\n生羌八種來㓂塞，白劍欲接雙龍飛。\n凡亭山上血漂杵，奢延澤中鬼應語。\n至今有花皆成丹，疑是當年血未乾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

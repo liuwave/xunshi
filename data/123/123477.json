@@ -1,0 +1,18 @@
+{
+  "work_id": 123477,
+  "work": {
+    "id": 123477,
+    "title": "古意 其一",
+    "title_tr": "古意 其一",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "力耕野老嫌儿少，苦战将军羡级多。\n只道乱离人死尽，朱门日日买青娥。",
+    "content_tr": "力耕野老嫌兒少，苦戰將軍羨級多。\n祇道亂離人死盡，朱門日日買青娥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 111943,
+  "work": {
+    "id": 111943,
+    "title": "赵州石桥",
+    "title_tr": "趙州石橋",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石色如霜铁色新，洨河南北尚通津。\n不因再度皇华使，谁洗奚车塞马尘。",
+    "content_tr": "石色如霜鐵色新，洨河南北尚通津。\n不因再度皇華使，誰洗奚車塞馬塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

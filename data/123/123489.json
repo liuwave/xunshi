@@ -1,0 +1,18 @@
+{
+  "work_id": 123489,
+  "work": {
+    "id": 123489,
+    "title": "送傅提干",
+    "title_tr": "送傅提幹",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渡江诸老尽兰荪，当日琳琅照一门。\n龙去难寻神剑迹，鹤归犹记旧巢痕。\n百年阀阅须关念，五里松楸易断魂。\n京浙故人无恙不，相逢记为问寒温。",
+    "content_tr": "渡江諸老盡蘭蓀，當日琳琅照一門。\n龍去難尋神劍迹，鶴歸猶記舊巢痕。\n百年閥閲須關念，五里松楸易斷魂。\n京浙故人無恙不，相逢記爲問寒溫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

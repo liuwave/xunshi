@@ -1,0 +1,18 @@
+{
+  "work_id": 111343,
+  "work": {
+    "id": 111343,
+    "title": "读庾信集",
+    "title_tr": "讀庾信集",
+    "author": "崔涂",
+    "author_tr": "崔塗",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "四朝十帝尽风流，建业长安两醉游。\n惟有一篇杨柳曲，江南江北为君愁。",
+    "content_tr": "四朝十帝盡風流，建業長安兩醉游。\n惟有一篇楊柳曲，江南江北爲君愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123758,
+  "work": {
+    "id": 123758,
+    "title": "再用前韵 其二",
+    "title_tr": "再用前韻 其二",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一枝枝自寄深林，何得翻然着意深。\n塞上亦知无马失，江边谁问有舟沉。\n烦君烂漫千钟酒，慰我登临一寸心。\n醉后狂歌歌更切，未应愁减越人吟。",
+    "content_tr": "一枝枝自寄深林，何得飜然著意深。\n塞上亦知無馬失，江邉誰問有舟沉。\n煩君爛漫千鍾酒，慰我登臨一寸心。\n醉後狂歌歌更切，未應愁減越人吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

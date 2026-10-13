@@ -1,0 +1,18 @@
+{
+  "work_id": 123965,
+  "work": {
+    "id": 123965,
+    "title": "次桐庐",
+    "title_tr": "次桐廬",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "回舟逆水甚徐徐，尚距桐江百里馀。\n只有梦魂无阻碍，夜来先已到吾庐。",
+    "content_tr": "回舟逆水甚徐徐，尚距桐江百里餘。\n只有夢魂無阻礙，夜來先已到吾廬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

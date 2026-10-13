@@ -1,0 +1,18 @@
+{
+  "work_id": 111813,
+  "work": {
+    "id": 111813,
+    "title": "泉亭",
+    "title_tr": "泉亭",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "收拾风烟锁翠微，乱山穷处结岩扉。\n青天不尽鸟飞尽，吴楚川原似衲衣。",
+    "content_tr": "收拾風煙鎖翠微，亂山窮處結巖扉。\n青天不盡鳥飛盡，吳楚川原似衲衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

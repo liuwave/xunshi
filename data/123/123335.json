@@ -1,0 +1,18 @@
+{
+  "work_id": 123335,
+  "work": {
+    "id": 123335,
+    "title": "薛端明挽章三首 其二",
+    "title_tr": "薛端明挽章三首 其二",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谏诤严凝地，论思咫尺天。\n直弦宜问俗，曲突却临边。\n儒道终期用，皇威可得宣。\n视仪虽两地，难到玉阶前。",
+    "content_tr": "諫諍嚴凝地，論思咫尺天。\n直弦宜問俗，曲突却臨邊。\n儒道終期用，皇威可得宣。\n視儀雖兩地，難到玉階前。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

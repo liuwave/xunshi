@@ -1,0 +1,18 @@
+{
+  "work_id": 123882,
+  "work": {
+    "id": 123882,
+    "title": "栽竹种红蕉后数日阻雨不见赋小诗",
+    "title_tr": "栽竹種紅蕉後數日阻雨不見賦小詩",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瘦竹犯寒扶直节，蕉花垂老抱丹心。\n小园半月隔风雨，搔首相望空苦吟。",
+    "content_tr": "瘦竹犯寒扶直節，蕉花垂老抱丹心。\n小園半月隔風雨，搔首相望空苦吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123513,
+  "work": {
+    "id": 123513,
+    "title": "题六画 东坡",
+    "title_tr": "題六畫 東坡",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天津桥上听啼鹃，从此南人弄相权。\n多少衣冠落沙漠，朱崖宜著玉堂仙。",
+    "content_tr": "天津橋上聽啼鵑，從此南人弄相權。\n多少衣冠落沙漠，朱崖宜著玉堂仙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

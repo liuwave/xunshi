@@ -1,0 +1,18 @@
+{
+  "work_id": 123635,
+  "work": {
+    "id": 123635,
+    "title": "蒲中杂咏颁乐堂",
+    "title_tr": "蒲中雜詠頒樂堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "堂上新音锡燕开，坐收和气入樽罍。\n已应倦听渔阳掺，客右不无鹦鹉才。",
+    "content_tr": "堂上新音錫燕開，坐收和氣入樽罍。\n已應倦聽漁陽摻，客右不無鸚鵡才。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

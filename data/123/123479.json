@@ -1,0 +1,18 @@
+{
+  "work_id": 123479,
+  "work": {
+    "id": 123479,
+    "title": "送林南恩入京",
+    "title_tr": "送林南恩入京",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曩赋登楼望故乡，边淮十丈战尘黄。\n已闻淝水返朱序，亦说汉庭怜孝章。\n千载青编如属国，一麾白发出炎荒。\n山林朝市终殊路，只待除书慰别肠。",
+    "content_tr": "曩賦登樓望故鄉，邊淮十丈戰塵黄。\n已聞淝水返朱序，亦說漢庭憐孝章。\n千載青編如屬國，一麾白髮出炎荒。\n山林朝市終殊路，只待除書慰別腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

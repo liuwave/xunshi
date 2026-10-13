@@ -1,0 +1,18 @@
+{
+  "work_id": 123902,
+  "work": {
+    "id": 123902,
+    "title": "石希孟寄示赋论甚佳有未尽善处辄为涂改因成小诗寄之",
+    "title_tr": "石希孟寄示賦論甚佳有未盡善處輒爲塗改因成小詩寄之",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寄我雄文丽且新，冰寒于水岂无因。\n故将丹粉画西子，要见浓涂淡墨人。",
+    "content_tr": "寄我雄文麗且新，冰寒於水豈無因。\n故將丹粉畫西子，要見濃塗淡墨人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

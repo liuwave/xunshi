@@ -1,0 +1,18 @@
+{
+  "work_id": 123130,
+  "work": {
+    "id": 123130,
+    "title": "赵知宗挽诗三首",
+    "title_tr": "趙知宗輓詩三首",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "壮日民师帅，中年国典刑。\n六分名郡竹，两粲使华星。\n彩戏方娱侍，丹旌忽篆铭。\n空馀泉一滴，万古叹清泠。",
+    "content_tr": "壯日民師帥，中年國典刑。\n六分名郡竹，兩粲使華星。\n綵戲方娛侍，丹旌忽篆銘。\n空餘泉一滴，萬古嘆清泠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

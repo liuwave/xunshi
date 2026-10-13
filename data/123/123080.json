@@ -1,0 +1,18 @@
+{
+  "work_id": 123080,
+  "work": {
+    "id": 123080,
+    "title": "送十三郎赴尉汉阳二首",
+    "title_tr": "送十三郎赴尉漢陽二首",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宦路今如此，亲闱望已深。\n是谁门户责，慰我父兄心。\n镜里休频看，杯中但浅斟。\n前贤官业处，端的要追寻。",
+    "content_tr": "宦路今如此，親闈望已深。\n是誰門戶責，慰我父兄心。\n鏡裏休頻看，杯中但淺斟。\n前賢官業處，端的要追尋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123258,
+  "work": {
+    "id": 123258,
+    "title": "次韵蔡元简麒湖庄之句",
+    "title_tr": "次韻蔡元簡麒湖莊之句",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡本惮牺先断尾，燕粗能巢聊葺垒。\n漫郎无用却归来，得熟道傍真苦李。\n谁家买田绿当户，何人种花红照水。\n君诗读罢已忘机，扑漉沙鸥随处起。",
+    "content_tr": "雞本憚犧先斷尾，燕粗能巢聊葺壘。\n漫郎無用卻歸來，得熟道傍真苦李。\n誰家買田綠當戶，何人種花紅照水。\n君詩讀罷已忘機，撲漉沙鷗隨處起。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 120072,
+  "work": {
+    "id": 120072,
+    "title": "醉醒一首",
+    "title_tr": "醉醒一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "醉梦发于真性，醒狂或者矫情。\n左相饮如川吸，龙图笑比河清。",
+    "content_tr": "醉夢發於真性，醒狂或者矯情。\n左相飲如川吸，龍圖笑比河清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

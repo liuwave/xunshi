@@ -1,0 +1,18 @@
+{
+  "work_id": 123497,
+  "work": {
+    "id": 123497,
+    "title": "题六画 渊明",
+    "title_tr": "題六畫 淵明",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寄奴开国势龙骧，转眼更齐又换梁。\n惟有先生赋归去，至今犹是晋文章。",
+    "content_tr": "寄奴開國勢龍驤，轉眼更齊又換梁。\n惟有先生賦歸去，至今猶是晉文章。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

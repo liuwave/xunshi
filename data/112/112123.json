@@ -1,0 +1,18 @@
+{
+  "work_id": 112123,
+  "work": {
+    "id": 112123,
+    "title": "赠寿老",
+    "title_tr": "贈壽老",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "农圃规模昔共论，云奎卜筑又逢君。\n眉庵寿老长随喜，好个抛梁伏愿文。",
+    "content_tr": "農圃規模昔共論，雲奎卜築又逢君。\n眉庵壽老長隨喜，好個拋樑伏願文。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

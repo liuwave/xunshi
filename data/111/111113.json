@@ -1,0 +1,18 @@
+{
+  "work_id": 111113,
+  "work": {
+    "id": 111113,
+    "title": "观捕黄雀",
+    "title_tr": "觀捕黃雀",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "披绵争啄晚禾秋，决起森然网扼喉。\n一饱等闲输性命，知机万不及沙鸥。",
+    "content_tr": "披綿爭啄晚禾秋，決起森然網扼喉。\n一飽等閒輸性命，知機萬不及沙鷗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

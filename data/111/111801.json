@@ -1,0 +1,18 @@
+{
+  "work_id": 111801,
+  "work": {
+    "id": 111801,
+    "title": "胥口",
+    "title_tr": "胥口",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扁舟拍浪信西东，何处孤帆万里风。\n一雨快晴云放树，两山中断水粘空。",
+    "content_tr": "扁舟拍浪信西東，何處孤帆萬里風。\n一雨快晴雲放樹，兩山中斷水粘空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

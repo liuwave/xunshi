@@ -1,0 +1,18 @@
+{
+  "work_id": 123018,
+  "work": {
+    "id": 123018,
+    "title": "病起登叠嶂楼",
+    "title_tr": "病起登疊嶂樓",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "病来久不上层台，窗有蜘蛛径有苔。\n多少山茶梅子树，未开齐待主人来。",
+    "content_tr": "病來久不上層臺，窗有蜘蛛逕有苔。\n多少山茶梅子樹，未開齊待主人來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123126,
+  "work": {
+    "id": 123126,
+    "title": "戏集少陵句",
+    "title_tr": "戲集少陵句",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山晚浮云合，天寒鸧鸹呼。\n世人共卤莽，行路日荒芜。\n衰谢身何补，低垂气不苏。\n所过凭问讯，似欲慰穷途。",
+    "content_tr": "山晚浮雲合，天寒鶬鴰呼。\n世人共鹵莽，行路日荒蕪。\n衰謝身何補，低垂氣不蘇。\n所過憑問訊，似欲慰窮途。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

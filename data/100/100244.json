@@ -1,0 +1,18 @@
+{
+  "work_id": 100244,
+  "work": {
+    "id": 100244,
+    "title": "春晓 其二",
+    "title_tr": "春曉 其二",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酴醾春晓与谁芳，自是新来雨露香。\n燕子觅巢终软媚，杨花满路尚颠忙。",
+    "content_tr": "酴醾春曉與誰芳，自是新來雨露香。\n燕子覓巢終軟媚，楊花滿路尚顛忙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

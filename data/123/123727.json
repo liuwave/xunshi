@@ -1,0 +1,18 @@
+{
+  "work_id": 123727,
+  "work": {
+    "id": 123727,
+    "title": "蒲中杂咏 临川亭",
+    "title_tr": "蒲中雜詠 臨川亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卷落银潢天汉涯，坐观河伯势雄夸。\n游人不识支机石，拟向津梁问客槎。",
+    "content_tr": "卷落銀潢天漢涯，坐觀河伯勢雄誇。\n游人不識支機石，擬向津梁問客槎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

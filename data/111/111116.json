@@ -1,0 +1,18 @@
+{
+  "work_id": 111116,
+  "work": {
+    "id": 111116,
+    "title": "钟春伯园林",
+    "title_tr": "鍾春伯園林",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西风吹起莼鲈兴，八座归来有此山。\n林麓两峰亭榭外，潇湘一片水云间。\n天生景物四时好，人满乾坤几个闲。\n语唤石屏非浪语，常思蜡屐共跻攀。",
+    "content_tr": "西風吹起蓴鱸興，八座歸來有此山。\n林麓兩峯亭榭外，瀟湘一片水雲間。\n天生景物四時好，人滿乾坤幾個閒。\n語喚石屏非浪語，常思蠟屐共躋攀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

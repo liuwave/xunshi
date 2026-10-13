@@ -1,0 +1,18 @@
+{
+  "work_id": 100570,
+  "work": {
+    "id": 100570,
+    "title": "雨中写怀",
+    "title_tr": "雨中寫懷",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风吹雨苦生寒，悭涩春光不放宽。\n万紫千红浑未见，闲愁先占许多般。",
+    "content_tr": "東風吹雨苦生寒，慳澀春光不放寬。\n萬紫千紅渾未見，閑愁先占許多般。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

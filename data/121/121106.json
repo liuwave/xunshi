@@ -1,0 +1,18 @@
+{
+  "work_id": 121106,
+  "work": {
+    "id": 121106,
+    "title": "古来吟",
+    "title_tr": "古來吟",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古来韦与杜，阀阅冠当年。\n今日城南问，惟馀尺五天。",
+    "content_tr": "古來韋與杜，閥閱冠當年。\n今日城南問，惟餘尺五天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

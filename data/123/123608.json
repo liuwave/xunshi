@@ -1,0 +1,18 @@
+{
+  "work_id": 123608,
+  "work": {
+    "id": 123608,
+    "title": "定海路中观梅",
+    "title_tr": "定海路中觀梅",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "傅粉生香作意开，柔情似欲挽人回。\n犹怜行役匆匆去，不是寻芳得得来。\n姑射山头若冰雪，谢家林下绝尘埃。\n空江月落东风冷，谁并孤舟一笛哀。",
+    "content_tr": "傅粉生香作意開，柔情似欲挽人回。\n猶憐行役匆匆去，不是尋芳得得來。\n姑射山頭若冰雪，謝家林下絕塵埃。\n空江月落東風冷，誰並孤舟一笛哀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 106063,
+  "work": {
+    "id": 106063,
+    "title": "琴曲歌辞 司马相如琴歌",
+    "title_tr": "琴曲歌辭 司馬相如琴歌",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凤兮凤兮非无凰，山重水阔不可量。\n梧桐结阴在朝阳，濯羽弱水鸣高翔。",
+    "content_tr": "鳳兮鳳兮非無凰，山重水闊不可量。\n梧桐結陰在朝陽，濯羽弱水鳴高翔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

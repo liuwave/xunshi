@@ -1,0 +1,18 @@
+{
+  "work_id": 120111,
+  "work": {
+    "id": 120111,
+    "title": "湘江一首",
+    "title_tr": "湘江一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "屈贾死将千载，刘君来泛湘江。\n沽酒偶留村店，看山不掩船窗。",
+    "content_tr": "屈賈死將千載，劉君來泛湘江。\n沽酒偶留村店，看山不掩船窗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

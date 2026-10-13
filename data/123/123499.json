@@ -1,0 +1,18 @@
+{
+  "work_id": 123499,
+  "work": {
+    "id": 123499,
+    "title": "春日湖上 其一",
+    "title_tr": "春日湖上 其一",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "燕外游丝暖欲迷，酒船吹笛水亭西。\n梨花吟苴桃花笑，恼杀春光醉似泥。",
+    "content_tr": "燕外遊絲暖欲迷，酒船吹笛水亭西。\n梨花唫苴桃花笑，惱殺春光醉似泥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

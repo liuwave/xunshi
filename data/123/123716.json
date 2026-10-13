@@ -1,0 +1,18 @@
+{
+  "work_id": 123716,
+  "work": {
+    "id": 123716,
+    "title": "蒲中杂咏 铁佛寺",
+    "title_tr": "蒲中雜詠 鐡佛寺",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "波面香风落磬声，夕阳楼殿更分明。\n蓬莱弱水端难到，聊与人间作化城。",
+    "content_tr": "波面香風落磬聲，夕陽樓殿更分明。\n蓬萊弱水端難到，聊與人間作化城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

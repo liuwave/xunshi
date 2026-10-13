@@ -1,0 +1,18 @@
+{
+  "work_id": 120262,
+  "work": {
+    "id": 120262,
+    "title": "卧雪图",
+    "title_tr": "卧雪圖",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冻合千门闭，传呼一市惊。\n岂无僵卧者，辇毂未知名。",
+    "content_tr": "凍合千門閉，傳呼一市驚。\n豈無僵卧者，輦轂未知名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

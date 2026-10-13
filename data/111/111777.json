@@ -1,0 +1,18 @@
+{
+  "work_id": 111777,
+  "work": {
+    "id": 111777,
+    "title": "题赵昌木瓜花",
+    "title_tr": "題趙昌木瓜花",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风魏瓠实，春雨燕脂花。\n彩笔不可写，滴露匀朝霞。",
+    "content_tr": "秋風魏瓠實，春雨燕脂花。\n綵筆不可寫，滴露勻朝霞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

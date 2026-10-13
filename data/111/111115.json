@@ -1,0 +1,18 @@
+{
+  "work_id": 111115,
+  "work": {
+    "id": 111115,
+    "title": "林伯仁话别二绝",
+    "title_tr": "林伯仁話別二絕",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茉莉花边把酒卮，桄榔树下共谈诗。\n醉来一枕西窗下，酒醒方知有别离。",
+    "content_tr": "茉莉花邊把酒卮，桄榔樹下共談詩。\n醉來一枕西窗下，酒醒方知有別離。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

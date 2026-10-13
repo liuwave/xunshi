@@ -1,0 +1,18 @@
+{
+  "work_id": 103250,
+  "work": {
+    "id": 103250,
+    "title": "沧浪观鱼",
+    "title_tr": "滄浪觀魚",
+    "author": "苏舜钦",
+    "author_tr": "蘇舜欽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瑟瑟清波见戏鳞，浮沉追逐巧相亲。\n我嗟不及群鱼乐，虚作人间半世人。",
+    "content_tr": "瑟瑟清波見戲鱗，浮沈追逐巧相親。\n我嗟不及羣魚樂，虛作人間半世人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

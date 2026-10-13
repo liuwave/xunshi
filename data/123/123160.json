@@ -1,0 +1,18 @@
+{
+  "work_id": 123160,
+  "work": {
+    "id": 123160,
+    "title": "迎寺丞舅归舟",
+    "title_tr": "迎寺丞舅歸舟",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桂林使者赤松人，争得匡庐自在身。\n蝉蜕一官惊俗子，鹳鸣双橹压江神。\n人生到此方为乐，世路新来可具陈。\n开尽朱门无锁钥，满城桃李万家春。",
+    "content_tr": "桂林使者赤松人，爭得匡廬自在身。\n蟬蛻一官驚俗子，鸛鳴雙櫓壓江神。\n人生到此方爲樂，世路新來可具陳。\n開盡朱門無鎖鑰，滿城桃李萬家春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

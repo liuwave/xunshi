@@ -1,0 +1,18 @@
+{
+  "work_id": 123058,
+  "work": {
+    "id": 123058,
+    "title": "旱池",
+    "title_tr": "旱池",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "藕梢菱蔓绿才深，日射游鱼聚岸阴。\n呴沫已知为计尽，渚鸥沙鹭亦何心。",
+    "content_tr": "藕梢菱蔓綠纔深，日射遊鱼聚岸陰。\n呴沫已知爲計盡，渚鷗沙鷺亦何心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

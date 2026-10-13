@@ -1,0 +1,18 @@
+{
+  "work_id": 100023,
+  "work": {
+    "id": 100023,
+    "title": "题玄麓山八景 其一 桃花涧",
+    "title_tr": "題玄麓山八景 其一 桃花澗",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃花满灵涧，树老不计春。\n白云如可问，为觅种桃人。",
+    "content_tr": "桃花滿靈澗，樹老不計春。\n白雲如可問，為覔種桃人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

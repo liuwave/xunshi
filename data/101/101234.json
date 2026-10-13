@@ -1,0 +1,18 @@
+{
+  "work_id": 101234,
+  "work": {
+    "id": 101234,
+    "title": "东湖曲八首 其八 （庚辰）",
+    "title_tr": "東湖曲八首 其八 （庚辰）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夹岸笆篱麂眼粗，近船花草锦茵铺。\n湖边渐少闲田地，堤上宜添卖酒垆。",
+    "content_tr": "夾岸笆籬麂眼麁，近船花草錦茵鋪。\n湖邊漸少閒田地，隄上宜添賣酒壚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

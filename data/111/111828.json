@@ -1,0 +1,18 @@
+{
+  "work_id": 111828,
+  "work": {
+    "id": 111828,
+    "title": "月夜泛舟新塘",
+    "title_tr": "月夜泛舟新塘",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "溪上清风柳万重，绿烟无路月朦胧。\n船头忽逐回塘转，一水迢迢却向东。",
+    "content_tr": "溪上清風柳萬重，綠煙無路月朦朧。\n船頭忽逐回塘轉，一水迢迢卻向東。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

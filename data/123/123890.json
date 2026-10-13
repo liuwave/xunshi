@@ -1,0 +1,18 @@
+{
+  "work_id": 123890,
+  "work": {
+    "id": 123890,
+    "title": "和元章春风三绝",
+    "title_tr": "和元章春風三絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一扫园林寂寂空，抱枝蝴蝶尚寻红。\n摧残老物无人惜，不比穷秋九月风。",
+    "content_tr": "一掃園林寂寂空，抱枝蝴蝶尚尋紅。\n摧殘老物無人惜，不比窮秋九月風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

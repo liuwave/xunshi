@@ -1,0 +1,18 @@
+{
+  "work_id": 106009,
+  "work": {
+    "id": 106009,
+    "title": "华清宫四首 其二",
+    "title_tr": "華清宮四首 其二",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天阙沈沈夜未央，碧云仙曲舞霓裳。\n一声玉笛向空尽，月满骊山宫漏长。",
+    "content_tr": "天闕沈沈夜未央，碧雲仙曲舞霓裳。\n一聲玉笛向空盡，月滿驪山宮漏長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 122314,
+  "work": {
+    "id": 122314,
+    "title": "李广",
+    "title_tr": "李廣",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "李广才非卫霍俦，孝文能鉴不能收。\n君王未是忘征战，何待高皇万户侯。",
+    "content_tr": "李廣才非衛霍儔，孝文能鑑不能收。\n君王未是忘征戰，何待高皇萬戶侯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

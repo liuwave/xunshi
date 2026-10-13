@@ -1,0 +1,18 @@
+{
+  "work_id": 123631,
+  "work": {
+    "id": 123631,
+    "title": "蒲中杂咏白楼",
+    "title_tr": "蒲中雜詠白樓",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寸断吟肠柰此何，临高怀远足悲歌。\n若教尽写凄凉意，东阁郎君语更多。",
+    "content_tr": "寸斷吟腸柰此何，臨高懷遠足悲歌。\n若教盡寫淒涼意，東閣郎君語更多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

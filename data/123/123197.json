@@ -1,0 +1,18 @@
+{
+  "work_id": 123197,
+  "work": {
+    "id": 123197,
+    "title": "送赵侍郎被召",
+    "title_tr": "送趙侍郎被召",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "大纛高牙古帅垣，甘泉人物帝王孙。\n文如贺白尤寒素，政似龚黄更本原。\n岁课未书先报政，诏封频趣定调元。\n欲知惠爱今多少，水满长川月满村。",
+    "content_tr": "大纛高牙古帥垣，甘泉人物帝王孫。\n文如賀白尤寒素，政似龔黃更本原。\n歲課未書先報政，詔封頻趣定調元。\n欲知惠愛今多少，水滿長川月滿村。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

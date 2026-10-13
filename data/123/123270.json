@@ -1,0 +1,18 @@
+{
+  "work_id": 123270,
+  "work": {
+    "id": 123270,
+    "title": "赠别徐秀",
+    "title_tr": "贈別徐秀",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "出京才四日，雨雪日一县。\n行遍浙江头，梦识庐山面。\n相逢兄弟欢，莫作儿女恋。\n归计动心旌，春风摇柳线。",
+    "content_tr": "出京才四日，雨雪日一縣。\n行遍浙江頭，夢識廬山面。\n相逢兄弟歡，莫作兒女戀。\n歸計動心旌，春風搖柳線。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

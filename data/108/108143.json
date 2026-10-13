@@ -1,0 +1,18 @@
+{
+  "work_id": 108143,
+  "work": {
+    "id": 108143,
+    "title": "拟张九龄咏燕",
+    "title_tr": "擬張九齡詠燕",
+    "author": "梅尧臣",
+    "author_tr": "梅堯臣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眇眇双来燕，长年与社违。\n任从新历改，只向旧巢归。\n永日当人语，轻寒逆雨飞。\n自亲梁栋惯，不识海鸥机。",
+    "content_tr": "眇眇雙來燕，長年與社違。\n任從新曆改，只向舊巢歸。\n永日當人語，輕寒逆雨飛。\n自親樑棟慣，不識海鷗機。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

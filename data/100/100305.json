@@ -1,0 +1,18 @@
+{
+  "work_id": 100305,
+  "work": {
+    "id": 100305,
+    "title": "跋李伯时醉僧图",
+    "title_tr": "跋李伯時醉僧圖",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "道人三昧一壶中，笔下惊蛇怖小童。\n日日松间好消息，酒香先过野桥风。",
+    "content_tr": "道人三昧一壺中，筆下驚蛇怖小童。\n日日松間好消息，酒香先過野橋風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

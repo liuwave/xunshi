@@ -1,0 +1,18 @@
+{
+  "work_id": 123450,
+  "work": {
+    "id": 123450,
+    "title": "借甑",
+    "title_tr": "借甑",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "投老林间借甑炊，心闲自觉乐无时。\n生台抛饭暗持咒，山路负薪高诵诗。\n惜燕常年寻故主，笑人荒冢树穹碑。\n白头寂寞安吾分，何用黄金铸子期。",
+    "content_tr": "投老林間借甑炊，心閑自覺樂無時。\n生臺拋飯暗持咒，山路負薪高誦詩。\n惜燕常年尋故主，笑人荒冢樹穹碑。\n白頭寂寞安吾分，何用黄金鑄子期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123209,
+  "work": {
+    "id": 123209,
+    "title": "谢朱鹤皋招饮",
+    "title_tr": "謝朱鶴皋招飲",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "里巷浮沉适自由，江城久住似菟裘。\n广文活计贫无那，好客情怀挽不留。\n满院竹风吹酒面，两株榴火发诗愁。\n料应此外无佳致，人物相看总上游。",
+    "content_tr": "里巷浮沉適自由，江城久住似菟裘。\n廣文活計貧無那，好客情懷挽不留。\n滿院竹風吹酒面，兩株榴火發詩愁。\n料應此外無佳致，人物相看總上游。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

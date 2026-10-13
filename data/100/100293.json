@@ -1,0 +1,18 @@
+{
+  "work_id": 100293,
+  "work": {
+    "id": 100293,
+    "title": "过吴淞江",
+    "title_tr": "過吳淞江",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "参军身外只图书，独与吴江分不疏。\n归去他年当辟谷，懒随波浪觅鲈鱼。",
+    "content_tr": "參軍身外秖圖書，獨與吳江分不疏。\n歸去他年當辟穀，嬾隨波浪覓鱸魚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

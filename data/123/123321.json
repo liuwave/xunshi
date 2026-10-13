@@ -1,0 +1,18 @@
+{
+  "work_id": 123321,
+  "work": {
+    "id": 123321,
+    "title": "后溪先生刘阁学挽章三首 其三",
+    "title_tr": "後溪先生劉閣學挽章三首 其三",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆奉巴西燕，工歌到鹿鸣。\n西清多学士，南省旧门生。\n属耳灵光在，惊心砥柱倾。\n湖庄空望眼，读记若为情。",
+    "content_tr": "憶奉巴西燕，工歌到鹿鳴。\n西清多學士，南省舊門生。\n屬耳靈光在，驚心砥柱傾。\n湖莊空望眼，讀記若爲情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

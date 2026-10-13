@@ -1,0 +1,18 @@
+{
+  "work_id": 117294,
+  "work": {
+    "id": 117294,
+    "title": "悲喜吟",
+    "title_tr": "悲喜吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴起初辞魏，张仪乍入秦。\n西河蒙惠久，南楚受欺频。",
+    "content_tr": "吳起初辭魏，張儀乍入秦。\n西河蒙惠久，南楚受欺頻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

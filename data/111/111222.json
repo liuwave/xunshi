@@ -1,0 +1,18 @@
+{
+  "work_id": 111222,
+  "work": {
+    "id": 111222,
+    "title": "织妇叹",
+    "title_tr": "織婦嘆",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春蚕成丝复成绢，养得夏蚕重剥茧。\n绢未脱轴拟输官，丝未落车图赎典。\n一春一夏为蚕忙，织妇布衣仍布裳。\n有布得著犹自可，今年无麻愁杀我。",
+    "content_tr": "春蠶成絲覆成絹，養得夏蠶重剝繭。\n絹未脫軸擬輸官，絲未落車圖贖典。\n一春一夏爲蠶忙，織婦布衣仍布裳。\n有布得著猶自可，今年無麻愁殺我。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

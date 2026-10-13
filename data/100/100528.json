@@ -1,0 +1,18 @@
+{
+  "work_id": 100528,
+  "work": {
+    "id": 100528,
+    "title": "江上雪霁",
+    "title_tr": "江上雪霽",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江水冰消起绿鳞，川原荡涤少烟尘。\n风吹南北溪桥畔，柳色参差欲漏春。",
+    "content_tr": "江水冰消起綠鱗，川原盪滌少煙塵。\n風吹南北溪橋畔，柳色參差欲漏春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

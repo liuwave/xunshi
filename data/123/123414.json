@@ -1,0 +1,18 @@
+{
+  "work_id": 123414,
+  "work": {
+    "id": 123414,
+    "title": "文宗陵",
+    "title_tr": "文宗陵",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千年尧舜心，心成身已殁。\n始随苍梧云，不返苍龙阙。\n宫女衣不香，黄金赐白发。\n留此奉天下，所以无征伐。\n至今汨罗水，不葬大夫骨。",
+    "content_tr": "千年堯舜心，心成身已歿。\n始隨蒼梧雲，不返蒼龍闕。\n宮女衣不香，黃金賜白髮。\n留此奉天下，所以無征伐。\n至今汨羅水，不葬大夫骨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 117280,
+  "work": {
+    "id": 117280,
+    "title": "岁寒吟",
+    "title_tr": "歲寒吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "松柏入冬看，方能见岁寒。\n声须风里听，色更雪中观。",
+    "content_tr": "松柏入冬看，方能見歲寒。\n聲須風裏聽，色更雪中觀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

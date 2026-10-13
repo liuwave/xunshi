@@ -1,0 +1,18 @@
+{
+  "work_id": 123219,
+  "work": {
+    "id": 123219,
+    "title": "久雨叹",
+    "title_tr": "久雨嘆",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁为戎首起边功，万里生灵一掷中。\n天为忧之连作雨，人无识者骤歌风。\n所期辟地今城守，不善因粮却火攻。\n古道君师意深远，改弦端的奏肤公。",
+    "content_tr": "誰爲戎首起邊功，萬里生靈一擲中。\n天爲憂之連作雨，人無識者驟歌風。\n所期闢地今城守，不善因糧卻火攻。\n古道君師意深遠，改弦端的奏膚公。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

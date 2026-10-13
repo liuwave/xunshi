@@ -1,0 +1,18 @@
+{
+  "work_id": 123471,
+  "work": {
+    "id": 123471,
+    "title": "寄赵西岩",
+    "title_tr": "寄趙西巖",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "暑退江城又素秋，想因怀土亦登楼。\n兰香盍称骚人佩，萱草难忘志士忧。\n纸上雕虫真害道，山中射虎胜封侯。\n四方弧矢男儿事，慎勿悲伤念少游。",
+    "content_tr": "暑退江城又素秋，想因懷土亦登樓。\n蘭香盍稱騷人佩，萱草難忘志士憂。\n紙上雕蟲真害道，山中射虎勝封侯。\n四方弧矢男兒事，慎勿悲傷念少游。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

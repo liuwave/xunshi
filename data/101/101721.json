@@ -1,0 +1,18 @@
+{
+  "work_id": 101721,
+  "work": {
+    "id": 101721,
+    "title": "越江词（己亥）",
+    "title_tr": "越江詞（己亥）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山围江郭水平沙，过雨轻舟泛若邪。\n一自西施采莲后，越中生女尽如花。",
+    "content_tr": "山圍江郭水平沙，過雨輕舟泛若邪。\n一自西施采蓮後，越中生女盡如花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123618,
+  "work": {
+    "id": 123618,
+    "title": "役所书事用山谷观化韵",
+    "title_tr": "役所書事用山谷觀化韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小圃来时春向深，酴醾犹得伴孤斟。\n欲留午枕梦归去，缥缈行云何处寻。",
+    "content_tr": "小圃來時春向深，酴醾猶得伴孤斟。\n欲留午枕夢歸去，縹緲行雲何處尋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

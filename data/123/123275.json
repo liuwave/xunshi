@@ -1,0 +1,18 @@
+{
+  "work_id": 123275,
+  "work": {
+    "id": 123275,
+    "title": "雪中领客湖庄",
+    "title_tr": "雪中領客湖莊",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天上琼林会，人间瑞物图。\n山藏真面目，地涌巧工夫。\n领客惊闾巷，携家窘仆奴。\n却思边戍地，著铁更弯弧。",
+    "content_tr": "天上瓊林會，人間瑞物圖。\n山藏真面目，地湧巧工夫。\n領客驚閭巷，携家窘僕奴。\n却思邊戍地，著鐵更彎弧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

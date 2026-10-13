@@ -1,0 +1,18 @@
+{
+  "work_id": 123688,
+  "work": {
+    "id": 123688,
+    "title": "王官谷夜归次伯山韵",
+    "title_tr": "王官谷夜歸次伯山韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "读公出谷诗，语峻有骨肋。\n使我两目明，烛笼照昏黑。\n欲和辄复已，夜漏下几刻。",
+    "content_tr": "讀公出谷詩，語峻有骨肋。\n使我兩目明，燭籠照昏黑。\n欲和輒復已，夜漏下幾刻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

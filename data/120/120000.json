@@ -1,0 +1,18 @@
+{
+  "work_id": 120000,
+  "work": {
+    "id": 120000,
+    "title": "送陈郎玉汝之官二首",
+    "title_tr": "送陳郎玉汝之官二首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔一平津阁，今随孟博车。\n径趋乌幕远，渐向鲤廷疏。\n分袂三年别，平安两字书。\n何时迎昼绣，携酒煮溪鱼。",
+    "content_tr": "昔一平津閣，今隨孟博車。\n徑趨烏幕遠，漸向鯉廷疏。\n分袂三年別，平安兩字書。\n何時迎晝繡，攜酒煮溪魚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

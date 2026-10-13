@@ -1,0 +1,18 @@
+{
+  "work_id": 103999,
+  "work": {
+    "id": 103999,
+    "title": "戏赠李朝散",
+    "title_tr": "戲贈李朝散",
+    "author": "苏辙",
+    "author_tr": "蘇轍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江雾霏霏作雪天，樽前醉倒不知寒。\n后堂桃李春犹晚，试觅酥花子细看。",
+    "content_tr": "江霧霏霏作雪天，樽前醉倒不知寒。\n後堂桃李春猶晚，試覓酥花子細看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

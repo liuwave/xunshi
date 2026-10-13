@@ -1,0 +1,18 @@
+{
+  "work_id": 100050,
+  "work": {
+    "id": 100050,
+    "title": "题长牧溪五燕图",
+    "title_tr": "題長牧溪五燕圖",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁描乳燕落晴空，笔底能回造化功。\n仿佛谢家池上见，柳丝烟暖水溶溶。",
+    "content_tr": "誰描乳燕落晴空，筆底能廻造化功。\n髣髴謝家池上見，栁絲烟暖水溶溶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

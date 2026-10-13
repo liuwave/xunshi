@@ -1,0 +1,18 @@
+{
+  "work_id": 123519,
+  "work": {
+    "id": 123519,
+    "title": "题六画 灵运",
+    "title_tr": "題六畫 靈運",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昏朝麟醢凤遭烹，鸿盍高飞入杳冥。\n成佛生天俱妄想，筑台当日译何经。",
+    "content_tr": "昏朝麟醢鳳遭烹，鴻盍高飛入杳冥。\n成佛生天俱妄想，築臺當日譯何經。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

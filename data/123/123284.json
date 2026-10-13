@@ -1,0 +1,18 @@
+{
+  "work_id": 123284,
+  "work": {
+    "id": 123284,
+    "title": "谢朱鹤皋招饮四诗 其二",
+    "title_tr": "謝朱鶴皋招飲四詩 其二",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东皇无意染青红，长养犹资五日风。\n收拾英华入新句，祥云蔼蔼媚春空。",
+    "content_tr": "東皇無意染青紅，長養猶資五日風。\n收拾英華入新句，祥雲藹藹媚春空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

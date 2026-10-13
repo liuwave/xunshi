@@ -1,0 +1,18 @@
+{
+  "work_id": 123643,
+  "work": {
+    "id": 123643,
+    "title": "蒲中杂咏文瑞堂",
+    "title_tr": "蒲中雜詠文瑞堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "辛苦鱼虫老著书，一生冷淡笑迂儒。\n何当马上提三尺，去作凌烟大丈夫。",
+    "content_tr": "辛苦魚蟲老著書，一生冷淡笑迂儒。\n何當馬上提三尺，去作凌煙大丈夫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

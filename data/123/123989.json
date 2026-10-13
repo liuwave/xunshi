@@ -1,0 +1,18 @@
+{
+  "work_id": 123989,
+  "work": {
+    "id": 123989,
+    "title": "风竹",
+    "title_tr": "風竹",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧然风竹乱猗猗，孤立梅花竹四围。\n宫女回旋翻翠袖，中间玉茔岂真妃。",
+    "content_tr": "蕭然風竹亂猗猗，孤立梅花竹四圍。\n宮女迴旋翻翠袖，中間玉塋豈真妃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

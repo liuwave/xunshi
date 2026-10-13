@@ -1,0 +1,18 @@
+{
+  "work_id": 121234,
+  "work": {
+    "id": 121234,
+    "title": "晏寝",
+    "title_tr": "晏寢",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "栩栩庄园梦正酣，曙霞分色照东南。\n闭门更费当关报，已是嵇康一不堪。",
+    "content_tr": "栩栩莊園夢正酣，曙霞分色照東南。\n閉門更費當關報，已是嵇康一不堪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123512,
+  "work": {
+    "id": 123512,
+    "title": "题四画 斗鸡",
+    "title_tr": "題四畫 鬭雞",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天宝三郎好斗鸡，醉中官锦贱如泥。\n沉香亭北花含笑，不管渔阳胡马嘶。",
+    "content_tr": "天寶三郎好鬭雞，醉中官錦賤如泥。\n沉香亭北花含笑，不管漁陽胡馬嘶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

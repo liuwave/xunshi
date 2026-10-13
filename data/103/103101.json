@@ -1,0 +1,18 @@
+{
+  "work_id": 103101,
+  "work": {
+    "id": 103101,
+    "title": "逢熊文彦 其二",
+    "title_tr": "逢熊文彥 其二",
+    "author": "刘基",
+    "author_tr": "劉基",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昔相逢处，湖山锦绣春。\n筦弦喧夹巷，花柳隘通津。\n离别人非故，推移物自新。\n愁来重回首，涕泪下沾巾。",
+    "content_tr": "憶昔相逢處，湖山錦繡春。\n筦絃喧夾巷，花柳隘通津。\n離別人非故，推移物自新。\n愁來重回首，涕淚下霑巾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123599,
+  "work": {
+    "id": 123599,
+    "title": "雪中与洙辈饮",
+    "title_tr": "雪中與洙輩飲",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝市丘园定孰优，要将闲适换深忧。\n门阑终日断还往，父子一樽相劝酬。\n云锁山林寒悄悄，风吹雪霰暮悠悠。\n醉馀身世知何许，莫向东陵觅故侯。",
+    "content_tr": "朝市丘園定孰優，要將閒適換深憂。\n門闌終日斷還往，父子一樽相勸酬。\n雲鎖山林寒悄悄，風吹雪霰暮悠悠。\n醉餘身世知何許，莫向東陵覓故侯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

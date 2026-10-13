@@ -1,0 +1,18 @@
+{
+  "work_id": 123250,
+  "work": {
+    "id": 123250,
+    "title": "偶成其八",
+    "title_tr": "偶成其八",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "有心切勿去钩玄，钩得玄来在外边。\n何似罢休依本分，孝慈忠信乃天然。",
+    "content_tr": "有心切勿去鉤玄，鉤得玄來在外邊。\n何似罷休依本分，孝慈忠信乃天然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

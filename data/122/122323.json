@@ -1,0 +1,18 @@
+{
+  "work_id": 122323,
+  "work": {
+    "id": 122323,
+    "title": "寓淮阳驿二首",
+    "title_tr": "寓淮陽驛二首",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "悠扬短日下西墙，庭叶吟风作夕凉。\n客枕甚安无一事，邻鸡不用唤朝阳。",
+    "content_tr": "悠颺短日下西牆，庭葉吟風作夕涼。\n客枕甚安無一事，鄰雞不用喚朝陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

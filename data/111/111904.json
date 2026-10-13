@@ -1,0 +1,18 @@
+{
+  "work_id": 111904,
+  "work": {
+    "id": 111904,
+    "title": "柏乡",
+    "title_tr": "柏鄉",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "贯生名压汉公卿，自古逢雠不反兵。\n仇虏滔天无敢动，柏乡空溷迫人名。",
+    "content_tr": "貫生名壓漢公卿，自古逢讎不反兵。\n仇虜滔天無敢動，柏鄉空溷迫人名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

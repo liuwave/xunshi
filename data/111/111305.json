@@ -1,0 +1,18 @@
+{
+  "work_id": 111305,
+  "work": {
+    "id": 111305,
+    "title": "题赵次张所藏贼头子二首",
+    "title_tr": "題趙次張所藏賊頭子二首",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙章凤姿世不乏，束手无奈于此思。\n丹青王会何须尔，颈血淋漓送稿街。",
+    "content_tr": "龍章鳳姿世不乏，束手無奈於此思。\n丹青王會何須爾，頸血淋漓送藁街。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

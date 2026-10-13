@@ -1,0 +1,18 @@
+{
+  "work_id": 123622,
+  "work": {
+    "id": 123622,
+    "title": "蒲中杂咏名阃堂",
+    "title_tr": "蒲中雜詠名閫堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "有美东吴胜事繁，醉翁遗恨阻跻攀。\n只应名阃山河秀，亦在先生几案间。",
+    "content_tr": "有美東吳勝事繁，醉翁遺恨阻躋攀。\n只應名閫山河秀，亦在先生几案間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

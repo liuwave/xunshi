@@ -1,0 +1,18 @@
+{
+  "work_id": 111913,
+  "work": {
+    "id": 111913,
+    "title": "宿州",
+    "title_tr": "宿州",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "狐鸣鬼啸夜茫茫，元是官军旧战场。\n土伯不能藏碧磷，三三两两照前冈。",
+    "content_tr": "狐鳴鬼嘯夜茫茫，元是官軍舊戰場。\n土伯不能藏碧燐，三三兩兩照前岡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

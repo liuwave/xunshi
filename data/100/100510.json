@@ -1,0 +1,18 @@
+{
+  "work_id": 100510,
+  "work": {
+    "id": 100510,
+    "title": "东马塍",
+    "title_tr": "東馬塍",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一塍芳草碧芋芋，活水穿花暗护田。\n蚕事正忙农事急，不知春色为谁妍。",
+    "content_tr": "一塍芳草碧芋芋，活水穿花暗護田。\n蠶事正忙農事急，不知春色爲誰妍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

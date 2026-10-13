@@ -1,0 +1,18 @@
+{
+  "work_id": 103047,
+  "work": {
+    "id": 103047,
+    "title": "秋闺曲",
+    "title_tr": "秋閨曲",
+    "author": "刘基",
+    "author_tr": "劉基",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天上伤心月，秋来情更亲。\n那能照幽独，不照远行人。",
+    "content_tr": "天上傷心月，秋來情更親。\n那能照幽獨，不照遠行人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

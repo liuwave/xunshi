@@ -1,0 +1,18 @@
+{
+  "work_id": 123232,
+  "work": {
+    "id": 123232,
+    "title": "诸丈和野园之诗乃复次韵",
+    "title_tr": "諸丈和野園之詩乃複次韻",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "骧首弥年闭六关，倦飞今日遍千山。\n也知心醉非从事，顿觉身轻有大还。\n酒债人生频检点，宦情山色正孱颜。\n不须作恶悲儿女，更放羁人到席间。",
+    "content_tr": "驤首彌年閉六關，倦飛今日遍千山。\n也知心醉非從事，頓覺身輕有大還。\n酒債人生頻檢點，宦情山色正孱顏。\n不須作惡悲兒女，更放羈人到席間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123560,
+  "work": {
+    "id": 123560,
+    "title": "中秋醉后",
+    "title_tr": "中秋醉後",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "顾影不成舞，披襟欲御风。\n人怜经岁别，月与旧时同。\n鹤警露华白，鱼潜水鉴空。\n举杯还径醉，归梦广寒宫。",
+    "content_tr": "顧影不成舞，披襟欲御風。\n人憐經歲別，月與舊時同。\n鶴警露華白，魚潛水鑑空。\n舉杯還徑醉，歸夢廣寒宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

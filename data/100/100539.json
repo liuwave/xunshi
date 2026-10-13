@@ -1,0 +1,18 @@
+{
+  "work_id": 100539,
+  "work": {
+    "id": 100539,
+    "title": "寒食咏怀",
+    "title_tr": "寒食詠懷",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "淮南寒食更风流，丝管纷纷逐胜游。\n春色眼前无限好，思亲怀土自多愁。",
+    "content_tr": "淮南寒食更風流，絲管紛紛逐勝遊。\n春色眼前無限好，思親懷土自多愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100407,
+  "work": {
+    "id": 100407,
+    "title": "曝日",
+    "title_tr": "曝日",
+    "author": "周邦彦",
+    "author_tr": "周邦彥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冬曦如村酿，奇温止须臾。\n行行正须此，恋恋忽已无。",
+    "content_tr": "冬曦如村釀，奇溫止須臾。\n行行正須此，戀戀忽已無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

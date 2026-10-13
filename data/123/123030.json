@@ -1,0 +1,18 @@
+{
+  "work_id": 123030,
+  "work": {
+    "id": 123030,
+    "title": "舟行六绝 其五",
+    "title_tr": "舟行六絕 其五",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天寒野店断人行，晚系孤舟浪未平。\n半夜西风惊客梦，卧听寒雨到天明。",
+    "content_tr": "天寒野店斷人行，晚繫孤舟浪未平。\n半夜西風驚客夢，卧聽寒雨到天明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

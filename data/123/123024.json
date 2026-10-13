@@ -1,0 +1,18 @@
+{
+  "work_id": 123024,
+  "work": {
+    "id": 123024,
+    "title": "别钱筠甫三首 其一",
+    "title_tr": "別錢筠甫三首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倦客无眠听晓钟，五更蜡烛泪消红。\n城西古寺来何处，今日分携独向东。",
+    "content_tr": "倦客無眠聽曉鐘，五更蠟燭淚消紅。\n城西古寺來何處，今日分携獨向東。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123676,
+  "work": {
+    "id": 123676,
+    "title": "出郭次伯山韵",
+    "title_tr": "出郭次伯山韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "道心日和平，向人绝城府。\n雅意在泉石，外物等泥土。\n终寻勾漏公，丹砂养龙虎。",
+    "content_tr": "道心日和平，向人絕城府。\n雅意在泉石，外物等泥土。\n終尋勾漏公，丹砂養龍虎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

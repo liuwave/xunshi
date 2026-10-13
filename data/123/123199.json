@@ -1,0 +1,18 @@
+{
+  "work_id": 123199,
+  "work": {
+    "id": 123199,
+    "title": "弈棋戏作",
+    "title_tr": "弈棋戲作",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人皆托物涤尘襟，我亦于棋了寸阴。\n散诞不知身老大，从容聊与世浮沉。\n诸君误作机关说，老子初无胜负心。\n收拾定应全局在，清风明月照书林。",
+    "content_tr": "人皆託物滌塵襟，我亦於棋了寸陰。\n散誕不知身老大，從容聊與世浮沉。\n諸君誤作機關說，老子初無勝負心。\n收拾定應全局在，清風明月照書林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

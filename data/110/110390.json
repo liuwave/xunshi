@@ -1,0 +1,18 @@
+{
+  "work_id": 110390,
+  "work": {
+    "id": 110390,
+    "title": "小山书院",
+    "title_tr": "小山書院",
+    "author": "张孝祥",
+    "author_tr": "張孝祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里清江占一湾，丛生桂树点幽闲。\n谁人得似刘郎子，赋到淮南大小山。",
+    "content_tr": "萬里清江佔一灣，叢生桂樹點幽閒。\n誰人得似劉郎子，賦到淮南大小山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

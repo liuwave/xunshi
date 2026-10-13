@@ -1,0 +1,18 @@
+{
+  "work_id": 101526,
+  "work": {
+    "id": 101526,
+    "title": "红桥（辛亥）",
+    "title_tr": "紅橋（辛亥）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春芜小雨满城隈，茅屋疏篱两岸开。\n行到红桥转深曲，绿杨如荠酒船来。",
+    "content_tr": "春蕪小雨滿城隈，茅屋疎籬兩岸開。\n行到紅橋轉深曲，緑楊如薺酒船來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

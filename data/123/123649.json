@@ -1,0 +1,18 @@
+{
+  "work_id": 123649,
+  "work": {
+    "id": 123649,
+    "title": "山居次韵止老",
+    "title_tr": "山居次韻止老",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "衣巾翠湿阴阴竹，屐齿寒生步步云。\n莫向清流还洗耳，世间言语不曾闻。",
+    "content_tr": "衣巾翠溼陰陰竹，屐齒寒生步步雲。\n莫向清流還洗耳，世間言語不曾聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

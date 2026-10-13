@@ -1,0 +1,18 @@
+{
+  "work_id": 123342,
+  "work": {
+    "id": 123342,
+    "title": "赠山居黄道士",
+    "title_tr": "赠山居黄道士",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洁身何必是，避俗岂能全？\n动息都无隔，浮沉最可怜。\n嵇山《高士传》，庄叟《让王篇》。\n逃名遂得志，□□若为传？",
+    "content_tr": "洁身何必是，避俗岂能全？\n动息都无隔，浮沉最可怜。\n嵇山《高士传》，庄叟《让王篇》。\n逃名遂得志，□□若为传？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

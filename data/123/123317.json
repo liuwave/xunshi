@@ -1,0 +1,18 @@
+{
+  "work_id": 123317,
+  "work": {
+    "id": 123317,
+    "title": "谢朱鹤皋招饮四诗 其三",
+    "title_tr": "謝朱鶴皋招飲四詩 其三",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石火能留几许红，人生南北马牛风。\n春光倒指无多日，相遇休辞酒盏空。",
+    "content_tr": "石火能留幾許紅，人生南北馬牛風。\n春光倒指無多日，相遇休辭酒盞空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100750,
+  "work": {
+    "id": 100750,
+    "title": "江南好 咏燕",
+    "title_tr": "江南好 詠燕",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "衔泥燕，最在美人家。\n尽日听弹无限曲，等闲飞上别枝花。\n一种逐风斜。",
+    "content_tr": "銜泥燕，最在美人家。\n盡日聽彈無限曲，等閒飛上別枝花。\n一種逐風斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

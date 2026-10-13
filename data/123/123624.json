@@ -1,0 +1,18 @@
+{
+  "work_id": 123624,
+  "work": {
+    "id": 123624,
+    "title": "蒲中杂咏安民堂",
+    "title_tr": "蒲中雜詠安民堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "恺悌颁条坐啸馀，自书下考拙催租。\n编民不解歌襦裤，凿井耕田一事无。",
+    "content_tr": "愷悌頒條坐嘯餘，自書下考拙催租。\n編民不解歌襦褲，鑿井耕田一事無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

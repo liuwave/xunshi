@@ -1,0 +1,18 @@
+{
+  "work_id": 123601,
+  "work": {
+    "id": 123601,
+    "title": "次韵富季申寄示",
+    "title_tr": "次韻富季申寄示",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "相期念畴昔，道在敢忧贫。\n分手便千里，论心复几人。\n微词动招谤，烂醉可藏身。\n第恐先求旧，黄麻起世臣。",
+    "content_tr": "相期念疇昔，道在敢憂貧。\n分手便千里，論心復幾人。\n微詞動招謗，爛醉可藏身。\n第恐先求舊，黃麻起世臣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

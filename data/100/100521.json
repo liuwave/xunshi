@@ -1,0 +1,18 @@
+{
+  "work_id": 100521,
+  "work": {
+    "id": 100521,
+    "title": "雪夜对月赋诗",
+    "title_tr": "雪夜對月賦詩",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一树梅花雪月间，梅清月皎雪光寒。\n看来表里俱清彻，酌酒吟诗兴尽宽。",
+    "content_tr": "一樹梅花雪月間，梅清月皎雪光寒。\n看來表裏俱清徹，酌酒吟詩興盡寬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

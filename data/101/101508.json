@@ -1,0 +1,18 @@
+{
+  "work_id": 101508,
+  "work": {
+    "id": 101508,
+    "title": "西山书所见（辛亥）",
+    "title_tr": "西山書所見（辛亥）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "斜阳犹未锁松筠，雪后风清石路尘。\n莫笑游人今岁早，马头山店已烧春。",
+    "content_tr": "斜陽猶未鎻松筠，雪後風清石路塵。\n莫笑游人今歲早，馬頭山店已燒春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

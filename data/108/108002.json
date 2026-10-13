@@ -1,0 +1,18 @@
+{
+  "work_id": 108002,
+  "work": {
+    "id": 108002,
+    "title": "山中夜行",
+    "title_tr": "山中夜行",
+    "author": "梅尧臣",
+    "author_tr": "梅堯臣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤客心多恐，寒风夜度溪。\n山长羸马困，月黑怪禽啼。\n远火生樵舍，荒榛乱野蹊。\n喜言林馆近，闻犬入犹迷。",
+    "content_tr": "孤客心多恐，寒風夜度溪。\n山長羸馬困，月黑怪禽啼。\n遠火生樵舍，荒榛亂野蹊。\n喜言林館近，聞犬入猶迷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

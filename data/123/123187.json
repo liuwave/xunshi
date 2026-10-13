@@ -1,0 +1,18 @@
+{
+  "work_id": 123187,
+  "work": {
+    "id": 123187,
+    "title": "东庵新辟云栈",
+    "title_tr": "東庵新闢雲棧",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "步出东门苇不航，以云名栈正相当。\n地临空阔天成险，水到回旋石作梁。\n万顷波涛一丘壑，百年官吏几循良。\n古来勿剪甘棠意，此地风流未可量。",
+    "content_tr": "步出東門葦不航，以雲名棧正相當。\n地臨空闊天成險，水到迴旋石作樑。\n萬頃波濤一丘壑，百年官吏幾循良。\n古來勿剪甘棠意，此地風流未可量。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

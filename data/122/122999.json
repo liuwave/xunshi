@@ -1,0 +1,18 @@
+{
+  "work_id": 122999,
+  "work": {
+    "id": 122999,
+    "title": "西湖三首 其一",
+    "title_tr": "西湖三首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沙鹭汀鸥尽日闲，水边风起万荷翻。\n客来莫厌重楼望，树杪阑干直对山。",
+    "content_tr": "沙鷺汀鷗盡日閒，水邊風起萬荷翻。\n客來莫厭重樓望，樹杪闌干直對山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

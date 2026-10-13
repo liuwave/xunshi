@@ -1,0 +1,18 @@
+{
+  "work_id": 123402,
+  "work": {
+    "id": 123402,
+    "title": "贵宅",
+    "title_tr": "貴宅",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "入门又到门，到门戟相对。\n玉箫声尚远，疑似人不在。\n公子厌花繁，买药栽庭内。\n望远不上楼，窗中见天外。\n此地日烹羊，无异我食菜。\n自是愁人眼，见之若奢泰。",
+    "content_tr": "入門又到門，到門戟相對。\n玉簫聲尚遠，疑似人不在。\n公子厭花繁，買藥栽庭內。\n望遠不上樓，牕中見天外。\n此地日烹羊，無異我食菜。\n自是愁人眼，見之若奢泰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 101334,
+  "work": {
+    "id": 101334,
+    "title": "仙蜕岩（戊寅）",
+    "title_tr": "仙蛻巖（戊寅）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鱼家姊妹赵家儿，杂坐歌师间板师。\n莫唱人间可哀曲，山阿遗蜕也堪悲。",
+    "content_tr": "魚家姊妹趙家兒，雜坐歌師間板師。\n莫唱人間可哀曲，山阿遺蛻也堪悲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

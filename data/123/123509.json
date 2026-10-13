@@ -1,0 +1,18 @@
+{
+  "work_id": 123509,
+  "work": {
+    "id": 123509,
+    "title": "题四画 一雄鸡立笼上一雌覆雏于笼",
+    "title_tr": "題四畫 一雄雞立籠上一雌覆雛於籠",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "田翁养鸡竹作笼，老雌恋雏不顾雄。\n催租无人岁常丰，杀身为黍堪酬翁。",
+    "content_tr": "田翁養雞竹作籠，老雌戀雛不顧雄。\n催租無人歲常豐，殺身爲黍堪酬翁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123346,
+  "work": {
+    "id": 123346,
+    "title": "在边三首 其二",
+    "title_tr": "在边三首 其二",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "羁旅滞胡中，思归道路穷。\n犹擎苏武节，尚抱李陵弓。\n漠北平无树，关南迥有风。\n长安知远近，徒想灞池东。",
+    "content_tr": "羁旅滞胡中，思归道路穷。\n犹擎苏武节，尚抱李陵弓。\n漠北平无树，关南迥有风。\n长安知远近，徒想灞池东。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

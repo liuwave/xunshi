@@ -1,0 +1,18 @@
+{
+  "work_id": 111886,
+  "work": {
+    "id": 111886,
+    "title": "桐庐",
+    "title_tr": "桐廬",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湿云垂野淡疏林，十日山行九日阴。\n梅子弄黄应要雨，不知客路已泥深。",
+    "content_tr": "溼雲垂野淡疏林，十日山行九日陰。\n梅子弄黃應要雨，不知客路已泥深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

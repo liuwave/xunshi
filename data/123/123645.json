@@ -1,0 +1,18 @@
+{
+  "work_id": 123645,
+  "work": {
+    "id": 123645,
+    "title": "和通守王元美二绝句",
+    "title_tr": "和通守王元美二絕句",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "断无车马访闲曹，背暖儿童罢抑搔。\n叹息深林有兰蕙，谁能收拾赋离骚。",
+    "content_tr": "斷無車馬訪閒曹，背暖兒童罷抑搔。\n嘆息深林有蘭蕙，誰能收拾賦離騷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

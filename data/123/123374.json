@@ -1,0 +1,18 @@
+{
+  "work_id": 123374,
+  "work": {
+    "id": 123374,
+    "title": "题酒店楼壁绝句八首 其一",
+    "title_tr": "题酒店楼壁绝句八首 其一",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欲识幽人伴，非是俗情量。\n有业开屠肆，无名坐饼行。",
+    "content_tr": "欲识幽人伴，非是俗情量。\n有业开屠肆，无名坐饼行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

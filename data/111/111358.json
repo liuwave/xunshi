@@ -1,0 +1,18 @@
+{
+  "work_id": 111358,
+  "work": {
+    "id": 111358,
+    "title": "江雨望花",
+    "title_tr": "江雨望花",
+    "author": "崔涂",
+    "author_tr": "崔塗",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细雨满江春水涨，好风留客野梅香。\n避秦不是无归意，一度逢花一断肠。",
+    "content_tr": "細雨滿江春水漲，好風留客野梅香。\n避秦不是無歸意，一度逢花一斷腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

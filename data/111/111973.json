@@ -1,0 +1,18 @@
+{
+  "work_id": 111973,
+  "work": {
+    "id": 111973,
+    "title": "宣德楼",
+    "title_tr": "宣德樓",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "峣阙丛霄旧玉京，御床忽有犬羊鸣。\n他年若作清宫使，不挽天河洗不清。",
+    "content_tr": "嶢闕叢霄舊玉京，御牀忽有犬羊鳴。\n他年若作清宮使，不挽天河洗不清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

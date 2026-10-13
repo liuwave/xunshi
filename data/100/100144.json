@@ -1,0 +1,18 @@
+{
+  "work_id": 100144,
+  "work": {
+    "id": 100144,
+    "title": "题琳老所携二苏书帖",
+    "title_tr": "題琳老所攜二蘇書帖",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "道人此书欲在眼，扁舟一宿亦随身。\n霁月光风开玉轴，千年仿佛见斯人。",
+    "content_tr": "道人此書欲在眼，扁舟一宿亦隨身。\n霽月光風開玉軸，千年彷佛見斯人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123942,
+  "work": {
+    "id": 123942,
+    "title": "呈范茂直时在豫章",
+    "title_tr": "呈範茂直時在豫章",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "窗竹翛翛度晚风，浓香醇酒小寒中。\n玉人尚作桃花色，我辈苍颜何惜红。",
+    "content_tr": "窗竹翛翛度晚風，濃香醇酒小寒中。\n玉人尚作桃花色，我輩蒼顏何惜紅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

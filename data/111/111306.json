@@ -1,0 +1,18 @@
+{
+  "work_id": 111306,
+  "work": {
+    "id": 111306,
+    "title": "江南山色",
+    "title_tr": "江南山色",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "笔间烟雨漫愁人，不是溪山自在春。\n一段江南好风景，夕阳花坞净无尘。",
+    "content_tr": "筆間煙雨漫愁人，不是溪山自在春。\n一段江南好風景，夕陽花塢淨無塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

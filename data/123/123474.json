@@ -1,0 +1,18 @@
+{
+  "work_id": 123474,
+  "work": {
+    "id": 123474,
+    "title": "送杨户部",
+    "title_tr": "送楊戶部",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铃斋去岁念民饥，鬓雪凋疏带减围。\n史册千年循吏少，江湖万里散人归。\n儿童不信夷齐溷，党论尝攻韩范非。\n临别祝公坚晚节，受恩何敢望留衣。",
+    "content_tr": "鈴齋去歲念民饑，鬢雪凋疎带減圍。\n史冊千年循吏少，江湖萬里散人歸。\n兒童不信夷齊溷，黨論嘗攻韓范非。\n臨別祝公堅晚節，受恩何敢望留衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

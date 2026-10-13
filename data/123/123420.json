@@ -1,0 +1,18 @@
+{
+  "work_id": 123420,
+  "work": {
+    "id": 123420,
+    "title": "山行晚归",
+    "title_tr": "山行晚歸",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "药径入云林，晚晴扶杖吟。\n照泥星复雨，经朔月犹阴。\n树折怜巢覆，泉清见叶沈。\n爱闲自如此，不是学灰心。",
+    "content_tr": "藥逕入雲林，晚晴扶杖吟。\n照泥星復雨，經朔月猶陰。\n樹折憐巢覆，泉清見葉沈。\n愛閑自如此，不是學灰心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123664,
+  "work": {
+    "id": 123664,
+    "title": "道堂",
+    "title_tr": "道堂",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏松怪石水泠泠，白葛乌纱晚醉醒。\n想见眼前无俗物，一炉沉水写黄庭。",
+    "content_tr": "疏鬆怪石水泠泠，白葛烏紗晚醉醒。\n想見眼前無俗物，一爐沉水寫黃庭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123063,
+  "work": {
+    "id": 123063,
+    "title": "题寿阳楼二首 其一",
+    "title_tr": "題壽陽樓二首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渺渺长淮去不休，行人独上寿阳楼。\n一阕长歌不须唱，山川都是旧时愁。",
+    "content_tr": "渺渺長淮去不休，行人獨上壽陽樓。\n一闋長歌不須唱，山川都是舊時愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

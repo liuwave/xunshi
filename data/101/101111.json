@@ -1,0 +1,18 @@
+{
+  "work_id": 101111,
+  "work": {
+    "id": 101111,
+    "title": "杂诗三首 其一 （己亥）",
+    "title_tr": "雜詩三首 其一 （己亥）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "滔滔东流水，中有西上鱼。\n素鬐扬洪涛，腾决势有馀。\n云雾生晦冥，川岳助吹嘘。\n白龙未变服，胡然愁豫且。\n亮无图南志，终返北溟居。",
+    "content_tr": "滔滔東流水，中有西上魚。\n素鬐揚洪濤，騰決勢有餘。\n雲霧生晦冥，川岳助吹嘘。\n白龍未變服，胡然愁豫且。\n亮無圗南志，終返北溟居。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

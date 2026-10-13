@@ -1,0 +1,18 @@
+{
+  "work_id": 123001,
+  "work": {
+    "id": 123001,
+    "title": "已醒",
+    "title_tr": "已醒",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "已醒厌厌醉，将开灼灼红。\n年年到春日，忽忽遇东风。\n暇日如年永，闲愁似酒浓。\n时能将醉眼，天际送飞鸿。",
+    "content_tr": "已醒厭厭醉，將開灼灼紅。\n年年到春日，忽忽遇東風。\n暇日如年永，閒愁似酒濃。\n時能將醉眼，天際送飛鴻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

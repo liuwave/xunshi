@@ -1,0 +1,18 @@
+{
+  "work_id": 124224,
+  "work": {
+    "id": 124224,
+    "title": "杨思恭惠酒作小诗戏之",
+    "title_tr": "楊思恭惠酒作小詩戲之",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "炎炎酷暑日偏长，馋吻常思累百觞。\n封寄琼醅虽甚美，一瓮何以润枯肠。",
+    "content_tr": "炎炎酷暑日偏長，饞吻常思累百觴。\n封寄瓊醅雖甚美，一甕何以潤枯腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

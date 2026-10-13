@@ -1,0 +1,18 @@
+{
+  "work_id": 100466,
+  "work": {
+    "id": 100466,
+    "title": "项羽二首",
+    "title_tr": "項羽二首",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自古兴亡本自天，岂容人力预其间。\n非凭天与凭骓逝，骓不前兮战已闲。",
+    "content_tr": "自古興亡本自天，豈容人力預其間。\n非憑天與憑騅逝，騅不前兮戰已閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

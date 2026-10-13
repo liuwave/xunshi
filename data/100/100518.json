@@ -1,0 +1,18 @@
+{
+  "work_id": 100518,
+  "work": {
+    "id": 100518,
+    "title": "供愁",
+    "title_tr": "供愁",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寂疏帘挂玉楼，楼头新月曲如钩。\n不须问我情深浅，钩动长天远水愁。",
+    "content_tr": "寂寂疏簾掛玉樓，樓頭新月曲如鉤。\n不須問我情深淺，鉤動長天遠水愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

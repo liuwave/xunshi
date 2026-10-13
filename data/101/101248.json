@@ -1,0 +1,18 @@
+{
+  "work_id": 101248,
+  "work": {
+    "id": 101248,
+    "title": "题画（甲戌）",
+    "title_tr": "題畫（甲戌）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "第四桥头枫叶丹，诗翁露顶不知寒。\n停车镇日树根坐，闲看鹭鸶飞过滩。",
+    "content_tr": "第四橋頭楓葉丹，詩翁露頂不知寒。\n停車鎭日樹根坐，閒看鷺鷥飛過灘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

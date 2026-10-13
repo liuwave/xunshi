@@ -1,0 +1,18 @@
+{
+  "work_id": 111236,
+  "work": {
+    "id": 111236,
+    "title": "道乡台",
+    "title_tr": "道鄉臺",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里南迁直谏臣，世间无地可容身。\n夜冲风雨过湘水，赖有青山作主人。",
+    "content_tr": "萬里南遷直諫臣，世間無地可容身。\n夜衝風雨過湘水，頼有青山作主人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

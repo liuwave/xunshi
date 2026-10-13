@@ -1,0 +1,18 @@
+{
+  "work_id": 123735,
+  "work": {
+    "id": 123735,
+    "title": "雪中独坐退翁索诗",
+    "title_tr": "雪中獨坐退翁索詩",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风解放狂花飞，何乃尚容寒作威。\n了无宾客共携酒，更有人家来索诗。\n天高云漏不遮月，皎洁上下同澄辉。\n亭前有树高百尺，为借惊乌安一枝。",
+    "content_tr": "東風解放狂花飛，何乃尚容寒作威。\n了無賓客共携酒，更有人家來索詩。\n天高雲漏不遮月，皎潔上下同澄輝。\n亭前有樹高百尺，爲借驚烏安一枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

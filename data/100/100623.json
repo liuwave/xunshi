@@ -1,0 +1,18 @@
+{
+  "work_id": 100623,
+  "work": {
+    "id": 100623,
+    "title": "鸳鸯湖棹歌其一十三",
+    "title_tr": "鴛鴦湖棹歌其一十三",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阿侬家住秦溪头，日长爱棹横湖舟。\n沾云寺东花已放，义妇堰南春可游。",
+    "content_tr": "阿儂家住秦溪頭，日長愛棹橫湖舟。\n沾雲寺東花已放，義婦堰南春可遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

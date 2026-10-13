@@ -1,0 +1,18 @@
+{
+  "work_id": 123190,
+  "work": {
+    "id": 123190,
+    "title": "再至淮南",
+    "title_tr": "再至淮南",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湓浦经从后，淮壖欲到时。\n江山春自改，风雨日相随。\n泥滑禽犹诉，崖悬马欲疑。\n解鞍聊间息，造物本无私。",
+    "content_tr": "湓浦經從後，淮壖欲到時。\n江山春自改，風雨日相隨。\n泥滑禽猶訴，崖懸馬欲疑。\n解鞍聊間息，造物本無私。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

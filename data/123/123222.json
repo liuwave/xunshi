@@ -1,0 +1,18 @@
+{
+  "work_id": 123222,
+  "work": {
+    "id": 123222,
+    "title": "彭师泰挽章",
+    "title_tr": "彭師泰挽章",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "家世文为富，居寒地不寒。\n诸昆亲受业，二祖昔闿端。\n属耳青云杳，惊心逝水湍。\n后来方屹立，天不误儒冠。",
+    "content_tr": "家世文爲富，居寒地不寒。\n諸昆親受業，二祖昔闓端。\n屬耳青雲杳，驚心逝水湍。\n後來方屹立，天不誤儒冠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123669,
+  "work": {
+    "id": 123669,
+    "title": "建康得家书寄元长观梅诗因次其韵",
+    "title_tr": "建康得家書寄元長觀梅詩因次其韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风一纸平安信，闻道黄岗春已来。\n传语吴生好看客，梅花应似去年开。",
+    "content_tr": "東風一紙平安信，聞道黃崗春已來。\n傳語吳生好看客，梅花應似去年開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123673,
+  "work": {
+    "id": 123673,
+    "title": "再书一绝",
+    "title_tr": "再書一絕",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴九何如黄四娘，能令诗老醉颠狂。\n可怜去岁花前客，戎马尘埃两鬓霜。",
+    "content_tr": "吳九何如黃四娘，能令詩老醉顛狂。\n可憐去歲花前客，戎馬塵埃兩鬢霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

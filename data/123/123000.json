@@ -1,0 +1,18 @@
+{
+  "work_id": 123000,
+  "work": {
+    "id": 123000,
+    "title": "秦兵部书堂",
+    "title_tr": "秦兵部書堂",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "丈人怜我厚，许与过常情。\n身世已迂阔，功名何敢争。\n笑谈忘晚辈，樽俎罄生平。\n欲斸临淮地，从公老此生。",
+    "content_tr": "丈人憐我厚，許與過常情。\n身世已迂闊，功名何敢爭。\n笑談忘晚輩，樽俎罄生平。\n欲斸臨淮地，從公老此生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

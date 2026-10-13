@@ -1,0 +1,18 @@
+{
+  "work_id": 123412,
+  "work": {
+    "id": 123412,
+    "title": "读李斯传",
+    "title_tr": "讀李斯傳",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一车致三毂，本图行地速。\n不知驾驭难，举足成颠覆。\n欺暗尚不然，欺明当自戮。\n难将一人手，掩得天下目。\n不见三尺坟，云阳草空绿。",
+    "content_tr": "一車致三轂，本圖行地速。\n不知駕馭難，舉足成顛覆。\n欺暗尚不然，欺明當自戮。\n難將一人手，掩得天下目。\n不見三尺墳，雲陽草空綠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

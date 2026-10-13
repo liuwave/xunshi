@@ -1,0 +1,18 @@
+{
+  "work_id": 123693,
+  "work": {
+    "id": 123693,
+    "title": "醉和颜美中元夕绝句",
+    "title_tr": "醉和顏美中元夕絕句",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "年年人月喜团圆，好在诗边又酒边。\n莫道玄风只渔钓，也随世俗夜无眠。",
+    "content_tr": "年年人月喜團圓，好在詩邊又酒邊。\n莫道玄風只漁釣，也隨世俗夜無眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

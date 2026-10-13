@@ -1,0 +1,18 @@
+{
+  "work_id": 123028,
+  "work": {
+    "id": 123028,
+    "title": "宿南山普济院",
+    "title_tr": "宿南山普濟院",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闪闪青灯照薄帷，幽人不寐自吟诗。\n僧来邀我更深坐，待听山风到树枝。",
+    "content_tr": "閃閃青燈照薄帷，幽人不寐自吟詩。\n僧來邀我更深坐，待聽山風到樹枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

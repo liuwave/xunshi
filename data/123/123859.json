@@ -1,0 +1,18 @@
+{
+  "work_id": 123859,
+  "work": {
+    "id": 123859,
+    "title": "送季平道中四绝",
+    "title_tr": "送季平道中四絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜风落叶小寒天，去客依依马不鞭。\n我最平生苦离别，可能相送不悽然。",
+    "content_tr": "霜風落葉小寒天，去客依依馬不鞭。\n我最平生苦離別，可能相送不悽然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

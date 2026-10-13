@@ -1,0 +1,18 @@
+{
+  "work_id": 123344,
+  "work": {
+    "id": 123344,
+    "title": "读《真隐传》见披裘公及汉滨老父因题四韵",
+    "title_tr": "读《真隐传》见披裘公及汉滨老父因题四韵",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "被褐延陵径，耕田汉水阴。\n由来欢击壤，何处视遗金？\n季子停骖谢，张温下道寻。\n世人无所识，谁知方寸心？",
+    "content_tr": "被褐延陵径，耕田汉水阴。\n由来驩击壤，何处视遗金？\n季子停骖谢，张温下道寻。\n世人无所识，谁知方寸心？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

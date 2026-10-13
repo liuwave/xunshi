@@ -1,0 +1,18 @@
+{
+  "work_id": 123291,
+  "work": {
+    "id": 123291,
+    "title": "春问湖庄",
+    "title_tr": "春問湖莊",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "问讯湖庄事，经年意若何。\n为渠魂入梦，老我鬓添皤。\n雪霁春应好，山明水渐多。\n遣儿徵仆役，除道莫蹉跎。",
+    "content_tr": "問訊湖莊事，經年意若何。\n爲渠魂入夢，老我鬢添皤。\n雪霽春應好，山明水漸多。\n遣兒徵僕役，除道莫蹉跎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

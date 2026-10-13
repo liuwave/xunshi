@@ -1,0 +1,18 @@
+{
+  "work_id": 123708,
+  "work": {
+    "id": 123708,
+    "title": "蒲中杂咏 河山阁",
+    "title_tr": "蒲中雜詠 河山閣",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "干戈险阻恃河关，祸乱相寻一转丸。\n千载太平归有道，牂牁青海尽衣冠。",
+    "content_tr": "干戈險阻恃河關，禍亂相尋一轉丸。\n千載太平歸有道，牂牁青海盡衣冠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

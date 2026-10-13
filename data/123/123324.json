@@ -1,0 +1,18 @@
+{
+  "work_id": 123324,
+  "work": {
+    "id": 123324,
+    "title": "县郭新居人家",
+    "title_tr": "縣郭新居人家",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苟简诛茅胜野盘，托身城郭爱平安。\n五更人语惊鸡犬，壁漏檐疏共一寒。",
+    "content_tr": "苟簡誅茅勝野盤，託身城郭愛平安。\n五更人語驚雞犬，壁漏簷疎共一寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

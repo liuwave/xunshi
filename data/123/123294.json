@@ -1,0 +1,18 @@
+{
+  "work_id": 123294,
+  "work": {
+    "id": 123294,
+    "title": "湖庄杂诗 其一",
+    "title_tr": "湖莊雜詩 其一",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万顷苍茫外，三年种植初。\n路回深吠犬，藻密暗游鱼。\n旧酒春同盎，新茶雪不如。\n稍修遗老传，忘答故人书。",
+    "content_tr": "萬頃蒼茫外，三年種植初。\n路回深吠犬，藻密暗遊鱼。\n舊酒春同盎，新茶雪不如。\n稍修遺老傳，忘答故人書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

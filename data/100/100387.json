@@ -1,0 +1,18 @@
+{
+  "work_id": 100387,
+  "work": {
+    "id": 100387,
+    "title": "谩书其三",
+    "title_tr": "謾書其三",
+    "author": "周邦彦",
+    "author_tr": "周邦彥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "丽日烘帘幔影斜，酒馀春思托韶华。\n高楼不隔东南望，苦雾游云莫谩遮。",
+    "content_tr": "麗日烘簾幔影斜，酒餘春思託韶華。\n高樓不隔東南望，苦霧遊雲莫謾遮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

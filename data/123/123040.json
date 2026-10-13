@@ -1,0 +1,18 @@
+{
+  "work_id": 123040,
+  "work": {
+    "id": 123040,
+    "title": "书颍州皇甫秘教书室",
+    "title_tr": "書潁州皇甫秘教書室",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲来便是日侵阶，窗下棋枰林下杯。\n晓解扁舟又南去，百年还得几回来。",
+    "content_tr": "閒來便是日侵階，窗下棋枰林下杯。\n曉解扁舟又南去，百年還得幾回來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

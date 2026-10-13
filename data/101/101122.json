@@ -1,0 +1,18 @@
+{
+  "work_id": 101122,
+  "work": {
+    "id": 101122,
+    "title": "枫桥夜泊（壬辰）",
+    "title_tr": "楓橋夜泊（壬辰）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "初月开平林，繁星罗远戍。\n惊禽沙上鸣，渔子夜深语。\n遥闻歌吹声，暗入枫桥去。",
+    "content_tr": "初月開平林，繁星羅逺戍。\n驚禽沙上鳴，漁子夜深語。\n遥聞歌吹聲，暗入楓橋去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

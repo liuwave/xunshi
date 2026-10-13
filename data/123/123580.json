@@ -1,0 +1,18 @@
+{
+  "work_id": 123580,
+  "work": {
+    "id": 123580,
+    "title": "和元长书怀二首",
+    "title_tr": "和元長書懷二首",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "神灵久愤敌尘侵，畀付经营惜寸阴。\n闻道倒戈回易水，行看休战牧桃林。\n宁论少壮非前日，及见升平亦本心。\n乱后亲朋无恙否，试凭北雁寄归音。",
+    "content_tr": "神靈久憤敵塵侵，畀付經營惜寸陰。\n聞道倒戈回易水，行看休戰牧桃林。\n寧論少壯非前日，及見昇平亦本心。\n亂後親朋無恙否，試憑北雁寄歸音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

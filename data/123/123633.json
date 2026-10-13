@@ -1,0 +1,18 @@
+{
+  "work_id": 123633,
+  "work": {
+    "id": 123633,
+    "title": "次韵退翁雪中书事",
+    "title_tr": "次韻退翁雪中書事",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "笔头造化渺无边，闻道春来思涌泉。\n定向山台得佳句，湿云残雪冷侵天。",
+    "content_tr": "筆頭造化渺無邊，聞道春來思涌泉。\n定向山臺得佳句，溼雲殘雪冷侵天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

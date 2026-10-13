@@ -1,0 +1,18 @@
+{
+  "work_id": 123236,
+  "work": {
+    "id": 123236,
+    "title": "上李郎中嘉言二首",
+    "title_tr": "上李郎中嘉言二首",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桐川出幽谷，等彼江汉深。\n修然一派横，清澈寒士心。\n有时对日光，圭棱灿星金。\n沙砾谩自苦，安能蔽清泠。\n我行正寒风，欲涤如烦襟。\n念彼濯缨人，千载求知音。",
+    "content_tr": "桐川出幽谷，等彼江漢深。\n修然一派橫，清澈寒士心。\n有時對日光，圭棱燦星金。\n沙礫謾自苦，安能蔽清泠。\n我行正寒風，欲滌如煩襟。\n念彼濯纓人，千載求知音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

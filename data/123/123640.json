@@ -1,0 +1,18 @@
+{
+  "work_id": 123640,
+  "work": {
+    "id": 123640,
+    "title": "三衢多碧轩",
+    "title_tr": "三衢多碧軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平生爱山心不足，寸碧已复明双眸。\n暮年得此幽栖地，枕上烟岚万叠秋。",
+    "content_tr": "平生愛山心不足，寸碧已復明雙眸。\n暮年得此幽棲地，枕上煙嵐萬疊秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

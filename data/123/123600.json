@@ -1,0 +1,18 @@
+{
+  "work_id": 123600,
+  "work": {
+    "id": 123600,
+    "title": "雪晴东轩独坐",
+    "title_tr": "雪晴東軒獨坐",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云山回合翠重重，不放幽人远目穷。\n高竹有时催冻雪，饥禽竟日咽悲风。\n悠悠事与本谋异，扰扰人谁此意同。\n却坐蒲团聊袖手，更无一语可书空。",
+    "content_tr": "雲山回合翠重重，不放幽人遠目窮。\n高竹有時催凍雪，飢禽竟日咽悲風。\n悠悠事與本謀異，擾擾人誰此意同。\n卻坐蒲團聊袖手，更無一語可書空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

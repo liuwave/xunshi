@@ -1,0 +1,18 @@
+{
+  "work_id": 111833,
+  "work": {
+    "id": 111833,
+    "title": "放鹤亭",
+    "title_tr": "放鶴亭",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石门关外古亭基，树老藤枯野径微。\n放鹤道人今不见，故应人与鹤俱飞。",
+    "content_tr": "石門關外古亭基，樹老藤枯野徑微。\n放鶴道人今不見，故應人與鶴俱飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

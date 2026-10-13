@@ -1,0 +1,18 @@
+{
+  "work_id": 123704,
+  "work": {
+    "id": 123704,
+    "title": "蒲中杂咏 种学轩",
+    "title_tr": "蒲中雜詠 種學軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗书千亩浩从横，蚤岁勤劳费笔耕。\n纨裤儒冠定谁饱，年年妻子笑谋生。",
+    "content_tr": "詩書千畝浩從横，蚤歲勤勞費筆耕。\n紈袴儒冠定誰飽，年年妻子笑謀生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

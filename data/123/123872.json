@@ -1,0 +1,18 @@
+{
+  "work_id": 123872,
+  "work": {
+    "id": 123872,
+    "title": "至夜独酌二绝",
+    "title_tr": "至夜獨酌二絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一册韩文酒一杯，居然独酌兴悠哉。\n夜寒径醉即就枕，卧待新阳明日来。",
+    "content_tr": "一冊韓文酒一杯，居然獨酌興悠哉。\n夜寒徑醉即就枕，臥待新陽明日來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

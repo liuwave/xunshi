@@ -1,0 +1,18 @@
+{
+  "work_id": 103021,
+  "work": {
+    "id": 103021,
+    "title": "上清词三首",
+    "title_tr": "上清詞三首",
+    "author": "刘基",
+    "author_tr": "劉基",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河汉水，九秋清，凉月满空闻雁声。\n雁声不到梦先到，白露湿衣天未明。",
+    "content_tr": "河漢水，九秋清，涼月滿空聞雁聲。\n雁聲不到夢先到，白露溼衣天未明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

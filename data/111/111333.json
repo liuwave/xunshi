@@ -1,0 +1,18 @@
+{
+  "work_id": 111333,
+  "work": {
+    "id": 111333,
+    "title": "返魂梅次苏藉韵 其一",
+    "title_tr": "返魂梅次蘇藉韻 其一",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁道春归无觅处，眠斋香雾作春昏。\n君诗似说江南信，试与梅花招断魂。",
+    "content_tr": "誰道春歸無覓處，眠齋香霧作春昏。\n君詩似說江南信，試與梅花招斷魂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123053,
+  "work": {
+    "id": 123053,
+    "title": "田家二首 其一",
+    "title_tr": "田家二首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门外清流系野船，白杨红槿短篱边。\n旱蝗千里秋田净，野秫萧萧八月天。",
+    "content_tr": "門外清流繫野船，白楊紅槿短籬邊。\n旱蝗千里秋田浄，野秫蕭蕭八月天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

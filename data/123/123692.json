@@ -1,0 +1,18 @@
+{
+  "work_id": 123692,
+  "work": {
+    "id": 123692,
+    "title": "会郑有功",
+    "title_tr": "會鄭有功",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江流变血火连天，闻道舟行相后先。\n今世谋身无第一，政缘夫子爱逃禅。",
+    "content_tr": "江流變血火連天，聞道舟行相後先。\n今世謀身無第一，政緣夫子愛逃禪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

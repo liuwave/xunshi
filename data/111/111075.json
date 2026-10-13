@@ -1,0 +1,18 @@
+{
+  "work_id": 111075,
+  "work": {
+    "id": 111075,
+    "title": "怀家三首",
+    "title_tr": "懷家三首",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三年寄百书，几书到我屋。\n昨夜梦中归，及见老妻哭。",
+    "content_tr": "三年寄百書，幾書到我屋。\n昨夜夢中歸，及見老妻哭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

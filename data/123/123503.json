@@ -1,0 +1,18 @@
+{
+  "work_id": 123503,
+  "work": {
+    "id": 123503,
+    "title": "雨后过光严寺",
+    "title_tr": "雨後過光嚴寺",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小桥路入野僧家，山犬眠莎向日斜。\n庭户几时风雨横，粉墙压倒佛桑花。",
+    "content_tr": "小橋路入野僧家，山犬眠莎向日斜。\n庭戶幾時風雨橫，粉牆壓倒佛桑花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

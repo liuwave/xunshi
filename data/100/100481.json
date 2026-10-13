@@ -1,0 +1,18 @@
+{
+  "work_id": 100481,
+  "work": {
+    "id": 100481,
+    "title": "夜留依绿亭",
+    "title_tr": "夜留依綠亭",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水鸟栖烟夜不喧，风传宫漏到湖边。\n三更好月十分魄，万里无云一样天。",
+    "content_tr": "水鳥棲煙夜不喧，風傳宮漏到湖邊。\n三更好月十分魄，萬里無雲一樣天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100506,
+  "work": {
+    "id": 100506,
+    "title": "湖上小集",
+    "title_tr": "湖上小集",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门前春水碧于天，坐上诗人逸似仙。\n白璧一双无玷缺，吹箫归去又无缘。",
+    "content_tr": "門前春水碧於天，坐上詩人逸似仙。\n白璧一雙無玷缺，吹簫歸去又無緣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

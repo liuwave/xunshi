@@ -1,0 +1,18 @@
+{
+  "work_id": 123433,
+  "work": {
+    "id": 123433,
+    "title": "贺赵礼部得祠二首 其二",
+    "title_tr": "賀趙禮部得祠二首 其二",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帝赐琳宫散吏名，寄声黄閤谢弓旌。\n琴招野客持杯听，棋看痴人覆局争。\n燕颔终当飞食肉，蛾眉最忌美倾城。\n晴空万里君知不，苍狗白云常变更。",
+    "content_tr": "帝賜琳宮散吏名，寄聲黄閤謝弓旌。\n琴招野客持盃聽，棋看癡人覆局爭。\n燕頷終當飛食肉，蛾眉最忌美傾城。\n晴空萬里君知不，蒼狗白雲常變更。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

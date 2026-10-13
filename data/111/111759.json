@@ -1,0 +1,18 @@
+{
+  "work_id": 111759,
+  "work": {
+    "id": 111759,
+    "title": "宿东寺二首",
+    "title_tr": "宿東寺二首",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一声黄鹄夜深归，栖雀惊鸣触殿扉。\n北斗半垂楼阁外，风幡浑欲上云飞。",
+    "content_tr": "一聲黃鵠夜深歸，棲雀驚鳴觸殿扉。\n北斗半垂樓閣外，風幡渾欲上雲飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

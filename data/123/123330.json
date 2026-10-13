@@ -1,0 +1,18 @@
+{
+  "work_id": 123330,
+  "work": {
+    "id": 123330,
+    "title": "薛端明挽章三首 其三",
+    "title_tr": "薛端明挽章三首 其三",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客本何为者，逢公幕府开。\n兵间虽有志，度外本非才。\n流水音何在，高风首屡回。\n只今岩石望，宁忍泰山颓。",
+    "content_tr": "客本何爲者，逢公幕府開。\n兵間雖有志，度外本非才。\n流水音何在，高風首屢迴。\n只今巖石望，寧忍泰山頹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

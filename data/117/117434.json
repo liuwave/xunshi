@@ -1,0 +1,18 @@
+{
+  "work_id": 117434,
+  "work": {
+    "id": 117434,
+    "title": "光阴吟",
+    "title_tr": "光陰吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三百六旬有六日，光阴过眼如奔轮。\n周而复始未尝息，安得四时长似春。",
+    "content_tr": "三百六旬有六日，光陰過眼如奔輪。\n周而復始未嘗息，安得四時長似春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

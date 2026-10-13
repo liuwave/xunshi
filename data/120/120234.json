@@ -1,0 +1,18 @@
+{
+  "work_id": 120234,
+  "work": {
+    "id": 120234,
+    "title": "杂咏一百首 其八十一 项橐",
+    "title_tr": "雜詠一百首 其八十一 項橐",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "义理无穷尽，虽丘或未知。\n老聃与项橐，圣岂有常师。",
+    "content_tr": "義理無窮盡，雖丘或未知。\n老聃與項橐，聖豈有常師。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

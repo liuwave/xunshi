@@ -1,0 +1,18 @@
+{
+  "work_id": 123681,
+  "work": {
+    "id": 123681,
+    "title": "自越趋明上虞道中和季申梅四首",
+    "title_tr": "自越趨明上虞道中和季申梅四首",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "关山戎马信音稀，肠断无人寄一枝。\n沾酒西城联骑入，上林踏雪探春时。",
+    "content_tr": "關山戎馬信音稀，腸斷無人寄一枝。\n沾酒西城聯騎入，上林踏雪探春時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

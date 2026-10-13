@@ -1,0 +1,18 @@
+{
+  "work_id": 123929,
+  "work": {
+    "id": 123929,
+    "title": "题西岩",
+    "title_tr": "題西巖",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "终日徘徊得好凉，一怀炎暑变冰霜。\n会须月上出山去，更看芰荷生夜香。",
+    "content_tr": "終日徘徊得好涼，一懷炎暑變冰霜。\n會須月上出山去，更看芰荷生夜香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

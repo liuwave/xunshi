@@ -1,0 +1,18 @@
+{
+  "work_id": 123971,
+  "work": {
+    "id": 123971,
+    "title": "雪中度冯公岭二绝",
+    "title_tr": "雪中度馮公嶺二絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琪花风乱欲成团，度岭人言路已漫。\n我斥征夫第前迈，山翁不畏雪霜寒。",
+    "content_tr": "琪花風亂欲成團，度嶺人言路已漫。\n我斥征夫第前邁，山翁不畏雪霜寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

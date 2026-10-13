@@ -1,0 +1,18 @@
+{
+  "work_id": 123313,
+  "work": {
+    "id": 123313,
+    "title": "故殿撰侍郎赵公挽章三首 其三",
+    "title_tr": "故殿撰侍郎趙公挽章三首 其三",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "早岁灯窗密，中年宦海遥。\n相看嗟落寞，晚复共渔樵。\n已矣耆英会，居然一叶凋。\n岂无朋友念，人物叹公朝。",
+    "content_tr": "早歲燈窗密，中年宦海遥。\n相看嗟落寞，晚復共漁樵。\n已矣耆英會，居然一葉凋。\n豈無朋友念，人物歎公朝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

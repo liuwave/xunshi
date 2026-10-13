@@ -1,0 +1,18 @@
+{
+  "work_id": 123141,
+  "work": {
+    "id": 123141,
+    "title": "饮良父弟横舟",
+    "title_tr": "飲良父弟橫舟",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "簿书日月费消磨，华鄂归来乐事多。\n已涉一川舟自在，相安众口曲平和。\n人生正好乘流止，尘世相逢对酒歌。\n欲泛五湖真浪语，浮家犹足镇风波。",
+    "content_tr": "簿書日月費消磨，華鄂歸來樂事多。\n已涉一川舟自在，相安衆口曲平和。\n人生正好乘流止，塵世相逢對酒歌。\n欲泛五湖真浪語，浮家猶足鎮風波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

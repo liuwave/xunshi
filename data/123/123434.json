@@ -1,0 +1,18 @@
+{
+  "work_id": 123434,
+  "work": {
+    "id": 123434,
+    "title": "次愚谷游北山韵",
+    "title_tr": "次愚谷游北山韻",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "登山行复歇，脚力钝如蛙。\n宿雨少游客，荒畦多落花。\n公侯归蔓草，池馆破谁家。\n同是伤春者，留连惜物华。",
+    "content_tr": "登山行復歇，脚力鈍如蛙。\n宿雨少游客，荒畦多落花。\n公侯歸蔓草，池館破誰家。\n同是傷春者，留連惜物華。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123181,
+  "work": {
+    "id": 123181,
+    "title": "黄季通挽章",
+    "title_tr": "黃季通挽章",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "世务经心早，乡评好弟昆。\n但为三径乐，无间一家言。\n已作贤关梦，争如藻鉴冤。\n霜严中夏发，桑柘老南园。",
+    "content_tr": "世務經心早，鄉評好弟昆。\n但爲三徑樂，無間一家言。\n已作賢關夢，爭如藻鑑冤。\n霜嚴中夏發，桑柘老南園。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

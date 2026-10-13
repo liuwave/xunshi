@@ -1,0 +1,18 @@
+{
+  "work_id": 111345,
+  "work": {
+    "id": 111345,
+    "title": "过陶徵君隐居",
+    "title_tr": "過陶徵君隱居",
+    "author": "崔涂",
+    "author_tr": "崔塗",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "陶令昔居此，弄琴遗世荣。\n田园三亩绿，轩冕一铢轻。\n衰柳自无主，白云犹可耕。\n不随陵谷变，应只有高名。",
+    "content_tr": "陶令昔居此，弄琴遺世榮。\n田園三畝綠，軒冕一銖輕。\n衰柳自無主，白雲猶可耕。\n不隨陵谷變，應只有高名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

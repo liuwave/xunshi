@@ -1,0 +1,18 @@
+{
+  "work_id": 123726,
+  "work": {
+    "id": 123726,
+    "title": "蒲中杂咏 披风亭",
+    "title_tr": "蒲中雜詠 披風亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "飞步临风亦快哉，雌雄何苦赋兰台。\n只凭一弄渔舟笛，唤得凉飙渡水来。",
+    "content_tr": "飛步臨風亦快哉，雌雄何苦賦蘭臺。\n只憑一弄漁舟笛，喚得涼飊渡水來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

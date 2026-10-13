@@ -1,0 +1,18 @@
+{
+  "work_id": 123259,
+  "work": {
+    "id": 123259,
+    "title": "次韵李晦父炎早梅",
+    "title_tr": "次韻李晦父炎早梅",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "华颠淡色催人老，造化无功春不早。\n翰林风月恣推排，万马一空三峡倒。\n冷暖从渠入世情，孤真为我参幽抱。\n单于未觉鼎鼐催，不与人间障烦恼。",
+    "content_tr": "華顛淡色催人老，造化無功春不早。\n翰林風月恣推排，萬馬一空三峽倒。\n冷暖從渠入世情，孤真爲我參幽抱。\n單于未覺鼎鼐催，不與人間障煩惱。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123958,
+  "work": {
+    "id": 123958,
+    "title": "傅推官劝农七绝句拟和其五出郭",
+    "title_tr": "傅推官勸農七絕句擬和其五出郭",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "偶因官事出郊坰，更向春时得好晴。\n山鸟自应知客意，不须相背苦飞鸣。",
+    "content_tr": "偶因官事出郊坰，更向春時得好晴。\n山鳥自應知客意，不須相背苦飛鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

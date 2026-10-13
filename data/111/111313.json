@@ -1,0 +1,18 @@
+{
+  "work_id": 111313,
+  "work": {
+    "id": 111313,
+    "title": "题赵宜兴万里江山图",
+    "title_tr": "題趙宜興萬里江山圖",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惨淡何人画，飘飖万里心。\n云轻春树暗，日落暮江深。\n细酌渊明酒，仍弹子贱琴。\n知公湖海气，对此益骎骎。",
+    "content_tr": "慘淡何人畫，飄颻萬里心。\n雲輕春樹暗，日落暮江深。\n細酌淵明酒，仍彈子賤琴。\n知公湖海氣，對此益駸駸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

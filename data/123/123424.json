@@ -1,0 +1,18 @@
+{
+  "work_id": 123424,
+  "work": {
+    "id": 123424,
+    "title": "题狗葬刘家寺",
+    "title_tr": "題狗葬劉家寺",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "废殿何年寺，门开不见僧。\n犬眠莎砌日，鸦啄菜池冰。\n湿藓侵碑字，空巢缀壁层。\n谁家古祠在，无主夜烧灯。",
+    "content_tr": "廢殿何年寺，門開不見僧。\n犬眠莎砌日，鴉啄菜池冰。\n濕蘚侵碑字，空巢綴壁層。\n誰家古祠在，無主夜燒燈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

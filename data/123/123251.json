@@ -1,0 +1,18 @@
+{
+  "work_id": 123251,
+  "work": {
+    "id": 123251,
+    "title": "湖庄杂诗",
+    "title_tr": "湖莊雜詩",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨后人家菜麦香，旋涡流水乱横塘。\n青春未有阑珊意，付与游人自此忙。",
+    "content_tr": "雨後人家菜麥香，旋渦流水亂橫塘。\n青春未有闌珊意，付與遊人自此忙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

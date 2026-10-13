@@ -1,0 +1,18 @@
+{
+  "work_id": 123551,
+  "work": {
+    "id": 123551,
+    "title": "围城次退翁韵",
+    "title_tr": "圍城次退翁韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "甲马分诸道，舟车会此都。\n前王端有意，异世肯同途。\n人物风流尽，公私府库虚。\n百年馀故老，相遇涕涟如。",
+    "content_tr": "甲馬分諸道，舟車會此都。\n前王端有意，異世肯同途。\n人物風流盡，公私府庫虛。\n百年餘故老，相遇涕漣如。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 117139,
+  "work": {
+    "id": 117139,
+    "title": "仁圣吟",
+    "title_tr": "仁聖吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尽道之谓圣，如天之谓仁。\n如何仁与圣，天下莫敢伦。",
+    "content_tr": "盡道之謂聖，如天之謂仁。\n如何仁與聖，天下莫敢倫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

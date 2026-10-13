@@ -1,0 +1,18 @@
+{
+  "work_id": 123019,
+  "work": {
+    "id": 123019,
+    "title": "题宣州后堂壁四首 其一",
+    "title_tr": "題宣州後堂壁四首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "过雨山亭暑气微，老人犹未试生衣。\n满园闲绿无人到，春日南风燕子飞。",
+    "content_tr": "過雨山亭暑氣微，老人猶未試生衣。\n滿園閒綠無人到，春日南風燕子飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

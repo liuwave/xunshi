@@ -1,0 +1,18 @@
+{
+  "work_id": 123731,
+  "work": {
+    "id": 123731,
+    "title": "闻有长沙之命",
+    "title_tr": "聞有長沙之命",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "安土无南北，论情皆弟兄。\n休寻卓庵处，要便打包行。\n萍迹虽无定，葵心终有倾。\n相望得安健，有使即传声。",
+    "content_tr": "安土無南北，論情皆弟兄。\n休尋卓庵處，要便打包行。\n萍跡雖無定，葵心終有傾。\n相望得安健，有使即傳聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

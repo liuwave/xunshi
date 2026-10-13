@@ -1,0 +1,18 @@
+{
+  "work_id": 123800,
+  "work": {
+    "id": 123800,
+    "title": "独坐偶书",
+    "title_tr": "獨坐偶書",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "焚香闭草庐，滞念扫无馀。\n世事尤宜静，交情只可疏。\n屈伸当视蠖，湿沫戒如鱼。\n暖甚一窗日，三冬宜读书。",
+    "content_tr": "焚香閉草廬，滯念掃無餘。\n世事尤宜靜，交情只可疏。\n屈伸當視蠖，溼沫戒如魚。\n暖甚一窗日，三冬宜讀書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

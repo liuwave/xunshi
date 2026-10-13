@@ -1,0 +1,18 @@
+{
+  "work_id": 123400,
+  "work": {
+    "id": 123400,
+    "title": "赠道师",
+    "title_tr": "贈道師",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "举世皆问人，唯师独求己。\n一马无四蹄，顷刻行千里。\n应笑北原上，丘坟乱如蚁。",
+    "content_tr": "舉世皆問人，唯師獨求己。\n一馬無四蹄，頃刻行千里。\n應笑北原上，丘墳亂如蟻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

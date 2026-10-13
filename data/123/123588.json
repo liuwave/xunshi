@@ -1,0 +1,18 @@
+{
+  "work_id": 123588,
+  "work": {
+    "id": 123588,
+    "title": "寒食日书事",
+    "title_tr": "寒食日書事",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江海飘零几送春，飞蓬无地寄孤根。\n梦回南浦人千里，醉倚东风酒一樽。\n可是今年暗寒食，不堪多病怯黄昏。\n儿童自趁秋千约，花落空庭独掩门。",
+    "content_tr": "江海飄零幾送春，飛蓬無地寄孤根。\n夢迴南浦人千里，醉倚東風酒一樽。\n可是今年暗寒食，不堪多病怯黃昏。\n兒童自趁鞦韆約，花落空庭獨掩門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

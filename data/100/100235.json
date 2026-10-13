@@ -1,0 +1,18 @@
+{
+  "work_id": 100235,
+  "work": {
+    "id": 100235,
+    "title": "春词 其七",
+    "title_tr": "春詞 其七",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诞敷文德金铃振，尽纳熙河玉律谐。\n御柳宫梅动春意，朝来黄鸟亦喈喈。",
+    "content_tr": "誕敷文德金鈴振，盡納熙河玉律諧。\n御柳宮梅動春意，朝來黄鳥亦喈喈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

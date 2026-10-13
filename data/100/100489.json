@@ -1,0 +1,18 @@
+{
+  "work_id": 100489,
+  "work": {
+    "id": 100489,
+    "title": "愁怀二首",
+    "title_tr": "愁懷二首",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "满眼春光色色新，花红柳绿总关情。\n欲将郁结心头事，付与黄鹂叫几声。",
+    "content_tr": "滿眼春光色色新，花紅柳綠總關情。\n欲將鬱結心頭事，付與黃鸝叫幾聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

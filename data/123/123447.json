@@ -1,0 +1,18 @@
+{
+  "work_id": 123447,
+  "work": {
+    "id": 123447,
+    "title": "一榻",
+    "title_tr": "一榻",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "奇事浑无俗事稠，扫除一榻梦沧洲。\n草虫呢呢儿女语，风蝶翩翩公子流。\n烟雨楼台六朝寺，图书鸡犬五湖舟。\n少年伴祇孤筇在，时复相从说旧游。",
+    "content_tr": "奇事渾無俗事稠，掃除一榻夢滄洲。\n草蟲呢呢兒女語，風蝶翩翩公子流。\n烟雨樓臺六朝寺，圖書雞犬五湖舟。\n少年伴祇孤筇在，時復相從說舊游。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

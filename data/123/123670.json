@@ -1,0 +1,18 @@
+{
+  "work_id": 123670,
+  "work": {
+    "id": 123670,
+    "title": "吉阳寄李泰发",
+    "title_tr": "吉陽寄李泰發",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海风吹浪去如飞，离母山高日出迟。\n此意此情谁会得，因书写与故人知。",
+    "content_tr": "海風吹浪去如飛，離母山高日出遲。\n此意此情誰會得，因書寫與故人知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

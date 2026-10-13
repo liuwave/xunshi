@@ -1,0 +1,18 @@
+{
+  "work_id": 123416,
+  "work": {
+    "id": 123416,
+    "title": "送林节推 其一",
+    "title_tr": "送林節推 其一",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "魁宿来临幕，不同常郡僚。\n名高饶荐剡，官满合归朝。\n彩旆倾城送，清声载路谣。\n丽谯虽末绩，亦自出云霄。",
+    "content_tr": "魁宿來臨幕，不同常郡僚。\n名高饒薦剡，官滿合歸朝。\n綵旆傾城送，清聲載路謠。\n麗譙雖末績，亦自出雲霄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

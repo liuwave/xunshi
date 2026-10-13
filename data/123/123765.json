@@ -1,0 +1,18 @@
+{
+  "work_id": 123765,
+  "work": {
+    "id": 123765,
+    "title": "蒲中杂咏 御波亭",
+    "title_tr": "蒲中雜詠 御波亭",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泠然我欲御波行，身世由来水上萍。\n好笑安期空狡狯，犹须赤鲤渡沧溟。",
+    "content_tr": "泠然我欲御波行，身世由來水上萍。\n好笑安期空狡獪，猶須赤鯉渡滄溟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

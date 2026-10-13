@@ -1,0 +1,18 @@
+{
+  "work_id": 120101,
+  "work": {
+    "id": 120101,
+    "title": "凡圣一首",
+    "title_tr": "凡聖一首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "死生非有二致，圣凡于此一般。\n桓魋预为石椁，王乔尚欲玉棺。",
+    "content_tr": "死生非有二致，聖凡於此一般。\n桓魋預爲石槨，王喬尚欲玉棺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123010,
+  "work": {
+    "id": 123010,
+    "title": "次韵寄赵伯坚二首 其一",
+    "title_tr": "次韵寄趙伯堅二首 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西湖望中潬，能有几多程。\n问讯懒不讲，篇章来愈清。\n为邦循旧政，把酒忆交情。\n祝子过新岁，春风入帝城。",
+    "content_tr": "西湖望中潬，能有幾多程。\n問訊懶不講，篇章來愈清。\n爲邦循舊政，把酒憶交情。\n祝子過新歲，春風入帝城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

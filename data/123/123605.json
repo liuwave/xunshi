@@ -1,0 +1,18 @@
+{
+  "work_id": 123605,
+  "work": {
+    "id": 123605,
+    "title": "再用前韵示范六",
+    "title_tr": "再用前韻示範六",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "举目山河往恨沉，吴霜一点鬓毛侵。\n飘零顾我非前日，慷慨唯君识此心。\n香散药畦花漫漫，波侵蝶沼竹阴阴。\n平生载酒论文地，鸿雁归时问信音。",
+    "content_tr": "舉目山河往恨沉，吳霜一點鬢毛侵。\n飄零顧我非前日，慷慨唯君識此心。\n香散藥畦花漫漫，波侵蝶沼竹陰陰。\n平生載酒論文地，鴻雁歸時問信音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123521,
+  "work": {
+    "id": 123521,
+    "title": "送米与陈监元",
+    "title_tr": "送米與陳監元",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鬓毛萧飒已成翁，奇怪胸中尽扫空。\n尚要俗人传好事，岁残乞米送卢仝。",
+    "content_tr": "鬢毛蕭颯已成翁，奇怪胸中盡掃空。\n尚要俗人傳好事，歲殘乞米送盧仝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

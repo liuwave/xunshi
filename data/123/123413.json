@@ -1,0 +1,18 @@
+{
+  "work_id": 123413,
+  "work": {
+    "id": 123413,
+    "title": "南征怨",
+    "title_tr": "南征怨",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万浪东不回，昭王南征早。\n龙舟没何处，独树江上老。\n吾欲问水滨，宫殿已生草。",
+    "content_tr": "萬浪東不回，昭王南征早。\n龍舟沒何處，獨樹江上老。\n吾欲問水濱，宮殿已生草。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 112000,
+  "work": {
+    "id": 112000,
+    "title": "四十八盘",
+    "title_tr": "四十八盤",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诘曲不前如宦拙，欹倾当面似交难。\n若将世路比山路，世路更多千万盘。",
+    "content_tr": "詰曲不前如宦拙，欹傾當面似交難。\n若將世路比山路，世路更多千萬盤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

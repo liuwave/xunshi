@@ -1,0 +1,18 @@
+{
+  "work_id": 100255,
+  "work": {
+    "id": 100255,
+    "title": "春词 其五",
+    "title_tr": "春詞 其五",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙桃欲拂朝真脸，禁柳忙催望幸眉。\n不会君王春思别，杏花菖叶在农时。",
+    "content_tr": "仙桃欲拂朝真臉，禁柳忙催望幸眉。\n不會君王春思别，杏花菖葉在農時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100590,
+  "work": {
+    "id": 100590,
+    "title": "枫叶",
+    "title_tr": "楓葉",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江空木落雁声悲，霜入丹枫百草萎。\n蝴蝶不知身是梦，又随春色上寒枝。",
+    "content_tr": "江空木落雁聲悲，霜入丹楓百草萎。\n蝴蝶不知身是夢，又随春色上寒枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

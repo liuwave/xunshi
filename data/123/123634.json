@@ -1,0 +1,18 @@
+{
+  "work_id": 123634,
+  "work": {
+    "id": 123634,
+    "title": "有送生鸠者放之使去",
+    "title_tr": "有送生鳩者放之使去",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山林是处有依栖，及此秋晴唤妇归。\n随分谋生何厌拙，莫因饮啄傍人飞。",
+    "content_tr": "山林是處有依棲，及此秋晴喚婦歸。\n隨分謀生何厭拙，莫因飲啄傍人飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

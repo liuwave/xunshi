@@ -1,0 +1,18 @@
+{
+  "work_id": 120004,
+  "work": {
+    "id": 120004,
+    "title": "纪游十首",
+    "title_tr": "紀遊十首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔与二龙友，同寻九鲤祠。\n百身何可赎，一老偶然遗。",
+    "content_tr": "昔與二龍友，同尋九鯉祠。\n百身何可贖，一老偶然遺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

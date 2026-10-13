@@ -1,0 +1,18 @@
+{
+  "work_id": 123476,
+  "work": {
+    "id": 123476,
+    "title": "山行 其二",
+    "title_tr": "山行 其二",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "归牛晚失犊，牧童学声唤。\n溪边白鹭鸶，衔鱼上田岸。",
+    "content_tr": "歸牛晚失犢，牧童學聲喚。\n溪邊白鷺鷥，銜魚上田岸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

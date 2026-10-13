@@ -1,0 +1,18 @@
+{
+  "work_id": 123660,
+  "work": {
+    "id": 123660,
+    "title": "喻弥陀收掩遗骸",
+    "title_tr": "喻彌陀收掩遺骸",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "骸骨鳞鳞旷野昏，天阴雨湿向谁论。\n纵然有乐逾南面，争似无为实相门。",
+    "content_tr": "骸骨鱗鱗曠野昏，天陰雨溼向誰論。\n縱然有樂踰南面，爭似無爲實相門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 102753,
+  "work": {
+    "id": 102753,
+    "title": "梅花七绝句",
+    "title_tr": "梅花七絕句",
+    "author": "刘基",
+    "author_tr": "劉基",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风林凋尽碧琅玕，的皪梅花好自看。\n霜白月明残雪夜，一枝危拂斗杓寒。",
+    "content_tr": "風林凋盡碧琅玕，的皪梅花好自看。\n霜白月明殘雪夜，一枝危拂斗杓寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

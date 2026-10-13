@@ -1,0 +1,18 @@
+{
+  "work_id": 111118,
+  "work": {
+    "id": 111118,
+    "title": "访友人家即事",
+    "title_tr": "訪友人家即事",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烂茅遮屋竹为床，口诵时文鬓已霜。\n妻病无钱供药物，自寻野草试单方。",
+    "content_tr": "爛茅遮屋竹爲牀，口誦時文鬢已霜。\n妻病無錢供藥物，自尋野草試單方。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

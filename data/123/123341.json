@@ -1,0 +1,18 @@
+{
+  "work_id": 123341,
+  "work": {
+    "id": 123341,
+    "title": "同蔡学士君知咏云",
+    "title_tr": "同蔡学士君知咏云",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "固阳阴正密，侍族□方和。\n巫山臣作赋，汾水帝为歌。\n绘色还成锦，轻飞更作罗。\n《无衣》昔有咏，飘转独如何？",
+    "content_tr": "固阳阴正密，侍族□方和。\n巫山臣作赋，汾水帝为歌。\n绘色还成锦，轻飞更作罗。\n《无衣》昔有咏，飘转独如何？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

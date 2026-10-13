@@ -1,0 +1,18 @@
+{
+  "work_id": 123356,
+  "work": {
+    "id": 123356,
+    "title": "过郑处士山庄二首 其一",
+    "title_tr": "过郑处士山庄二首 其一",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凿溪南浦曲，栽援北岩阿。\n野膳调藜荏，山依缉薜萝。\n钓潭因旧迹，樵路起新歌。\n欲知幽赏处，青青松桂多。",
+    "content_tr": "凿溪南浦曲，栽援北岩阿。\n野膳调藜荏，山依缉薜萝。\n钓潭因旧迹，樵路起新歌。\n欲知幽赏处，青青松桂多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

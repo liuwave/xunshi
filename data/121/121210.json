@@ -1,0 +1,18 @@
+{
+  "work_id": 121210,
+  "work": {
+    "id": 121210,
+    "title": "过玉莲汤",
+    "title_tr": "過玉蓮湯",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平日宫中赐浴时，玉莲香目涌华漪。\n锦凫绣雁今安在，汩汩馀汤自入池。",
+    "content_tr": "平日宮中賜浴時，玉蓮香目涌華漪。\n錦鳧繡雁今安在，汩汩餘湯自入池。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

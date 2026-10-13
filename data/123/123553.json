@@ -1,0 +1,18 @@
+{
+  "work_id": 123553,
+  "work": {
+    "id": 123553,
+    "title": "赠普照监院",
+    "title_tr": "贈普照監院",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "飘泊嗟何往，归来恨莫从。\n师犹作秦语，我已效吴侬。\n水浅长河浪，山低太华峰。\n几时携手去，南北本同宗。",
+    "content_tr": "飄泊嗟何往，歸來恨莫從。\n師猶作秦語，我已效吳儂。\n水淺長河浪，山低太華峯。\n幾時攜手去，南北本同宗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

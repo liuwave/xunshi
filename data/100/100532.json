@@ -1,0 +1,18 @@
+{
+  "work_id": 100532,
+  "work": {
+    "id": 100532,
+    "title": "夏夜有作",
+    "title_tr": "夏夜有作",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "暑夕炎蒸著摸人，移床借月卧中庭。\n更深露下衣襟冷，梦到阳台不奈醒。",
+    "content_tr": "暑夕炎蒸著摸人，移牀借月臥中庭。\n更深露下衣襟冷，夢到陽臺不奈醒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

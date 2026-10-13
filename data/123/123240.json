@@ -1,0 +1,18 @@
+{
+  "work_id": 123240,
+  "work": {
+    "id": 123240,
+    "title": "三绝句赋和靖梅",
+    "title_tr": "三絕句賦和靖梅",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人如和靖清难比，花似寒梅秀可餐。\n却问荔支何所似，江瑶初雪水晶盘。",
+    "content_tr": "人如和靖清難比，花似寒梅秀可餐。\n卻問荔支何所似，江瑤初雪水晶盤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

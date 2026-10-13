@@ -1,0 +1,18 @@
+{
+  "work_id": 123555,
+  "work": {
+    "id": 123555,
+    "title": "中秋呈元长",
+    "title_tr": "中秋呈元長",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁作清光伴，潇然属两翁。\n他乡多病后，竟夕一樽同。\n孤杵征衣泪，寒沙战角风。\n何由遂心赏，幽思渺秋空。",
+    "content_tr": "誰作清光伴，瀟然屬兩翁。\n他鄉多病後，竟夕一樽同。\n孤杵征衣淚，寒沙戰角風。\n何由遂心賞，幽思渺秋空。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100424,
+  "work": {
+    "id": 100424,
+    "title": "秋楼晚望",
+    "title_tr": "秋樓晚望",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凉吹晚飕飕，芦花两岸秋。\n夕阳楼上望，独倚泪偷流。",
+    "content_tr": "涼吹晚颼颼，蘆花兩岸秋。\n夕陽樓上望，獨倚淚偷流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

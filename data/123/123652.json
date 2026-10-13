@@ -1,0 +1,18 @@
+{
+  "work_id": 123652,
+  "work": {
+    "id": 123652,
+    "title": "雨夜不寐",
+    "title_tr": "雨夜不寐",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西风吹雨夜潇潇，冷烬残香共寂寥。\n要作秋江篷底睡，正宜窗外有芭蕉。",
+    "content_tr": "西風吹雨夜瀟瀟，冷燼殘香共寂寥。\n要作秋江篷底睡，正宜窗外有芭蕉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

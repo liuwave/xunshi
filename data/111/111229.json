@@ -1,0 +1,18 @@
+{
+  "work_id": 111229,
+  "work": {
+    "id": 111229,
+    "title": "山中见梅",
+    "title_tr": "山中見梅",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "踏破溪边一径苔，好山好竹少人来。\n有梅花处惜无酒，三嗅清香当一杯。",
+    "content_tr": "踏破溪邊一徑苔，好山好竹少人來。\n有梅花處惜無酒，三嗅清香當一杯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

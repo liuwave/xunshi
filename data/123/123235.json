@@ -1,0 +1,18 @@
+{
+  "work_id": 123235,
+  "work": {
+    "id": 123235,
+    "title": "祁门道中即事",
+    "title_tr": "祁門道中即事",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饼饵商量全孕麦，衣裳消息半芽桑。\n山堂草色梦魂远，官路柳丝心绪长。",
+    "content_tr": "餅餌商量全孕麥，衣裳消息半芽桑。\n山堂草色夢魂遠，官路柳絲心緒長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

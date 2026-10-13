@@ -1,0 +1,18 @@
+{
+  "work_id": 103341,
+  "work": {
+    "id": 103341,
+    "title": "暑中闲咏",
+    "title_tr": "暑中閑詠",
+    "author": "苏舜钦",
+    "author_tr": "蘇舜欽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嘉果浮沉酒半醺，床头书册乱纷纷。\n北轩凉吹开疏竹，卧看青天行白云。",
+    "content_tr": "嘉果浮沈酒半醺，床頭書冊亂紛紛。\n北軒涼吹開疎竹，卧看青天行白雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

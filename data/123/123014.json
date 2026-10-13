@@ -1,0 +1,18 @@
+{
+  "work_id": 123014,
+  "work": {
+    "id": 123014,
+    "title": "送圣民出城即事",
+    "title_tr": "送聖民出城即事",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风堤上送行人，渐出城来渐少尘。\n柳色已深花又落，客来下马独伤春。",
+    "content_tr": "東風堤上送行人，漸出城來漸少塵。\n柳色已深花又落，客來下馬獨傷春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

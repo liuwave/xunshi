@@ -1,0 +1,18 @@
+{
+  "work_id": 123972,
+  "work": {
+    "id": 123972,
+    "title": "道中四绝",
+    "title_tr": "道中四絕",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "败箧冲霜思往岁，旧游如梦慨平生。\n鬓华已逐心事老，溪水只如前日清。",
+    "content_tr": "敗篋衝霜思往歲，舊遊如夢慨平生。\n鬢華已逐心事老，溪水祗如前日清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

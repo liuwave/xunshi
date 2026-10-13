@@ -1,0 +1,18 @@
+{
+  "work_id": 100482,
+  "work": {
+    "id": 100482,
+    "title": "试墨",
+    "title_tr": "試墨",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翠楼高压浙山头，海角湖光豁醉眸。\n万景入帘吹不卷，一般心做百般愁。",
+    "content_tr": "翠樓高壓浙山頭，海角湖光豁醉眸。\n萬景入簾吹不捲，一般心做百般愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

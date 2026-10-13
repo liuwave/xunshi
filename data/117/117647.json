@@ -1,0 +1,18 @@
+{
+  "work_id": 117647,
+  "work": {
+    "id": 117647,
+    "title": "灾来吟",
+    "title_tr": "災來吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灾自外来，犹可消除。\n灾自内来，何由支梧。\n天人之间，内外察诸。",
+    "content_tr": "災自外來，猶可消除。\n災自內來，何由支梧。\n天人之間，內外察諸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

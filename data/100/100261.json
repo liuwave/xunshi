@@ -1,0 +1,18 @@
+{
+  "work_id": 100261,
+  "work": {
+    "id": 100261,
+    "title": "春词 其十",
+    "title_tr": "春詞 其十",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君心与物为春久，唤得春风破腊回。\n天近自应通信息，梅花不用犯寒来。",
+    "content_tr": "君心與物爲春久，喚得春風破臘回。\n天近自應通信息，梅花不用犯寒來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

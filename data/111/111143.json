@@ -1,0 +1,18 @@
+{
+  "work_id": 111143,
+  "work": {
+    "id": 111143,
+    "title": "次韵郭子秀晓行",
+    "title_tr": "次韻郭子秀曉行",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "脱叶园林带晓鸦，马蹄步步踏霜华。\n山边水际频凝顾，怕有寒梅昨夜花。",
+    "content_tr": "脫葉園林帶曉鴉，馬蹄步步踏霜華。\n山邊水際頻凝顧，怕有寒梅昨夜花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

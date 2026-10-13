@@ -1,0 +1,18 @@
+{
+  "work_id": 123264,
+  "work": {
+    "id": 123264,
+    "title": "催花",
+    "title_tr": "催花",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "催花径里日千回，只恐催开落又催。\n老性只宜风雨后，绿阴青子款相陪。",
+    "content_tr": "催花徑裏日千回，祗恐催開落又催。\n老性只宜風雨後，綠陰青子款相陪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

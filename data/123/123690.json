@@ -1,0 +1,18 @@
+{
+  "work_id": 123690,
+  "work": {
+    "id": 123690,
+    "title": "南泉",
+    "title_tr": "南泉",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阴液沦山颠，天匠凿其腹。\n喷薄涌飞泉，散落珠百斛。\n幽人时一来，但爱消烦溽。\n何当作膏雨，万里蒙霢霂。",
+    "content_tr": "陰液淪山顛，天匠鑿其腹。\n噴薄涌飛泉，散落珠百斛。\n幽人時一來，但愛消煩溽。\n何當作膏雨，萬里蒙霢霂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

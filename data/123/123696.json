@@ -1,0 +1,18 @@
+{
+  "work_id": 123696,
+  "work": {
+    "id": 123696,
+    "title": "元长谒仲长彦文赠以樽酒",
+    "title_tr": "元長謁仲長彥文贈以樽酒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杖头挑取一壶春，要使朱颜日日新。\n何必稽山寻贺老，风流俱是谪仙人。",
+    "content_tr": "杖頭挑取一壺春，要使朱顏日日新。\n何必稽山尋賀老，風流俱是謫仙人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

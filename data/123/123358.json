@@ -1,0 +1,18 @@
+{
+  "work_id": 123358,
+  "work": {
+    "id": 123358,
+    "title": "秋园夜坐",
+    "title_tr": "秋园夜坐",
+    "author": "王绩",
+    "author_tr": "王績",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋来木叶黄，半夜坐林塘。\n浅溜含新冻，轻云护早霜。\n落萤飞未起，惊鸟乱无行。\n寂寞知何事？东篱菊稍芳。",
+    "content_tr": "秋来木叶黄，半夜坐林塘。\n浅溜含新冻，轻云护早霜。\n落萤飞未起，惊鸟乱无行。\n寂寞知何事？东篱菊稍芳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

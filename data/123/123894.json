@@ -1,0 +1,18 @@
+{
+  "work_id": 123894,
+  "work": {
+    "id": 123894,
+    "title": "题后郑壁",
+    "title_tr": "題後鄭壁",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "满眼烟尘杂鼓旗，经冬首鼠负忧疑。\n树头新绿今如此，孤负春光固可知。",
+    "content_tr": "滿眼煙塵雜鼓旗，經冬首鼠負憂疑。\n樹頭新綠今如此，孤負春光固可知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123021,
+  "work": {
+    "id": 123021,
+    "title": "舟行六绝 其二",
+    "title_tr": "舟行六絕 其二",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "船尾初回转野湾，波平天净惜投竿。\n飞飞小蝶秋花晚，啧啧沙禽野水闲。",
+    "content_tr": "船尾初回轉野灣，波平天浄惜投竿。\n飛飛小蝶秋花晚，嘖嘖沙禽野水閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123073,
+  "work": {
+    "id": 123073,
+    "title": "秋风谣",
+    "title_tr": "秋風謠",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风起，秋云高。\n连山草木如波涛，大江荡潏鱼龙逃。\n羲和奔忙日车逸，八柱倾侧恐不牢。\n柯山老人掩蓬茅，畏寒理我旧缊袍。\n粗餐在盘有浊醪，醉饱高卧从呼号。",
+    "content_tr": "秋風起，秋雲高。\n連山草木如波濤，大江蕩潏魚龍逃。\n羲和奔忙日車逸，八柱傾側恐不牢。\n柯山老人揜蓬茅，畏寒理我舊縕袍。\n粗餐在盤有濁醪，醉飽高卧從呼號。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

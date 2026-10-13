@@ -1,0 +1,18 @@
+{
+  "work_id": 100176,
+  "work": {
+    "id": 100176,
+    "title": "响潭",
+    "title_tr": "響潭",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水面平铺映碧空，夜深明月照龙宫。\n猿啼未响潭先响，一树花开两树红。",
+    "content_tr": "水面平鋪映碧空，夜深明月照龍宮。\n猿啼未響潭先響，一樹花開兩樹紅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

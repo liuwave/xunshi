@@ -1,0 +1,18 @@
+{
+  "work_id": 123655,
+  "work": {
+    "id": 123655,
+    "title": "虞乡道中菊",
+    "title_tr": "虞鄉道中菊",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冱露低烟拟怨谁，凄然亦自惜馀姿。\n无人为买蒲城酒，正是柔桑叶落时。",
+    "content_tr": "冱露低煙擬怨誰，悽然亦自惜餘姿。\n無人爲買蒲城酒，正是柔桑葉落時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

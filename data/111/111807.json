@@ -1,0 +1,18 @@
+{
+  "work_id": 111807,
+  "work": {
+    "id": 111807,
+    "title": "平云阁",
+    "title_tr": "平雲閣",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "背倚天峰涌化宫，横空阁道拖双虹。\n火云六月应奇绝，青琐玲珑八面风。",
+    "content_tr": "背倚天峯涌化宮，橫空閣道拖雙虹。\n火雲六月應奇絕，青瑣玲瓏八面風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

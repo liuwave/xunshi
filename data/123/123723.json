@@ -1,0 +1,18 @@
+{
+  "work_id": 123723,
+  "work": {
+    "id": 123723,
+    "title": "登第示同年",
+    "title_tr": "登第示同年",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "氤氲和气凤城春，正是英豪得志辰。\n雨露九重均造化，丹青千字富经纶。\n古来将相皆由此，今见诗书不误人。\n何处寒乡少年子，绿袍归拜北堂亲。",
+    "content_tr": "氤氲和氣鳳城春，正是英豪得志辰。\n雨露九重均造化，丹青千字富經綸。\n古來將相皆由此，今見詩書不悞人。\n何處寒鄉少年子，綠袍歸拜北堂親。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

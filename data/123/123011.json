@@ -1,0 +1,18 @@
+{
+  "work_id": 123011,
+  "work": {
+    "id": 123011,
+    "title": "题庐阜官厅壁",
+    "title_tr": "題廬阜官廳壁",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平生山水兴，今夜宿东林。\n落日楼殿影，西风钟梵音。\n云横山阁迥，雨过虎溪深。\n脚力犹堪在，他年当重寻。",
+    "content_tr": "平生山水興，今夜宿東林。\n落日樓殿影，西風鐘梵音。\n雲橫山閣迥，雨過虎溪深。\n脚力猶堪在，他年當重尋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

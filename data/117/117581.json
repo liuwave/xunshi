@@ -1,0 +1,18 @@
+{
+  "work_id": 117581,
+  "work": {
+    "id": 117581,
+    "title": "阴阳吟",
+    "title_tr": "陰陽吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阳行一，阴行二。一主天，二主地。天行六，地行四。四主形，六主气。",
+    "content_tr": "陽行一，陰行二。一主天，二主地。天行六，地行四。四主形，六主氣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

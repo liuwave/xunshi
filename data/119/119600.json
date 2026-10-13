@@ -1,0 +1,18 @@
+{
+  "work_id": 119600,
+  "work": {
+    "id": 119600,
+    "title": "叙伦五言二十首",
+    "title_tr": "敘倫五言二十首",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "张陈翻覆易，管鲍始终难。\n帝腹容加膝，刘郎尚岁寒。",
+    "content_tr": "張陳翻覆易，管鮑始終難。\n帝腹容加膝，劉郎尚歲寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

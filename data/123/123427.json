@@ -1,0 +1,18 @@
+{
+  "work_id": 123427,
+  "work": {
+    "id": 123427,
+    "title": "苔径",
+    "title_tr": "苔徑",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苔径长年断俗踪，亦无交旧可过从。\n闲忧颓堕自锄菜，老尚怪奇惟种松。\n履破背时翻着袜，诗狂见月乱撞钟。\n千年陶谢今谁似，恐有山林不易逢。",
+    "content_tr": "苔徑長年斷俗蹤，亦無交舊可過從。\n閑憂頹墮自鉏菜，老尚怪奇惟種松。\n履破背時翻著襪，詩狂見月亂撞鐘。\n千年陶謝今誰似，恐有山林不易逢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 100306,
+  "work": {
+    "id": 100306,
+    "title": "春晓 其四",
+    "title_tr": "春曉 其四",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "池塘绿净了无尘，造化裁馀十日春。\n月树清深语鶗鴂，几时归去亦谩人。",
+    "content_tr": "池塘綠浄了無塵，造化裁餘十日春。\n月樹清深語鶗鴂，幾時歸去亦謾人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

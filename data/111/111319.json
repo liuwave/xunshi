@@ -1,0 +1,18 @@
+{
+  "work_id": 111319,
+  "work": {
+    "id": 111319,
+    "title": "宁王进史图",
+    "title_tr": "寧王進史圖",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上林风暖脊令飞，玉带花骢侍宴归。\n汗简不知天上事，至尊新纳寿王妃。",
+    "content_tr": "上林風暖脊令飛，玉帶花驄侍宴歸。\n汗簡不知天上事，至尊新納壽王妃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

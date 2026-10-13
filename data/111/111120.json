@@ -1,0 +1,18 @@
+{
+  "work_id": 111120,
+  "work": {
+    "id": 111120,
+    "title": "代简答夏肯父",
+    "title_tr": "代簡答夏肯父",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "六七十里不为远，百书不如一会面。\n之子相期十日间，要与梅花并相见。",
+    "content_tr": "六七十里不爲遠，百書不如一會面。\n之子相期十日間，要與梅花並相見。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

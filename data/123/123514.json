@@ -1,0 +1,18 @@
+{
+  "work_id": 123514,
+  "work": {
+    "id": 123514,
+    "title": "题紫极宫晋桧",
+    "title_tr": "題紫極宮晉檜",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老君坛西晋朝柏，拜坛道士头发白。\n卖丹得钱还酒客，肉重欲飞鹤无力。",
+    "content_tr": "老君壇西晉朝柏，拜壇道士頭髮白。\n賣丹得錢還酒客，肉重欲飛鶴無力。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

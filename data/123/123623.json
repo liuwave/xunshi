@@ -1,0 +1,18 @@
+{
+  "work_id": 123623,
+  "work": {
+    "id": 123623,
+    "title": "秋江晚渡",
+    "title_tr": "秋江晚渡",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "木落空江淡夕霏，疏篷一叶并渔矶。\n秋风几许莼鲈兴，亦欲临流唤渡归。",
+    "content_tr": "木落空江淡夕霏，疏篷一葉並漁磯。\n秋風幾許蓴鱸興，亦欲臨流喚渡歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

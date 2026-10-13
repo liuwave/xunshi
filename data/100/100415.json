@@ -1,0 +1,18 @@
+{
+  "work_id": 100415,
+  "work": {
+    "id": 100415,
+    "title": "又绝句少年心",
+    "title_tr": "又絕句少年心",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨花扰乱少年心，怕雨愁风用意深。\n付与酒杯浑不管，从教天气作春阴。",
+    "content_tr": "楊花擾亂少年心，怕雨愁風用意深。\n付與酒杯渾不管，從教天氣作春陰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

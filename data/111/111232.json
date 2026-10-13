@@ -1,0 +1,18 @@
+{
+  "work_id": 111232,
+  "work": {
+    "id": 111232,
+    "title": "宁乡道上遇张伯声",
+    "title_tr": "寧鄉道上遇張伯聲",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山禽调舌待春哢，江雨收声开晓晴。\n偶遇故人同杖履，梅花树下一诗成。",
+    "content_tr": "山禽調舌待春哢，江雨收聲開曉晴。\n偶遇故人同杖履，梅花樹下一詩成。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

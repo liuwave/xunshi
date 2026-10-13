@@ -1,0 +1,18 @@
+{
+  "work_id": 100574,
+  "work": {
+    "id": 100574,
+    "title": "阻雨",
+    "title_tr": "阻雨",
+    "author": "朱淑真",
+    "author_tr": "朱淑真",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "几度寻芳已不成，又还寂寞过清明。\n悭风涩雨颠迷甚，十日春无一日晴。",
+    "content_tr": "幾度尋芳已不成，又還寂寞過清明。\n慳風澀雨顛迷甚，十日春無一日晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

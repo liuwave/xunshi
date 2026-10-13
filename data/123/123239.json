@@ -1,0 +1,18 @@
+{
+  "work_id": 123239,
+  "work": {
+    "id": 123239,
+    "title": "韩耕道次八绝句韵见寄因和答之",
+    "title_tr": "韓耕道次八絕句韻見寄因和答之",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "营垒家家说望夫，将军志远在余吾。\n从来万甲千金费，曾有因粮事也无。",
+    "content_tr": "營壘家家說望夫，將軍志遠在餘吾。\n從來萬甲千金費，曾有因糧事也無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

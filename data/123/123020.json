@@ -1,0 +1,18 @@
+{
+  "work_id": 123020,
+  "work": {
+    "id": 123020,
+    "title": "舟行六绝 其一",
+    "title_tr": "舟行六絕 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "猎猎西风秋水清，野花寒草傍流生。\n沙边水鹤待鱼立，石底暗蛩先夜鸣。",
+    "content_tr": "獵獵西風秋水清，野花寒草傍流生。\n沙邊水鶴待魚立，石底暗蛩先夜鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 124215,
+  "work": {
+    "id": 124215,
+    "title": "读兰台诗",
+    "title_tr": "讀蘭臺詩",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天遣长庚下碧空，再将太白作坡翁。\n不然安得四十九，还宿浔阳太极宫。",
+    "content_tr": "天遣長庚下碧空，再將太白作坡翁。\n不然安得四十九，還宿潯陽太極宫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

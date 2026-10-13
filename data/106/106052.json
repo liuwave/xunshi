@@ -1,0 +1,18 @@
+{
+  "work_id": 106052,
+  "work": {
+    "id": 106052,
+    "title": "杂曲歌辞 树中草",
+    "title_tr": "雜曲歌辭 樹中草",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青青树中草，托根非不危。\n草生树却死，荣枯君可知。",
+    "content_tr": "青青樹中草，託根非不危。\n草生樹卻死，榮枯君可知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

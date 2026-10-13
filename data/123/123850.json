@@ -1,0 +1,18 @@
+{
+  "work_id": 123850,
+  "work": {
+    "id": 123850,
+    "title": "寺前书院",
+    "title_tr": "寺前書院",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "竹屋纸窗无限好，观书学字不妨清。\n谁知夜梦饶惊枕，庄舄依前自越声。",
+    "content_tr": "竹屋紙窗無限好，觀書學字不妨清。\n誰知夜夢饒驚枕，莊舄依前自越聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

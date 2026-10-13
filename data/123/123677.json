@@ -1,0 +1,18 @@
+{
+  "work_id": 123677,
+  "work": {
+    "id": 123677,
+    "title": "倦妆",
+    "title_tr": "倦妝",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锦帕新裁玩月犀，旋开妆合间云螭。\n一成贪耍慵梳洗，日晚惟添翠黛眉。",
+    "content_tr": "錦帕新裁玩月犀，旋開妝合間雲螭。\n一成貪耍慵梳洗，日晚惟添翠黛眉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

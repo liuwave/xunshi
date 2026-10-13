@@ -1,0 +1,18 @@
+{
+  "work_id": 123062,
+  "work": {
+    "id": 123062,
+    "title": "宿钱睦甫南斋",
+    "title_tr": "宿錢睦甫南齋",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "潇洒南轩与病宜，庳床长簟碧纱帏。\n三更月上梦初觉，竹影满窗风入衣。",
+    "content_tr": "瀟洒南軒與病宜，庳床長簟碧紗幃。\n三更月上夢初覺，竹影滿窗風入衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

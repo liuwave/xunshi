@@ -1,0 +1,18 @@
+{
+  "work_id": 123129,
+  "work": {
+    "id": 123129,
+    "title": "陈伯量挽诗二首",
+    "title_tr": "陳伯量輓詩二首",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我晚惭初学，公才又壮年。\n同盟觉山寺，共饮玉溪泉。\n薄宦身常隔，高怀骨易仙。\n伤心风作恶，不助过湖船。",
+    "content_tr": "我晚慚初學，公才又壯年。\n同盟覺山寺，共飲玉溪泉。\n薄宦身常隔，高懷骨易仙。\n傷心風作惡，不助過湖船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

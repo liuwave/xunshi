@@ -1,0 +1,18 @@
+{
+  "work_id": 100309,
+  "work": {
+    "id": 100309,
+    "title": "春词 其十四",
+    "title_tr": "春詞 其十四",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宫漏迟迟不受催，出花光景渐徘徊。\n万方日日春台上，不道东风恰始来。",
+    "content_tr": "宮漏遲遲不受催，出花光景漸徘徊。\n萬方日日春臺上，不道東風恰始來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123891,
+  "work": {
+    "id": 123891,
+    "title": "和潘仲严八绝春风",
+    "title_tr": "和潘仲嚴八絕春風",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "刘郎桃树欲挠春，一夜飘零最恼人。\n不似穷秋作霜露，摧残蒲柳有谁嗔。",
+    "content_tr": "劉郎桃樹欲撓春，一夜飄零最惱人。\n不似窮秋作霜露，摧殘蒲柳有誰嗔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

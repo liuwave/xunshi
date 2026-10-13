@@ -1,0 +1,18 @@
+{
+  "work_id": 123845,
+  "work": {
+    "id": 123845,
+    "title": "和王才鼎怀钱塘",
+    "title_tr": "和王才鼎懷錢塘",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "钱塘叛卒又婴城，报至令人失意惊。\n天子于今犹自将，藩臣何以不知兵。\n官无良吏因循致，庙有成谟次第平。\n所惜湖山辛丑后，至今澄洗未曾清。",
+    "content_tr": "錢塘叛卒又嬰城，報至令人失意驚。\n天子於今猶自將，藩臣何以不知兵。\n官無良吏因循致，廟有成謨次第平。\n所惜湖山辛丑後，至今澄洗未曾清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

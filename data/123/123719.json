@@ -1,0 +1,18 @@
+{
+  "work_id": 123719,
+  "work": {
+    "id": 123719,
+    "title": "蒲中杂咏 竹轩",
+    "title_tr": "蒲中雜詠 竹軒",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "笙箫声断一杯残，翠袖云鬟共倚栏。\n要藉馀阴清晚醉，酸寒莫作子猷看。",
+    "content_tr": "笙簫聲斷一盃殘，翠袖雲鬟共倚欄。\n要藉餘陰清晚醉，酸寒莫作子猷看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

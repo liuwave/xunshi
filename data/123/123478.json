@@ -1,0 +1,18 @@
+{
+  "work_id": 123478,
+  "work": {
+    "id": 123478,
+    "title": "送孚老再游浙",
+    "title_tr": "送孚老再游浙",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楚柁吴樯兴未休，好山谢事要闲游。\n常憎驽马恋栈豆，今见苍鹰掣臂韝。\n岁晚老松无伴侣，天寒落叶正飕飗。\n人间果是风堪御，却欲携君遍九州。",
+    "content_tr": "楚柁吳檣興未休，好山謝事要閑游。\n常憎駑馬戀棧豆，今見蒼鷹掣臂韝。\n歲晚老松無伴侶，天寒落葉正颼飀。\n人間果是風堪御，却欲携君徧九州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

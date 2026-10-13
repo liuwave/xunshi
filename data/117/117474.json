@@ -1,0 +1,18 @@
+{
+  "work_id": 117474,
+  "work": {
+    "id": 117474,
+    "title": "善恶吟",
+    "title_tr": "善惡吟",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君子学道则务本，小人见利则忘生。\n务本则非礼不动，见利则非贿不行。",
+    "content_tr": "君子學道則務本，小人見利則忘生。\n務本則非禮不動，見利則非賄不行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

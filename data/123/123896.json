@@ -1,0 +1,18 @@
+{
+  "work_id": 123896,
+  "work": {
+    "id": 123896,
+    "title": "王能甫作葡萄一枝于圆扇之上戏作小诗报之",
+    "title_tr": "王能甫作葡萄一枝於圓扇之上戲作小詩報之",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "妙笔窥天顷刻成，浑如小架月初明。\n扶疏老蔓敷新叶，下盖累累紫水晶。",
+    "content_tr": "妙筆窺天頃刻成，渾如小架月初明。\n扶疏老蔓敷新葉，下蓋累累紫水晶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123396,
+  "work": {
+    "id": 123396,
+    "title": "伤世",
+    "title_tr": "傷世",
+    "author": "吕滨老",
+    "author_tr": "呂濱老",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尘断征车杳，云低毳帐深。\n古今那有此，天地亦何心。",
+    "content_tr": "塵斷徵車杳，雲低毳帳深。\n古今那有此，天地亦何心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

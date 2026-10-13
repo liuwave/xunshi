@@ -1,0 +1,18 @@
+{
+  "work_id": 111191,
+  "work": {
+    "id": 111191,
+    "title": "画山",
+    "title_tr": "畫山",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "几簇云烟几段山，画成烟雨渺茫间。\n扁舟三两溪桥上，一路更无人往还。",
+    "content_tr": "幾簇雲煙幾段山，畫成煙雨渺茫間。\n扁舟三兩溪橋上，一路更無人往還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

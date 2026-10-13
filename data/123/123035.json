@@ -1,0 +1,18 @@
+{
+  "work_id": 123035,
+  "work": {
+    "id": 123035,
+    "title": "舟行六绝 其六",
+    "title_tr": "舟行六絕 其六",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渡头烟雨欲昏天，湾畔枯桑系客船。\n风打篷窗秋浪急，一杯寒酒夜深眠。",
+    "content_tr": "渡頭烟雨欲昏天，灣畔枯桑繫客船。\n風打篷窗秋浪急，一杯寒酒夜深眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

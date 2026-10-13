@@ -1,0 +1,18 @@
+{
+  "work_id": 123231,
+  "work": {
+    "id": 123231,
+    "title": "一碧万顷堂",
+    "title_tr": "一碧萬頃堂",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乞得湖光万顷多，傍招九叠更嵯峨。\n百年未死须闲在，一日不来如景何。\n意远已知贪雪月，身安犹欲镇风波。\n只愁顽似云间石，更有何人为琢磨。",
+    "content_tr": "乞得湖光萬頃多，傍招九疊更嵯峨。\n百年未死須閒在，一日不來如景何。\n意遠已知貪雪月，身安猶欲鎮風波。\n只愁頑似雲間石，更有何人爲琢磨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

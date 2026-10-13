@@ -1,0 +1,18 @@
+{
+  "work_id": 123626,
+  "work": {
+    "id": 123626,
+    "title": "蒲中杂咏涵虚阁",
+    "title_tr": "蒲中雜詠涵虛閣",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹊飞乔树月临波，仿佛天孙掷夜梭。\n卷尽纤云风不动，却从直下看星河。",
+    "content_tr": "鵲飛喬樹月臨波，彷彿天孫擲夜梭。\n卷盡纖雲風不動，卻從直下看星河。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

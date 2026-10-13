@@ -1,0 +1,18 @@
+{
+  "work_id": 123415,
+  "work": {
+    "id": 123415,
+    "title": "送林节推 其二",
+    "title_tr": "送林節推 其二",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幕皆资画诺，人最说君贤。\n判好堪呈佛，心清亦近禅。\n著书僧有传，执法吏无权。\n风雨东门路，分携忽黯然。",
+    "content_tr": "幕皆資畫諾，人最說君賢。\n判好堪呈佛，心清亦近禪。\n著書僧有傳，執法吏無權。\n風雨東門路，分携忽黯然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

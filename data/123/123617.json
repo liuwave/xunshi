@@ -1,0 +1,18 @@
+{
+  "work_id": 123617,
+  "work": {
+    "id": 123617,
+    "title": "次明仲韵",
+    "title_tr": "次明仲韻",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曾谒祥曦羽盖黄，天衣纷扰御炉香。\n蒙尘草莽干戈隔，坐看边氛蔽日光。",
+    "content_tr": "曾謁祥曦羽蓋黃，天衣紛擾御爐香。\n蒙塵草莽干戈隔，坐看邊氛蔽日光。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

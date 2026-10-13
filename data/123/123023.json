@@ -1,0 +1,18 @@
+{
+  "work_id": 123023,
+  "work": {
+    "id": 123023,
+    "title": "用刘梦得三题 其一",
+    "title_tr": "用劉夢得三題 其一",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春向晚，斜日在高楼。\n幽花愁脉脉，轻絮去悠悠。\n冉冉三更雨，萧萧通夜愁。",
+    "content_tr": "春向晚，斜日在高樓。\n幽花愁脈脈，輕絮去悠悠。\n冉冉三更雨，蕭蕭通夜愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

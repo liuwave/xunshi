@@ -1,0 +1,18 @@
+{
+  "work_id": 111318,
+  "work": {
+    "id": 111318,
+    "title": "画梅花",
+    "title_tr": "畫梅花",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长恨飘零如楚云，梦中犹记好精神。\n忽逢冷艳冰绡上，叹息侯家占好春。",
+    "content_tr": "長恨飄零如楚雲，夢中猶記好精神。\n忽逢冷豔冰綃上，嘆息侯家佔好春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

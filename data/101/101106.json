@@ -1,0 +1,18 @@
+{
+  "work_id": 101106,
+  "work": {
+    "id": 101106,
+    "title": "鸡鸣（辛卯）",
+    "title_tr": "雞鳴（辛卯）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东方未白鸡长鸣，离人束带步前楹。\n中闺切切再三语，晓寒入室灯光清。\n家童驱鸡误相触，腷腷膊膊飞上屋。",
+    "content_tr": "東方未白雞長鳴，離人束帶步前楹。\n中閨切切再三語，曉寒入室燈光清。\n家童驅雞誤相觸，腷腷膊膊飛上屋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

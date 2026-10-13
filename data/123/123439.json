@@ -1,0 +1,18 @@
+{
+  "work_id": 123439,
+  "work": {
+    "id": 123439,
+    "title": "看书忆北涧",
+    "title_tr": "看書憶北磵",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无事看书倦即休，心灵远与古人游。\n常尊贾岛呼吟佛，盍请刘伶谥醉侯。\n岁晚庭梅真益友，天寒炉火是重裘。\n两冬京浙无消息，老涧年来安健不。",
+    "content_tr": "無事看書倦即休，心靈遠與古人游。\n常尊賈島呼吟佛，盍請劉伶謚醉侯。\n歲晚庭梅真益友，天寒爐火是重裘。\n兩冬京浙無消息，老磵年來安健不。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

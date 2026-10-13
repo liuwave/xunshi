@@ -1,0 +1,18 @@
+{
+  "work_id": 123110,
+  "work": {
+    "id": 123110,
+    "title": "用四明刘聘君古风四韵赋唐律",
+    "title_tr": "用四明劉聘君古風四韻賦唐律",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "错落珠玑满袖倾，百年初见愧生平。\n人从伊傅平头数，句似阴何彻骨清。\n惠我善邻天有意，惜君横道世无情。\n曲终狗尾那能续，欲附曹刘万古名。",
+    "content_tr": "錯落珠璣滿袖傾，百年初見愧生平。\n人從伊傅平頭數，句似陰何徹骨清。\n惠我善鄰天有意，惜君橫道世無情。\n曲終狗尾那能續，欲附曹劉萬古名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

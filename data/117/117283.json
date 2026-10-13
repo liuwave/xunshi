@@ -1,0 +1,18 @@
+{
+  "work_id": 117283,
+  "work": {
+    "id": 117283,
+    "title": "借出诗",
+    "title_tr": "借出詩",
+    "author": "邵雍",
+    "author_tr": "邵雍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗狂书更逸，近岁不胜多。\n大半落天下，未还安乐窝。",
+    "content_tr": "詩狂書更逸，近歲不勝多。\n大半落天下，未還安樂窩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 123945,
+  "work": {
+    "id": 123945,
+    "title": "书室中焚法煮降真香",
+    "title_tr": "書室中焚法煮降真香",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "村落萦盘草半遮，到门犹未识人家。\n终朝静坐无相过，慢火熏香到日斜。",
+    "content_tr": "村落縈盤草半遮，到門猶未識人家。\n終朝靜坐無相過，慢火薰香到日斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

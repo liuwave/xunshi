@@ -1,0 +1,18 @@
+{
+  "work_id": 123132,
+  "work": {
+    "id": 123132,
+    "title": "次仁季咏梅韵",
+    "title_tr": "次仁季詠梅韻",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "误分符竹建星台，官事萦心不到梅。\n粉面莫惊公主艳，铁心曾对广平开。\n托身冰雪刚而栗，取友松筠晚不回。\n已向个中怀鼎味，直须魁占百花来。",
+    "content_tr": "誤分符竹建星臺，官事縈心不到梅。\n粉面莫驚公主豔，鐵心曾對廣平開。\n託身冰雪剛而慄，取友鬆筠晚不回。\n已向箇中懷鼎味，直須魁佔百花來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

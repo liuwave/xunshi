@@ -1,0 +1,18 @@
+{
+  "work_id": 111840,
+  "work": {
+    "id": 111840,
+    "title": "戏题致远书房",
+    "title_tr": "戲題致遠書房",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "照丛菊靥万黄金，欹架薇条半绿阴。\n逋客已随丹凤诏，但馀花草怨秋深。",
+    "content_tr": "照叢菊靨萬黃金，欹架薇條半綠陰。\n逋客已隨丹鳳詔，但餘花草怨秋深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

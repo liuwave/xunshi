@@ -1,0 +1,18 @@
+{
+  "work_id": 123511,
+  "work": {
+    "id": 123511,
+    "title": "春日湖上 其二",
+    "title_tr": "春日湖上 其二",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晚寒晻霭失楼台，弦管声收野意回。\n柳下系舟觅闲伴，更无一个白鸥来。",
+    "content_tr": "晚寒晻靄失樓臺，絃管聲收野意回。\n柳下繫舟覓閑伴，更無一箇白鷗來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

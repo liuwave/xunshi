@@ -1,0 +1,18 @@
+{
+  "work_id": 123027,
+  "work": {
+    "id": 123027,
+    "title": "淮上晓望",
+    "title_tr": "淮上曉望",
+    "author": "张耒",
+    "author_tr": "張耒",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酒醒窗明月半川，怯将病齿漱寒泉。\n楼西别有清秋色，一片淮山在晓烟。",
+    "content_tr": "酒醒窗明月半川，怯將病齒潄寒泉。\n樓西別有清秋色，一片淮山在曉烟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

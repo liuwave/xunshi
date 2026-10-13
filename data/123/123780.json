@@ -1,0 +1,18 @@
+{
+  "work_id": 123780,
+  "work": {
+    "id": 123780,
+    "title": "送吴信叟",
+    "title_tr": "送吳信叟",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人生聚散只寻常，特地关情是异乡。\n夜话不知边月落，离愁还似峡江长。\n抟风有力须腾上，守塞无能合退藏。\n黄阁有人如见问，为言衰病忆东阳。",
+    "content_tr": "人生聚散只尋常，特地關情是異鄉。\n夜話不知邊月落，離愁還似峽江長。\n摶風有力須騰上，守塞無能合退藏。\n黃閣有人如見問，爲言衰病憶東陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

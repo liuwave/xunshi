@@ -1,0 +1,18 @@
+{
+  "work_id": 123409,
+  "work": {
+    "id": 123409,
+    "title": "弃妇",
+    "title_tr": "棄婦",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嫁来未曾出，此去长别离。\n父母亦有家，羞言何以归。\n此日年且少，事姑常有仪。\n见多自成丑，不待颜色衰。\n何人不识宠，所嗟无自非。\n将欲告此意，四邻已相疑。",
+    "content_tr": "嫁來未曾出，此去長別離。\n父母亦有家，羞言何以歸。\n此日年且少，事姑常有儀。\n見多自成醜，不待顏色衰。\n何人不識寵，所嗟無自非。\n將欲告此意，四鄰已相疑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

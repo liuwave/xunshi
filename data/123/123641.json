@@ -1,0 +1,18 @@
+{
+  "work_id": 123641,
+  "work": {
+    "id": 123641,
+    "title": "宿宣化镇僧寺",
+    "title_tr": "宿宣化鎮僧寺",
+    "author": "赵鼎",
+    "author_tr": "趙鼎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "收罾渔浦青裙女，出米商船白纻郎。\n水小交关江上市，空山落日暮烟苍。",
+    "content_tr": "收罾漁浦青裙女，出米商船白紵郎。\n水小交關江上市，空山落日暮煙蒼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

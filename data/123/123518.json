@@ -1,0 +1,18 @@
+{
+  "work_id": 123518,
+  "work": {
+    "id": 123518,
+    "title": "题范石湖淳熙中出守帖",
+    "title_tr": "題范石湖淳熙中出守帖",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "淳熙天子课农桑，黄閤鸿儒绾郡章。\n文物升平今已远，断篇流落入僧房。",
+    "content_tr": "淳熙天子課農桑，黄閤鴻儒綰郡章。\n文物昇平今已遠，斷篇流落入僧房。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

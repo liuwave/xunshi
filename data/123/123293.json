@@ -1,0 +1,18 @@
+{
+  "work_id": 123293,
+  "work": {
+    "id": 123293,
+    "title": "连雨坐湖庄",
+    "title_tr": "連雨坐湖莊",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泥泞政如许，出门安所之。\n龙公无倦日，老子有闲时。\n适意家常酒，忘怀独自棋。\n困来饶一睡，百虑本何思。",
+    "content_tr": "泥濘政如許，出門安所之。\n龍公無倦日，老子有閒時。\n適意家常酒，忘懷獨自棋。\n困來饒一睡，百慮本何思。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

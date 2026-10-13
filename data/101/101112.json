@@ -1,0 +1,18 @@
+{
+  "work_id": 101112,
+  "work": {
+    "id": 101112,
+    "title": "寂寞行（甲午）",
+    "title_tr": "寂寞行（甲午）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寞复寂寞，四壁归来竟何托。\n男儿不肯学干时，终当饿死填沟壑。\n布衣甘蹈湖海滨，饥来乞食行负薪。\n不然射猎南山下，犹胜长安作贵人。",
+    "content_tr": "寂寞復寂寞，四壁歸來竟何託。\n男兒不肯學干時，終當餓死塡溝壑。\n布衣甘蹈湖海濵，飢來乞食行負薪。\n不然射獵南山下，猶勝長安作貴人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

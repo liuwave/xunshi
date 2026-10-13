@@ -1,0 +1,18 @@
+{
+  "work_id": 123316,
+  "work": {
+    "id": 123316,
+    "title": "萧散",
+    "title_tr": "蕭散",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风日倚馀勇，扶春不自由。\n在家曾半面，随我到他州。\n絮后酴醾约，莺前杜宇愁。\n新来无吏责，萧散更何求。",
+    "content_tr": "風日倚餘勇，扶春不自由。\n在家曾半面，隨我到他州。\n絮後酴醾約，鶯前杜宇愁。\n新來無吏責，蕭散更何求。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

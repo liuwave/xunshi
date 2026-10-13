@@ -1,0 +1,18 @@
+{
+  "work_id": 101430,
+  "work": {
+    "id": 101430,
+    "title": "咏古二首 其一 （丁卯）",
+    "title_tr": "詠古二首 其一 （丁卯）",
+    "author": "朱彝尊",
+    "author_tr": "朱彝尊",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉皇将将屈群雄，心许淮阴国士风。\n不分后来输绛灌，名高一十八元功。",
+    "content_tr": "漢皇將將屈羣雄，心許淮陰國士風。\n不分後來輸絳灌，名髙一十八元功。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

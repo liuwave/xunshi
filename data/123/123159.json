@@ -1,0 +1,18 @@
+{
+  "work_id": 123159,
+  "work": {
+    "id": 123159,
+    "title": "课园丁洗竹",
+    "title_tr": "課園丁洗竹",
+    "author": "曹彦约",
+    "author_tr": "曹彥約",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "种竹年华晚，新添数百竿。\n低垂非我好，冗长要人删。\n直节心期露，疏行眼界宽。\n从兹风月夜，清白足相安。",
+    "content_tr": "種竹年華晚，新添數百竿。\n低垂非我好，冗長要人刪。\n直節心期露，疏行眼界寬。\n從茲風月夜，清白足相安。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

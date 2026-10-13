@@ -1,0 +1,18 @@
+{
+  "work_id": 123976,
+  "work": {
+    "id": 123976,
+    "title": "沈商卿砚",
+    "title_tr": "沈商卿硯",
+    "author": "郑刚中",
+    "author_tr": "鄭剛中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眼明见此超万古，色如马肝涵玉质。\n白圭之玷尚可磨，涩不拒笔滑留墨。",
+    "content_tr": "眼明見此超萬古，色如馬肝涵玉質。\n白圭之玷尚可磨，澀不拒筆滑留墨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

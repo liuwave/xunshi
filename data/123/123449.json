@@ -1,0 +1,18 @@
+{
+  "work_id": 123449,
+  "work": {
+    "id": 123449,
+    "title": "寄朋介石",
+    "title_tr": "寄朋介石",
+    "author": "释善珍",
+    "author_tr": "釋善珍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗卷前年手自携，秋风客路易东西。\n游淮战士看飞锡，渡海神鱼惊照犀。\n故国身归疑化鹤，深山睡稳厌闻鸡。\n一生结友皆奇衲，难得如君无町畦。",
+    "content_tr": "詩卷前年手自携，秋風客路易東西。\n遊淮戰士看飛錫，渡海神魚驚照犀。\n故國身歸疑化鶴，深山睡穩厭聞雞。\n一生結友皆奇衲，難得如君無町畦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

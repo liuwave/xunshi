@@ -1,0 +1,18 @@
+{
+  "work_id": 111241,
+  "work": {
+    "id": 111241,
+    "title": "陶侃柏",
+    "title_tr": "陶侃柏",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "四绝堂前枯柏树，晋人栽植宋人吟。\n无枝无叶无吟处，聊寓一时怀古心。",
+    "content_tr": "四絕堂前枯柏樹，晉人栽植宋人吟。\n無枝無葉無吟處，聊寓一時懷古心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
