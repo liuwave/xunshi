@@ -1,0 +1,18 @@
+{
+  "work_id": 86917,
+  "work": {
+    "id": 86917,
+    "title": "红牡丹",
+    "title_tr": "紅牡丹",
+    "author": "王维",
+    "author_tr": "王維",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿艳闲且静，红衣浅复深。\n花心愁欲断，春色岂知心。",
+    "content_tr": "綠豔閑且靜，紅衣淺復深。\n花心愁欲斷，春色豈知心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

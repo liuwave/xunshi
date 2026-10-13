@@ -1,0 +1,18 @@
+{
+  "work_id": 77279,
+  "work": {
+    "id": 77279,
+    "title": "夜闻雷雨大作",
+    "title_tr": "夜聞雷雨大作",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "暗空雾雨无时已，卷地风雷却是晴。\n九十老翁更事久，寄言儿女不须惊。",
+    "content_tr": "暗空霧雨無時已，卷地風雷卻是晴。\n九十老翁更事久，寄言兒女不須驚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

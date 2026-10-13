@@ -1,0 +1,18 @@
+{
+  "work_id": 80021,
+  "work": {
+    "id": 80021,
+    "title": "题古村图",
+    "title_tr": "題古村圖",
+    "author": "赵佶",
+    "author_tr": "趙佶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "深村竹树不知春，远水残霞接断津。\n野客衣冠浑懒散，相逢疑是避秦人。",
+    "content_tr": "深村竹樹不知春，遠水殘霞接斷津。\n野客衣冠渾懶散，相逢疑是避秦人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

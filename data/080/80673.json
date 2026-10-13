@@ -1,0 +1,18 @@
+{
+  "work_id": 80673,
+  "work": {
+    "id": 80673,
+    "title": "仙人",
+    "title_tr": "仙人",
+    "author": "李贺",
+    "author_tr": "李賀",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "弹琴石壁上，翻翻一仙人。\n手持白鸾尾，夜扫南山云。\n鹿饮寒涧下，鱼归清海滨。\n当时汉武帝，书报桃花春。",
+    "content_tr": "彈琴石壁上，翻翻一仙人。\n手持白鸞尾，夜掃南山雲。\n鹿飲寒澗下，魚歸清海濱。\n當時漢武帝，書報桃花春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

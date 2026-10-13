@@ -1,0 +1,18 @@
+{
+  "work_id": 98310,
+  "work": {
+    "id": 98310,
+    "title": "污亭",
+    "title_tr": "污亭",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杂花乱种盘涡底，小屋深居鉴燧心。\n朝市嚣声那得到，晨昏暑气不能侵。",
+    "content_tr": "雜花亂種盤渦底，小屋深居鑑燧心。\n朝市囂聲那得到，晨昏暑氣不能侵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77163,
+  "work": {
+    "id": 77163,
+    "title": "读唐书",
+    "title_tr": "讀唐書",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "力行可使金如土，笃好能徕马若龙。\n斗米三钱本常事，风云千载自难逢。",
+    "content_tr": "力行可使金如土，篤好能徠馬若龍。\n鬥米三錢本常事，風雲千載自難逢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

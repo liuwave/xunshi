@@ -1,0 +1,18 @@
+{
+  "work_id": 80900,
+  "work": {
+    "id": 80900,
+    "title": "金山晚眺",
+    "title_tr": "金山晚眺",
+    "author": "秦观",
+    "author_tr": "秦觀",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西津江口月初弦，水气昏昏上接天。\n清渚白沙茫不辨，只应灯火是渔船。",
+    "content_tr": "西津江口月初弦，水氣昏昏上接天。\n清渚白沙茫不辨，只應燈火是漁船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

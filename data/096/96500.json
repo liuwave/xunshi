@@ -1,0 +1,18 @@
+{
+  "work_id": 96500,
+  "work": {
+    "id": 96500,
+    "title": "赠薛勋下第",
+    "title_tr": "贈薛勛下第",
+    "author": "赵嘏",
+    "author_tr": "趙嘏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一掷虽然未得卢，惊人不用绕床呼。\n牢之坐被青云逼，祗问君能酷似无。",
+    "content_tr": "一擲雖然未得盧，驚人不用繞牀呼。\n牢之坐被青雲逼，祗問君能酷似無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

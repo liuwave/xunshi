@@ -1,0 +1,18 @@
+{
+  "work_id": 99123,
+  "work": {
+    "id": 99123,
+    "title": "送客还山",
+    "title_tr": "送客還山",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乍见即言还，望云归远山。\n舟行白鸟外，路出绿阴间。\n邻父开松径，家童扫竹关。\n世途方扰扰，谁复似君闲。",
+    "content_tr": "乍見即言還，望雲歸遠山。\n舟行白鳥外，路出綠陰間。\n鄰父開鬆徑，家童掃竹關。\n世途方擾擾，誰復似君閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

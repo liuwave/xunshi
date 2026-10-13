@@ -1,0 +1,18 @@
+{
+  "work_id": 99055,
+  "work": {
+    "id": 99055,
+    "title": "诗三首 其一",
+    "title_tr": "詩三首 其一",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "越娘墓下秋风起，脱叶纷纷逐流水。\n只如明月葬高原，不奈霜威损桃李。",
+    "content_tr": "越娘墓下秋風起，脫葉紛紛逐流水。\n只如明月葬高原，不奈霜威損桃李。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

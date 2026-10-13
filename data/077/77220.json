@@ -1,0 +1,18 @@
+{
+  "work_id": 77220,
+  "work": {
+    "id": 77220,
+    "title": "头风戏作",
+    "title_tr": "頭風戲作",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "出门处处皆桃李，我独呻吟一室中。\n只道有诗驱疟鬼，谁知无檄愈头风。",
+    "content_tr": "出門處處皆桃李，我獨呻吟一室中。\n只道有詩驅瘧鬼，誰知無檄愈頭風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 93101,
+  "work": {
+    "id": 93101,
+    "title": "霜夜望月",
+    "title_tr": "霜夜望月",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人静蛩喧天欲霜，不眠独自步风廊。\n闲看月走仍云走，知是云忙复月忙。",
+    "content_tr": "人靜蛩喧天欲霜，不眠獨自步風廊。\n閒看月走仍雲走，知是雲忙復月忙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

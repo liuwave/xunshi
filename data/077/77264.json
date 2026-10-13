@@ -1,0 +1,18 @@
+{
+  "work_id": 77264,
+  "work": {
+    "id": 77264,
+    "title": "花下小酌二首",
+    "title_tr": "花下小酌二首",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云开太华插遥空，我是山中采药翁。\n何日胡尘扫除尽，敷溪道上醉春风。",
+    "content_tr": "雲開太華插遙空，我是山中採藥翁。\n何日胡塵掃除盡，敷溪道上醉春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 82054,
+  "work": {
+    "id": 82054,
+    "title": "芹溪九曲诗",
+    "title_tr": "芹溪九曲詩",
+    "author": "朱熹",
+    "author_tr": "朱熹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一曲移舟采涧芹，市声只隔一江云。\n沙头唤渡人归晚，回首芦峰月一轮。",
+    "content_tr": "一曲移舟採澗芹，市聲只隔一江雲。\n沙頭喚渡人歸晚，回首蘆峯月一輪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

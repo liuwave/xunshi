@@ -1,0 +1,18 @@
+{
+  "work_id": 77019,
+  "work": {
+    "id": 77019,
+    "title": "读夏书",
+    "title_tr": "讀夏書",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "巨浸稽天日沸腾，九州人死若丘陵。\n一朝财得居平土，峻宇雕墙已遽兴。",
+    "content_tr": "巨浸稽天日沸騰，九州人死若丘陵。\n一朝財得居平土，峻宇雕牆已遽興。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

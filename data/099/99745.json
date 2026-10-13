@@ -1,0 +1,18 @@
+{
+  "work_id": 99745,
+  "work": {
+    "id": 99745,
+    "title": "郴口又赠二首 其一",
+    "title_tr": "郴口又贈二首 其一",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山作剑攒江写镜，扁舟斗转疾于飞。\n回头笑向张公子，终日思归此日归。",
+    "content_tr": "山作劍攢江寫鏡，扁舟斗轉疾於飛。\n回頭笑向張公子，終日思歸此日歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

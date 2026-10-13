@@ -1,0 +1,18 @@
+{
+  "work_id": 98801,
+  "work": {
+    "id": 98801,
+    "title": "开元末童谣",
+    "title_tr": "开元末童谣",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山下一群鹿，大鹿来相逐。\n啼杀涧下羊，却被猪儿触。",
+    "content_tr": "山下一群鹿，大鹿来相逐。\n嗁杀涧下羊，却被猪儿触。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

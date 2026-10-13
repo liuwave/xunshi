@@ -1,0 +1,18 @@
+{
+  "work_id": 98000,
+  "work": {
+    "id": 98000,
+    "title": "仲庶同年兄自成都移长安以诗寄贺",
+    "title_tr": "仲庶同年兄自成都移長安以詩寄賀",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蚕丛龟印解，鹑野隼旟新。\n借问锦江乐，何如兴庆春。\n骊歌遮去辙，竹马望行尘。\n惠政如膏雨，遥知彼此均。",
+    "content_tr": "蠶叢龜印解，鶉野隼旟新。\n借問錦江樂，何如興慶春。\n驪歌遮去轍，竹馬望行塵。\n惠政如膏雨，遙知彼此均。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

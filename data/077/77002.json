@@ -1,0 +1,18 @@
+{
+  "work_id": 77002,
+  "work": {
+    "id": 77002,
+    "title": "菱歌",
+    "title_tr": "菱歌",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海内知心人渐少，眼前败意事常多。\n问君底事浑忘却，月下菱舟一曲歌。",
+    "content_tr": "海內知心人漸少，眼前敗意事常多。\n問君底事渾忘卻，月下菱舟一曲歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

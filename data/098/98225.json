@@ -1,0 +1,18 @@
+{
+  "work_id": 98225,
+  "work": {
+    "id": 98225,
+    "title": "醉",
+    "title_tr": "醉",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "厚于太古暖于春，耳目无营见道真。\n果使屈原知醉趣，当年不作独醒人。",
+    "content_tr": "厚於太古暖於春，耳目無營見道真。\n果使屈原知醉趣，當年不作獨醒人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

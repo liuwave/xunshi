@@ -1,0 +1,18 @@
+{
+  "work_id": 90400,
+  "work": {
+    "id": 90400,
+    "title": "武昌夜泊",
+    "title_tr": "武昌夜泊",
+    "author": "谭嗣同",
+    "author_tr": "譚嗣同",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋老夜苍苍，鸡鸣天雨霜。\n星河千里白，鼓角一城凉。\n镫炫新番舶，磷啼旧战场。\n青山终不改，人事费兴亡。",
+    "content_tr": "秋老夜蒼蒼，雞鳴天雨霜。\n星河千里白，鼓角一城涼。\n鐙炫新番舶，磷啼舊戰場。\n青山終不改，人事費興亡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

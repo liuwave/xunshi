@@ -1,0 +1,18 @@
+{
+  "work_id": 80211,
+  "work": {
+    "id": 80211,
+    "title": "读陈去非九日诗",
+    "title_tr": "讀陳去非九日詩",
+    "author": "仇远",
+    "author_tr": "仇遠",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆得甲辰重九日，宣和遗恨几番秋。\n蒋陵依旧西风在，一度黄花一度愁。",
+    "content_tr": "憶得甲辰重九日，宣和遺恨幾番秋。\n蔣陵依舊西風在，一度黄花一度愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

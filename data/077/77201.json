@@ -1,0 +1,18 @@
+{
+  "work_id": 77201,
+  "work": {
+    "id": 77201,
+    "title": "蚕麦",
+    "title_tr": "蠶麥",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "村村桑暗少桑姑，户户麦丰无麦奴。\n又是一年春事了，缫丝捣麨笑相呼。",
+    "content_tr": "村村桑暗少桑姑，戶戶麥豐無麥奴。\n又是一年春事了，繅絲搗麨笑相呼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 94551,
+  "work": {
+    "id": 94551,
+    "title": "轿中绝句",
+    "title_tr": "轎中絕句",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪洗林花颊，金挼陇麦髯。\n卷帘双眼远，隔树一峰尖。",
+    "content_tr": "雪洗林花頰，金挼隴麥髯。\n捲簾雙眼遠，隔樹一峰尖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77131,
+  "work": {
+    "id": 77131,
+    "title": "舟中记梦",
+    "title_tr": "舟中記夢",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石帆山下一渔翁，风雨萧萧卧短篷。\n幽梦觉时还自笑，阆州城北看蚕丛。",
+    "content_tr": "石帆山下一漁翁，風雨蕭蕭臥短篷。\n幽夢覺時還自笑，閬州城北看蠶叢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99628,
+  "work": {
+    "id": 99628,
+    "title": "寝斋夜咏",
+    "title_tr": "寝斋夜咏",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沉沉寒夜里，寂寞有谁怜。\n赖得窗间月，犹能照独眠。",
+    "content_tr": "沉沉寒夜里，寂寞有谁怜。\n赖得窓间月，犹能照独眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

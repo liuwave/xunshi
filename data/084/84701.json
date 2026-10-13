@@ -1,0 +1,18 @@
+{
+  "work_id": 84701,
+  "work": {
+    "id": 84701,
+    "title": "黄雀",
+    "title_tr": "黃雀",
+    "author": "黄庭坚",
+    "author_tr": "黃庭堅",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "牛大垂天且割烹，细微黄雀莫贪生。\n头颅虽复行万里，犹和盐梅傅说羹。",
+    "content_tr": "牛大垂天且割烹，細微黃雀莫貪生。\n頭顱雖復行萬里，猶和鹽梅傅說羹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 79860,
+  "work": {
+    "id": 79860,
+    "title": "鹦鹉杯诗",
+    "title_tr": "鸚鵡杯詩",
+    "author": "杜甫",
+    "author_tr": "杜甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雕琢形仪似陇禽，绿杨影里可分斟。\n坐间恨不能言语，说我平生酒量深。",
+    "content_tr": "雕琢形儀似隴禽，綠楊影裏可分斟。\n坐間恨不能言語，說我平生酒量深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

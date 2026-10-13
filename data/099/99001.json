@@ -1,0 +1,18 @@
+{
+  "work_id": 99001,
+  "work": {
+    "id": 99001,
+    "title": "俚语",
+    "title_tr": "俚语",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "骑虎者，势不得下。",
+    "content_tr": "骑虎者，势不得下。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

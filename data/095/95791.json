@@ -1,0 +1,18 @@
+{
+  "work_id": 95791,
+  "work": {
+    "id": 95791,
+    "title": "扬州城下赋",
+    "title_tr": "揚州城下賦",
+    "author": "文天祥",
+    "author_tr": "文天祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黯云霜雾暗扶桑，半壁东南尽雪霜。\n壮气不随天地变，笑骑飞鹤入维扬。",
+    "content_tr": "黯雲霜霧暗扶桑，半壁東南盡雪霜。\n壯氣不隨天地變，笑騎飛鶴入維揚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

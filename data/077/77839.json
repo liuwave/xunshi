@@ -1,0 +1,18 @@
+{
+  "work_id": 77839,
+  "work": {
+    "id": 77839,
+    "title": "牧牛儿",
+    "title_tr": "牧牛兒",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南村牧牛儿，赤脚踏牛立。\n衣穿江风冷，笠败山雨急。\n长陂望若远，隘巷忽相及。\n儿归牛入栏，烟火茆檐湿。",
+    "content_tr": "南村牧牛兒，赤腳踏牛立。\n衣穿江風冷，笠敗山雨急。\n長陂望若遠，隘巷忽相及。\n兒歸牛入欄，煙火茆檐溼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

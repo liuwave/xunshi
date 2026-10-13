@@ -1,0 +1,18 @@
+{
+  "work_id": 80004,
+  "work": {
+    "id": 80004,
+    "title": "上清乐",
+    "title_tr": "上清樂",
+    "author": "赵佶",
+    "author_tr": "趙佶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "流汩池中大宝莲，开花十丈映池泉。\n嗅香饮水无饥渴，绰约金华叶上仙。",
+    "content_tr": "流汩池中大寶蓮，開花十丈映池泉。\n嗅香飲水無飢渴，綽約金華葉上仙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

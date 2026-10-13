@@ -1,0 +1,18 @@
+{
+  "work_id": 87456,
+  "work": {
+    "id": 87456,
+    "title": "琴高鱼",
+    "title_tr": "琴高魚",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琴高一去不复见，神仙虽有亦何为。\n溪鳞佳味自可爱，何必虚名务好奇。",
+    "content_tr": "琴高一去不復見，神仙雖有亦何爲。\n溪鱗佳味自可愛，何必虛名務好奇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

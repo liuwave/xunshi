@@ -1,0 +1,18 @@
+{
+  "work_id": 92345,
+  "work": {
+    "id": 92345,
+    "title": "立春新晴",
+    "title_tr": "立春新晴",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宿云送腊晓仍开，日动江光度竹来。\n春到更晴谁不喜，时迁不道老相催。\n山村敢惜身犹远，边地应怜战未回。\n春鸟岂知人意绪，新声只欲劝衔杯。",
+    "content_tr": "宿雲送臘曉仍開，日動江光度竹來。\n春到更晴誰不喜，時遷不道老相催。\n山村敢惜身猶遠，邊地應憐戰未回。\n春鳥豈知人意緒，新聲只欲勸銜杯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

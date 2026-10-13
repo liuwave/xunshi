@@ -1,0 +1,18 @@
+{
+  "work_id": 78740,
+  "work": {
+    "id": 78740,
+    "title": "回文",
+    "title_tr": "迴文",
+    "author": "高启",
+    "author_tr": "高啓",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风帘一烛对残花，薄雾寒笼翠袖纱。\n空院别愁惊破梦，东阑井树夜啼鸦。",
+    "content_tr": "風簾一燭對殘花，薄霧寒籠翠袖紗。\n空院別愁驚破夢，東闌井樹夜啼鴉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

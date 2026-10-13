@@ -1,0 +1,18 @@
+{
+  "work_id": 80031,
+  "work": {
+    "id": 80031,
+    "title": "宫词 其十五",
+    "title_tr": "宮詞 其十五",
+    "author": "赵佶",
+    "author_tr": "趙佶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云岩小石碧嶙峋，莹彻仍移玉座亲。\n千仞乔崧虽突秀，未如纤巧具天真。",
+    "content_tr": "雲巖小石碧嶙峋，瑩徹仍移玉座親。\n千仞喬崧雖突秀，未如纖巧具天真。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

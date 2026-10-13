@@ -1,0 +1,18 @@
+{
+  "work_id": 88900,
+  "work": {
+    "id": 88900,
+    "title": "孤山隐居书壁",
+    "title_tr": "孤山隱居書壁",
+    "author": "林逋",
+    "author_tr": "林逋",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山水未深猿鸟少，此生犹拟别移居。\n直过天竺溪流上，独树为桥小结庐。",
+    "content_tr": "山水未深猿鳥少，此生猶擬別移居。\n直過天竺溪流上，獨樹爲橋小結廬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

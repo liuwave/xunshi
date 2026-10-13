@@ -1,0 +1,18 @@
+{
+  "work_id": 87506,
+  "work": {
+    "id": 87506,
+    "title": "行云",
+    "title_tr": "行雲",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "叠叠烟波隔梦思，离愁几日减要围。\n行云自亦伤无定，莫就行云托信归。",
+    "content_tr": "疊疊煙波隔夢思，離愁幾日減要圍。\n行雲自亦傷無定，莫就行雲託信歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

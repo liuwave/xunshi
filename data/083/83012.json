@@ -1,0 +1,18 @@
+{
+  "work_id": 83012,
+  "work": {
+    "id": 83012,
+    "title": "卧闻",
+    "title_tr": "臥聞",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卧闻黄栗留，起见白符鸠。\n坐引鱼儿戏，行将鹿女游。",
+    "content_tr": "臥聞黃慄留，起見白符鳩。\n坐引魚兒戲，行將鹿女遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

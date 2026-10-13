@@ -1,0 +1,18 @@
+{
+  "work_id": 99599,
+  "work": {
+    "id": 99599,
+    "title": "四贤诗 其三",
+    "title_tr": "四贤诗 其三",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "刺史放衙早，轻舟泛碧池。\n只应官事了，来写放生碑。",
+    "content_tr": "刺史放衙早，轻舟泛碧池。\n祗应官事了，来冩放生碑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

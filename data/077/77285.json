@@ -1,0 +1,18 @@
+{
+  "work_id": 77285,
+  "work": {
+    "id": 77285,
+    "title": "琴剑",
+    "title_tr": "琴劍",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "流尘冉冉琴谁鼓，渍血斑斑剑不磨。\n俱是人间感怀事，岂无壮士为悲歌。",
+    "content_tr": "流塵冉冉琴誰鼓，漬血斑斑劍不磨。\n俱是人間感懷事，豈無壯士爲悲歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

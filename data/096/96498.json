@@ -1,0 +1,18 @@
+{
+  "work_id": 96498,
+  "work": {
+    "id": 96498,
+    "title": "茅山道中",
+    "title_tr": "茅山道中",
+    "author": "赵嘏",
+    "author_tr": "趙嘏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "溪树重重水乱流，马嘶残雨晚程秋。\n门前便是仙山路，目送归云不得游。",
+    "content_tr": "溪樹重重水亂流，馬嘶殘雨晚程秋。\n門前便是仙山路，目送歸雲不得遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

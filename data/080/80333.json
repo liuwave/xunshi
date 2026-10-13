@@ -1,0 +1,18 @@
+{
+  "work_id": 80333,
+  "work": {
+    "id": 80333,
+    "title": "秋扇词",
+    "title_tr": "秋扇詞",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫道恩情无重来，人间荣谢递相催。\n当时初入君怀袖，岂念寒炉有死灰。",
+    "content_tr": "莫道恩情無重來，人間榮謝遞相催。\n當時初入君懷袖，豈念寒爐有死灰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

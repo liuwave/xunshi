@@ -1,0 +1,18 @@
+{
+  "work_id": 99710,
+  "work": {
+    "id": 99710,
+    "title": "入关咏马",
+    "title_tr": "入關詠馬",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岁老岂能充上驷，力微当自慎前程。\n不知何故翻骧首，牵过关门妄一鸣。",
+    "content_tr": "歲老豈能充上駟，力微當自慎前程。\n不知何故翻驤首，牽過關門妄一鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

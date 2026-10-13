@@ -1,0 +1,18 @@
+{
+  "work_id": 80769,
+  "work": {
+    "id": 80769,
+    "title": "相和歌辞 · 塘上行",
+    "title_tr": "相和歌辭塘上行",
+    "author": "李贺",
+    "author_tr": "李賀",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "藕花凉露湿，花缺藕根涩。\n飞下雌鸳鸯，塘水声溢溢。",
+    "content_tr": "藕花涼露溼，花缺藕根澀。\n飛下雌鴛鴦，塘水聲溢溢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

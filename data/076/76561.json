@@ -1,0 +1,18 @@
+{
+  "work_id": 76561,
+  "work": {
+    "id": 76561,
+    "title": "欲游五峰不果往小诗寄莹老",
+    "title_tr": "欲遊五峯不果往小詩寄瑩老",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东来恨不见汤休，千首清诗傥许求。\n要与茶山灯下读，莫令侍者作蝇头。",
+    "content_tr": "東來恨不見湯休，千首清詩儻許求。\n要與茶山燈下讀，莫令侍者作蠅頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

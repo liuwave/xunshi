@@ -1,0 +1,18 @@
+{
+  "work_id": 99003,
+  "work": {
+    "id": 99003,
+    "title": "蜀人为南诏语",
+    "title_tr": "蜀人为南诏语",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西戎尚可，南蛮残我。",
+    "content_tr": "西戎尚可，南蛮残我。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

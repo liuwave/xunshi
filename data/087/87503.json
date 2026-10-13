@@ -1,0 +1,18 @@
+{
+  "work_id": 87503,
+  "work": {
+    "id": 87503,
+    "title": "三桥诗飞盖",
+    "title_tr": "三橋詩飛蓋",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸣驺入远树，飞盖渡长桥。\n水阔鹭双起，波明鱼自跳。",
+    "content_tr": "鳴騶入遠樹，飛蓋渡長橋。\n水闊鷺雙起，波明魚自跳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

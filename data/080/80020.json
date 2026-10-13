@@ -1,0 +1,18 @@
+{
+  "work_id": 80020,
+  "work": {
+    "id": 80020,
+    "title": "宫词 其三十二",
+    "title_tr": "宮詞 其三十二",
+    "author": "赵佶",
+    "author_tr": "趙佶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟静云娇露已晞，昼长人困杏花时。\n秋千闲倚楼台看，尽日无风彩索垂。",
+    "content_tr": "煙静雲嬌露已晞，晝長人困杏花時。\n鞦韆閑倚樓臺看，盡日無風彩索垂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

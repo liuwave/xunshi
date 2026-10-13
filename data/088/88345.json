@@ -1,0 +1,18 @@
+{
+  "work_id": 88345,
+  "work": {
+    "id": 88345,
+    "title": "北苑十咏 其二 北苑",
+    "title_tr": "北苑十詠 其二 北苑",
+    "author": "蔡襄",
+    "author_tr": "蔡襄",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍山走千里，斗落分两臂。\n灵泉出地清，嘉卉得天味。\n入门脱世氛，官曹真傲吏。",
+    "content_tr": "蒼山走千里，斗落分兩臂。\n靈泉出地清，嘉卉得天味。\n入門脫世氛，官曹真傲吏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

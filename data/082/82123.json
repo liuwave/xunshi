@@ -1,0 +1,18 @@
+{
+  "work_id": 82123,
+  "work": {
+    "id": 82123,
+    "title": "吴山高",
+    "title_tr": "吳山高",
+    "author": "朱熹",
+    "author_tr": "朱熹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行尽吴山过越山，白云犹是几重关。\n若寻汗漫相期处，更在孤鸿灭没间。",
+    "content_tr": "行盡吳山過越山，白雲猶是幾重關。\n若尋汗漫相期處，更在孤鴻滅沒間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

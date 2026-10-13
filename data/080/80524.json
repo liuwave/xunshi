@@ -1,0 +1,18 @@
+{
+  "work_id": 80524,
+  "work": {
+    "id": 80524,
+    "title": "秋虫",
+    "title_tr": "秋蟲",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "切切暗窗下，喓喓深草里。\n秋天思妇心，雨夜愁人耳。",
+    "content_tr": "切切闇窗下，喓喓深草裏。\n秋天思婦心，雨夜愁人耳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77207,
+  "work": {
+    "id": 77207,
+    "title": "小竖醉",
+    "title_tr": "小豎醉",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漫道樽中酒不空，歌呼谁解和衰翁。\n可怜小竖如猱玃，却有平阳吏舍风。",
+    "content_tr": "漫道樽中酒不空，歌呼誰解和衰翁。\n可憐小豎如猱玃，卻有平陽吏舍風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

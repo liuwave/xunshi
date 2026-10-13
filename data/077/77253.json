@@ -1,0 +1,18 @@
+{
+  "work_id": 77253,
+  "work": {
+    "id": 77253,
+    "title": "读陶诗",
+    "title_tr": "讀陶詩",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "陶谢文章造化侔，篇成能使鬼神愁。\n君看夏木扶疏句，还许诗家更道不。",
+    "content_tr": "陶謝文章造化侔，篇成能使鬼神愁。\n君看夏木扶疏句，還許詩家更道不。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99017,
+  "work": {
+    "id": 99017,
+    "title": "南宋民歌 · 月儿弯弯照九州",
+    "title_tr": "南宋民歌 · 月兒彎彎照九州",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "月儿弯弯照九州，几家欢乐几家愁。\n几家夫妇同罗帐，几个飘零在外头。",
+    "content_tr": "月兒彎彎照九州，幾家歡樂幾家愁。\n幾家夫婦同羅帳，幾個飄零在外頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

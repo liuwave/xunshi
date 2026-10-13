@@ -1,0 +1,18 @@
+{
+  "work_id": 76859,
+  "work": {
+    "id": 76859,
+    "title": "渔歌",
+    "title_tr": "漁歌",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "斜阳收尽暮烟青，袅袅渔歌起远汀。\n商略野人何所恨，数声哀绝不堪听。",
+    "content_tr": "斜陽收盡暮煙青，嫋嫋漁歌起遠汀。\n商略野人何所恨，數聲哀絕不堪聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

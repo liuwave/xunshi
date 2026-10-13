@@ -1,0 +1,18 @@
+{
+  "work_id": 99342,
+  "work": {
+    "id": 99342,
+    "title": "四贤诗",
+    "title_tr": "四賢詩",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "胜日罢书经，扬舲出远坰。\n清流兼峻岭，应不减兰亭。",
+    "content_tr": "勝日罷書經，揚舲出遠坰。\n清流兼峻嶺，應不減蘭亭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

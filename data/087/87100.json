@@ -1,0 +1,18 @@
+{
+  "work_id": 87100,
+  "work": {
+    "id": 87100,
+    "title": "书酒家壁",
+    "title_tr": "書酒家壁",
+    "author": "范仲淹",
+    "author_tr": "范仲淹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "当垆一曲竹枝歌，肠断江南奈尔何。\n游子未归春又老，夜来风雨落花多。",
+    "content_tr": "當壚一曲竹枝歌，腸斷江南奈爾何。\n遊子未歸春又老，夜來風雨落花多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

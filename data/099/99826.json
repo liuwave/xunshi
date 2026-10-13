@@ -1,0 +1,18 @@
+{
+  "work_id": 99826,
+  "work": {
+    "id": 99826,
+    "title": "椿",
+    "title_tr": "椿",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "峨峨楚南树，杳杳含风韵。\n何用八千秋，腾凌诧朝菌。",
+    "content_tr": "峨峨楚南樹，杳杳含風韻。\n何用八千秋，騰凌詫朝菌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99810,
+  "work": {
+    "id": 99810,
+    "title": "端午词内廷",
+    "title_tr": "端午詞內廷",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百草斗馀欣令月，五丝萦后祝遐年。\n洞房风暖垂灵艾，神沼波深竞彩船。",
+    "content_tr": "百草鬥餘欣令月，五絲縈後祝遐年。\n洞房風暖垂靈艾，神沼波深競綵船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

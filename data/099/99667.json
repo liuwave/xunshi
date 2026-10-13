@@ -1,0 +1,18 @@
+{
+  "work_id": 99667,
+  "work": {
+    "id": 99667,
+    "title": "西湖秋晚",
+    "title_tr": "西湖秋晚",
+    "author": "叶绍翁",
+    "author_tr": "葉紹翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "爱山不买城中地，畏客长撑屋后船。\n荷叶无多秋事晚，又同鸥鹭过残年。",
+    "content_tr": "愛山不買城中地，畏客長撐屋後船。\n荷葉無多秋事晚，又同鷗鷺過殘年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

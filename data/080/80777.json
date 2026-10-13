@@ -1,0 +1,18 @@
+{
+  "work_id": 80777,
+  "work": {
+    "id": 80777,
+    "title": "马诗二十三首（其八）",
+    "title_tr": "馬詩二十三首（其八）",
+    "author": "李贺",
+    "author_tr": "李賀",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "赤兔无人用，当须吕布骑。\n吾闻果下马，羁策任蛮儿。",
+    "content_tr": "赤兔無人用，當須呂布騎。\n吾聞果下馬，羇策任蠻兒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 90484,
+  "work": {
+    "id": 90484,
+    "title": "昨夜二首",
+    "title_tr": "昨夜二首",
+    "author": "龚自珍",
+    "author_tr": "龔自珍",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昨夜江潮平未平，篷窗有客感三生。\n药炉卧听浑如沸，不似墙东钗钏声。",
+    "content_tr": "昨夜江潮平未平，篷窗有客感三生。\n藥爐臥聽渾如沸，不似牆東釵釧聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

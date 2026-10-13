@@ -1,0 +1,18 @@
+{
+  "work_id": 99005,
+  "work": {
+    "id": 99005,
+    "title": "南溪故老传语",
+    "title_tr": "南溪故老传语",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东石从西，乞子将归。",
+    "content_tr": "东石从西，乞子将归。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

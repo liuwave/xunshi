@@ -1,0 +1,18 @@
+{
+  "work_id": 77030,
+  "work": {
+    "id": 77030,
+    "title": "暮秋六首",
+    "title_tr": "暮秋六首",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百年大耋龙钟日，九月初寒惨淡天。\n岭谷高低明野火，村墟远近起炊烟。",
+    "content_tr": "百年大耋龍鍾日，九月初寒慘淡天。\n嶺谷高低明野火，村墟遠近起炊煙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

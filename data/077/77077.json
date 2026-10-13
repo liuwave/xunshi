@@ -1,0 +1,18 @@
+{
+  "work_id": 77077,
+  "work": {
+    "id": 77077,
+    "title": "赠鸡",
+    "title_tr": "贈雞",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青铜三百买乌鸡，辟地墙东为择栖。\n更聘一雌全物性，莫辞风雨五更啼。",
+    "content_tr": "青銅三百買烏雞，闢地牆東爲擇棲。\n更聘一雌全物性，莫辭風雨五更啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

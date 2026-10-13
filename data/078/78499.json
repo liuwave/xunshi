@@ -1,0 +1,18 @@
+{
+  "work_id": 78499,
+  "work": {
+    "id": 78499,
+    "title": "雨寒戏作",
+    "title_tr": "雨寒戲作",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扫园收槲叶，掊地甃砖炉。\n幸有藜烹粥，何惭纸作襦。",
+    "content_tr": "掃園收槲葉，掊地甃磚爐。\n幸有藜烹粥，何慚紙作襦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

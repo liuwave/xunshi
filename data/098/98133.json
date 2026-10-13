@@ -1,0 +1,18 @@
+{
+  "work_id": 98133,
+  "work": {
+    "id": 98133,
+    "title": "吹箫",
+    "title_tr": "吹簫",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古人吹箫者，以和虞韶声。\n后世不复贵，给丧仍卖饧。",
+    "content_tr": "古人吹簫者，以和虞韶聲。\n後世不復貴，給喪仍賣餳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

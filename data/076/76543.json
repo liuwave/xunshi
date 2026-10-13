@@ -1,0 +1,18 @@
+{
+  "work_id": 76543,
+  "work": {
+    "id": 76543,
+    "title": "迎诏书",
+    "title_tr": "迎詔書",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆瞻銮仗省门前，扇影鞭声下九天。\n寂寞嘉州迎诏处，忽闻鼓吹却悽然。",
+    "content_tr": "憶瞻鑾仗省門前，扇影鞭聲下九天。\n寂寞嘉州迎詔處，忽聞鼓吹卻悽然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

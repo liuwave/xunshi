@@ -1,0 +1,18 @@
+{
+  "work_id": 99445,
+  "work": {
+    "id": 99445,
+    "title": "燕山春暮",
+    "title_tr": "燕山春暮",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金水桥边蜀鸟啼，玉泉山下柳花飞。\n江南江北三千里，愁绝春归客未归。",
+    "content_tr": "金水橋邊蜀鳥啼，玉泉山下柳花飛。\n江南江北三千里，愁絕春歸客未歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

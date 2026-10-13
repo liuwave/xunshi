@@ -1,0 +1,18 @@
+{
+  "work_id": 77214,
+  "work": {
+    "id": 77214,
+    "title": "赠丐士",
+    "title_tr": "贈丐士",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "志士宁闻毕世穷，此间从古混蛇龙。\n尚能忍耻墦间祭，安用追惭饭后钟。",
+    "content_tr": "志士寧聞畢世窮，此間從古混蛇龍。\n尚能忍恥墦間祭，安用追慚飯後鐘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

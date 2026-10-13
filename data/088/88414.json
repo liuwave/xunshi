@@ -1,0 +1,18 @@
+{
+  "work_id": 88414,
+  "work": {
+    "id": 88414,
+    "title": "月下听砧",
+    "title_tr": "月下聽砧",
+    "author": "刘长卿",
+    "author_tr": "劉長卿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜静掩寒城，清砧发何处？\n声声捣秋月，肠断卢龙戍。\n未得寄征人，愁霜复愁露。",
+    "content_tr": "夜靜掩寒城，清砧發何處？\n聲聲擣秋月，腸斷盧龍戍。\n未得寄征人，愁霜復愁露。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

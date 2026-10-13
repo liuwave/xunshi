@@ -1,0 +1,18 @@
+{
+  "work_id": 93333,
+  "work": {
+    "id": 93333,
+    "title": "轿中望泛仙山",
+    "title_tr": "轎中望泛仙山",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上却篮舆卷却帘，晓寒旋索熟衣添。\n孤松已自三千丈，更在仙山第一尖。",
+    "content_tr": "上卻籃輿卷卻簾，曉寒旋索熟衣添。\n孤鬆已自三千丈，更在仙山第一尖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

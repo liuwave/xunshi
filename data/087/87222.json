@@ -1,0 +1,18 @@
+{
+  "work_id": 87222,
+  "work": {
+    "id": 87222,
+    "title": "雨后独行洛北",
+    "title_tr": "雨後獨行洛北",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北阙望南山，明岚杂紫烟。\n归云向嵩岭，残雨过伊川。\n树绕芳堤外，桥横落照前。\n依依半荒苑，行处独闻蝉。",
+    "content_tr": "北闕望南山，明嵐雜紫煙。\n歸雲向嵩嶺，殘雨過伊川。\n樹繞芳堤外，橋橫落照前。\n依依半荒苑，行處獨聞蟬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

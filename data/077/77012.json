@@ -1,0 +1,18 @@
+{
+  "work_id": 77012,
+  "work": {
+    "id": 77012,
+    "title": "观方外书",
+    "title_tr": "觀方外書",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "司马遗书有坐忘，顗翁止观略相当。\n龟堂闭户常终日，时得相从一炷香。",
+    "content_tr": "司馬遺書有坐忘，顗翁止觀略相當。\n龜堂閉戶常終日，時得相從一炷香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

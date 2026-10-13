@@ -1,0 +1,18 @@
+{
+  "work_id": 91505,
+  "work": {
+    "id": 91505,
+    "title": "梦中作宫词",
+    "title_tr": "夢中作宮詞",
+    "author": "杨慎",
+    "author_tr": "楊慎",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长信宫中夜未央，斑姬团扇画秦王。\n三更云屋西风起，翠粲红罗满玉霜。",
+    "content_tr": "長信宮中夜未央，斑姬團扇畫秦王。\n三更雲屋西風起，翠粲紅羅滿玉霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

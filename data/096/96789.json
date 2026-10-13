@@ -1,0 +1,18 @@
+{
+  "work_id": 96789,
+  "work": {
+    "id": 96789,
+    "title": "北楼晚晴望秦岭",
+    "title_tr": "北樓晚晴望秦嶺",
+    "author": "文同",
+    "author_tr": "文同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秦岭巉巉列万峰，晚岚浑欲滴晴空。\n如何学得崔重易，吟啸终南明月中。",
+    "content_tr": "秦嶺巉巉列萬峯，晚嵐渾欲滴晴空。\n如何學得崔重易，吟嘯終南明月中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 87001,
+  "work": {
+    "id": 87001,
+    "title": "越上闻子规",
+    "title_tr": "越上聞子規",
+    "author": "范仲淹",
+    "author_tr": "范仲淹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜入翠烟啼，昼寻芳树飞。\n春山无限好，犹道不如归。",
+    "content_tr": "夜入翠煙啼，晝尋芳樹飛。\n春山無限好，猶道不如歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

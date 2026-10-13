@@ -1,0 +1,18 @@
+{
+  "work_id": 83200,
+  "work": {
+    "id": 83200,
+    "title": "戏城中故人",
+    "title_tr": "戲城中故人",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "城郭山林路半分，君家尘土我家云。\n莫吹尘土来污我，我自有云持寄君。",
+    "content_tr": "城郭山林路半分，君家塵土我家雲。\n莫吹塵土來污我，我自有云持寄君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

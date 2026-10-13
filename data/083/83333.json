@@ -1,0 +1,18 @@
+{
+  "work_id": 83333,
+  "work": {
+    "id": 83333,
+    "title": "送陈景初",
+    "title_tr": "送陳景初",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "惨淡淮山水墨秋，行人不饮奈离愁。\n药囊直入长安市，谁识柴车载伯休。",
+    "content_tr": "慘淡淮山水墨秋，行人不飲奈離愁。\n藥囊直入長安市，誰識柴車載伯休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

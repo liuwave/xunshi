@@ -1,0 +1,18 @@
+{
+  "work_id": 90300,
+  "work": {
+    "id": 90300,
+    "title": "秋夕病中",
+    "title_tr": "秋夕病中",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "坏屋不眠风雨夜，故园无信水云秋。\n病中枕上谁相问，一一蝉声槐树头。",
+    "content_tr": "壞屋不眠風雨夜，故園無信水雲秋。\n病中枕上誰相問，一一蟬聲槐樹頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

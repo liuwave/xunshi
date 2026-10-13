@@ -1,0 +1,18 @@
+{
+  "work_id": 93973,
+  "work": {
+    "id": 93973,
+    "title": "寒鸡",
+    "title_tr": "寒雞",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒鸡睡著不知晨，多谢钟声唤起人。\n明晓莫教钟睡著，被它鸡笑不须嗔。",
+    "content_tr": "寒雞睡著不知晨，多謝鐘聲喚起人。\n明曉莫教鍾睡著，被它雞笑不須嗔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

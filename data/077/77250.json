@@ -1,0 +1,18 @@
+{
+  "work_id": 77250,
+  "work": {
+    "id": 77250,
+    "title": "戏咏园中春草二首",
+    "title_tr": "戲詠園中春草二首",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "离离幽草自成丛，过眼儿童采撷空。\n不知马兰入晨俎，何似燕麦摇春风。",
+    "content_tr": "離離幽草自成叢，過眼兒童採擷空。\n不知馬蘭入晨俎，何似燕麥搖春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77185,
+  "work": {
+    "id": 77185,
+    "title": "饮村酒",
+    "title_tr": "飲村酒",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湘浦骚人咏啜漓，黄州饮湿又增奇。\n纷纷坐客评清浊，我已昏然睡不知。",
+    "content_tr": "湘浦騷人詠啜漓，黃州飲溼又增奇。\n紛紛坐客評清濁，我已昏然睡不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

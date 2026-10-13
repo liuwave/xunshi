@@ -1,0 +1,18 @@
+{
+  "work_id": 99014,
+  "work": {
+    "id": 99014,
+    "title": "俗语",
+    "title_tr": "俗语",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "王母甘桃，食之解劳。",
+    "content_tr": "王母甘桃，食之解劳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

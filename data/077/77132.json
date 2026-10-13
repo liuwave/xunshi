@@ -1,0 +1,18 @@
+{
+  "work_id": 77132,
+  "work": {
+    "id": 77132,
+    "title": "观渡江诸人诗",
+    "title_tr": "觀渡江諸人詩",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "中朝文有汉唐风，南渡诗人尚数公。\n正使词源有深浅，病怀羁思亦相同。",
+    "content_tr": "中朝文有漢唐風，南渡詩人尚數公。\n正使詞源有深淺，病懷羈思亦相同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

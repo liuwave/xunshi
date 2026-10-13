@@ -1,0 +1,18 @@
+{
+  "work_id": 90481,
+  "work": {
+    "id": 90481,
+    "title": "杭州龙井寺",
+    "title_tr": "杭州龍井寺",
+    "author": "龚自珍",
+    "author_tr": "龔自珍",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红泥亭倒客来稀，钟磬沉沉出翠微。\n无分安禅翻破戒，盗他常住一花归。",
+    "content_tr": "紅泥亭倒客來稀，鐘磬沉沉出翠微。\n無分安禪翻破戒，盜他常住一花歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

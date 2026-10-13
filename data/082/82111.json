@@ -1,0 +1,18 @@
+{
+  "work_id": 82111,
+  "work": {
+    "id": 82111,
+    "title": "苦雨用俳谐体",
+    "title_tr": "苦雨用俳諧體",
+    "author": "朱熹",
+    "author_tr": "朱熹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仰诉天公雨太多，才方欲住又滂沱。\n九关虎豹还知否，烂尽田中白死禾。",
+    "content_tr": "仰訴天公雨太多，才方欲住又滂沱。\n九關虎豹還知否，爛盡田中白死禾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

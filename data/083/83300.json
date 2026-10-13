@@ -1,0 +1,18 @@
+{
+  "work_id": 83300,
+  "work": {
+    "id": 83300,
+    "title": "张良",
+    "title_tr": "張良",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉业存亡俯仰中，留侯当此每从容。\n固陵始议韩彭地，复道方图雍齿封。",
+    "content_tr": "漢業存亡俯仰中，留侯當此每從容。\n固陵始議韓彭地，複道方圖雍齒封。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

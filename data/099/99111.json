@@ -1,0 +1,18 @@
+{
+  "work_id": 99111,
+  "work": {
+    "id": 99111,
+    "title": "寄于文祥",
+    "title_tr": "寄於文祥",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十载同书砚，于今恨不平。\n青云未得意，白社漫驰情。\n韩子檠犹焰，冯郎铗欲鸣。\n作诗聊寄旧，风月助凄清。",
+    "content_tr": "十載同書硯，於今恨不平。\n青雲未得意，白社漫馳情。\n韓子檠猶焰，馮郎鋏欲鳴。\n作詩聊寄舊，風月助悽清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

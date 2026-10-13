@@ -1,0 +1,18 @@
+{
+  "work_id": 99912,
+  "work": {
+    "id": 99912,
+    "title": "立春日词 其四 御阁",
+    "title_tr": "立春日詞 其四 御閣",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "彩幡双燕祝春宜，献寿迎祥重此时。\n腊雪未消宫树碧，早莺声在万年枝。",
+    "content_tr": "綵幡雙燕祝春宜，獻壽迎祥重此時。\n臘雪未消宮樹碧，早鶯聲在萬年枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

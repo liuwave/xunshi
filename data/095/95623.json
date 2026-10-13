@@ -1,0 +1,18 @@
+{
+  "work_id": 95623,
+  "work": {
+    "id": 95623,
+    "title": "闻马",
+    "title_tr": "聞馬",
+    "author": "文天祥",
+    "author_tr": "文天祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "过海安来柰若何，舟人去后马临河。\n若非神物扶忠直，世上未应侥幸多。",
+    "content_tr": "過海安來柰若何，舟人去後馬臨河。\n若非神物扶忠直，世上未應僥倖多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

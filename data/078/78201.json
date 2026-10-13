@@ -1,0 +1,18 @@
+{
+  "work_id": 78201,
+  "work": {
+    "id": 78201,
+    "title": "新堂",
+    "title_tr": "新堂",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湖上新堂气疏豁，三面岚光翠如泼。\n都门归来病相属，邻里怪我间何阔。\n莼丝作羹饭雕胡，厨人斫鲙艺绝殊。\n何由唤得左元放，银盘钓出松江鲈。",
+    "content_tr": "湖上新堂氣疏豁，三面嵐光翠如潑。\n都門歸來病相屬，鄰里怪我間何闊。\n蓴絲作羹飯雕胡，廚人斫鱠藝絕殊。\n何由喚得左元放，銀盤釣出松江鱸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 87058,
+  "work": {
+    "id": 87058,
+    "title": "鸣琴",
+    "title_tr": "鳴琴",
+    "author": "范仲淹",
+    "author_tr": "范仲淹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "思古理鸣琴，声声动金玉。\n何以报昔人，传此尧舜曲。",
+    "content_tr": "思古理鳴琴，聲聲動金玉。\n何以報昔人，傳此堯舜曲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99811,
+  "work": {
+    "id": 99811,
+    "title": "端午词升王阁",
+    "title_tr": "端午詞升王閣",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朱邸沐兰逢令节，丹廷祝寿喜嘉辰。\n两宫荣养多延庆，百福潜随命缕新。",
+    "content_tr": "朱邸沐蘭逢令節，丹廷祝壽喜嘉辰。\n兩宮榮養多延慶，百福潛隨命縷新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

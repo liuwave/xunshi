@@ -1,0 +1,18 @@
+{
+  "work_id": 99999,
+  "work": {
+    "id": 99999,
+    "title": "题玄麓山八景 其三 钓雪矶",
+    "title_tr": "題玄麓山八景 其三 釣雪磯",
+    "author": "宋濂",
+    "author_tr": "宋濂",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "钓雪立苍矶，入夜鱼不食。\n不食非水寒，自是钩大直。",
+    "content_tr": "釣雪立蒼磯，入夜魚不食。\n不食非水寒，自是鈎大直。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

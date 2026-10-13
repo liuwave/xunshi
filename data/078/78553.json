@@ -1,0 +1,24 @@
+{
+  "work_id": 78553,
+  "work": {
+    "id": 78553,
+    "title": "句 其九",
+    "title_tr": "句 其九",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秃老本儒冠，荆公使为僧。",
+    "content_tr": "禿老本儒冠，荆公使爲僧。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "我这个秃了的老人本是儒生冠带之人，荆地的使者却让我做僧人。",
+    "annotation": "儒冠：儒生的冠服，指读书人身份。\n荆：古代楚国地域。\n使为僧：被命剃度为僧（残句本事不详）。",
+    "appreciation": "此二句为残句，以自嘲口吻写身份错位：本是儒冠之士，却被荆使命为僧人。一“本”一“使”，把儒者被勉强出世的无奈与滑稽并置。仅十四字，秃老之态、儒冠之本、被命为僧之窘，皆在转折之中，语意突兀而含讽。因句残本事难详，赏析仅就文字本身立论。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

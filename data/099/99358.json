@@ -1,0 +1,18 @@
+{
+  "work_id": 99358,
+  "work": {
+    "id": 99358,
+    "title": "题倭翁",
+    "title_tr": "題倭翁",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里扶桑国，年年贡扇来。\n皇都无酷暑，赐尔拂尘埃。",
+    "content_tr": "萬里扶桑國，年年貢扇來。\n皇都無酷暑，賜爾拂塵埃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

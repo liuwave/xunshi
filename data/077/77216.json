@@ -1,0 +1,18 @@
+{
+  "work_id": 77216,
+  "work": {
+    "id": 77216,
+    "title": "书忧",
+    "title_tr": "書憂",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "时人应怪我何求，白尽从来未白头。\n磅礴昆仑三万里，不知何地可薶忧。",
+    "content_tr": "時人應怪我何求，白盡從來未白頭。\n磅礴昆崙三萬裏，不知何地可薶憂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

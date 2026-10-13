@@ -1,0 +1,18 @@
+{
+  "work_id": 98765,
+  "work": {
+    "id": 98765,
+    "title": "贺费枢密登卞忠贞公墓",
+    "title_tr": "賀費樞密登卞忠貞公墓",
+    "author": "程珌",
+    "author_tr": "程珌",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "底用荒村访野坟，青编相对俨如存。\n当年但识清谈乐，今日方知节概尊。\n千载腐儒空吊古，几章冷语自消魂。\n便当僇力清河洛，一洗新亭旧泪痕。",
+    "content_tr": "底用荒村訪野墳，青編相對儼如存。\n當年但識清談樂，今日方知節概尊。\n千載腐儒空吊古，幾章冷語自消魂。\n便當僇力清河洛，一洗新亭舊泪痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77006,
+  "work": {
+    "id": 77006,
+    "title": "鸣禽",
+    "title_tr": "鳴禽",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小径霜泥结冻时，幽人十日废筇枝。\n新晴池馆春来早，帘外鸣禽圣得知。",
+    "content_tr": "小徑霜泥結凍時，幽人十日廢筇枝。\n新晴池館春來早，簾外鳴禽聖得知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

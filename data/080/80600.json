@@ -1,0 +1,18 @@
+{
+  "work_id": 80600,
+  "work": {
+    "id": 80600,
+    "title": "雷公",
+    "title_tr": "雷公",
+    "author": "韩偓",
+    "author_tr": "韓偓",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲人倚柱笑雷公，又向深山霹怪松。\n必若有苏天下意，何如惊起武侯龙。",
+    "content_tr": "閑人倚柱笑雷公，又向深山霹怪松。\n必若有蘇天下意，何如驚起武侯龍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

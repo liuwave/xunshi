@@ -1,0 +1,18 @@
+{
+  "work_id": 99054,
+  "work": {
+    "id": 99054,
+    "title": "斩蛇",
+    "title_tr": "斬蛇",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "皇统承尧运，朱旗启汉家。\n未诛秦始鹿，先斩沛中蛇。",
+    "content_tr": "皇統承堯運，朱旗啟漢家。\n未誅秦始鹿，先斬沛中蛇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

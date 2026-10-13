@@ -1,0 +1,18 @@
+{
+  "work_id": 83143,
+  "work": {
+    "id": 83143,
+    "title": "咏菊二首",
+    "title_tr": "詠菊二首",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "院落秋深数菊丛，缘花错莫两三蜂。\n蜜房岁晚能多少，酒盏重阳自不供。",
+    "content_tr": "院落秋深數菊叢，緣花錯莫兩三蜂。\n蜜房歲晚能多少，酒盞重陽自不供。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

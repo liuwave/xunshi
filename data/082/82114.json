@@ -1,0 +1,18 @@
+{
+  "work_id": 82114,
+  "work": {
+    "id": 82114,
+    "title": "鹤鸣峰",
+    "title_tr": "鶴鳴峯",
+    "author": "朱熹",
+    "author_tr": "朱熹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不见山头夜鹤鸣，空遗山下瀑泉声。\n野人惆怅空无寐，一曲瑶琴分外清。",
+    "content_tr": "不見山頭夜鶴鳴，空遺山下瀑泉聲。\n野人惆悵空無寐，一曲瑤琴分外清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

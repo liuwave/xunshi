@@ -1,0 +1,18 @@
+{
+  "work_id": 99651,
+  "work": {
+    "id": 99651,
+    "title": "烟村",
+    "title_tr": "煙村",
+    "author": "叶绍翁",
+    "author_tr": "葉紹翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "隐隐烟村闻犬吠，欲寻寻不见人家。\n只于桥断溪回处，流出碧桃三数花。",
+    "content_tr": "隱隱煙村聞犬吠，欲尋尋不見人家。\n只於橋斷溪回處，流出碧桃三數花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

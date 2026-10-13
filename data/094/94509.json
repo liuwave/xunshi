@@ -1,0 +1,18 @@
+{
+  "work_id": 94509,
+  "work": {
+    "id": 94509,
+    "title": "自赞诗",
+    "title_tr": "自贊詩",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江风索我吟，山月唤我饮。\n醉倒落花前，天地为衾枕。",
+    "content_tr": "江風索我吟，山月喚我飲。\n醉倒落花前，天地爲衾枕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

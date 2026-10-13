@@ -1,0 +1,18 @@
+{
+  "work_id": 87421,
+  "work": {
+    "id": 87421,
+    "title": "宿云梦馆",
+    "title_tr": "宿雲夢館",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "北雁来时岁欲昏，私书归梦杳难分。\n井桐叶落池荷尽，一夜西窗雨不闻。",
+    "content_tr": "北雁來時歲欲昏，私書歸夢杳難分。\n井桐葉落池荷盡，一夜西窗雨不聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

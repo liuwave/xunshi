@@ -1,0 +1,18 @@
+{
+  "work_id": 90340,
+  "work": {
+    "id": 90340,
+    "title": "晚登郡阁",
+    "title_tr": "晚登郡閣",
+    "author": "韦应物",
+    "author_tr": "韋應物",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "怅然高阁望，已掩东城关。\n春风偏送柳，夜景欲沈山。",
+    "content_tr": "悵然高閣望，已掩東城關。\n春風偏送柳，夜景欲沈山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

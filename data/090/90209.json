@@ -1,0 +1,18 @@
+{
+  "work_id": 90209,
+  "work": {
+    "id": 90209,
+    "title": "梅花 其一",
+    "title_tr": "梅花 其一",
+    "author": "刘过",
+    "author_tr": "劉過",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人间不尽春来意，恰则一枝梅更疏。\n待得和羹几时在，只今风月上新除。",
+    "content_tr": "人間不盡春來意，恰則一枝梅更疎。\n待得和羹幾時在，祗今風月上新除。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

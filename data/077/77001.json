@@ -1,0 +1,18 @@
+{
+  "work_id": 77001,
+  "work": {
+    "id": 77001,
+    "title": "闲中自咏二首",
+    "title_tr": "閒中自詠二首",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小艇上时皆绿水，短筇到处即青山。\n二十四考中书令，不换先生半日闲。",
+    "content_tr": "小艇上時皆綠水，短筇到處即青山。\n二十四考中書令，不換先生半日閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77069,
+  "work": {
+    "id": 77069,
+    "title": "残雨",
+    "title_tr": "殘雨",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五更残雨滴檐头，探借天公一月秋。\n只道风吹云散尽，数声桑下又鸣鸠。",
+    "content_tr": "五更殘雨滴檐頭，探借天公一月秋。\n只道風吹雲散盡，數聲桑下又鳴鳩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

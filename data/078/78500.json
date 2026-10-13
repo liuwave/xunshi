@@ -1,0 +1,18 @@
+{
+  "work_id": 78500,
+  "work": {
+    "id": 78500,
+    "title": "跋冯氏兰亭二首 其二",
+    "title_tr": "跋馮氏蘭亭二首 其二",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茧纸藏昭陵，千载不复见。\n此本得其骨，殊胜兰亭面。",
+    "content_tr": "繭紙藏昭陵，千載不復見。\n此本得其骨，殊勝蘭亭面。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

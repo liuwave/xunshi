@@ -1,0 +1,18 @@
+{
+  "work_id": 81232,
+  "work": {
+    "id": 81232,
+    "title": "复京",
+    "title_tr": "復京",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "虏骑胡兵一战摧，万灵回首贺轩台。\n天教李令心如日，可要昭陵石马来。",
+    "content_tr": "虜騎胡兵一戰摧，萬靈回首賀軒臺。\n天教李令心如日，可要昭陵石馬來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

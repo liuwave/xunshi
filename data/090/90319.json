@@ -1,0 +1,18 @@
+{
+  "work_id": 90319,
+  "work": {
+    "id": 90319,
+    "title": "阊门怀古",
+    "title_tr": "閶門懷古",
+    "author": "韦应物",
+    "author_tr": "韋應物",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独鸟下高树，遥知吴苑园。\n凄凉千古事，日暮倚阊门。",
+    "content_tr": "獨鳥下高樹，遙知吳苑園。\n淒涼千古事，日暮倚閶門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

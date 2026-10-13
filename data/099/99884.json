@@ -1,0 +1,18 @@
+{
+  "work_id": 99884,
+  "work": {
+    "id": 99884,
+    "title": "立春日词 其一 御阁",
+    "title_tr": "立春日詞 其一 御閣",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "令月归馀届早春，羲舒相望协元辰。\n初阳乍逐青旂动，圣寿长随凤历新。",
+    "content_tr": "令月歸餘屆早春，羲舒相望協元辰。\n初陽乍逐青旂動，聖壽長隨鳳曆新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99483,
+  "work": {
+    "id": 99483,
+    "title": "孟浩然雪竹图",
+    "title_tr": "孟浩然雪竹圖",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪满秦京欲去迟，故人当路谩相知。\n平生多少惊人句，却向君前诵怨诗。",
+    "content_tr": "雪滿秦京欲去遲，故人當路謾相知。\n平生多少驚人句，卻向君前誦怨詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

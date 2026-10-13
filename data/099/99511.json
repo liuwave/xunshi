@@ -1,0 +1,18 @@
+{
+  "work_id": 99511,
+  "work": {
+    "id": 99511,
+    "title": "重午回文",
+    "title_tr": "重午迴文",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轻罗扇试新词好，玉臂双□彩缕长。\n清簟昼闲人斗草，午风微袅篆炉香。",
+    "content_tr": "輕羅扇試新詞好，玉臂雙□彩縷長。\n清簟晝閒人鬥草，午風微嫋篆爐香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

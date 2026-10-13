@@ -1,0 +1,18 @@
+{
+  "work_id": 99418,
+  "work": {
+    "id": 99418,
+    "title": "碧岫晴云图",
+    "title_tr": "碧岫晴雲圖",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岚深山影寒，樵响不知处。\n绿树早莺时，千峰一家住。",
+    "content_tr": "嵐深山影寒，樵響不知處。\n綠樹早鶯時，千峯一家住。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

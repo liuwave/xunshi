@@ -1,0 +1,18 @@
+{
+  "work_id": 99707,
+  "work": {
+    "id": 99707,
+    "title": "湘中",
+    "title_tr": "湘中",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "猿愁鱼踊水翻波，自古流传是汨罗。\n蘋藻满盘无处奠，空闻渔父扣舷歌。",
+    "content_tr": "猿愁魚踊水翻波，自古流傳是汨羅。\n蘋藻滿盤無處奠，空聞漁父扣舷歌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 82019,
+  "work": {
+    "id": 82019,
+    "title": "昙山题诗",
+    "title_tr": "曇山題詩",
+    "author": "朱熹",
+    "author_tr": "朱熹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "颓然见此山，一一皆天作。\n信手铭岩墙，所愿君不凿。",
+    "content_tr": "頹然見此山，一一皆天作。\n信手銘巖牆，所願君不鑿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

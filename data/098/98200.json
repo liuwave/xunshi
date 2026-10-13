@@ -1,0 +1,18 @@
+{
+  "work_id": 98200,
+  "work": {
+    "id": 98200,
+    "title": "石阁春望",
+    "title_tr": "石閣春望",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "极目千里外，川原绣画新。\n方知平地上，见不尽青春。",
+    "content_tr": "極目千里外，川原繡畫新。\n方知平地上，見不盡青春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

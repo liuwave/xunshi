@@ -1,0 +1,18 @@
+{
+  "work_id": 90332,
+  "work": {
+    "id": 90332,
+    "title": "咏琥珀",
+    "title_tr": "詠琥珀",
+    "author": "韦应物",
+    "author_tr": "韋應物",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曾为老茯神，本是寒松液。\n蚊蚋落其中，千年犹可觌。",
+    "content_tr": "曾爲老茯神，本是寒松液。\n蚊蚋落其中，千年猶可覿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

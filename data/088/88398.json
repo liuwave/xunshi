@@ -1,0 +1,18 @@
+{
+  "work_id": 88398,
+  "work": {
+    "id": 88398,
+    "title": "龙门八咏 渡水",
+    "title_tr": "龍門八詠 渡水",
+    "author": "刘长卿",
+    "author_tr": "劉長卿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日暮下山来，千山暮钟发。\n不知波上棹，还弄山中月。\n伊水连白云，东南远明灭。",
+    "content_tr": "日暮下山來，千山暮鐘發。\n不知波上棹，還弄山中月。\n伊水連白雲，東南遠明滅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

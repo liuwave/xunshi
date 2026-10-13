@@ -1,0 +1,18 @@
+{
+  "work_id": 93300,
+  "work": {
+    "id": 93300,
+    "title": "理发",
+    "title_tr": "理髮",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "发脱心知不再生，新年底急顿星星。\n城边老柳也欺我，春里满头依旧青。",
+    "content_tr": "發脫心知不再生，新年底急頓星星。\n城邊老柳也欺我，春裏滿頭依舊青。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 98280,
+  "work": {
+    "id": 98280,
+    "title": "集句诗",
+    "title_tr": "集句詩",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "年去年来来去忙，暂偷闲卧老僧床。\n惊回一觉游仙梦，又逐流莺过短墙。",
+    "content_tr": "年去年來來去忙，暫偷閒臥老僧牀。\n驚回一覺遊仙夢，又逐流鶯過短牆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

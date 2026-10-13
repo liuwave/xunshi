@@ -1,0 +1,18 @@
+{
+  "work_id": 88141,
+  "work": {
+    "id": 88141,
+    "title": "登清风楼",
+    "title_tr": "登清風樓",
+    "author": "蔡襄",
+    "author_tr": "蔡襄",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郭外清溪溪外山，溪云飞上破山颜。\n晴明天气琉璃色，何处峰头带雨还。",
+    "content_tr": "郭外清溪溪外山，溪雲飛上破山顏。\n晴明天氣琉璃色，何處峯頭帶雨還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

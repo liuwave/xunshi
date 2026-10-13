@@ -1,0 +1,18 @@
+{
+  "work_id": 99880,
+  "work": {
+    "id": 99880,
+    "title": "端午词 其一 御阁",
+    "title_tr": "端午詞 其一 御閣",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沐浴兰汤在此辰，内园仙境物华新。\n轻丝五彩缠金缕，共祝尧年寿万春。",
+    "content_tr": "沐浴蘭湯在此辰，內園仙境物華新。\n輕絲五綵纏金縷，共祝堯年壽萬春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

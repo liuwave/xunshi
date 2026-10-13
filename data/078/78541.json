@@ -1,0 +1,24 @@
+{
+  "work_id": 78541,
+  "work": {
+    "id": 78541,
+    "title": "句 其六",
+    "title_tr": "句 其六",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "歌呼宛转连渔市，灯火青荧拥郡楼。",
+    "content_tr": "歌呼宛轉連漁市，燈火青熒擁郡樓。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "歌声呼号宛转连绵连接着渔市，灯火青荧环绕簇拥着郡楼。",
+    "annotation": "青荧：微光闪烁的样子。\n郡楼：郡城的城楼。",
+    "appreciation": "此是残句两句，却自成一幅江郡夜市图。上句从听觉落笔：歌呼宛转，一路从喧闹的渔市传来，声随市远，写出市井的烟火气。下句转视觉：灯火青荧，成片簇拥在郡楼之下，写夜色中城的轮廓。两句一耳一目、一俗一官、一水一城，把傍晚渔市收灯的景象凝练成对仗。仅十四字而声色、远近、城乡俱到，气韵流动。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 88409,
+  "work": {
+    "id": 88409,
+    "title": "龙门八咏 水西渡",
+    "title_tr": "龍門八詠 水西渡",
+    "author": "刘长卿",
+    "author_tr": "劉長卿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "伊水摇镜光，纤鳞如不隔。\n千龛道傍古，一鸟沙上白。\n何事还山云，能留向城客。",
+    "content_tr": "伊水搖鏡光，纖鱗如不隔。\n千龕道傍古，一鳥沙上白。\n何事還山雲，能留向城客。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

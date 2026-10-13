@@ -1,0 +1,18 @@
+{
+  "work_id": 77246,
+  "work": {
+    "id": 77246,
+    "title": "村舍七首",
+    "title_tr": "村舍七首",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山高正对烧畬火，溪近时闻戽水声。\n破屋已斜犹可住，老牛虽瘠尚能耕。",
+    "content_tr": "山高正對燒畬火，溪近時聞戽水聲。\n破屋已斜猶可住，老牛雖瘠尚能耕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

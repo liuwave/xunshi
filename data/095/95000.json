@@ -1,0 +1,18 @@
+{
+  "work_id": 95000,
+  "work": {
+    "id": 95000,
+    "title": "路西庄绝句",
+    "title_tr": "路西莊絕句",
+    "author": "李之仪",
+    "author_tr": "李之儀",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麦未登场已插秧，更忧雨过水还伤。\n一生能着几量屐，白发萧萧祇管忙。",
+    "content_tr": "麥未登場已插秧，更憂雨過水還傷。\n一生能着幾量屐，白髮蕭蕭祇管忙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

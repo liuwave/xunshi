@@ -1,0 +1,18 @@
+{
+  "work_id": 88523,
+  "work": {
+    "id": 88523,
+    "title": "下山歌",
+    "title_tr": "下山歌",
+    "author": "宋之问",
+    "author_tr": "宋之問",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "下嵩山兮多所思，携佳人兮步迟迟。\n松间明月长如此，君再游兮复何时。",
+    "content_tr": "下嵩山兮多所思，攜佳人兮步遲遲。\n松間明月長如此，君再遊兮復何時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

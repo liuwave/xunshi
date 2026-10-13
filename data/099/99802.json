@@ -1,0 +1,18 @@
+{
+  "work_id": 99802,
+  "work": {
+    "id": 99802,
+    "title": "竹醉日",
+    "title_tr": "竹醉日",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苒苒渭滨族，萧萧尘外姿。\n如能乐封殖，何必醉中移。",
+    "content_tr": "苒苒渭濱族，蕭蕭塵外姿。\n如能樂封殖，何必醉中移。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

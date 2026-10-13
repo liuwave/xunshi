@@ -1,0 +1,18 @@
+{
+  "work_id": 98456,
+  "work": {
+    "id": 98456,
+    "title": "独乐园七咏读书堂",
+    "title_tr": "獨樂園七詠讀書堂",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吾爱董仲舒，穷经守幽独。\n所居虽有园，三年不游目。\n邪说远去耳，圣言饱充腹。\n发策登汉庭，百家始消伏。",
+    "content_tr": "吾愛董仲舒，窮經守幽獨。\n所居雖有園，三年不遊目。\n邪說遠去耳，聖言飽充腹。\n發策登漢庭，百家始消伏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

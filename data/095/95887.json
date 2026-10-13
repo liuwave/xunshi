@@ -1,0 +1,18 @@
+{
+  "work_id": 95887,
+  "work": {
+    "id": 95887,
+    "title": "山中六言三首",
+    "title_tr": "山中六言三首",
+    "author": "文天祥",
+    "author_tr": "文天祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹤外竹声簌簌，座边松影疏疏。\n夜静不收棋局，日高犹卧纱厨。",
+    "content_tr": "鶴外竹聲簌簌，座邊鬆影疏疏。\n夜靜不收棋局，日高猶臥紗廚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

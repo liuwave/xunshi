@@ -1,0 +1,18 @@
+{
+  "work_id": 90328,
+  "work": {
+    "id": 90328,
+    "title": "咏珊瑚",
+    "title_tr": "詠珊瑚",
+    "author": "韦应物",
+    "author_tr": "韋應物",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绛树无花叶，非石亦非琼。\n世人何处得，蓬莱石上生。",
+    "content_tr": "絳樹無花葉，非石亦非瓊。\n世人何處得，蓬萊石上生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

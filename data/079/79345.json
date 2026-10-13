@@ -1,0 +1,18 @@
+{
+  "work_id": 79345,
+  "work": {
+    "id": 79345,
+    "title": "蜀中九日",
+    "title_tr": "蜀中九日",
+    "author": "王勃",
+    "author_tr": "王勃",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "九月九日望乡台，他席他乡送客杯。\n人情已厌南中苦，鸿雁那从北地来。",
+    "content_tr": "九月九日望鄉臺，他席他鄉送客杯。\n人情已厭南中苦，鴻雁那從北地來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

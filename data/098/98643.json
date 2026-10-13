@@ -1,0 +1,18 @@
+{
+  "work_id": 98643,
+  "work": {
+    "id": 98643,
+    "title": "和之美讽古 其一",
+    "title_tr": "和之美諷古 其一",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曲逆从汉祖，出奇谁与让。\n一朝寄天下，不及王陵戆。",
+    "content_tr": "曲逆從漢祖，出奇誰與讓。\n一朝寄天下，不及王陵戇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 78910,
+  "work": {
+    "id": 78910,
+    "title": "舟归江上过斜塘",
+    "title_tr": "舟歸江上過斜塘",
+    "author": "高启",
+    "author_tr": "高啓",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漫漫村塘水没沙，清明初过已无花。\n春寒欲雨归心急，懒住扁舟问酒家。",
+    "content_tr": "漫漫村塘水沒沙，清明初過已無花。\n春寒欲雨歸心急，懶住扁舟問酒家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

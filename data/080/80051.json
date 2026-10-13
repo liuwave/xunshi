@@ -1,0 +1,18 @@
+{
+  "work_id": 80051,
+  "work": {
+    "id": 80051,
+    "title": "岳阳楼望洞庭",
+    "title_tr": "岳陽樓望洞庭",
+    "author": "吕蒙正",
+    "author_tr": "呂蒙正",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "八月寒涛溅碧空，片帆悠扬信秋风。\n探珠直待骊龙睡，莫遣迷津浩渺中。",
+    "content_tr": "八月寒濤濺碧空，片帆悠颺信秋風。\n探珠直待驪龍睡，莫遣迷津浩渺中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

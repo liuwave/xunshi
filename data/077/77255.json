@@ -1,0 +1,18 @@
+{
+  "work_id": 77255,
+  "work": {
+    "id": 77255,
+    "title": "读许浑诗",
+    "title_tr": "讀許渾詩",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "裴相功名冠四朝，许浑身世落渔樵。\n若论风月江山主，丁卯桥应胜午桥。",
+    "content_tr": "裴相功名冠四朝，許渾身世落漁樵。\n若論風月江山主，丁卯橋應勝午橋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

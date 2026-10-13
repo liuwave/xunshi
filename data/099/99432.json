@@ -1,0 +1,18 @@
+{
+  "work_id": 99432,
+  "work": {
+    "id": 99432,
+    "title": "闻箫",
+    "title_tr": "聞簫",
+    "author": "张羽",
+    "author_tr": "張羽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凤楼缥缈接云霄，环佩声微夜寂寥。\n弄玉由来有仙骨，时人莫浪学吹箫。",
+    "content_tr": "鳳樓縹緲接雲霄，環佩聲微夜寂寥。\n弄玉由來有仙骨，時人莫浪學吹簫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

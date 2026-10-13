@@ -1,0 +1,18 @@
+{
+  "work_id": 98503,
+  "work": {
+    "id": 98503,
+    "title": "孟尝君歌",
+    "title_tr": "孟嘗君歌",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君不见薛公在齐当路时，三千豪士相追随。邑封万户无自入，椎牛酾酒不为赀。\n门下纷纷如市人，鸡鸣狗盗亦同尘。一朝失势宾客落，唯有冯欢西入秦。",
+    "content_tr": "君不見薛公在齊當路時，三千豪士相追隨。邑封萬戶無自入，椎牛釃酒不爲貲。\n門下紛紛如市人，雞鳴狗盜亦同塵。一朝失勢賓客落，唯有馮驩西入秦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

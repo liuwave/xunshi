@@ -1,0 +1,18 @@
+{
+  "work_id": 77054,
+  "work": {
+    "id": 77054,
+    "title": "柳桥",
+    "title_tr": "柳橋",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "村路初晴雪作泥，经旬不到小桥西。\n出门顿觉春来早，柳染轻黄已蘸溪。",
+    "content_tr": "村路初晴雪作泥，經旬不到小橋西。\n出門頓覺春來早，柳染輕黃已蘸溪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 92312,
+  "work": {
+    "id": 92312,
+    "title": "夜读诗卷",
+    "title_tr": "夜讀詩卷",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幽屏元无恨，清愁不自任。\n两窗两横卷，一读一沾襟。\n只有三更月，知予万古心。\n病来谢杯杓，吟罢重长吟。",
+    "content_tr": "幽屏元無恨，清愁不自任。\n兩窗兩橫卷，一讀一沾襟。\n祗有三更月，知予萬古心。\n病來謝杯杓，吟罷重長吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77050,
+  "work": {
+    "id": 77050,
+    "title": "戏咏落花",
+    "title_tr": "戲詠落花",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "终年栽接待新春，一日随风委路尘。\n愁杀主翁渠不管，争如只作看花人。",
+    "content_tr": "終年栽接待新春，一日隨風委路塵。\n愁殺主翁渠不管，爭如只作看花人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

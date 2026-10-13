@@ -1,0 +1,18 @@
+{
+  "work_id": 99688,
+  "work": {
+    "id": 99688,
+    "title": "早发故园",
+    "title_tr": "早發故園",
+    "author": "马戴",
+    "author_tr": "馬戴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "语别在中夜，登车离故乡。\n曙钟寒出岳，残月迥凝霜。\n风柳条多折，沙云气尽黄。\n行逢海西雁，零落不成行。",
+    "content_tr": "語別在中夜，登車離故鄉。\n曙鐘寒出岳，殘月迥凝霜。\n風柳條多折，沙雲氣盡黃。\n行逢海西鴈，零落不成行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

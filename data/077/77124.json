@@ -1,0 +1,18 @@
+{
+  "work_id": 77124,
+  "work": {
+    "id": 77124,
+    "title": "游山遇雨",
+    "title_tr": "遊山遇雨",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千秋观前雨湿衣，石帆山下叩渔扉。\n鹧鸪苦道行不得，杜鹃更劝不如归。",
+    "content_tr": "千秋觀前雨溼衣，石帆山下叩漁扉。\n鷓鴣苦道行不得，杜鵑更勸不如歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

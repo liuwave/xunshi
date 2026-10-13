@@ -1,0 +1,18 @@
+{
+  "work_id": 80006,
+  "work": {
+    "id": 80006,
+    "title": "白鹤词",
+    "title_tr": "白鶴詞",
+    "author": "赵佶",
+    "author_tr": "趙佶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灵鹤翩翩下太清，玉楼金殿晓风轻。\n昂昂不与鸡为侣，时作冲天物外声。",
+    "content_tr": "靈鶴翩翩下太清，玉樓金殿曉風輕。\n昂昂不與雞爲侶，時作沖天物外聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

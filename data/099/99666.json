@@ -1,0 +1,18 @@
+{
+  "work_id": 99666,
+  "work": {
+    "id": 99666,
+    "title": "赏梅",
+    "title_tr": "賞梅",
+    "author": "叶绍翁",
+    "author_tr": "葉紹翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅花宜雪犹宜月，水畔山边更自奇。\n十四字传和靖后，又传君际五言诗。",
+    "content_tr": "梅花宜雪猶宜月，水畔山邊更自奇。\n十四字傳和靖後，又傳君際五言詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

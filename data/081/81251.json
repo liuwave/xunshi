@@ -1,0 +1,18 @@
+{
+  "work_id": 81251,
+  "work": {
+    "id": 81251,
+    "title": "效长吉",
+    "title_tr": "效長吉",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长长汉殿眉，窄窄楚宫衣。\n镜好鸾空舞，帘疏燕误飞。\n君王不可问，昨夜约黄归。",
+    "content_tr": "長長漢殿眉，窄窄楚宮衣。\n鏡好鸞空舞，簾疎燕誤飛。\n君王不可問，昨夜約黃歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

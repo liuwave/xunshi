@@ -1,0 +1,18 @@
+{
+  "work_id": 80360,
+  "work": {
+    "id": 80360,
+    "title": "魏宫词二首 其二",
+    "title_tr": "魏宮詞二首 其二",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日映西陵松柏枝，下台相顾一相思。\n朝来乐府长歌曲，唱著君王自作词。",
+    "content_tr": "日映西陵松柏枝，下臺相顧一相思。\n朝來樂府長歌曲，唱著君王自作詞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

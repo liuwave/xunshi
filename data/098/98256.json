@@ -1,0 +1,18 @@
+{
+  "work_id": 98256,
+  "work": {
+    "id": 98256,
+    "title": "野轩",
+    "title_tr": "野軒",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄鸡白酒田间乐，藜杖葛巾林下风。\n更若食芹仍暴背，野怀并在一轩中。",
+    "content_tr": "黃雞白酒田間樂，藜杖葛巾林下風。\n更若食芹仍暴背，野懷並在一軒中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

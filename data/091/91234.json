@@ -1,0 +1,18 @@
+{
+  "work_id": 91234,
+  "work": {
+    "id": 91234,
+    "title": "游中嵓寺",
+    "title_tr": "遊中嵓寺",
+    "author": "杨慎",
+    "author_tr": "楊慎",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高阁诸天近，长江客路分。\n帆开山吐月，钟动水连云。\n渔唱通宵起，樵音隔浦闻。\n佛香浑不断，散作南岧薰。",
+    "content_tr": "高閣諸天近，長江客路分。\n帆開山吐月，鍾動水連雲。\n漁唱通宵起，樵音隔浦聞。\n佛香渾不斷，散作南岧薰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

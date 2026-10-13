@@ -1,0 +1,18 @@
+{
+  "work_id": 78471,
+  "work": {
+    "id": 78471,
+    "title": "嘲梅未开",
+    "title_tr": "嘲梅未開",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅蕊如红稻，中藏无尽香。\n何时来鼻境，更待几番霜。",
+    "content_tr": "梅蕊如紅稻，中藏無盡香。\n何時來鼻境，更待幾番霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

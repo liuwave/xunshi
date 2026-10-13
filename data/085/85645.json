@@ -1,0 +1,18 @@
+{
+  "work_id": 85645,
+  "work": {
+    "id": 85645,
+    "title": "字颂",
+    "title_tr": "字頌",
+    "author": "黄庭坚",
+    "author_tr": "黃庭堅",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "斋馀睡兀兀，占尽檐前日。\n不与一瓯茶，眼前黑如漆。",
+    "content_tr": "齋餘睡兀兀，占盡簷前日。\n不與一甌茶，眼前黑如漆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

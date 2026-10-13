@@ -1,0 +1,18 @@
+{
+  "work_id": 80382,
+  "work": {
+    "id": 80382,
+    "title": "送杜十四之江南",
+    "title_tr": "送杜十四之江南",
+    "author": "孟浩然",
+    "author_tr": "孟浩然",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荆吴相接水为乡，君去春江正淼茫。\n日暮征帆何处泊，天涯一望断人肠。",
+    "content_tr": "荊吳相接水爲鄉，君去春江正淼茫。\n日暮征帆何處泊，天涯一望斷人腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

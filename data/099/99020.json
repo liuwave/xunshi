@@ -1,0 +1,18 @@
+{
+  "work_id": 99020,
+  "work": {
+    "id": 99020,
+    "title": "悟道诗",
+    "title_tr": "悟道詩",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尽日寻春不见春，芒鞋踏遍陇头云。\n归来笑拈梅花嗅，春在枝头已十分。",
+    "content_tr": "盡日尋春不見春，芒鞋踏遍隴頭雲。\n歸來笑拈梅花嗅，春在枝頭已十分。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

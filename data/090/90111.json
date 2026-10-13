@@ -1,0 +1,18 @@
+{
+  "work_id": 90111,
+  "work": {
+    "id": 90111,
+    "title": "寓公坊",
+    "title_tr": "寓公坊",
+    "author": "刘过",
+    "author_tr": "劉過",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风渐渐正吹凉，似报归期未欲忙。\n寻路竹间深入寺，泊船沙外远依庄。\n小槽压酒珠红滴，新饭炊粳雪白香。\n更听夜来思远浦，军声十万似钱塘。",
+    "content_tr": "秋風漸漸正吹涼，似報歸期未欲忙。\n尋路竹間深入寺，泊船沙外遠依莊。\n小槽壓酒珠紅滴，新飯炊粳雪白香。\n更聽夜來思遠浦，軍聲十萬似錢塘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

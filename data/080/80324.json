@@ -1,0 +1,18 @@
+{
+  "work_id": 80324,
+  "work": {
+    "id": 80324,
+    "title": "魏宫词二首 其一",
+    "title_tr": "魏宮詞二首 其一",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日晚长秋帘外报，望陵歌舞在明朝。\n添炉欲爇熏衣麝，忆得分时不忍烧。",
+    "content_tr": "日晚長秋簾外報，望陵歌舞在明朝。\n添爐欲爇熏衣麝，憶得分時不忍燒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77125,
+  "work": {
+    "id": 77125,
+    "title": "甲子岁暮",
+    "title_tr": "甲子歲暮",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "世间巧拙亦何施，万事难禁岁月移。\n迟死几时天有意，要令自悟不须师。",
+    "content_tr": "世間巧拙亦何施，萬事難禁歲月移。\n遲死幾時天有意，要令自悟不須師。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 77153,
+  "work": {
+    "id": 77153,
+    "title": "禽声",
+    "title_tr": "禽聲",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "布谷布谷天未明，架犁架犁人起耕。\n宦途不似农家乐，东作西成过此生。",
+    "content_tr": "布穀布穀天未明，架犁架犁人起耕。\n宦途不似農家樂，東作西成過此生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

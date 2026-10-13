@@ -1,0 +1,18 @@
+{
+  "work_id": 93745,
+  "work": {
+    "id": 93745,
+    "title": "花果",
+    "title_tr": "花果",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野花山果绝芳馨，借问行人不识名。\n蜂蝶行粮猿鹤饭，一生口分两无争。",
+    "content_tr": "野花山果絕芳馨，借問行人不識名。\n蜂蝶行糧猿鶴飯，一生口分兩無爭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

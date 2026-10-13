@@ -1,0 +1,18 @@
+{
+  "work_id": 90500,
+  "work": {
+    "id": 90500,
+    "title": "己亥杂诗 · 其二十八",
+    "title_tr": "己亥雜詩 · 其二十八",
+    "author": "龚自珍",
+    "author_tr": "龔自珍",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不是逢人苦誉君，亦狂亦侠亦温文。\n照人胆似秦时月，送我情如岭上云。",
+    "content_tr": "不是逢人苦譽君，亦狂亦俠亦溫文。\n照人膽似秦時月，送我情如嶺上雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

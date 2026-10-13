@@ -1,0 +1,18 @@
+{
+  "work_id": 76910,
+  "work": {
+    "id": 76910,
+    "title": "读杜诗",
+    "title_tr": "讀杜詩",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千载诗亡不复删，少陵谈笑即追还。\n常憎晚辈言诗史，清庙生民伯仲间。",
+    "content_tr": "千載詩亡不復刪，少陵談笑即追還。\n常憎晚輩言詩史，清廟生民伯仲間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 99809,
+  "work": {
+    "id": 99809,
+    "title": "古瓦砚诗",
+    "title_tr": "古瓦硯詩",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "已恣玉锋磨藓骨，更持蟾泪湿云根。\n欲知千载凄凉意，尚有昭阳夜雨痕。",
+    "content_tr": "已恣玉鋒磨蘚骨，更持蟾淚溼雲根。\n欲知千載淒涼意，尚有昭陽夜雨痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

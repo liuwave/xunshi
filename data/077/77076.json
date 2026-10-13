@@ -1,0 +1,18 @@
+{
+  "work_id": 77076,
+  "work": {
+    "id": 77076,
+    "title": "朝晴",
+    "title_tr": "朝晴",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宿雨初收云四归，小山草木丽朝晖。\n翩然双鹊从檐下，言语分明诉湿衣。",
+    "content_tr": "宿雨初收雲四歸，小山草木麗朝暉。\n翩然雙鵲從檐下，言語分明訴溼衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

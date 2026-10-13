@@ -1,0 +1,18 @@
+{
+  "work_id": 87144,
+  "work": {
+    "id": 87144,
+    "title": "咏蚊",
+    "title_tr": "詠蚊",
+    "author": "范仲淹",
+    "author_tr": "范仲淹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饱去樱桃重，饥来柳絮轻。\n但知离此去，不用问前程。",
+    "content_tr": "飽去櫻桃重，饑來柳絮輕。\n但知離此去，不用問前程。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

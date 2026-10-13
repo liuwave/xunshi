@@ -1,0 +1,18 @@
+{
+  "work_id": 90305,
+  "work": {
+    "id": 90305,
+    "title": "湘江秋夕",
+    "title_tr": "湘江秋夕",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三湘月色三湘水，浸骨寒光似练铺。\n一夜寒鸿来不住，故乡书信半年无。",
+    "content_tr": "三湘月色三湘水，浸骨寒光似練鋪。\n一夜寒鴻來不住，故鄉書信半年無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

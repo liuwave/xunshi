@@ -1,0 +1,18 @@
+{
+  "work_id": 80447,
+  "work": {
+    "id": 80447,
+    "title": "鸟",
+    "title_tr": "鳥",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁道群生性命微，一般骨肉一般皮。\n劝君莫打枝头鸟，子在巢中望母归。",
+    "content_tr": "誰道群生性命微，一般骨肉一般皮。\n勸君莫打枝頭鳥，子在巢中望母歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

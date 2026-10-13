@@ -1,0 +1,18 @@
+{
+  "work_id": 98134,
+  "work": {
+    "id": 98134,
+    "title": "叠石溪",
+    "title_tr": "疊石溪",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山鸟劝人饮，山蝉笑我狂。\n归时兴未尽，不得看斜阳。",
+    "content_tr": "山鳥勸人飲，山蟬笑我狂。\n歸時興未盡，不得看斜陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

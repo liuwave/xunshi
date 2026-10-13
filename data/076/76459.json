@@ -1,0 +1,18 @@
+{
+  "work_id": 76459,
+  "work": {
+    "id": 76459,
+    "title": "早晴",
+    "title_tr": "早晴",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老病常贪睡，萧萧厌雨声。\n翩然两乌鹊，为我报新晴。",
+    "content_tr": "老病常貪睡，蕭蕭厭雨聲。\n翩然兩烏鵲，爲我報新晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

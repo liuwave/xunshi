@@ -1,0 +1,18 @@
+{
+  "work_id": 95521,
+  "work": {
+    "id": 95521,
+    "title": "北行第九十",
+    "title_tr": "北行第九十",
+    "author": "文天祥",
+    "author_tr": "文天祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浮云暮南征，我马向北嘶。\n荆棘暗长原，子规昼夜啼。",
+    "content_tr": "浮雲暮南征，我馬向北嘶。\n荊棘暗長原，子規晝夜啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

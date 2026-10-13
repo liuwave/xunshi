@@ -1,0 +1,18 @@
+{
+  "work_id": 78901,
+  "work": {
+    "id": 78901,
+    "title": "柳燕",
+    "title_tr": "柳燕",
+    "author": "高启",
+    "author_tr": "高啓",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "妙舞汉宫人，香魂化几春。\n娇飞傍杨柳，犹似学腰身。",
+    "content_tr": "妙舞漢宮人，香魂化幾春。\n嬌飛傍楊柳，猶似學腰身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

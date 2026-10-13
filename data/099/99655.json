@@ -1,0 +1,18 @@
+{
+  "work_id": 99655,
+  "work": {
+    "id": 99655,
+    "title": "寄赵眉翁二首",
+    "title_tr": "寄趙眉翁二首",
+    "author": "叶绍翁",
+    "author_tr": "葉紹翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "两度驰书未报音，温陵尺纸定千金。\n多应驿使曾相访，短艇烟波无处寻。",
+    "content_tr": "兩度馳書未報音，溫陵尺紙定千金。\n多應驛使曾相訪，短艇煙波無處尋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

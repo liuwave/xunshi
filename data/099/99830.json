@@ -1,0 +1,18 @@
+{
+  "work_id": 99830,
+  "work": {
+    "id": 99830,
+    "title": "端午词御阁",
+    "title_tr": "端午詞御閣",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五彩丝长系臂初，万年芳树影扶疏。\n岂劳方士标神篆，自有真灵卫帝居。",
+    "content_tr": "五綵絲長係臂初，萬年芳樹影扶疏。\n豈勞方士標神篆，自有真靈衛帝居。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 95511,
+  "work": {
+    "id": 95511,
+    "title": "行",
+    "title_tr": "行",
+    "author": "文天祥",
+    "author_tr": "文天祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "送兵五千人，散足尽西靡。\n留滞一老翁，盖棺事则已。",
+    "content_tr": "送兵五千人，散足盡西靡。\n留滯一老翁，蓋棺事則已。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
