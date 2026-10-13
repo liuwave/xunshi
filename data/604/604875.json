@@ -1,0 +1,24 @@
+{
+  "work_id": 604875,
+  "work": {
+    "id": 604875,
+    "title": "句  其四",
+    "title_tr": "句  其四",
+    "author": "王存",
+    "author_tr": "王存",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "族居自买百闲屋，月赐官糜六万钱。",
+    "content_tr": "族居自買百閒屋，月賜官糜六萬錢。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "宗族聚居，自买上百间闲屋；每月赐给官俸六万钱。",
+    "annotation": "族居：同族聚居。\n官糜：官俸。",
+    "appreciation": "此为残句，自述居官之优裕。上句“族居自买百闲屋”言同族聚居、自买闲宅，可见其赡族之厚；下句“月赐官糜六万钱”言月俸六万，可见其禄赐之优。两句一居一禄，平铺直叙，而作者昔日气象自见。残联虽短，却为后世保存了一位北宋官员的生活断面，有史料意味，读之可想见承平巨公之家居风度。闲屋、六万字里，见宋世待士之厚。不矜不伐，而气象自殊凡近。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

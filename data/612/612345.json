@@ -1,0 +1,18 @@
+{
+  "work_id": 612345,
+  "work": {
+    "id": 612345,
+    "title": "蕲春听琵琶五首  其四",
+    "title_tr": "蘄春聽琵琶五首  其四",
+    "author": "孔武仲",
+    "author_tr": "孔武仲",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百转干萦住复移，浑如啄木在高枝。\n春郊极目快晴后，峭绝一声飞去时。",
+    "content_tr": "百轉干縈住復移，渾如啄木在高枝。\n春郊極目快晴後，峭絕一聲飛去時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

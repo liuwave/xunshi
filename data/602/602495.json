@@ -1,0 +1,24 @@
+{
+  "work_id": 602495,
+  "work": {
+    "id": 602495,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "赵世昌",
+    "author_tr": "趙世昌",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一条横截红尘断，几曲遥通紫禁深。",
+    "content_tr": "一條橫截紅塵斷，幾曲遙通紫禁深。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一条水道横截，把红尘隔断；几曲蜿蜒，遥通深邃的紫禁城。",
+    "annotation": "红尘：指人世间的纷扰。\n紫禁：皇宫，以紫微星垣喻帝王所居。",
+    "appreciation": "此联写一条水道或宫墙的双重作用。一条横截，隔断红尘，见其清寂；几曲遥通，深达紫禁，见其深邃。一断一通，一市井一宫禁，两句把同一物的两种空间属性对举而出。十四字境界开阔，对仗工稳，虽为断句，俨然是咏都城禁苑的联语：既可隔却尘嚣，又能上通宫禁，其形制与位置之特殊，尽在一横一遥的对照之中。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

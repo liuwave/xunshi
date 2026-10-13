@@ -1,0 +1,18 @@
+{
+  "work_id": 611041,
+  "work": {
+    "id": 611041,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "吕希纯",
+    "author_tr": "呂希純",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梦寐西山结草庐，逝将临水咏游鱼。\n何人见卵求时夜，更著闲言问紫姑。",
+    "content_tr": "夢寐西山結草廬，逝將臨水詠游魚。\n何人見卵求時夜，更著閒言問紫姑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

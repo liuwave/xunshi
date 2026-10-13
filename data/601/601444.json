@@ -1,0 +1,18 @@
+{
+  "work_id": 601444,
+  "work": {
+    "id": 601444,
+    "title": "山中作",
+    "title_tr": "山中作",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空山日午东风起，积雪半消岩下池。\n逐胜不知芳草远，长谣石上失回期。",
+    "content_tr": "空山日午東風起，積雪半消巖下池。\n逐勝不知芳草遠，長謠石上失回期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

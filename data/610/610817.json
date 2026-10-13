@@ -1,0 +1,18 @@
+{
+  "work_id": 610817,
+  "work": {
+    "id": 610817,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "张舜民",
+    "author_tr": "張舜民",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千载浪名金马客，一宵沉醉石城楼。\n郢人休唱阳春曲，白尽湖南刺史头。",
+    "content_tr": "千載浪名金馬客，一宵沉醉石城樓。\n郢人休唱陽春曲，白盡湖南刺史頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

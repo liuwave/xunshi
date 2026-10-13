@@ -1,0 +1,24 @@
+{
+  "work_id": 602265,
+  "work": {
+    "id": 602265,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一朝云路果然登，姓名亚等呼先辈。",
+    "content_tr": "一朝雲路果然登，姓名亞等呼先輩。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一旦果然登上云路，姓名排在等第之中，被人呼作先辈。",
+    "annotation": "云路：喻仕途高位、科举登第之路。\n亚等：名次等次。\n先辈：唐宋时称及第者为先辈。",
+    "appreciation": "此联写登第及第的荣耀。一朝登云路，是梦寐以求之事果然实现；姓名入等、被呼先辈，是科场成名后受人敬重的实感。前句写事之如愿以偿，后句写名之赫然在人，十四字把士人及第的狂喜与世俗的恭敬一并道尽。虽为断句，得意之态可掬，亦见科举时代一登龙门、声价立变的风习，语带欣幸，颇有世俗人情。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

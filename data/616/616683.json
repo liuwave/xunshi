@@ -1,0 +1,24 @@
+{
+  "work_id": 616683,
+  "work": {
+    "id": 616683,
+    "title": "句",
+    "title_tr": "句",
+    "author": "叶某",
+    "author_tr": "葉某",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明朝蓬岛去，白雪满头飞。",
+    "content_tr": "明朝蓬島去，白雪滿頭飛。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "明朝要去蓬岛，白雪已满头飞。",
+    "annotation": "蓬岛：蓬莱仙山。",
+    "appreciation": "此为残句，似送人学道。上句“明朝蓬岛去”点远游求仙；下句“白雪满头飞”双关——既指鬓发已白，又喻山中雪满。十字中，一去一老、一仙一俗，相反而相成。残联短而意远，是宋人道人赠别一路。白发与白雪双关，残联最耐咀嚼。白雪满头，非真雪也，鬓华也。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 622991,
+  "work": {
+    "id": 622991,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "葛次仲",
+    "author_tr": "葛次仲",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里清江万里天，一村桑柘一村烟。\n渔翁醉睡又醒睡，高唱夕阳孤岛边。",
+    "content_tr": "萬里清江萬里天，一村桑柘一村烟。\n漁翁醉睡又醒睡，高唱夕陽孤島邊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

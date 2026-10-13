@@ -1,0 +1,18 @@
+{
+  "work_id": 605275,
+  "work": {
+    "id": 605275,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "谢履",
+    "author_tr": "謝履",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蛇冈蹑龟背，虾屿据龙头。\n岸隔诸蕃国，江通百粤舟。",
+    "content_tr": "蛇岡躡龜背，蝦嶼據龍頭。\n岸隔諸蕃國，江通百粵舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

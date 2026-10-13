@@ -1,0 +1,18 @@
+{
+  "work_id": 601100,
+  "work": {
+    "id": 601100,
+    "title": "射雕",
+    "title_tr": "射雕",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "将军乐射雕，壮士挟乌号。\n影捩重云静，声翻一箭高。\n猎酣生鼻火，空阔散风毛。\n快意中原捷，何辞汗马劳。",
+    "content_tr": "將軍樂射雕，壯士挟烏號。\n影捩重雲静，聲翻一箭高。\n獵酣生鼻火，空闊散風毛。\n快意中原捷，何辭汗馬勞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

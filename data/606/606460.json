@@ -1,0 +1,18 @@
+{
+  "work_id": 606460,
+  "work": {
+    "id": 606460,
+    "title": "金山",
+    "title_tr": "金山",
+    "author": "沈括",
+    "author_tr": "沈括",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楼台两岸水相连，江北江南镜里天。\n芦管玉箫齐送夜，一声飞断月如烟。",
+    "content_tr": "樓臺兩岸水相連，江北江南鏡裏天。\n蘆管玉簫齊送夜，一聲飛斷月如煙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

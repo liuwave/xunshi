@@ -1,0 +1,24 @@
+{
+  "work_id": 617481,
+  "work": {
+    "id": 617481,
+    "title": "句",
+    "title_tr": "句",
+    "author": "段高",
+    "author_tr": "段高",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寸心如画笔，到处写江山。",
+    "content_tr": "寸心如畫筆，到處寫江山。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "心中的方寸之意就如画笔，所到之处便把江山描摹下来。",
+    "annotation": "寸心：微小的心意，犹言心中。\n写江山：描画山水；“写”兼含抒写、写照之意。",
+    "appreciation": "此为残句。上句以“寸心”比“画笔”，下句以“到处”接“写江山”，把主观心胸与客观江山打通。寸心本小，江山本大，以小驭大，见诗人胸襟；“写”字双关，既是画山水，也是抒写怀抱。两句一气贯注，气象开阔，虽仅十字残篇，已具豪放之致，想见全篇气度。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 607490,
+  "work": {
+    "id": 607490,
+    "title": "句",
+    "title_tr": "句",
+    "author": "黄廉",
+    "author_tr": "黄廉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眉间见喜气，行人有归期。",
+    "content_tr": "眉間見喜氣，行人有歸期。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "眉间显露出喜气，远行的人有了归期。",
+    "annotation": "（无生僻字词，从略）",
+    "appreciation": "此残句写盼归之喜。上句「眉间见喜气」由容貌写内心，以「眉间」这一细微处见出欢欣之色，含蓄而真切，不言喜而喜自见；下句「行人有归期」点明喜之来由——远行之人终于有了归来的日期。两句一果一因，由外在喜色溯及内心期待，写出久盼人归而终可期时的欣慰与松快。语极平易而情致温厚，于家常情境中见出人间团聚之乐，是宋人小诗「即事而真」的典型写法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

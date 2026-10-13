@@ -1,0 +1,24 @@
+{
+  "work_id": 606135,
+  "work": {
+    "id": 606135,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "杨杰",
+    "author_tr": "楊傑",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山横大秀一峰高，水入平湖千里远。",
+    "content_tr": "山橫大秀一峰高，水入平湖千里遠。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "群山横亘显出大秀一峰高耸，水流汇入平湖延展千里之远。",
+    "annotation": "",
+    "appreciation": "此联写山水远景。上句『山横大秀一峰高』，以『横』字铺展山势，于群峦中独出一峰高耸，『大秀』二字既状其形亦赞其神；下句『水入平湖千里远』，写水流汇入平湖，以『千里远』极言湖面之阔与水势之绵。一山一水，一高耸一平远，对仗工稳而视角开阔。虽仅两句，已具咫尺千里之致，可见作者剪取自然、以少总多的手腕。惜为题『句』残篇，全篇脉络已不可寻，唯就此联论其写景之妙。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

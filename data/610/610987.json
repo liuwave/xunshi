@@ -1,0 +1,18 @@
+{
+  "work_id": 610987,
+  "work": {
+    "id": 610987,
+    "title": "珍珠帘",
+    "title_tr": "珍珠簾",
+    "author": "陈祥道",
+    "author_tr": "陳祥道",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风飘拂雨纤纤，吹向空中草木沾。\n记得传喧三殿日，恍疑天半撒珠帘。",
+    "content_tr": "東風飄拂雨纖纖，吹向空中草木霑。\n記得傳喧三殿日，恍疑天半撒珠簾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

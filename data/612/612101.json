@@ -1,0 +1,18 @@
+{
+  "work_id": 612101,
+  "work": {
+    "id": 612101,
+    "title": "宫词  其四九",
+    "title_tr": "宮詞  其四九",
+    "author": "王仲修",
+    "author_tr": "王仲修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "楼台雪霁晓阴阴，珠网屏风御幄深。\n和气先春宫掖暖，凤钗不用辟寒金。",
+    "content_tr": "樓臺雪霽曉陰陰，珠網屏風御幄深。\n和氣先春宮掖暖，鳳釵不用辟寒金。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

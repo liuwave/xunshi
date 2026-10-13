@@ -1,0 +1,18 @@
+{
+  "work_id": 612100,
+  "work": {
+    "id": 612100,
+    "title": "宫词  其四八",
+    "title_tr": "宮詞  其四八",
+    "author": "王仲修",
+    "author_tr": "王仲修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪消宫殿苑梅芳，晓漏声迟下建章。\n天气清寒当腊日，沉香甲煎赐诸房。",
+    "content_tr": "雪消宮殿苑梅芳，曉漏聲遲下建章。\n天氣清寒當臘日，沉香甲煎賜諸房。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

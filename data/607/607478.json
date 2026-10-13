@@ -1,0 +1,24 @@
+{
+  "work_id": 607478,
+  "work": {
+    "id": 607478,
+    "title": "句",
+    "title_tr": "句",
+    "author": "周邠",
+    "author_tr": "周邠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "怪石参差蹲虎兕，乱峰重叠走龙蛇。",
+    "content_tr": "怪石參差蹲虎兕，亂峰重疊走龍蛇。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "怪石参差不齐如虎兕蹲踞，乱峰重叠似龙蛇奔走。",
+    "annotation": "兕（sì）：古代指雌性的犀牛，此泛指猛兽。",
+    "appreciation": "此残句写怪石乱峰之险奇。上句「怪石参差蹲虎兕」以虎兕蹲踞喻石之峥嵘狰狞，静态中蓄威猛之势；下句「乱峰重叠走龙蛇」以龙蛇奔走喻峰之蜿蜒起伏，于动态中见山势腾跃。两句一石一峰，以猛兽、龙蛇为比，化静为动、以动物之态写山水之形，极状山川的奇崛磅礴。对仗工稳，想象奇肆，于短章中见出对自然伟力的惊畏与激赏，有韩孟诗派「搜奇」之趣。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

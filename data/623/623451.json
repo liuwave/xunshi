@@ -1,0 +1,18 @@
+{
+  "work_id": 623451,
+  "work": {
+    "id": 623451,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "毛伯英",
+    "author_tr": "毛伯英",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铁锁沉沉截碧江，风旗猎猎驻危樯。\n禹门纵使高千丈，放过蛟龙也不妨。",
+    "content_tr": "鐵鎖沉沉截碧江，風旗獵獵駐危檣。\n禹門縱使高千丈，放過蛟龍也不妨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

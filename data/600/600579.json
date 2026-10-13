@@ -1,0 +1,18 @@
+{
+  "work_id": 600579,
+  "work": {
+    "id": 600579,
+    "title": "古怨诗  其一",
+    "title_tr": "古怨詩  其一",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸿鴈飞矣，邕邕其族。\n孰是人斯，惸惸其独。",
+    "content_tr": "鴻鴈飛矣，邕邕其族。\n孰是人斯，惸惸其獨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

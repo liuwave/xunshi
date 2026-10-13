@@ -1,0 +1,18 @@
+{
+  "work_id": 603570,
+  "work": {
+    "id": 603570,
+    "title": "读汉功臣表",
+    "title_tr": "讀漢功臣表",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉家分土建忠良，铁券丹书信誓长。\n本待山河如带砺，何缘葅醢赐侯王。",
+    "content_tr": "漢家分土建忠良，鐵券丹書信誓長。\n本待山河如带礪，何緣葅醢賜侯王。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

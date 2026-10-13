@@ -1,0 +1,24 @@
+{
+  "work_id": 616361,
+  "work": {
+    "id": 616361,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王鲸",
+    "author_tr": "王鯨",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "时辟西湖作胜游，使君元是济川舟。",
+    "content_tr": "時闢西湖作勝遊，使君元是濟川舟。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "时辟西湖作胜游，使君元是济川之舟。",
+    "annotation": "使君：对太守的尊称。\n济川舟：喻宰辅之才。",
+    "appreciation": "此为残句，颂太守治西湖。上句“时辟西湖作胜游”点西湖之游；下句“使君元是济川舟”以济川舟喻太守有宰辅之才。十字之上，既写湖山之胜，又颂使君之才。残联虽短，而颂体得体，是宋人地方官诗中的常见格局。颂使君而以济川为喻，得体之至。十字中颂德而不露，是台阁体正格。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

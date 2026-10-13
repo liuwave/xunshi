@@ -1,0 +1,18 @@
+{
+  "work_id": 601336,
+  "work": {
+    "id": 601336,
+    "title": "雨后回文",
+    "title_tr": "雨後回文",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿水池光冷，青苔砌色寒。\n竹深啼鸟乱，庭暗落花残。",
+    "content_tr": "綠水池光冷，青苔砌色寒。\n竹深啼鳥亂，庭暗落花殘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

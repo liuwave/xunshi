@@ -1,0 +1,24 @@
+{
+  "work_id": 615937,
+  "work": {
+    "id": 615937,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "张举",
+    "author_tr": "張舉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "无限寒鸦冒雨飞，红树高高出粉墙。",
+    "content_tr": "無限寒鴉冒雨飛，紅樹高高出粉牆。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "无限寒鸦，冒雨而飞；红树高高，伸出粉墙之外。",
+    "annotation": "粉墙：白色粉饰的墙。",
+    "appreciation": "此为残句，写雨中秋景。上句“无限寒鸦冒雨飞”，写寒鸦群飞、雨意苍茫；下句“红树高高出粉墙”，写红树高出白墙，色彩明丽。一寒一暖、一暗一明，十字中雨景如画。残联虽短，而色彩、动静、远近俱到，可想见作者登高所见。寒鸦红树，一暖一寒，残联如画。虽止十字，而雨景秋意俱到。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

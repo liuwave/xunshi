@@ -1,0 +1,24 @@
+{
+  "work_id": 610604,
+  "work": {
+    "id": 610604,
+    "title": "句  其三○",
+    "title_tr": "句  其三○",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "爱蜀蕲舒嘉代富，新登高棣桂常芳。",
+    "content_tr": "愛蜀蘄舒嘉代富，新登高棣桂常芳。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "爱蜀地蕲舒之地，代有佳材；新登高棣之枝，桂常芬芳。",
+    "annotation": "蜀蕲舒：皆古代产佳木、佳纸之地。\n高棣：木名。",
+    "appreciation": "此为残句，似颂人门地之盛。上句“爱蜀蕲舒嘉代富”言其地代产佳材，喻人才之美；下句“新登高棣桂常芳”言高枝丹桂常芳，喻门第之盛。两句一材一地，对仗工稳。残联用事，不究本事，但取其字面清雅可想见颂祝之意。残句虽佚，而字面清雅，可想见颂祝之意。其辞虽佚，要其颂祷必归于门才之盛与桂玉之荣也。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 602521,
+  "work": {
+    "id": 602521,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "张载",
+    "author_tr": "張載",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "两山南北雨冥冥，四牖东西万木青。\n面似骷髅头似雪，后生谁与属遗经。",
+    "content_tr": "兩山南北雨冥冥，四牖東西萬木青。\n面似骷髏頭似雪，後生誰與屬遺經。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 612800,
+  "work": {
+    "id": 612800,
+    "title": "读史",
+    "title_tr": "讀史",
+    "author": "郑侠",
+    "author_tr": "鄭俠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乱亡由佞舌，览古每嗟吁。\n拟刻奸谀像，申明两观诛。",
+    "content_tr": "亂亡由佞舌，覽古每嗟吁。\n擬刻姦諛像，申明兩觀誅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

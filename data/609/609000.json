@@ -1,0 +1,18 @@
+{
+  "work_id": 609000,
+  "work": {
+    "id": 609000,
+    "title": "句",
+    "title_tr": "句",
+    "author": "孙谔",
+    "author_tr": "孫諤",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "竹林藏月读书家。",
+    "content_tr": "竹林藏月讀書家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

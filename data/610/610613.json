@@ -1,0 +1,24 @@
+{
+  "work_id": 610613,
+  "work": {
+    "id": 610613,
+    "title": "存目  其一",
+    "title_tr": "存目  其一",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗题：无题首句：引手攀红樱。",
+    "content_tr": "詩題：無題首句：引手攀紅櫻。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "无题，首句为“引手攀红樱”。",
+    "annotation": "（存目，正文仅存首句）",
+    "appreciation": "此条为存目诗，仅存诗题与首句“引手攀红樱”。红樱即樱花一类，春日盛开；“引手攀”三字，想见春日凭栏、攀枝玩英之态。全篇既佚，不敢妄补，仅就首句字面疏通：动作清简，色泽明丽，可作唐人绝句残句观。存之以见东坡佚诗鳞爪。残句虽只五字，而动作色泽俱到，存之以见佚诗鳞爪。虽止存首句，而动作色泽已足动人，惜其全篇不可复睹矣。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

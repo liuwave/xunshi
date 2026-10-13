@@ -1,0 +1,18 @@
+{
+  "work_id": 600524,
+  "work": {
+    "id": 600524,
+    "title": "鹤林寺",
+    "title_tr": "鶴林寺",
+    "author": "曾巩",
+    "author_tr": "曾鞏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔人春尽强登山，只肯逢僧半日闲。\n何似一尊乘兴去，醉中骑马月中还。",
+    "content_tr": "昔人春盡强登山，只肯逢僧半日閑。\n何似一尊乘興去，醉中騎馬月中還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 614290,
+  "work": {
+    "id": 614290,
+    "title": "句",
+    "title_tr": "句",
+    "author": "叶涛",
+    "author_tr": "葉濤",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碾成天上龙兼凤，煮出人间蟹与虾。",
+    "content_tr": "碾成天上龍兼鳳，煮出人間蟹與蝦。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "碾成的是天上的龙凤团茶，煮出的是人间蟹眼虾眼似的汤花。",
+    "annotation": "龙凤：指宋代龙凤团茶，贡品名茶，模印龙凤纹。\n蟹与虾：喻煮茶初沸时水面的小气泡，俗称蟹眼、虾眼。",
+    "appreciation": "两句专咏碾茶煮茶之趣。上句「碾成天上龙兼凤」写团茶之名贵，以「天上」与「龙凤」极言贡茶之珍；下句「煮出人间蟹与虾」翻落到煮水，以蟹眼虾眼状汤泡之细。一贵一细，一天上一人间，对仗中饶有谐趣。诗人以饮馔细节入诗，把团茶的精、煮茶的微写得历历可见，是宋代茶事诗中以比喻取胜的断句。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

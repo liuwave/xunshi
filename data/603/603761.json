@@ -1,0 +1,18 @@
+{
+  "work_id": 603761,
+  "work": {
+    "id": 603761,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "员安舆",
+    "author_tr": "員安輿",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "国初吾乡民，万户一逢掖。\n盖自咸平后，俊髦始接迹。",
+    "content_tr": "國初吾鄉民，萬戶一逢掖。\n蓋自咸平後，俊髦始接迹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

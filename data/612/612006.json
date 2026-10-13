@@ -1,0 +1,18 @@
+{
+  "work_id": 612006,
+  "work": {
+    "id": 612006,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "白麟",
+    "author_tr": "白麟",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁破天荒开僰道，千载岩木护天宫。\n背城山合疑无路，面水窗横自有风。",
+    "content_tr": "誰破天荒開僰道，千載巖木護天宮。\n背城山合疑無路，面水窗橫自有風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

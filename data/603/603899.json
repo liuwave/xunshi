@@ -1,0 +1,18 @@
+{
+  "work_id": 603899,
+  "work": {
+    "id": 603899,
+    "title": "赤壁",
+    "title_tr": "赤壁",
+    "author": "郑獬",
+    "author_tr": "鄭獬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帐前斫案决大议，赤壁火船烧战旗。\n若使曹公忠汉室，周郎争敢破王师。",
+    "content_tr": "帳前斫案决大議，赤壁火船燒戰旗。\n若使曹公忠漢室，周郎爭敢破王師。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 604246,
+  "work": {
+    "id": 604246,
+    "title": "句",
+    "title_tr": "句",
+    "author": "徐信",
+    "author_tr": "徐信",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平地风烟飞白鸟，半空云木卷苍藤。",
+    "content_tr": "平地風煙飛白鳥，半空雲木捲蒼藤。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "平地风烟飞起白鸟，半空云木卷动苍藤。",
+    "annotation": "（无生僻字可注）",
+    "appreciation": "此为残句，写登高所见之景。上句“平地风烟飞白鸟”写低处：风烟漫地，白鸟穿飞；下句“半空云木卷苍藤”写高处：云木盘空，苍藤卷舞。一白一苍，一低一高，一飞一卷，十字中景象壮阔、色彩对比鲜明。残联虽仅两句，而画面开合，可作一联独立的写景名对，读之如置身千仞之冈、风烟浩渺之处。白鸟、苍藤，色声响动俱到，十字抵一篇游记。以十字写尽平远与高旷两境，真大手笔。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 611989,
+  "work": {
+    "id": 611989,
+    "title": "句  其四",
+    "title_tr": "句  其四",
+    "author": "苏辙",
+    "author_tr": "蘇轍",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清江入城郭，小浦生微澜。",
+    "content_tr": "清江入城郭，小浦生微瀾。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "清澈的江水流进城郭，小小的水滨泛起细微的波澜。",
+    "annotation": "浦：水滨，河流注入水泽的小口。",
+    "appreciation": "短短十字写江水入城之景。上句「清江入城郭」大笔勾勒，以一「入」字写江与城相依之势；下句「小浦生微澜」收回细处，由大江转入小浦，由静而动，以「微澜」二字点出水面初生的涟漪。大小相映，动静相承，于寻常水景中见出从容安闲的意态。语言明净如水，不假雕饰，是宋人写景断句中以淡笔取胜的一路。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

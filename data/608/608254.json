@@ -1,0 +1,18 @@
+{
+  "work_id": 608254,
+  "work": {
+    "id": 608254,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "林邵",
+    "author_tr": "林邵",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西来汉水接流流，大别山前旧沔州。\n看到夕阳无尽兴，一行飞鹭下汀州。",
+    "content_tr": "西來漢水接流流，大別山前舊沔州。\n看到夕陽無盡興，一行飛鷺下汀州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

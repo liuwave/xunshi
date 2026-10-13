@@ -1,0 +1,24 @@
+{
+  "work_id": 623458,
+  "work": {
+    "id": 623458,
+    "title": "句",
+    "title_tr": "句",
+    "author": "方勺",
+    "author_tr": "方勺",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三十年前曾见梦，兹游端可冠平生。",
+    "content_tr": "三十年前曾見夢，茲遊端可冠平生。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "三十年前曾在梦中见过，此游真可冠绝平生。",
+    "annotation": "",
+    "appreciation": "此句写旧梦成真之慨，于幻实叠合中见人生意味。上句三十年前曾见梦，言数十年前梦境所历，早有前兆；下句兹游端可冠平生，说今日之游竟与梦暗合，且为生平第一。两句以梦与游呼应，将眼前实境与往昔幻境叠合，生出果然如此的恍然与不负平生的满足。不言景而景在，不抒情而情深。方勺此句于平淡叙事中藏人生如梦、佳遇难再之叹，是题咏小句中以虚写实、以少胜多者，读之令人低回。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

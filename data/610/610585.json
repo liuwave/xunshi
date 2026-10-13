@@ -1,0 +1,24 @@
+{
+  "work_id": 610585,
+  "work": {
+    "id": 610585,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒食清明都过了，石泉槐火一时新。",
+    "content_tr": "寒食清明都過了，石泉槐火一時新。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "寒食清明都已过了，石泉槐火一时皆新。",
+    "annotation": "槐火：古代清明改火，用槐木。石泉：寒食后汲新泉。",
+    "appreciation": "此为残句，写寒食清明节后物候换新。上句“寒食清明都过了”总提节序；下句“石泉槐火一时新”实写节后情景：新泉已汲、新火已燃，一时皆新。十字之中，节物之新、时令之改，宛然在目。东坡残句，多以小见大，此联亦以“一时新”三字，写尽人间改火之意。改火新泉，十字而节物焕然，真善于捕捉节序者。东坡残句每以节物见长，此联尤见其善于捕捉清新之候。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

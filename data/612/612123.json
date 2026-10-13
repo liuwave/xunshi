@@ -1,0 +1,18 @@
+{
+  "work_id": 612123,
+  "work": {
+    "id": 612123,
+    "title": "宫词  其七一",
+    "title_tr": "宮詞  其七一",
+    "author": "王仲修",
+    "author_tr": "王仲修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "地雷设象圣言昭，上应星辰转玉杓。\n阳管气升君道正，忠贤类进小人消。",
+    "content_tr": "地雷設象聖言昭，上應星辰轉玉杓。\n陽管氣升君道正，忠賢類進小人消。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

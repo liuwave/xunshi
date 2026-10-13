@@ -1,0 +1,18 @@
+{
+  "work_id": 610565,
+  "work": {
+    "id": 610565,
+    "title": "慈云四景 白云居",
+    "title_tr": "慈雲四景 白雲居",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "禅居何所有，户牖白云分。\n直待谭玄后，相随花雨纷。",
+    "content_tr": "禪居何所有，戶牖白雲分。\n直待譚玄後，相隨花雨紛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

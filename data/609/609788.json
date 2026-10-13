@@ -1,0 +1,18 @@
+{
+  "work_id": 609788,
+  "work": {
+    "id": 609788,
+    "title": "题西林壁",
+    "title_tr": "題西林壁",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "横看成岭侧成峰，远近高低总不同。\n不识庐山真面目，只缘身在此山中。",
+    "content_tr": "橫看成嶺側成峰，遠近高低總不同。\n不識廬山真面目，只緣身在此山中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

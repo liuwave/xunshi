@@ -1,0 +1,24 @@
+{
+  "work_id": 612812,
+  "work": {
+    "id": 612812,
+    "title": "句",
+    "title_tr": "句",
+    "author": "郑侠",
+    "author_tr": "鄭俠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "未言路上舟车费，尚欠城中酒药钱。",
+    "content_tr": "未言路上舟車費，尚欠城中酒藥錢。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "还没说路上舟车的费用，尚且还欠着城里买酒买药的钱。",
+    "annotation": "舟车：行旅所乘的船与车，代指旅费。\n酒药钱：买酒与买药的零用之资。",
+    "appreciation": "两句以自嘲口吻写贫旅之窘。上句「未言」先退一步，说旅费尚未算起；下句「尚欠」再跌进一步，连城中酒药的零用都已亏欠。以递进之法把清贫寒窘写得层层加码，而语气轻松诙谐，不见怨怒，反见旷达。诗人不直言穷，只从欠账处着笔，潦倒中带几分洒脱，是宋人以谐趣写贫境的常见路数。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

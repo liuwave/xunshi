@@ -1,0 +1,24 @@
+{
+  "work_id": 605443,
+  "work": {
+    "id": 605443,
+    "title": "句",
+    "title_tr": "句",
+    "author": "顾临",
+    "author_tr": "顧臨",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨中林学士，柏下顾将军。",
+    "content_tr": "雨中林學士，柏下顧將軍。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "雨中的林学士，柏树下的顾将军。",
+    "annotation": "林学士、顾将军：句中并称二贤，或指特定人物，具体未详（存疑）。",
+    "appreciation": "此联仅十四字，以「雨中」与「柏下」两景并置，列「林学士」「顾将军」二人。上句写雨中林姓学士之姿，下句写柏下顾姓将军之态，对仗工整而意象清简。「雨」与「柏」皆含清峻之意，暗喻二人之品格。然林、顾究指何人，史传未可确证，故其本事与寄托难明。就文本而论，此乃典型的宋人摘句，以景衬人、以物喻德，含蓄而留白。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 604800,
+  "work": {
+    "id": 604800,
+    "title": "昼眠",
+    "title_tr": "晝眠",
+    "author": "刘攽",
+    "author_tr": "劉攽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "薰风四月树阴合，无事高眠昼漏长。\n觉后已疑人世改，起看林影上东墙。",
+    "content_tr": "薰風四月樹陰合，無事高眠晝漏長。\n覺後已疑人世改，起看林影上東牆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

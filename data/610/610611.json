@@ -1,0 +1,24 @@
+{
+  "work_id": 610611,
+  "work": {
+    "id": 610611,
+    "title": "句  其三七",
+    "title_tr": "句  其三七",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "安石作假山，其中多诡怪。\n虽然知是假，争奈主人爱。",
+    "content_tr": "安石作假山，其中多詭怪。\n雖然知是假，爭奈主人愛。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "安石作造假山，其中多有诡怪。虽然知是假，争奈主人心爱。",
+    "annotation": "安石：谢安，喜营造。",
+    "appreciation": "此为残句，咏假山。上二句“安石作假山，其中多诡怪”用谢安造园典，言假山多有奇怪；下二句“虽然知是假，争奈主人爱”作翻案——明知是假，而主人自爱。东坡以二十字道尽造园者心理：真假之辨不敌一爱。语带诙谐，而深有讽世之意。知假而仍爱，一语道尽造园者与赏园者心理。主人爱之，虽假亦真，此理东坡已一语道破。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

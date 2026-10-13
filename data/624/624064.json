@@ -1,0 +1,24 @@
+{
+  "work_id": 624064,
+  "work": {
+    "id": 624064,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "田亘",
+    "author_tr": "田亙",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "临溪照影为谁好，映竹无人空自怜。",
+    "content_tr": "臨溪照影爲誰好，映竹無人空自憐。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "临溪照见身影，为谁而美好，/ 映着修竹无人欣赏，空自怜惜。",
+    "annotation": "",
+    "appreciation": "此残句以花（或人）自况，写孤芳无赏之悲。上句「临溪照影为谁好」，临水自照，问「为谁」而美，已含无人赏识的落寞；下句「映竹无人空自怜」，映竹清姿，却「无人」空自怜惜，孤洁愈显而寂寞愈深。两句以问起、以叹结，将物之姿与人之情打成一片，是借物抒怀的婉转写法。残句虽仅十四字，而顾影自怜、不遇于时之意已足动人。所咏为何，篇题已佚，然其情可感。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

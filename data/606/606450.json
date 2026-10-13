@@ -1,0 +1,18 @@
+{
+  "work_id": 606450,
+  "work": {
+    "id": 606450,
+    "title": "开元乐词  其一",
+    "title_tr": "開元樂詞  其一",
+    "author": "沈括",
+    "author_tr": "沈括",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鹳鹊楼头日暖，蓬莱殿里花香。\n草绿烟迷步辇，天高日近龙床。",
+    "content_tr": "鸛鵲樓頭日暖，蓬萊殿裏花香。\n草綠煙迷步輦，天高日近龍床。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

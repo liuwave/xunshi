@@ -1,0 +1,24 @@
+{
+  "work_id": 618000,
+  "work": {
+    "id": 618000,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王文举",
+    "author_tr": "王文舉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何日面青山，相并两茅屋。",
+    "content_tr": "何日面青山，相並兩茅屋。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "哪一天才能面对青山，与你并排搭起两间茅屋。",
+    "annotation": "面青山：面对青山。\n相并：并排、相邻。",
+    "appreciation": "仅存五言一联，却意态悠然。上句「何日面青山」以问句作起，把退隐之志、结邻之愿托于「何日」二字，想见其向往之久而未得。下句「相并两茅屋」接以实景设想：不求广厦高堂，只求两间茅檐比邻相对，共对青山。二十字中无一字写愁，而久居尘嚣、难得闲隐的倦意自见。以「两」字与「相并」相扣，既写物理之近，更写人情之亲，淡笔远神，正是宋人残句中常见的理趣与逸韵。惜全篇不存，余韵难尽。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

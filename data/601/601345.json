@@ -1,0 +1,18 @@
+{
+  "work_id": 601345,
+  "work": {
+    "id": 601345,
+    "title": "戏题",
+    "title_tr": "戲題",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "薄宦遭百舌，不如归去来。\n提壶沽美酒，泥滑滑如苔。",
+    "content_tr": "薄宦遭百舌，不如歸去來。\n提壺沽美酒，泥滑滑如苔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

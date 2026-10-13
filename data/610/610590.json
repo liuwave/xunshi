@@ -1,0 +1,24 @@
+{
+  "work_id": 610590,
+  "work": {
+    "id": 610590,
+    "title": "句  其一一",
+    "title_tr": "句  其一一",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "醉中有客眠何害，须信陶潜未若贤。",
+    "content_tr": "醉中有客眠何害，須信陶潛未若賢。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "醉中有客，眠下又有何害？须信陶潜未必如此贤。",
+    "annotation": "陶潜：陶渊明，嗜饮。",
+    "appreciation": "此为残句，翻陶渊明之案。上句“醉中有客眠何害”先立一断语——醉中客眠本无害；下句“须信陶潜未若贤”作翻案——渊明之贤未必过此。东坡往往于残句中作翻案文字，以见已胸次洒落，不古人为必然。残联短而笔老，是其一贯风格。翻陶潜之案，见其胸中无古无今，唯意所适。盖醉中眠客，事本无碍，何必一一以渊明为标准哉。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

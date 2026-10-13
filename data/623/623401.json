@@ -1,0 +1,24 @@
+{
+  "work_id": 623401,
+  "work": {
+    "id": 623401,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "释祖可",
+    "author_tr": "釋祖可",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "此身未是寻真客，惭愧寻真观里人。",
+    "content_tr": "此身未是尋真客，慚愧尋真觀裏人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "此身并非寻真之客，惭愧那寻真观里的人。",
+    "annotation": "寻真：寻仙访道、求真悟道。\n寻真观：道观名。",
+    "appreciation": "此句自谦非求真之人，于身份对照中见自省。上句此身未是寻真客，直认己身未入道门、未臻真境；下句惭愧寻真观里人，以惭愧对观中修道者，谦退之中见向道之诚。两句以寻真绾合，身虽非客而心实向往，不矜不饰，语淡而意真。短短十四字，写僧人对道流的一份谦抑与敬意，亦见佛道相济之世风。于题咏中以退为进，含蓄之中自有分量，是宋僧小品中耐味之句。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

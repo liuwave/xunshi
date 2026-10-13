@@ -1,0 +1,24 @@
+{
+  "work_id": 605438,
+  "work": {
+    "id": 605438,
+    "title": "存目",
+    "title_tr": "存目",
+    "author": "孙觉",
+    "author_tr": "孫覺",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗题：寄墨首句：徂徕无老松。",
+    "content_tr": "詩題：寄墨首句：徂徠無老松。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "（此为存目，原诗已佚，仅录诗题与首句）诗题：寄墨；首句：徂徕山上没有老松。",
+    "annotation": "存目：诗词仅存目录题名，原作散佚。\n徂徕（Cúlái）：山名，在今山东泰安东南。",
+    "appreciation": "此条为「存目」，非完整诗作，仅存诗题《寄墨》与首句「徂徕无老松」，原诗全文已佚，故无从逐句疏解。就所存者而言，「徂徕无老松」以徂徕山起兴，似借山中无老松以寄意，或涉赠友（寄墨）之属。限于残存信息，只能录其梗概，无法确证作者命意与全篇脉络，谨依存目之实记之，不敢妄补。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

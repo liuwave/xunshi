@@ -1,0 +1,18 @@
+{
+  "work_id": 600511,
+  "work": {
+    "id": 600511,
+    "title": "寒食",
+    "title_tr": "寒食",
+    "author": "曾巩",
+    "author_tr": "曾鞏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一麾飘泊在天涯，寒食园林不见花。\n唯有市亭酤酒客，俚歌声到日西斜。",
+    "content_tr": "一麾飄泊在天涯，寒食園林不見花。\n唯有市亭酤酒客，俚歌聲到日西斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 622657,
+  "work": {
+    "id": 622657,
+    "title": "句",
+    "title_tr": "句",
+    "author": "颜几",
+    "author_tr": "顔幾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白日尊中短，青山枕上高。",
+    "content_tr": "白日尊中短，青山枕上高。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "白日里酒樽中光阴苦短，青山在枕上显得高远。",
+    "annotation": "尊：同「樽」，酒杯。\n枕上：枕席之上，指闲卧之时。",
+    "appreciation": "此断句写闲居感悟。上句「白日尊中短」言把酒消磨，觉白昼在杯中匆匆变短，写惜时与潦倒；下句「青山枕上高」写闲卧所见，青山似在枕畔高耸，状闲适超远之境。短与高、醉与醒对举，于日常小景中见出对时光与山水的双重眷恋，平淡中自有旷达，断章而意足。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

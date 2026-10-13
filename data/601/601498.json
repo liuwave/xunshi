@@ -1,0 +1,24 @@
+{
+  "work_id": 601498,
+  "work": {
+    "id": 601498,
+    "title": "句  其一二",
+    "title_tr": "句  其一二",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不识日高眠起处，何如风定舞余时。",
+    "content_tr": "不識日高眠起處，何如風定舞餘時。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "不知道太阳高起、人刚睡醒的样子，怎比得上风定之后、舞罢之时。",
+    "annotation": "舞余时：舞罢之时。",
+    "appreciation": "此残句十四字，以对比笔法立言。上句「日高眠起处」写一种慵懒之态——日上三竿、人犹未起；下句「风定舞余时」写另一种风姿——舞罢风停、余态尚存。「不识」与「何如」相呼应，不作正面回答，只以两境相较，令读者自辨孰优。句法摇曳，含不尽之意于言外。所咏对象虽仅存残句，然其风神洒落、姿态横生，已可想见诗人用笔之妙，残而不失其韵。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

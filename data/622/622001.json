@@ -1,0 +1,18 @@
+{
+  "work_id": 622001,
+  "work": {
+    "id": 622001,
+    "title": "榕树",
+    "title_tr": "榕樹",
+    "author": "邹浩",
+    "author_tr": "鄒浩",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "榕树能容故得名，枝条环布若高城。\n何当种满弥天去，永使青青芘万生。",
+    "content_tr": "榕樹能容故得名，枝條環布若高城。\n何當種滿彌天去，永使青青芘萬生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

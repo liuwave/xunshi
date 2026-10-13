@@ -1,0 +1,24 @@
+{
+  "work_id": 606023,
+  "work": {
+    "id": 606023,
+    "title": "句",
+    "title_tr": "句",
+    "author": "朱诗",
+    "author_tr": "朱詩",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒夜客来茶当酒，竹炉汤沸火初红。",
+    "content_tr": "寒夜客來茶當酒，竹爐湯沸火初紅。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "寒夜有客来访，以茶当酒；竹炉上汤水沸腾，火光初红。",
+    "annotation": "竹炉：竹编外壳的火炉，用于烹茶。",
+    "appreciation": "此联写寒夜待客，清雅可喜。上句「寒夜客来茶当酒」，于寒冷长夜有客叩门，不备酒而以茶相待，见主客皆脱略形迹、以清致相尚；下句「竹炉汤沸火初红」，写竹炉上茶汤初沸、炉火方红，以暖色暖意反衬门外之寒。一寒一暖、一茶一火，于简净对仗中见人情之厚与物境之雅。不着一愁字而温馨自见，是宋人闲适小诗的典型风味，与俗世喧饮恰成对照。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

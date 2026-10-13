@@ -1,0 +1,18 @@
+{
+  "work_id": 614126,
+  "work": {
+    "id": 614126,
+    "title": "颂一首",
+    "title_tr": "頌一首",
+    "author": "张商英",
+    "author_tr": "張商英",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鼓寂钟沉托钵回，岩头一拶语如雷。\n果然只得三年活，莫是遭他受记来。",
+    "content_tr": "鼓寂鍾沉托鉢回，巖頭一拶語如雷。\n果然只得三年活，莫是遭他受記來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

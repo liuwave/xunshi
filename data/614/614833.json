@@ -1,0 +1,24 @@
+{
+  "work_id": 614833,
+  "work": {
+    "id": 614833,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张佑",
+    "author_tr": "張佑",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蟹黄盐满箸，熊白软加笾。",
+    "content_tr": "蟹黄鹽滿箸，熊白軟加籩。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "蟹黄配着盐，堆满筷子；熊白脂柔软，盛满食笾。",
+    "annotation": "蟹黄：蟹腹中的膏黄。\n熊白：熊背上的白脂，古人视为珍贵美味。\n笾（biān）：古代盛食品的竹制食器。",
+    "appreciation": "两句专写秋冬食馔之丰美。上句「蟹黄盐满箸」以盐配蟹黄，写其腴而鲜；下句「熊白软加笾」以笾盛熊白脂，写其柔而贵。一蟹一熊，一咸鲜一柔腴，皆为时令美味。「满箸」「加笾」以食器之满状食物之盛，不直言好吃，而丰腆之感自见。对仗工整，色彩与味觉交织，是宋人以饮食入诗、摹写节物的生动断句。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

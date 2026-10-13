@@ -1,0 +1,18 @@
+{
+  "work_id": 620432,
+  "work": {
+    "id": 620432,
+    "title": "颂",
+    "title_tr": "頌",
+    "author": "陈瓘",
+    "author_tr": "陳瓘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "静坐一川微雨，未辨雷音起处。\n夜深风作轻寒，清晓月明归去。",
+    "content_tr": "靜坐一川微雨，未辨雷音起處。\n夜深風作輕寒，清曉月明歸去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

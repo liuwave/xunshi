@@ -1,0 +1,24 @@
+{
+  "work_id": 606977,
+  "work": {
+    "id": 606977,
+    "title": "句",
+    "title_tr": "句",
+    "author": "程颢",
+    "author_tr": "程顥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "中心如自固，外物岂能迁。",
+    "content_tr": "中心如自固，外物豈能遷。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "内心如果自己稳固，外物岂能改变。",
+    "annotation": "中心：内心，心中。\n自固：自己坚固，稳固。\n迁：改变，动摇。",
+    "appreciation": "此为程颢的格言式诗句，短短十字却涵摄理学家修身要义。上句「中心如自固」强调内心须有定力，立得定方不被外诱；下句「外物岂能迁」反诘收束，言外物之移人全在己心之不定。全诗以假设句式「如……岂……」构成逻辑，简明而有力，体现的是宋代理学「主静」「持敬」、以心御物的修养观。语言质朴如语，却理致深沉，与其「万物静观皆自得」同一机杼，可见程颢融哲理于短章的所长。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 612002,
+  "work": {
+    "id": 612002,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李琮",
+    "author_tr": "李琮",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "腥味鱼中墨，衣成木上绵。",
+    "content_tr": "腥味魚中墨，衣成木上綿。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "带腥味的是鱼腹中的墨，织成衣服的是树上长出的绵。",
+    "annotation": "鱼中墨：或指乌贼腹中墨囊，岭南海产风物（存疑）。\n木上绵：指木棉，树上生长的棉絮，可织布。",
+    "appreciation": "两句疑写岭南海滨的特殊物产。上句「腥味鱼中墨」状海产之腥异，下句「衣成木上绵」写木棉织布之奇。一鱼一木，一腥一暖，对仗中带出异地风物的陌生感。诗不直言地之僻远，而以非常之物候、物产侧衬，使读者于字里行间想见海滨荒寒而饶生趣的景象。语虽短，却是以小见大、以物代地的咏物笔法。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

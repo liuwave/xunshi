@@ -1,0 +1,24 @@
+{
+  "work_id": 602262,
+  "work": {
+    "id": 602262,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "司马光",
+    "author_tr": "司馬光",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不肯那钱买珠翠，任教堆插阶前菊。",
+    "content_tr": "不肯那錢買珠翠，任教堆插階前菊。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "不肯挪钱去买珍珠翡翠，任凭台阶前的菊花堆积插放。",
+    "annotation": "那（nuó）钱：挪用钱钞。\n珠翠：珍珠翡翠，指贵重首饰。\n堆插阶前菊：指菊满台阶之景。",
+    "appreciation": "此联写一种清趣。不肯挪钱购置珠翠华饰，却一任阶前菊花堆插。以珠翠之贵反衬寒菊之贱，取舍之间立见品格：所好不在金玉珠翠，而在荒寒秋花。十四字而有夷介之气，虽为断句，其人淡于荣利、偏爱疏野的襟怀已跃然纸上。花不须买，钱不肯费，闲静自适之态，全在这一不一堆插之间流露出来。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

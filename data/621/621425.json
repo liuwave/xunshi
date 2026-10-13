@@ -1,0 +1,18 @@
+{
+  "work_id": 621425,
+  "work": {
+    "id": 621425,
+    "title": "江南",
+    "title_tr": "江南",
+    "author": "晁说之",
+    "author_tr": "晁說之",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一家天下莫分三，天极明星万象含。\n此水北江归海处，谁将此地号江南。",
+    "content_tr": "一家天下莫分三，天極明星萬象含。\n此水北江歸海處，誰将此地號江南。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

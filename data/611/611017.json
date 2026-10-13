@@ -1,0 +1,24 @@
+{
+  "work_id": 611017,
+  "work": {
+    "id": 611017,
+    "title": "句  其一○",
+    "title_tr": "句  其一○",
+    "author": "孙升",
+    "author_tr": "孫升",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "慈竹笋抽疑夏箨，木犀花发认春香。",
+    "content_tr": "慈竹笋抽疑夏籜，木犀花發認春香。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "慈竹抽发新笋，疑心是夏日才脱的笋壳；木犀花开，辨认出一缕春日般的香气。",
+    "annotation": "慈竹：竹的一种，又称义竹，丛生。\n箨（tuò）：笋壳，竹笋脱落的外皮。\n木犀：桂花的别称，秋季开花。",
+    "appreciation": "两句皆以「疑」「认」二字写观赏之细，体物入微。上句写慈竹抽笋，新壳尚裹，疑为夏箨；下句写木犀飘香，于秋花中辨认春温。诗人不直言物之形色，而以主观的疑认勾连春夏，把笋之新与花之香写得有温度、有错觉。两句一竹一花，一绿一香，对仗轻盈，于日常物候中见出闲静观物的诗心。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

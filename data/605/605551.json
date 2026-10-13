@@ -1,0 +1,18 @@
+{
+  "work_id": 605551,
+  "work": {
+    "id": 605551,
+    "title": "渔翁",
+    "title_tr": "漁翁",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白髪老翁心似铁，网尽溪鱼犹未歇。\n船中浑是卖鱼钱，买酒烹鱼醉明月。",
+    "content_tr": "白髪老翁心似鐵，網盡溪魚猶未歇。\n船中渾是賣魚錢，買酒烹魚醉明月。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

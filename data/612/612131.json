@@ -1,0 +1,18 @@
+{
+  "work_id": 612131,
+  "work": {
+    "id": 612131,
+    "title": "宫词  其七九",
+    "title_tr": "宮詞  其七九",
+    "author": "王仲修",
+    "author_tr": "王仲修",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天子观渔陋鲁棠，涵曦亭下似沧浪。\n金鳞钓得龙颜喜，韶乐声中进玉觞。",
+    "content_tr": "天子觀漁陋魯棠，涵曦亭下似滄浪。\n金鱗釣得龍顔喜，韶樂聲中進玉觴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

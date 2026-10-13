@@ -1,0 +1,24 @@
+{
+  "work_id": 606430,
+  "work": {
+    "id": 606430,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "孔夷",
+    "author_tr": "孔夷",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "微雨鹭翘艇，夕阳人倚楼。",
+    "content_tr": "微雨鷺翹艇，夕陽人倚樓。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "微微细雨中白鹭翘立在小艇上，夕阳里有人倚靠着楼台。",
+    "annotation": "",
+    "appreciation": "此联写江南微雨夕阳之景。上句『微雨鹭翘艇』，于淡淡细雨中写白鹭翘立小艇，静中有物，画面疏朗；下句『夕阳人倚楼』，以夕阳衬人倚楼，闲远之情溢于言外。一舟一人，一自然之鹭一闲适之人，动静相映而皆归于静。二十字不着情语，而清幽闲淡之致自在其中，有唐人绝句遗韵。作为题『句』残篇，全篇虽佚，此联自足为景语佳品，可见作者捕捉寻常景物、以简笔传神的手段。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

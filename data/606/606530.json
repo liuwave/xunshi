@@ -1,0 +1,18 @@
+{
+  "work_id": 606530,
+  "work": {
+    "id": 606530,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "蒋之奇",
+    "author_tr": "蔣之奇",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凌风泛浪白于云，野牧湖中晓至昏。\n一举招旗毕来集，至今人号养鹅墩。",
+    "content_tr": "凌風泛浪白於雲，野牧湖中曉至昏。\n一舉招旗畢來集，至今人號養鵝墩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

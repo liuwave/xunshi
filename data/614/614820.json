@@ -1,0 +1,24 @@
+{
+  "work_id": 614820,
+  "work": {
+    "id": 614820,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王雱",
+    "author_tr": "王雱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君心莫厌频欢乐，请看云间日西入。",
+    "content_tr": "君心莫厭頻歡樂，請看雲間日西入。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "你心里不要厌烦频繁的欢乐，请看云间的太阳已经西沉。",
+    "annotation": "云间日西入：喻时光流逝、好景难再。",
+    "appreciation": "两句为劝惜当下之语。上句「莫厌频欢乐」先作一波，劝人莫辞欢乐；下句「请看云间日西入」陡以落日西沉相警，把及时行乐的理由托出。前句是劝，后句是证，以眼前云间落日作为光阴不再的见证，比空言叹息更有力量。语近古乐府「昼短苦夜长」之意，而以「莫厌」与「请看」的呼应对话出之，亲切而警切。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

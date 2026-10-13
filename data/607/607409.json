@@ -1,0 +1,24 @@
+{
+  "work_id": 607409,
+  "work": {
+    "id": 607409,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李镇",
+    "author_tr": "李鎮",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古木直无巢，野泉清绝钓。",
+    "content_tr": "古木直無巢，野泉清絕釣。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "古木笔直没有鸟巢，野泉清澈到极点无法垂钓。",
+    "annotation": "绝钓：极清而无鱼可钓，或指断绝垂钓。",
+    "appreciation": "此残句写荒远幽清之境。上句「古木直无巢」以老木挺直、了无鸟巢写其荒寂无人之态，直木本不易为巢，更显幽僻；下句「野泉清绝钓」以野泉至清、鱼不可得而绝钓，暗用「水至清则无鱼」之意，见出环境的极净与孤绝。两句一木一水，以「无巢」「绝钓」的否定式笔法勾勒出一处远离尘嚣、纤尘不染的隐逸之地。景愈清则人愈远，语极简淡而清寂之趣自生，有王维、韦应物山水小诗之韵。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

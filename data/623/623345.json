@@ -1,0 +1,18 @@
+{
+  "work_id": 623345,
+  "work": {
+    "id": 623345,
+    "title": "嘲杜鹃",
+    "title_tr": "嘲杜鵑",
+    "author": "饶节",
+    "author_tr": "饒節",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杜鹃终日苦言归，只解言归不见机。\n青山本是渠归处，犹向风前怨落晖。",
+    "content_tr": "杜鵑終日苦言歸，只解言歸不見機。\n青山本是渠歸處，猶向風前怨落暉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

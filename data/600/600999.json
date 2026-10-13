@@ -1,0 +1,18 @@
+{
+  "work_id": 600999,
+  "work": {
+    "id": 600999,
+    "title": "风花",
+    "title_tr": "風花",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风花不自知，高下逐风飞。\n故有多情处，时来点客衣。\n仙源应在晴溪侧，弄雪吹香不忍归。",
+    "content_tr": "風花不自知，高下逐風飛。\n故有多情處，時來點客衣。\n仙源應在晴溪側，弄雪吹香不忍歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

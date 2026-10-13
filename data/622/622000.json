@@ -1,0 +1,18 @@
+{
+  "work_id": 622000,
+  "work": {
+    "id": 622000,
+    "title": "写黄庭  其五",
+    "title_tr": "寫黄庭  其五",
+    "author": "邹浩",
+    "author_tr": "鄒浩",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "升平无象亦无名，翼翼巍巍拱玉宸。\n流泽自周人自乐，普天同入万年春。",
+    "content_tr": "升平無象亦無名，翼翼巍巍拱玉宸。\n流澤自周人自樂，普天同入萬年春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

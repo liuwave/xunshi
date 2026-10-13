@@ -1,0 +1,18 @@
+{
+  "work_id": 606456,
+  "work": {
+    "id": 606456,
+    "title": "鄜延凯歌  其三",
+    "title_tr": "鄜延凱歌  其三",
+    "author": "沈括",
+    "author_tr": "沈括",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "马尾胡琴随汉车，曲声犹自怨单于。\n弯弓莫射云中雁，归雁如今不寄书。",
+    "content_tr": "馬尾胡琴隨漢車，曲聲猶自怨單于。\n彎弓莫射雲中雁，歸雁如今不寄書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

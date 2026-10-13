@@ -1,0 +1,24 @@
+{
+  "work_id": 623402,
+  "work": {
+    "id": 623402,
+    "title": "句  其六",
+    "title_tr": "句  其六",
+    "author": "释祖可",
+    "author_tr": "釋祖可",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清霜群木落，尽见西山秋。",
+    "content_tr": "清霜羣木落，盡見西山秋。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "清霜之下群木叶落，尽数望见西山的秋色。",
+    "annotation": "",
+    "appreciation": "此联写秋霜木落之景，因果相生。上句清霜群木落，点明时令：清霜既降，万木叶脱，是典型秋深之象；下句尽见西山秋，叶落则遮挡尽去，西山秋色豁然在望。两句妙在因与果：正因木落，方得远见西山；写眼前之开阔，亦写心境之疏朗。不著情语而萧远之致自在，于极简中见宋人落叶见山之理趣。祖可此句与王维落叶满空山同一机杼，以无我之笔写有我之境，淡而耐寻。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

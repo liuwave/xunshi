@@ -1,0 +1,18 @@
+{
+  "work_id": 600019,
+  "work": {
+    "id": 600019,
+    "title": "探春",
+    "title_tr": "探春",
+    "author": "文同",
+    "author_tr": "文同",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "豳郊寒重勒春迟，消息如今尚未知。\n只是垂杨最先得，每朝来觅向东枝。",
+    "content_tr": "豳郊寒重勒春遲，消息如今尚未知。\n只是垂楊最先得，每朝來覓向東枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

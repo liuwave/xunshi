@@ -1,0 +1,18 @@
+{
+  "work_id": 600618,
+  "work": {
+    "id": 600618,
+    "title": "咏古诗十二首  其一",
+    "title_tr": "詠古詩十二首  其一",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "虹蜺明西方，五色相属聫。\n浮云万里来，泱郁天宇间。\n白日晦无象，盛阳变为寒。\n洚水弥九土，陵谷相贸迁。\n盈虚叵前测，物理有固然。",
+    "content_tr": "虹蜺明西方，五色相屬聫。\n浮雲萬里來，泱鬱天宇間。\n白日晦無象，盛陽變爲寒。\n洚水彌九土，陵谷相貿遷。\n盈虛叵前測，物理有固然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

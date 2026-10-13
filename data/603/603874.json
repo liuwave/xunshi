@@ -1,0 +1,18 @@
+{
+  "work_id": 603874,
+  "work": {
+    "id": 603874,
+    "title": "庄鹍辞海",
+    "title_tr": "莊鵾辭海",
+    "author": "郑獬",
+    "author_tr": "鄭獬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "归路渐惊红叶老，旧山已落白云深。\n庄鹍聊欲辞沧海，越鸟终须忆故林。",
+    "content_tr": "歸路漸驚紅葉老，舊山已落白雲深。\n莊鵾聊欲辭滄海，越鳥終須憶故林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

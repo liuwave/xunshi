@@ -1,0 +1,18 @@
+{
+  "work_id": 623000,
+  "work": {
+    "id": 623000,
+    "title": "嵩山二十四咏 起云峰",
+    "title_tr": "嵩山二十四詠 起雲峰",
+    "author": "楼异",
+    "author_tr": "樓异",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "触石孤飞一叶蓬，雷公电母昼鞭龙。\n但知四海为霖雨，不道中天第几峰。",
+    "content_tr": "觸石孤飛一葉蓬，雷公電母晝鞭龍。\n但知四海爲霖雨，不道中天第幾峰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
