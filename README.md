@@ -26,6 +26,36 @@ data/
 桶名三位补零，**文件名里的 id 不补零**。
 例：《水调歌头》（苏轼）在站点是 `https://xunshi.oldmen.cn/poems/56`，数据文件是 [`data/000/56.json`](data/000/56.json)。
 
+## 参与纠错
+
+两种方式，任选其一：
+
+**方式一：在 GitHub 直接改文件（推荐）**
+到 `data/{桶}/{id}.json` 点编辑 → 改完提交 PR。也可以先在寻诗站的纠错弹窗里拿到
+「修正后的完整 JSON」（点「提交 PR」会自动复制到剪贴板并打开编辑页），全选粘贴即可。
+
+**方式二：在站点提 Issue，机器人自动开 PR**
+在寻诗站点点「生成 Issue」提交后，`.github/workflows/correction-pr.yml` 会解析 Issue
+正文里的变更 JSON，自动建分支、改文件、开 PR，并在 Issue 下留言 PR 链接。
+正文里那段 `json` 块的格式：
+
+```json
+{ "work_id": 56, "changes": [{ "field": "work.title", "from": "旧值", "to": "新值" }] }
+```
+
+可改字段见下方「JSON 字段说明」；`work_id`、`work.id`、`annotation.confidence`、
+`annotation.ai_generated` 等不接受外部改动，会被自动跳过。
+不是纠错内容的 Issue 不会被评论打扰，机器人静默跳过。补跑某条 Issue：
+Actions → 「纠错 Issue → 自动 PR」→ Run workflow，填 Issue 号。
+
+> **仓库前置条件**：Settings → Actions → General 需开启
+> 「Allow GitHub Actions to create and approve pull requests」，否则机器人开 PR 会 403。
+> 已开启（2026-10-13）。
+
+**PR 合并后**：维护者跑
+`node scripts/web/import_fixes.mjs --repo <本仓库> --range main~1..main`
+把改动回流到修正层，下次 `build:webdb` 生效。
+
 ## JSON 字段说明
 
 ```json
