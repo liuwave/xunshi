@@ -1,0 +1,18 @@
+{
+  "work_id": 666420,
+  "work": {
+    "id": 666420,
+    "title": "感事",
+    "title_tr": "感事",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "狐死正丘首，鸢飞翰戾天。\n乃知司马晋，不若慕容燕。\n济乱须人杰，投机赧世贤。\n长江千古恨，南北几陈编。",
+    "content_tr": "狐死正丘首，鳶飛翰戾天。\n乃知司馬晉，不若慕容燕。\n濟亂須人傑，投機赧世賢。\n長江千古恨，南北幾陳編。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

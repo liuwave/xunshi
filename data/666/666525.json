@@ -1,0 +1,18 @@
+{
+  "work_id": 666525,
+  "work": {
+    "id": 666525,
+    "title": "读荆轲传",
+    "title_tr": "讀荆軻傳",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "妙算尝闻胜五侯，轻生终不是良谋。\n秦王未许论生劫，毕事还同擦虎头。",
+    "content_tr": "妙算嘗聞勝五侯，輕生終不是良謀。\n秦王未許論生劫，畢事還同擦虎頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

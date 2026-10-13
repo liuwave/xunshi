@@ -1,0 +1,18 @@
+{
+  "work_id": 666313,
+  "work": {
+    "id": 666313,
+    "title": "句",
+    "title_tr": "句",
+    "author": "虞汉",
+    "author_tr": "虞漢",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明年桃李月，春入马蹄轻。",
+    "content_tr": "明年桃李月，春入馬蹄輕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

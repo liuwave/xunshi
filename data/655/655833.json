@@ -1,0 +1,18 @@
+{
+  "work_id": 655833,
+  "work": {
+    "id": 655833,
+    "title": "醉舞",
+    "title_tr": "醉舞",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渭城朝雨不须歌，烂醉江头舞短蓑。\n自是先生眼根钝，天狐伎俩本无多。",
+    "content_tr": "渭城朝雨不須歌，爛醉江頭舞短蓑。\n自是先生眼根鈍，天狐伎倆本無多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

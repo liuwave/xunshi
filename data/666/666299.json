@@ -1,0 +1,18 @@
+{
+  "work_id": 666299,
+  "work": {
+    "id": 666299,
+    "title": "饭有沙二绝  其一",
+    "title_tr": "飯有沙二絕  其一",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东西断渡欲浮槎，朝来绝市无鱼虾。\n我仓湿谷舂不得，客米炊来饭有沙。",
+    "content_tr": "東西斷渡欲浮槎，朝來絕市無魚蝦。\n我倉濕穀舂不得，客米炊來飯有沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 654528,
+  "work": {
+    "id": 654528,
+    "title": "春日绝句八首  其五",
+    "title_tr": "春日絕句八首  其五",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃李吹成九陌尘，客中又过一年春。\n余寒漠漠城南路，只见秋千不见人。",
+    "content_tr": "桃李吹成九陌塵，客中又過一年春。\n餘寒漠漠城南路，只見鞦韆不見人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

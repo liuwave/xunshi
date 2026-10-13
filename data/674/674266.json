@@ -1,0 +1,18 @@
+{
+  "work_id": 674266,
+  "work": {
+    "id": 674266,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "敖陶孙",
+    "author_tr": "敖陶孫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜风欺断柳，星月爱平芜。\n船暖知村近，钟寒想寺孤。",
+    "content_tr": "霜風欺斷柳，星月愛平蕪。\n船暖知村近，鐘寒想寺孤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

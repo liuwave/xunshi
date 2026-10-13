@@ -1,0 +1,18 @@
+{
+  "work_id": 654902,
+  "work": {
+    "id": 654902,
+    "title": "农舍四首  其一",
+    "title_tr": "農舍四首  其一",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三农虽隙亦匆忙，穑事何曾一夕忘。\n欲晒胡麻愁屡雨，未收荞麦怯新霜。",
+    "content_tr": "三農雖隙亦匆忙，穡事何曾一夕忘。\n欲曬胡麻愁屢雨，未收蕎麥怯新霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

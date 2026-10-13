@@ -1,0 +1,18 @@
+{
+  "work_id": 652735,
+  "work": {
+    "id": 652735,
+    "title": "春雪",
+    "title_tr": "春雪",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江云垂野雪如簁，閠岁春来特地迟。\n倒尽酒壶终日醉，卧听儿诵半山诗。",
+    "content_tr": "江雲垂野雪如簁，閠歲春來特地遲。\n倒盡酒壺終日醉，臥聽兒誦半山詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

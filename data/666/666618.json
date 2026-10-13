@@ -1,0 +1,18 @@
+{
+  "work_id": 666618,
+  "work": {
+    "id": 666618,
+    "title": "神凤操",
+    "title_tr": "神鳳操",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "大乐和谐兮，神凤来仪。\n彼周公之圣兮，余何德以堪之。",
+    "content_tr": "大樂和諧兮，神鳳來儀。\n彼周公之聖兮，余何德以堪之。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

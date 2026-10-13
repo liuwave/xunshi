@@ -1,0 +1,18 @@
+{
+  "work_id": 651234,
+  "work": {
+    "id": 651234,
+    "title": "十日夜月中马上作",
+    "title_tr": "十日夜月中馬上作",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "身逰碧海跨鲸鱼，心似寒冰贮玉壶。\n衣湿三更清露坠，眼明万里片云无。\n横空孤鹤曾相识，散发飞仙定可呼。\n老向人间无复意，逝将从此谒清都。",
+    "content_tr": "身逰碧海跨鯨魚，心似寒冰貯玉壺。\n衣濕三更清露墜，眼明萬里片雲無。\n横空孤鶴曾相識，散髮飛仙定可呼。\n老向人間無復意，逝將從此謁清都。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

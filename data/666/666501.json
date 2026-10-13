@@ -1,0 +1,18 @@
+{
+  "work_id": 666501,
+  "work": {
+    "id": 666501,
+    "title": "秋意",
+    "title_tr": "秋意",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "月娥素魄溢婵娟，金吹凄凉冷淡天。\n野水暝烟枫叶暮，黄花红蓼独嫣然。",
+    "content_tr": "月娥素魄溢嬋娟，金吹淒涼冷淡天。\n野水暝煙楓葉暮，黄花紅蓼獨嫣然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

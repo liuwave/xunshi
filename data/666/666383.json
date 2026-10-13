@@ -1,0 +1,18 @@
+{
+  "work_id": 666383,
+  "work": {
+    "id": 666383,
+    "title": "读李斯传",
+    "title_tr": "讀李斯傳",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上蔡游公子，真情本自愚。\n五刑身具论，七罪法当诛。\n逐兔踪牵狗，亡秦效击胡。\n明功与周召，为问骊山徒。",
+    "content_tr": "上蔡游公子，真情本自愚。\n五刑身具論，七罪法當誅。\n逐兔蹤牽狗，亡秦效擊胡。\n明功與周召，爲問驪山徒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

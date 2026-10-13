@@ -1,0 +1,18 @@
+{
+  "work_id": 666938,
+  "work": {
+    "id": 666938,
+    "title": "自咏",
+    "title_tr": "自詠",
+    "author": "蔡元定",
+    "author_tr": "蔡元定",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独抱韦编过客稀，箪瓢不厌屡空时。\n幽然自与庖羲近，春去人间总不知。",
+    "content_tr": "獨抱韋編過客稀，簞瓢不厭屢空時。\n幽然自與庖羲近，春去人間總不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

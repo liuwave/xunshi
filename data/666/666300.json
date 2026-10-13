@@ -1,0 +1,18 @@
+{
+  "work_id": 666300,
+  "work": {
+    "id": 666300,
+    "title": "南坡杂诗  其二",
+    "title_tr": "南坡雜詩  其二",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "涧下初惊鬰鬰时，十年春雨旧相知。\n君看稚齿昂藏处，已有苍髯老大姿。",
+    "content_tr": "澗下初驚鬰鬰時，十年春雨舊相知。\n君看稚齒昂藏處，已有蒼髯老大姿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

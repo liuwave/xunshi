@@ -1,0 +1,18 @@
+{
+  "work_id": 654130,
+  "work": {
+    "id": 654130,
+    "title": "自诒二首  其二",
+    "title_tr": "自詒二首  其二",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行年耄及卧蜗庐，山水登临亦已疏。\n无可奈何犹食粟，未能免俗学浇蔬。\n蓬门时接渔樵话，尘几聊存种树书。\n强欲入城还自笑，世间那有鹤乘车。",
+    "content_tr": "行年耄及卧蝸廬，山水登臨亦已疏。\n無可奈何猶食粟，未能免俗學澆蔬。\n蓬門時接漁樵話，塵几聊存種樹書。\n强欲入城還自笑，世間那有鶴乘車。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

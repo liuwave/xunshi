@@ -1,0 +1,18 @@
+{
+  "work_id": 666999,
+  "work": {
+    "id": 666999,
+    "title": "冷泉亭",
+    "title_tr": "冷泉亭",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泉不因人热，渊源自古今。\n名流耽韵致，智士悦清音。\n径有烟霞趣，亭无鸟鼠侵。\n浮生徒碌碌，谁自涤凡心。",
+    "content_tr": "泉不因人熱，淵源自古今。\n名流耽韻致，智士悅清音。\n徑有煙霞趣，亭無鳥鼠侵。\n浮生徒碌碌，誰自滌凡心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

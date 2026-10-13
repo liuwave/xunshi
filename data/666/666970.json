@@ -1,0 +1,18 @@
+{
+  "work_id": 666970,
+  "work": {
+    "id": 666970,
+    "title": "庐山",
+    "title_tr": "廬山",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庐山不可尽，蹑屐且相寻。\n峭壁悬崖险，幽泉仄涧深。\n苔痕侵竹径，云气结松阴。\n古刹安禅静，闻钟砭俗心。",
+    "content_tr": "廬山不可盡，躡屐且相尋。\n峭壁懸崖險，幽泉仄澗深。\n苔痕侵竹徑，雲氣結松陰。\n古剎安禪靜，聞鐘砭俗心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

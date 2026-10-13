@@ -1,0 +1,18 @@
+{
+  "work_id": 666219,
+  "work": {
+    "id": 666219,
+    "title": "二绝句  其一",
+    "title_tr": "二絕句  其一",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "问龙乞水龙何惜，纵令一雨才涓滴。\n但愿群公坐庙堂，且与庆元调玉历。",
+    "content_tr": "問龍乞水龍何惜，縱令一雨纔涓滴。\n但願羣公坐廟堂，且與慶元調玉曆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 654502,
+  "work": {
+    "id": 654502,
+    "title": "雪夜",
+    "title_tr": "雪夜",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪屋透窗明，风帘撮夜声。\n披衣拥炉坐，忘却在都城。",
+    "content_tr": "雪屋透窗明，風簾撮夜聲。\n披衣擁爐坐，忘却在都城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

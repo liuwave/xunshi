@@ -1,0 +1,18 @@
+{
+  "work_id": 670170,
+  "work": {
+    "id": 670170,
+    "title": "咏春",
+    "title_tr": "詠春",
+    "author": "杨简",
+    "author_tr": "楊簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日日看山不厌山，白云吞吐翠微间。\n静明光里无穷乐，只是令人下语难。",
+    "content_tr": "日日看山不厭山，白雲吞吐翠微間。\n靜明光裏無窮樂，只是令人下語難。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

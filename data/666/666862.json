@@ -1,0 +1,18 @@
+{
+  "work_id": 666862,
+  "work": {
+    "id": 666862,
+    "title": "新竹",
+    "title_tr": "新竹",
+    "author": "王质",
+    "author_tr": "王質",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我不疎君君自疎，此君于我定何如。\n中庭明月常常在，卷地风来不扫除。",
+    "content_tr": "我不疎君君自疎，此君於我定何如。\n中庭明月常常在，卷地風來不掃除。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

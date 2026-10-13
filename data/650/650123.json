@@ -1,0 +1,18 @@
+{
+  "work_id": 650123,
+  "work": {
+    "id": 650123,
+    "title": "早朝",
+    "title_tr": "早朝",
+    "author": "姜特立",
+    "author_tr": "姜特立",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欹眠侧耳数寒更，欲起未起心不平。\n何似山间浑睡足，卧看红日上窗明。",
+    "content_tr": "欹眠側耳數寒更，欲起未起心不平。\n何似山間渾睡足，卧看紅日上窗明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

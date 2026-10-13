@@ -1,0 +1,18 @@
+{
+  "work_id": 666969,
+  "work": {
+    "id": 666969,
+    "title": "金陵怀古",
+    "title_tr": "金陵懷古",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "六代金汤固，桑田几变更。\n梁台秋月冷，吴苑晚鸿鸣。\n禾黍逢时茂，人心向化平。\n江山存胜迹，我辈得怡情。",
+    "content_tr": "六代金湯固，桑田幾變更。\n梁臺秋月冷，吳苑晚鴻鳴。\n禾黍逢時茂，人心嚮化平。\n江山存勝蹟，我輩得怡情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

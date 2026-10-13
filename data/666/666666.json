@@ -1,0 +1,18 @@
+{
+  "work_id": 666666,
+  "work": {
+    "id": 666666,
+    "title": "别仲时  其五",
+    "title_tr": "別仲時  其五",
+    "author": "周孚",
+    "author_tr": "周孚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "穷愁好著书，到此已绝笔。\n十年意外谤，庶可弭万一。",
+    "content_tr": "窮愁好著書，到此已絕筆。\n十年意外謗，庶可弭萬一。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

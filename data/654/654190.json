@@ -1,0 +1,18 @@
+{
+  "work_id": 654190,
+  "work": {
+    "id": 654190,
+    "title": "秋兴五首  其一",
+    "title_tr": "秋興五首  其一",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋风吹我夜，植杖溪桥侧。\n木叶虽未凋，惨澹无颜色。",
+    "content_tr": "秋風吹我夜，植杖溪橋側。\n木葉雖未凋，慘澹無顔色。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

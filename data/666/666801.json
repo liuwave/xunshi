@@ -1,0 +1,18 @@
+{
+  "work_id": 666801,
+  "work": {
+    "id": 666801,
+    "title": "金山十咏呈坦叔 玉鉴堂",
+    "title_tr": "金山十詠呈坦叔 玉鑑堂",
+    "author": "周孚",
+    "author_tr": "周孚",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "微风不动波，莹可照毛发。\n谁解与渠磨，寒空秋夜月。",
+    "content_tr": "微風不動波，瑩可照毛髮。\n誰解與渠磨，寒空秋夜月。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

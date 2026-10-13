@@ -1,0 +1,24 @@
+{
+  "work_id": 670286,
+  "work": {
+    "id": 670286,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王遇",
+    "author_tr": "王遇",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不知何处雨，已觉此间凉。",
+    "content_tr": "不知何處雨，已覺此間凉。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "不知道何处下了雨，已经觉得此间凉了。",
+    "annotation": "",
+    "appreciation": "十字小句，妙在从果溯因。不说雨至，只说「不知何处雨」——雨在视线之外，或落他山别处，去向无从指实；而「已觉此间凉」，凉意先于雨声到达，身体先于见闻，两相参证，雨的踪迹遂在隐约之间。两句一问一证，把远雨与近凉之间微妙的感应写得空灵可喜。凉意因「不知」而觉其新，因「已觉」而见其速，不做刻绘而情境自出，以体感代目击，正是宋人断句中即景会心的一路，清浅而有远神。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

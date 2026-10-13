@@ -1,0 +1,18 @@
+{
+  "work_id": 666502,
+  "work": {
+    "id": 666502,
+    "title": "闻蝉  其一",
+    "title_tr": "聞蟬  其一",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "自辟筠乡五亩阴，蝉声无处不相寻。\n炎天唤起秋萧索，便拟乘风遶邓林。",
+    "content_tr": "自闢筠鄉五畝陰，蟬聲無處不相尋。\n炎天喚起秋蕭索，便擬乘風遶鄧林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666977,
+  "work": {
+    "id": 666977,
+    "title": "新燕",
+    "title_tr": "新燕",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "养成羽翼在雕梁，掠水穿花技本长。\n舌口澜翻惊午梦，好风吹到竹方床。",
+    "content_tr": "養成羽翼在雕梁，掠水穿花技本長。\n舌口瀾翻驚午夢，好風吹到竹方牀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

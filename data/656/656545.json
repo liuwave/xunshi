@@ -1,0 +1,18 @@
+{
+  "work_id": 656545,
+  "work": {
+    "id": 656545,
+    "title": "夜兴",
+    "title_tr": "夜興",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜阑扶策绕中庭，云罅三三两两星。\n安得南风卷云尽，烂然河白映天青。",
+    "content_tr": "夜闌扶策繞中庭，雲罅三三兩兩星。\n安得南風卷雲盡，爛然河白映天青。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

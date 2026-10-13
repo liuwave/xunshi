@@ -1,0 +1,24 @@
+{
+  "work_id": 669599,
+  "work": {
+    "id": 669599,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王繁",
+    "author_tr": "王繁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万山飞不出，守令最相亲。",
+    "content_tr": "萬山飛不出，守令最相親。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "万山之中，飞也飞不出去；太守县令，最为相亲。",
+    "annotation": "守令：太守与县令，泛指州县地方长官。",
+    "appreciation": "此断句当为题赠或纪咏之作。上句以「万山」「飞不出」五字写尽其地群峰环抱、僻处一隅、插翅难越的闭塞，语带夸张而实景可感；下句随即落在人事，点出正因山深地僻，与外界愈隔，人与人之间反而最相亲厚，守令与民众亦如乡里亲人。两句一写地理之隔，一写人情之亲，以闭塞反衬亲厚，冷处传情。具体所指与本事已不可确考，姑就文意论之，残句虽短，已自见一方水土的风物与人情。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

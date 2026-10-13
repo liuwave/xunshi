@@ -1,0 +1,18 @@
+{
+  "work_id": 666997,
+  "work": {
+    "id": 666997,
+    "title": "望庐山",
+    "title_tr": "望廬山",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庐山何峻极，一望尽苍清。\n不辨松杉色，谁闻钟磬声。\n飞崖悬瀑布，幽谷语春鶑。\n堪羡岩栖士，空余人世情。",
+    "content_tr": "廬山何峻極，一望盡蒼清。\n不辨松杉色，誰聞鐘磬聲。\n飛崖懸瀑布，幽谷語春鶑。\n堪羨巖栖士，空餘人世情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

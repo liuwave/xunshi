@@ -1,0 +1,18 @@
+{
+  "work_id": 666654,
+  "work": {
+    "id": 666654,
+    "title": "句",
+    "title_tr": "句",
+    "author": "刘清之",
+    "author_tr": "劉清之",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "愁非为宋玉，亦不因莫愁。",
+    "content_tr": "愁非爲宋玉，亦不因莫愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

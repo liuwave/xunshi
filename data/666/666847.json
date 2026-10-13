@@ -1,0 +1,18 @@
+{
+  "work_id": 666847,
+  "work": {
+    "id": 666847,
+    "title": "雨花台",
+    "title_tr": "雨花臺",
+    "author": "王质",
+    "author_tr": "王質",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乱草踏秋碧，斜阳立晚红。\n天低昏海雾，江阔渡淮风。\n台有余基壮，碑无旧观丰。\n愁人惜倦眼，不敢送归鸿。",
+    "content_tr": "亂草踏秋碧，斜陽立晚紅。\n天低昏海霧，江闊渡淮風。\n臺有餘基壯，碑無舊觀豐。\n愁人惜倦眼，不敢送歸鴻。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

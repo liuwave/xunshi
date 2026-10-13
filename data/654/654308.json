@@ -1,0 +1,18 @@
+{
+  "work_id": 654308,
+  "work": {
+    "id": 654308,
+    "title": "读经",
+    "title_tr": "讀經",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "半升粟饭养残躯，晨起衣冠读典谟。\n莫谓此生无用处，一身自是一唐虞。",
+    "content_tr": "半升粟飯養殘軀，晨起衣冠讀典謨。\n莫謂此生無用處，一身自是一唐虞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

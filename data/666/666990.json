@@ -1,0 +1,18 @@
+{
+  "work_id": 666990,
+  "work": {
+    "id": 666990,
+    "title": "漂母祠",
+    "title_tr": "漂母祠",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "英雄未得志，落魄有谁怜。\n一饭寻常事，千秋颂母贤。",
+    "content_tr": "英雄未得志，落魄有誰憐。\n一飯尋常事，千秋頌母賢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

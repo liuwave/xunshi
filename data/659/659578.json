@@ -1,0 +1,18 @@
+{
+  "work_id": 659578,
+  "work": {
+    "id": 659578,
+    "title": "小酌",
+    "title_tr": "小酌",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酒入春逾劲，天寒烛始明。\n偶然倾一盏，政尔忽三更。",
+    "content_tr": "酒入春逾勁，天寒燭始明。\n偶然傾一盞，政爾忽三更。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

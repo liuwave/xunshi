@@ -1,0 +1,18 @@
+{
+  "work_id": 654386,
+  "work": {
+    "id": 654386,
+    "title": "山茶",
+    "title_tr": "山茶",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪里开花到春晚，世间耐久孰如君。\n凭阑叹息无人会，三十年前宴海云。",
+    "content_tr": "雪裏開花到春晚，世間耐久孰如君。\n憑闌嘆息無人會，三十年前宴海雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

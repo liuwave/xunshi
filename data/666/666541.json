@@ -1,0 +1,18 @@
+{
+  "work_id": 666541,
+  "work": {
+    "id": 666541,
+    "title": "赏雪",
+    "title_tr": "賞雪",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晃朗长江北，天地都无色。\n扁舟撑短篷，一鸟归飞亟。\n遮莫冻凌兢，如人酒量增。\n鼇山不是照，天地一明灯。",
+    "content_tr": "晃朗長江北，天地都無色。\n扁舟撐短篷，一鳥歸飛亟。\n遮莫凍凌兢，如人酒量增。\n鼇山不是照，天地一明燈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

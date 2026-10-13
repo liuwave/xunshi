@@ -1,0 +1,24 @@
+{
+  "work_id": 662794,
+  "work": {
+    "id": 662794,
+    "title": "句",
+    "title_tr": "句",
+    "author": "徐逸",
+    "author_tr": "徐逸",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁与深春共憔悴，隔江一树紫桐花。",
+    "content_tr": "誰與深春共憔悴，隔江一樹紫桐花。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "深春时节，与谁一同憔悴？隔江有一树紫桐花。",
+    "annotation": "紫桐：花色深紫的桐树，春末开花。",
+    "appreciation": "两句设问自答，以憔悴之人与一树桐花相对。“谁与深春共憔悴”——深春时节百花凋零，人与花同此憔悴，问中已含无人相伴的寂寞；下句答以“隔江一树紫桐花”，紫桐花正当暮春开放，花色深紫，恰与憔悴的颜色相映。一问一答之间，隔江相望的距离感加重了孤清：可共憔悴者，竟只是可望而不可即的一树花。以花拟人，以对岸之花写此岸之独，情深而语淡。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

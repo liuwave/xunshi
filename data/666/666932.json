@@ -1,0 +1,18 @@
+{
+  "work_id": 666932,
+  "work": {
+    "id": 666932,
+    "title": "麻沙八景诗 烟村春雨",
+    "title_tr": "麻沙八景詩 煙村春雨",
+    "author": "蔡元定",
+    "author_tr": "蔡元定",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "堆螺叠翠耸奇峰，花柳村村绿间红。\n不有翠微翁说破，谁知春在雨烟中。",
+    "content_tr": "堆螺疊翠聳奇峰，花柳村村綠間紅。\n不有翠微翁說破，誰知春在雨煙中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

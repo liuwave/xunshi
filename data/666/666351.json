@@ -1,0 +1,18 @@
+{
+  "work_id": 666351,
+  "work": {
+    "id": 666351,
+    "title": "古梅",
+    "title_tr": "古梅",
+    "author": "杨方",
+    "author_tr": "楊方",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尚有黄梅一树斜，几年叉柱惜繁花。\n新诗连壁皆惆怅，想见当时北客家。",
+    "content_tr": "尚有黄梅一樹斜，幾年叉柱惜繁花。\n新詩連壁皆惆悵，想見當時北客家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

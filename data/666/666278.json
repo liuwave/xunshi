@@ -1,0 +1,18 @@
+{
+  "work_id": 666278,
+  "work": {
+    "id": 666278,
+    "title": "田家叹  其一",
+    "title_tr": "田家歎  其一",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麦已化蛾犹未打，蚕虽作茧不堪缲。\n一年活计今如许，只望西成我廪高。",
+    "content_tr": "麥已化蛾猶未打，蠶雖作繭不堪繰。\n一年活計今如許，只望西成我廩高。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

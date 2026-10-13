@@ -1,0 +1,18 @@
+{
+  "work_id": 666279,
+  "work": {
+    "id": 666279,
+    "title": "春暮",
+    "title_tr": "春暮",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红紫摧残春又归，独怜杨柳绿依依。\n无端乱絮因风起，漠漠晴天有雪飞。",
+    "content_tr": "紅紫摧殘春又歸，獨憐楊柳綠依依。\n無端亂絮因風起，漠漠晴天有雪飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

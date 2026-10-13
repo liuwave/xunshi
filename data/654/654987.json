@@ -1,0 +1,18 @@
+{
+  "work_id": 654987,
+  "work": {
+    "id": 654987,
+    "title": "鸥",
+    "title_tr": "鷗",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海上轻鸥何处寻，烟波万里信浮沉。\n今朝忽向船头见，消尽平生得丧心。",
+    "content_tr": "海上輕鷗何處尋，烟波萬里信浮沉。\n今朝忽向船頭見，消盡平生得喪心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

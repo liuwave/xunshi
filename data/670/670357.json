@@ -1,0 +1,24 @@
+{
+  "work_id": 670357,
+  "work": {
+    "id": 670357,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "游九言",
+    "author_tr": "游九言",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春风未肯催桃李，留得疏篱浅淡香。",
+    "content_tr": "春風未肯催桃李，留得疏籬淺淡香。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "春风还不肯去催开桃李，留得稀疏篱边一缕浅淡的清香。",
+    "annotation": "",
+    "appreciation": "十字写早春未盛之景。上句以拟人笔法写春风「未肯」催花——不是花开不了，而是春风有意迟留，一字之间花事时序全被赋予性情；下句承「留得」而来：正因桃李未开，那疏篱畔浅淡的香气才得以独占春先。两句以「未肯」与「留得」呼应，先退后进，把早春清冷空疏的局面写成一种有意为之的雅致。所咏之花虽未明言，就「疏篱浅淡香」的意象观之，当属梅或早春清芬之属，以淡为美，含蓄而有致。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

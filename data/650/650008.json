@@ -1,0 +1,18 @@
+{
+  "work_id": 650008,
+  "work": {
+    "id": 650008,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "赵师训",
+    "author_tr": "趙師訓",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庆元宰相事纷纷，说著令人暗断魂。\n好听当时刘弼语，分些官职乞平原。",
+    "content_tr": "慶元宰相事紛紛，說著令人暗斷魂。\n好聽當時劉弼語，分些官職乞平原。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

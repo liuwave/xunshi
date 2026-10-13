@@ -1,0 +1,18 @@
+{
+  "work_id": 666249,
+  "work": {
+    "id": 666249,
+    "title": "试笔",
+    "title_tr": "試筆",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "将军万里托封侯，太史何须叹滞留。\n骨相生来无燕颔，毛锥且复事蝇头。",
+    "content_tr": "將軍萬里託封侯，太史何須嘆滯留。\n骨相生來無燕頷，毛錐且復事蠅頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

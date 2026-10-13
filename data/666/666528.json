@@ -1,0 +1,18 @@
+{
+  "work_id": 666528,
+  "work": {
+    "id": 666528,
+    "title": "春游",
+    "title_tr": "春遊",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃红李白辉相曜，车马交关递流照。\n墙头半露是秋千，不见美人闻语笑。",
+    "content_tr": "桃紅李白輝相曜，車馬交關遞流照。\n牆頭半露是秋千，不見美人聞語笑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

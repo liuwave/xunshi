@@ -1,0 +1,18 @@
+{
+  "work_id": 659018,
+  "work": {
+    "id": 659018,
+    "title": "渔舟",
+    "title_tr": "漁舟",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绝小渔舟叶似轻，荻篷密盖不闻声。\n无人无钓无蓑笠，风自吹船船自行。",
+    "content_tr": "絕小漁舟葉似輕，荻篷密蓋不聞聲。\n無人無釣無蓑笠，風自吹船船自行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

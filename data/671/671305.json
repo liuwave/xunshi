@@ -1,0 +1,18 @@
+{
+  "work_id": 671305,
+  "work": {
+    "id": 671305,
+    "title": "王昭君",
+    "title_tr": "王昭君",
+    "author": "赵蕃",
+    "author_tr": "趙蕃",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绝代方能入汉宫，画图何必更求工。\n纵令得幸因图画，已落君王疑信中。",
+    "content_tr": "絕代方能入漢宮，畫圖何必更求工。\n縱令得幸因圖畫，已落君王疑信中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

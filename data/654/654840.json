@@ -1,0 +1,18 @@
+{
+  "work_id": 654840,
+  "work": {
+    "id": 654840,
+    "title": "雨后",
+    "title_tr": "雨後",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨后凉生病体轻，闲拖拄杖出门行。\n槐花落尽桐阴薄，时有残蝉一两声。",
+    "content_tr": "雨後凉生病體輕，閑拖拄杖出門行。\n槐花落盡桐陰薄，時有殘蟬一兩聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 654321,
+  "work": {
+    "id": 654321,
+    "title": "自勉四首  其一",
+    "title_tr": "自勉四首  其一",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "妄出真成错，归耕惜已迟。\n褐温贫始觉，饭美淡方知。\n身外元无易，情中自有诗。\n穷源那得止，瞑目以为期。",
+    "content_tr": "妄出真成錯，歸耕惜已遲。\n褐溫貧始覺，飯美淡方知。\n身外元無易，情中自有詩。\n窮源那得止，瞑目以爲期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666223,
+  "work": {
+    "id": 666223,
+    "title": "和汉老弟夜雨诗  其一",
+    "title_tr": "和漢老弟夜雨詩  其一",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜡纸灯笼云母轻，近来勾我睡魂生。\n醒来骤听空阶雨，疑是糟床压酒声。",
+    "content_tr": "蠟紙燈籠雲母輕，近來勾我睡魂生。\n醒來驟聽空階雨，疑是糟床壓酒聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

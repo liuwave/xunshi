@@ -1,0 +1,24 @@
+{
+  "work_id": 663282,
+  "work": {
+    "id": 663282,
+    "title": "句  其三",
+    "title_tr": "句  其三",
+    "author": "强彦文",
+    "author_tr": "强彥文",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "船中灯火十年话，枕上江湖万里心。",
+    "content_tr": "船中燈火十年話，枕上江湖萬里心。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "船中灯火之下，是十年的话语；枕上所怀，是江湖万里之心。",
+    "annotation": "",
+    "appreciation": "两句一彼一此、一忆一感，对仗精严。上句船中一点灯火之下，曾经夜话连绵、情谊积有十年之久；下句如今独卧枕上，心驰万里江湖。灯火是眼前之实，十年话是回忆之虚；枕上是身之所滞，万里是心之所骛。虚实、远近两两相形，既见故人夜话之温，又见羁旅江湖之阔。“十年”与“万里”两个数量词尤其有力，把时间的深与空间的远压进十四字中，情味在孤枕与旧话的对照里愈见深沉。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

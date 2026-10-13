@@ -1,0 +1,18 @@
+{
+  "work_id": 655226,
+  "work": {
+    "id": 655226,
+    "title": "蜀汉",
+    "title_tr": "蜀漢",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昔遨游蜀汉间，骎骎五十尚朱颜。\n呼鹰雪暗天回路，采药云迷御爱山。\n旧事已无人共说，征途犹与梦相关。\n夕阳不觉凭阑久，待得林鸦接翅还。",
+    "content_tr": "憶昔遨遊蜀漢間，駸駸五十尚朱顔。\n呼鷹雪暗天回路，采藥雲迷御愛山。\n舊事已無人共說，征途猶與夢相關。\n夕陽不覺憑闌久，待得林鴉接翅還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

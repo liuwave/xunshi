@@ -1,0 +1,18 @@
+{
+  "work_id": 655234,
+  "work": {
+    "id": 655234,
+    "title": "闲吟",
+    "title_tr": "閑吟",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲吟可是治愁药，一展吴笺万事忘。\n不惜暮年酬倡绝，犹能作意答秋光。",
+    "content_tr": "閑吟可是治愁藥，一展吳箋萬事忘。\n不惜暮年酬倡絕，猶能作意答秋光。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 667569,
+  "work": {
+    "id": 667569,
+    "title": "古乐府",
+    "title_tr": "古樂府",
+    "author": "丁世昌",
+    "author_tr": "丁世昌",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郎如枝上禽，妾比庭前树。\n翅健入云飞，根深随不去。",
+    "content_tr": "郎如枝上禽，妾比庭前樹。\n翅健入雲飛，根深隨不去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

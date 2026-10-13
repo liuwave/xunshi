@@ -1,0 +1,24 @@
+{
+  "work_id": 672384,
+  "work": {
+    "id": 672384,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "王过",
+    "author_tr": "王過",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "危亭北据水南流，槛外频来海上舟。",
+    "content_tr": "危亭北據水南流，檻外頻來海上舟。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "高亭北面雄踞，水向南流去；栏杆之外，海上来的船只频频驶到。",
+    "annotation": "危亭：高耸之亭。危：高。",
+    "appreciation": "断句写登亭临眺所见之景。上句写亭与水：高亭雄踞于北，水则向南奔流，「北据」「南流」两个方位词上下对举，亭之高定不移、水之长流不返俱见笔端；下句写槛外：海上的船只频频驶来，「频来」二字见水道繁忙、帆影络绎不绝。由高亭而流水而舟船，视线由近及远，层层放开，静定之亭与流动之水、往来之舟相映成趣，一动一静之间气象开张，俨然一幅临江登览的图画。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 654942,
+  "work": {
+    "id": 654942,
+    "title": "渔家",
+    "title_tr": "漁家",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江上渔家水蘸扉，闲云片片傍苔矶。\n钓收鹭下虚舟立，桥断僧寻别径归。\n海近冈峦多迤逦，天寒雾雨正霏微。\n羊裘老作桐江叟，点检初心幸未违。",
+    "content_tr": "江上漁家水蘸扉，閑雲片片傍苔磯。\n釣收鷺下虛舟立，橋斷僧尋別徑歸。\n海近岡巒多迤邐，天寒霧雨正霏微。\n羊裘老作桐江叟，點檢初心幸未違。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

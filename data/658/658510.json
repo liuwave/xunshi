@@ -1,0 +1,18 @@
+{
+  "work_id": 658510,
+  "work": {
+    "id": 658510,
+    "title": "杨花",
+    "title_tr": "楊花",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "只道垂杨管别离，杨花一去不思归。\n浮踪浪迹无拘束，飞到蛛丝也不飞。",
+    "content_tr": "只道垂楊管別離，楊花一去不思歸。\n浮蹤浪跡無拘束，飛到蛛絲也不飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 657657,
+  "work": {
+    "id": 657657,
+    "title": "悯农",
+    "title_tr": "憫農",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "稻云不雨不多黄，荞麦空花早著霜。\n已分忍饥度残岁，更堪岁里闰添长。",
+    "content_tr": "稻雲不雨不多黄，蕎麥空花早著霜。\n已分忍饑度殘歲，更堪歲裏閏添長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

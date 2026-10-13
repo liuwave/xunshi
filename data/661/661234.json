@@ -1,0 +1,18 @@
+{
+  "work_id": 661234,
+  "work": {
+    "id": 661234,
+    "title": "骑骡",
+    "title_tr": "騎騾",
+    "author": "李洪",
+    "author_tr": "李洪",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "留城北去去分骡，冷笑亲朋驷马多。\n頼得劲蹄无可碍，一鞭安稳过沙河。",
+    "content_tr": "留城北去去分騾，冷笑親朋駟馬多。\n頼得勁蹄無可礙，一鞭安穩過沙河。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

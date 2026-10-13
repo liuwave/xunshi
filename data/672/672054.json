@@ -1,0 +1,24 @@
+{
+  "work_id": 672054,
+  "work": {
+    "id": 672054,
+    "title": "句",
+    "title_tr": "句",
+    "author": "释正一",
+    "author_tr": "釋正一",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一望和烟碧，悠悠去不回。",
+    "content_tr": "一望和烟碧，悠悠去不回。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一眼望去，和暖的烟霭凝成碧色，悠悠远去不再回返。",
+    "annotation": "",
+    "appreciation": "断句写远望所见，十字之内自有开合。上句写望中之景：和暖的烟霭凝成一片碧色，笼罩天际，「和」字给碧烟注入暖意，「碧」字设色清润，静而柔美；下句笔锋一转，烟水悠悠远去，一去而不再回返，静景顿时化作无穷之思。由凝碧在望的眼前实景，转到一去不回的悠远动势，物之流逝隐然牵动时光难驻、往者不可追的怅惘。不着一字感慨，而低回不尽之意自在言外，深得含蓄蕴藉之致。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

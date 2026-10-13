@@ -1,0 +1,18 @@
+{
+  "work_id": 666333,
+  "work": {
+    "id": 666333,
+    "title": "禅寂院三首  其一",
+    "title_tr": "禪寂院三首  其一",
+    "author": "游少游",
+    "author_tr": "游少游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "簿书丛里匆匆过，小白长红总自芳。\n独到远村浑不恶，绿阴深处野花香。",
+    "content_tr": "簿書叢裏匆匆過，小白長紅總自芳。\n獨到遠村渾不惡，綠陰深處野花香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 654117,
+  "work": {
+    "id": 654117,
+    "title": "小池",
+    "title_tr": "小池",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荷锸庭中破嫩苔，清沟一派引泉来。\n剪刀草长浮萍合，无数游鱼去复回。",
+    "content_tr": "荷鍤庭中破嫩苔，清溝一派引泉來。\n剪刀草長浮萍合，無數遊魚去復回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

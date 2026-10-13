@@ -1,0 +1,18 @@
+{
+  "work_id": 655555,
+  "work": {
+    "id": 655555,
+    "title": "醉歌二首  其二",
+    "title_tr": "醉歌二首  其二",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百骑河滩猎盛秋，至今血渍短貂裘。\n谁知老卧江湖上，犹枕当年虎髑髅。",
+    "content_tr": "百騎河灘獵盛秋，至今血漬短貂裘。\n誰知老卧江湖上，猶枕當年虎髑髏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

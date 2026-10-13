@@ -1,0 +1,18 @@
+{
+  "work_id": 654799,
+  "work": {
+    "id": 654799,
+    "title": "避雨",
+    "title_tr": "避雨",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云如坏山欲塞海，树似奇鬼将搏人。\n急投民家雨随至，燎衣不觉鸡唱晨。",
+    "content_tr": "雲如壞山欲塞海，樹似奇鬼將搏人。\n急投民家雨隨至，燎衣不覺雞唱晨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

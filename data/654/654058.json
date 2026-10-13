@@ -1,0 +1,18 @@
+{
+  "work_id": 654058,
+  "work": {
+    "id": 654058,
+    "title": "闻笛",
+    "title_tr": "聞笛",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪飞数片又成晴，透瓦清霜伴月明。\n一曲忽闻高士笛，临窗和以读书声。",
+    "content_tr": "雪飛數片又成晴，透瓦清霜伴月明。\n一曲忽聞高士笛，臨窗和以讀書聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

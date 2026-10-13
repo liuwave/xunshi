@@ -1,0 +1,18 @@
+{
+  "work_id": 650595,
+  "work": {
+    "id": 650595,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "卢蹈",
+    "author_tr": "盧蹈",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客怀耿耿自难宽，老傍京尘更鲜欢。\n远梦已回窗不晓，杏花同度五更寒。",
+    "content_tr": "客懷耿耿自難寬，老傍京塵更鮮歡。\n遠夢已回窗不曉，杏花同度五更寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

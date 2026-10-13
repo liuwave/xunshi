@@ -1,0 +1,18 @@
+{
+  "work_id": 666933,
+  "work": {
+    "id": 666933,
+    "title": "麻沙八景诗 云岩山色",
+    "title_tr": "麻沙八景詩 雲巖山色",
+    "author": "蔡元定",
+    "author_tr": "蔡元定",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山染烟光弄晚岚，几多碧色映寒潭。\n篆烟销尽金炉冷，云满岩前月满庵。",
+    "content_tr": "山染煙光弄晚嵐，幾多碧色映寒潭。\n篆煙銷盡金爐冷，雲滿巖前月滿庵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

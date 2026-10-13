@@ -1,0 +1,18 @@
+{
+  "work_id": 666620,
+  "work": {
+    "id": 666620,
+    "title": "梁山歌",
+    "title_tr": "梁山歌",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨雪霏霏，梁山之下。\n朴𨔤其凝，皓其郊野。\n凛其寒矣，曷藏曷御。\n亲庭孔邈，孰为温者。\n台不能此处，归途无所。\n台不能此处，曷其疾去。",
+    "content_tr": "雨雪霏霏，梁山之下。\n樸𨔤其凝，皓其郊野。\n凜其寒矣，曷藏曷御。\n親庭孔邈，孰爲溫者。\n台不能此處，歸途無所。\n台不能此處，曷其疾去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

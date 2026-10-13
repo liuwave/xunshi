@@ -1,0 +1,18 @@
+{
+  "work_id": 666400,
+  "work": {
+    "id": 666400,
+    "title": "山舍三首  其一",
+    "title_tr": "山舍三首  其一",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "髣髴依蛮室，林端鸟道萦。\n烟疑云异色，松接涧同声。\n树古龙蛇蚴，岩嵬虎豹狞。\n野花舞狂蝶，栩栩梦庄生。",
+    "content_tr": "髣髴依蠻室，林端鳥道縈。\n煙疑雲異色，松接澗同聲。\n樹古龍蛇蚴，巖嵬虎豹獰。\n野花舞狂蝶，栩栩夢莊生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

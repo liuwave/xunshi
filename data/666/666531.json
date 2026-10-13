@@ -1,0 +1,18 @@
+{
+  "work_id": 666531,
+  "work": {
+    "id": 666531,
+    "title": "寒食雨",
+    "title_tr": "寒食雨",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "言归社鴈已家乡，紫燕呢喃识旧梁。\n甚雨疾风寒食夜，旅人情绪一思量。",
+    "content_tr": "言歸社鴈已家鄉，紫燕呢喃識舊梁。\n甚雨疾風寒食夜，旅人情緒一思量。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

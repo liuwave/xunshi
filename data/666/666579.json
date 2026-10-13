@@ -1,0 +1,18 @@
+{
+  "work_id": 666579,
+  "work": {
+    "id": 666579,
+    "title": "团扇歌三首  其三",
+    "title_tr": "團扇歌三首  其三",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "团团白纨扇，奉君挥素手。\n余凉入长夏，结交贵经久。",
+    "content_tr": "團團白紈扇，奉君揮素手。\n餘凉入長夏，結交貴經久。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

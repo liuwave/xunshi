@@ -1,0 +1,18 @@
+{
+  "work_id": 667000,
+  "work": {
+    "id": 667000,
+    "title": "桃花",
+    "title_tr": "桃花",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "亭亭一树灿窗前，气暖风和分外妍。\n何必桃源寻异处，此间谈笑亦神仙。",
+    "content_tr": "亭亭一樹燦窗前，氣暖風和分外妍。\n何必桃源尋異處，此間談笑亦神仙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

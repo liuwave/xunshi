@@ -1,0 +1,18 @@
+{
+  "work_id": 655321,
+  "work": {
+    "id": 655321,
+    "title": "新晴二首  其二",
+    "title_tr": "新晴二首  其二",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "挂冠湖上遂吾初，扪腹消摇适有余。\n羹煮野蔬元足味，屋茨生草亦安居。\n市垆分熟通赊酒，邻舍情深许借驴。\n更喜新晴满窗日，签题重整一床书。",
+    "content_tr": "挂冠湖上遂吾初，捫腹消摇適有餘。\n羹煮野蔬元足味，屋茨生草亦安居。\n市壚分熟通賒酒，鄰舍情深許借驢。\n更喜新晴滿窗日，籤題重整一牀書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666484,
+  "work": {
+    "id": 666484,
+    "title": "记梦",
+    "title_tr": "記夢",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "通梦周公不我欺，咿嘤无若大音希。\n诗人伎子知谁在，一枕邻鸡曙已晖。",
+    "content_tr": "通夢周公不我欺，咿嚶無若大音希。\n詩人伎子知誰在，一枕鄰雞曙已暉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

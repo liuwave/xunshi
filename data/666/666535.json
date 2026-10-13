@@ -1,0 +1,18 @@
+{
+  "work_id": 666535,
+  "work": {
+    "id": 666535,
+    "title": "野望",
+    "title_tr": "野望",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水晶簟冷铺寒玉，翠帟高张染螺绿。\n阵云鸟鹭点棋枰，一叶清旗动江曲。",
+    "content_tr": "水晶簟冷鋪寒玉，翠帟高張染螺綠。\n陣雲鳥鷺點棋枰，一葉清旗動江曲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666976,
+  "work": {
+    "id": 666976,
+    "title": "琵琶亭",
+    "title_tr": "琵琶亭",
+    "author": "赵公豫",
+    "author_tr": "趙公豫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谁把琵琶清夜弹，香山静听谱无难。\n江州自古成佳话，亭上于今美大观。\n湓浦新流春涨碧，匡庐徐转朔风寒。\n游人不乏留题兴，孰擅骚情踞坫坛。",
+    "content_tr": "誰把琵琶清夜彈，香山靜聽譜無難。\n江州自古成佳話，亭上於今美大觀。\n湓浦新流春漲碧，匡廬徐轉朔風寒。\n遊人不乏留題興，孰擅騷情踞坫壇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666220,
+  "work": {
+    "id": 666220,
+    "title": "二绝句  其二",
+    "title_tr": "二絕句  其二",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山石崎岖路觉遥，望中天目得能高。\n洞霄双径无缘到，从事何妨我独劳。",
+    "content_tr": "山石崎嶇路覺遥，望中天目得能高。\n洞霄雙徑無緣到，從事何妨我獨勞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666288,
+  "work": {
+    "id": 666288,
+    "title": "咏古  其一",
+    "title_tr": "詠古  其一",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "柳子脂韦不佩弦，痴心附丽老羁缠。\n廉商浪说能为市，吏贾由来却悟鞭。",
+    "content_tr": "柳子脂韋不佩弦，癡心附麗老羈纏。\n廉商浪說能爲市，吏賈由來却悟鞭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

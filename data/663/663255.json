@@ -1,0 +1,24 @@
+{
+  "work_id": 663255,
+  "work": {
+    "id": 663255,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "刘翰",
+    "author_tr": "劉翰",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山经雨菊花尽，白鸟下滩芦叶尽。",
+    "content_tr": "青山經雨菊花盡，白鳥下灘蘆葉盡。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "青山经过雨洗，菊花已尽；白鸟飞下河滩，芦叶已尽。",
+    "annotation": "",
+    "appreciation": "两句纯以对偶写深秋景象：青山经过一场秋雨，菊花已凋残净尽；白鸟飞下河滩，芦叶也已落尽。两个“尽”字叠用，一写花事之尽，一写芦叶之尽，把深秋草木摇落的景象层层压紧。颜色上青山、白鸟相映，动态上一“经雨”一“下滩”，画面清疏而略带萧瑟。“尽”字的复沓尤有回味——凡可看者都已看尽、都已落尽，秋意阑珊之情全在字句的空处，不着一个愁字而萧瑟自见。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

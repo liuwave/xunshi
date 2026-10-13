@@ -1,0 +1,18 @@
+{
+  "work_id": 655000,
+  "work": {
+    "id": 655000,
+    "title": "梦中作",
+    "title_tr": "夢中作",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "华山敷水本闲人，一念无端堕世尘。\n八十余年多少事，药炉丹灶尚如新。",
+    "content_tr": "華山敷水本閑人，一念無端墮世塵。\n八十餘年多少事，藥爐丹竈尚如新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

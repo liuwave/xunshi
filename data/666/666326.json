@@ -1,0 +1,18 @@
+{
+  "work_id": 666326,
+  "work": {
+    "id": 666326,
+    "title": "句",
+    "title_tr": "句",
+    "author": "胡持",
+    "author_tr": "胡持",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "藏云八世五登科。",
+    "content_tr": "藏雲八世五登科。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

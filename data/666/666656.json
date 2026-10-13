@@ -1,0 +1,18 @@
+{
+  "work_id": 666656,
+  "work": {
+    "id": 666656,
+    "title": "句",
+    "title_tr": "句",
+    "author": "何佾",
+    "author_tr": "何佾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "滕王阁上烟波远，孺子亭中花竹深。",
+    "content_tr": "滕王閣上煙波遠，孺子亭中花竹深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 660404,
+  "work": {
+    "id": 660404,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "尤袤",
+    "author_tr": "尤袤",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千尺龙鳞蟠桧顶，一番蜩甲长蔬苗。",
+    "content_tr": "千尺龍鱗蟠檜頂，一番蜩甲長蔬苗。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "千尺高的桧树顶如同龙鳞盘绕，一番蝉蜕般的蜕去旧壳之后，蔬菜的苗儿长出来了。",
+    "annotation": "龙鳞：形容桧树皮皴裂如龙之鳞。\n桧（guì）：桧柏，常绿乔木。\n蜩（tiáo）甲：蝉所蜕之壳，喻事物蜕旧生新。",
+    "appreciation": "此为尤袤残句，两句写节物之对照。上句「千尺龙鳞蟠桧顶」，以龙鳞蟠屈状古桧之苍郁古老，是时间深处的沉厚；下句「一番蜩甲长蔬苗」，以蝉蜕喻蔬苗之新生，是初春片刻的嫩新。一老一新、一苍一嫩、一沉厚一轻盈，对举之间便见四时迭代之意。虽为断句，而观察之细、取譬之巧，已足窥南宋中叶小诗的风致。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

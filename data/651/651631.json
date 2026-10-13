@@ -1,0 +1,18 @@
+{
+  "work_id": 651631,
+  "work": {
+    "id": 651631,
+    "title": "闻雁",
+    "title_tr": "聞雁",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "过尽梅花把酒稀，熏笼香冷换春衣。\n秦关汉苑无消息，又在江南送雁归。",
+    "content_tr": "過盡梅花把酒稀，熏籠香冷換春衣。\n秦關漢苑無消息，又在江南送雁歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

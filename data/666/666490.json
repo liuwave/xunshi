@@ -1,0 +1,18 @@
+{
+  "work_id": 666490,
+  "work": {
+    "id": 666490,
+    "title": "读史记",
+    "title_tr": "讀史記",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "公旦征淮难疐尾，仲尼去鲁速吹毛。\n圣贤出处平生事，间不容针却中惊。",
+    "content_tr": "公旦征淮難疐尾，仲尼去魯速吹毛。\n聖賢出處平生事，間不容針却中驚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

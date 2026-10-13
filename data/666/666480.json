@@ -1,0 +1,18 @@
+{
+  "work_id": 666480,
+  "work": {
+    "id": 666480,
+    "title": "樊山春望",
+    "title_tr": "樊山春望",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东鄂城东安乐宫，李花练绚玉玲珑。\n画图长喜平芜绿，不觉身归罨画中。",
+    "content_tr": "東鄂城東安樂宮，李花練絢玉玲瓏。\n畫圖長喜平蕪綠，不覺身歸罨畫中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

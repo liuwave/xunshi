@@ -1,0 +1,18 @@
+{
+  "work_id": 667533,
+  "work": {
+    "id": 667533,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "徐似道",
+    "author_tr": "徐似道",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "植杞必植梓，艺兰仍艺荪。\n过庭遗训在，凿楹故书存。",
+    "content_tr": "植杞必植梓，藝蘭仍藝蓀。\n過庭遺訓在，鑿楹故書存。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666521,
+  "work": {
+    "id": 666521,
+    "title": "武昌怀古",
+    "title_tr": "武昌懷古",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漠漠烟村一古城，郊坛离殿草茅生。\n青山不解知兴替，销黯开颜为雨晴。",
+    "content_tr": "漠漠煙村一古城，郊壇離殿草茅生。\n青山不解知興替，銷黯開顔爲雨晴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

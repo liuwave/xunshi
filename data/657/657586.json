@@ -1,0 +1,24 @@
+{
+  "work_id": 657586,
+  "work": {
+    "id": 657586,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上覆白玉盂，下盛白玉盂。",
+    "content_tr": "上覆白玉盂，下盛白玉盂。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "上面覆盖着白玉盂，下面盛放着白玉盂。",
+    "annotation": "盂（yú）：圆口器皿，用以盛饮食或水浆。",
+    "appreciation": "此为范成大散句，仅存两句。上句言覆盖、下句言盛放，均以白玉盂收束，句式回环重复，形成上下相映的结构。所咏之物与全篇语境已不可确考，或以日常器物状写某种上下相叠、形态相似的景物，覆、盛二字分别点出其位置与功用。片言只语，比喻指向与寄托均无从落实，只能就字面立论。以白玉盂这样寻常的饮食器皿入诗作喻，不求华丽而重真切，也见出宋人以俗物俗语为诗料的风气。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

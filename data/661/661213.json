@@ -1,0 +1,18 @@
+{
+  "work_id": 661213,
+  "work": {
+    "id": 661213,
+    "title": "回文",
+    "title_tr": "回文",
+    "author": "李洪",
+    "author_tr": "李洪",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "病卧愁花落，春深怨夜长。\n镜明羞短发，窗净惜残香。",
+    "content_tr": "病卧愁花落，春深怨夜長。\n鏡明羞短髮，窗凈惜殘香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

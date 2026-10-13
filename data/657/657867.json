@@ -1,0 +1,18 @@
+{
+  "work_id": 657867,
+  "work": {
+    "id": 657867,
+    "title": "幽居三咏 云卧庵",
+    "title_tr": "幽居三詠 雲卧菴",
+    "author": "杨万里",
+    "author_tr": "楊萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十年两袖软红尘，归濯沧浪且幅巾。\n不是白云留我住，我留云住卧闲身。",
+    "content_tr": "十年兩袖軟紅塵，歸濯滄浪且幅巾。\n不是白雲留我住，我留雲住卧閑身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

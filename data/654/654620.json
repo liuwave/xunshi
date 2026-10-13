@@ -1,0 +1,18 @@
+{
+  "work_id": 654620,
+  "work": {
+    "id": 654620,
+    "title": "试笔",
+    "title_tr": "試筆",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清谈数语犹疑过，平地徐行亦虑危。\n酌酒浅深须在我，更衣单复要随时。",
+    "content_tr": "清談數語猶疑過，平地徐行亦慮危。\n酌酒淺深須在我，更衣單複要隨時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 666289,
+  "work": {
+    "id": 666289,
+    "title": "咏古  其二",
+    "title_tr": "詠古  其二",
+    "author": "虞俦",
+    "author_tr": "虞儔",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杜曲诗翁霜鬓须，谁怜三十载骑馿。\n五陵车马输年少，枉读平生万卷书。",
+    "content_tr": "杜曲詩翁霜鬢鬚，誰憐三十載騎馿。\n五陵車馬輸年少，枉讀平生萬卷書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

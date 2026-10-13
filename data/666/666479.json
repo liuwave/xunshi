@@ -1,0 +1,18 @@
+{
+  "work_id": 666479,
+  "work": {
+    "id": 666479,
+    "title": "春草曲",
+    "title_tr": "春草曲",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霰雪枝头寒已老，平芜一夜铺春草。\n江梅著子怯东风，花落满庭浑不埽。",
+    "content_tr": "霰雪枝頭寒已老，平蕪一夜鋪春草。\n江梅著子怯東風，花落滿庭渾不埽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

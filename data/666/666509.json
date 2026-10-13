@@ -1,0 +1,18 @@
+{
+  "work_id": 666509,
+  "work": {
+    "id": 666509,
+    "title": "新晴",
+    "title_tr": "新晴",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "起人舒惨作阴晴，九十春光祇雨零。\n宿草未萌波漠漠，落花归尽叶青青。\n风生远峤衔明月，雾潋长江吐涨汀。\n天意乍回心自广，片时云路觉无形。",
+    "content_tr": "起人舒慘作陰晴，九十春光祇雨零。\n宿草未萌波漠漠，落花歸盡葉青青。\n風生遠嶠銜明月，霧瀲長江吐漲汀。\n天意乍回心自廣，片時雲路覺無形。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

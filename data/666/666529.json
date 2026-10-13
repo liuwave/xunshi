@@ -1,0 +1,18 @@
+{
+  "work_id": 666529,
+  "work": {
+    "id": 666529,
+    "title": "即事",
+    "title_tr": "即事",
+    "author": "薛季宣",
+    "author_tr": "薛季宣",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "芰荷薿薿抽苹藻，风细幽香袭怀抱。\n庭竹琅然振玉音，叶落委阶墉不埽。",
+    "content_tr": "芰荷薿薿抽蘋藻，風細幽香襲懷抱。\n庭竹琅然振玉音，葉落委階墉不埽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

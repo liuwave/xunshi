@@ -1,0 +1,18 @@
+{
+  "work_id": 654168,
+  "work": {
+    "id": 654168,
+    "title": "闻角",
+    "title_tr": "聞角",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河白如银天淡青，角声中有玉关情。\n早知送老桑麻野，悔失安西万里行。",
+    "content_tr": "河白如銀天淡青，角聲中有玉關情。\n早知送老桑麻野，悔失安西萬里行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

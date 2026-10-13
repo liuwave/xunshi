@@ -1,0 +1,24 @@
+{
+  "work_id": 656081,
+  "work": {
+    "id": 656081,
+    "title": "欲雨二首  其二",
+    "title_tr": "欲雨二首  其二",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荷锸决新渠，芟茅补旧庐。\n共知秋必雨，有备即安居。",
+    "content_tr": "荷鍤决新渠，芟茅補舊廬。\n共知秋必雨，有備即安居。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "扛着铁锹开挖新渠，割茅草修补旧屋。都知道秋天一定下雨，有了准备便能安居。",
+    "annotation": "荷锸（hè chā）：扛着铁锹。\n芟（shān）茅：割除茅草。",
+    "appreciation": "二十字写秋前备雨：首两句对仗，荷锸决渠、芟茅补庐，一治水一修屋，皆是农家备雨实事。第三句「共知秋必雨」是理，末句「有备即安居」是结论。全诗不写景、不抒情，全从备事说起，却于朴素中见出农居生活的踏实与从容。陆游以诗笔写近于农谚的哲理，短章而有真味，是对勤谨自足生活的肯定。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

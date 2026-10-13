@@ -1,0 +1,24 @@
+{
+  "work_id": 657587,
+  "work": {
+    "id": 657587,
+    "title": "句  其三",
+    "title_tr": "句  其三",
+    "author": "范成大",
+    "author_tr": "范成大",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "可怜世上金和宝，借尔闲看七十年。",
+    "content_tr": "可憐世上金和寶，借爾閑看七十年。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "可惜世上金子和珍宝，只是借给你们闲看七十年。",
+    "annotation": "",
+    "appreciation": "此为范成大散句，以口语说尽财货聚散之理。世上金子和珍宝，人并不能真正占有，不过是暂时借用，闲着看管几十年罢了；人死之后，宝物自归他手。语极浅近而意极冷峻，看破之中带着旷达，并无酸涩怨怼。「七十年」以具体数字入句，把抽象的人生哲思落到寻常人寿上，更觉警切。两句虽短，却有格言式的力量，是宋诗以议论为诗、于闲谈中寓至理的典型笔法。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

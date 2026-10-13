@@ -1,0 +1,18 @@
+{
+  "work_id": 650010,
+  "work": {
+    "id": 650010,
+    "title": "烟雨楼",
+    "title_tr": "烟雨樓",
+    "author": "赵廱",
+    "author_tr": "趙廱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "画栋飞云暮霭寒，楼台城堞有无间。\n烟收雨霁曾看否，见尽东南万叠山。",
+    "content_tr": "畫棟飛雲暮靄寒，樓臺城堞有無間。\n烟收雨霽曾看否，見盡東南萬疊山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
