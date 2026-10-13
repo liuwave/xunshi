@@ -1,0 +1,18 @@
+{
+  "work_id": 250234,
+  "work": {
+    "id": 250234,
+    "title": "题杨学士画 其三",
+    "title_tr": "題楊學士畵 其三",
+    "author": "杨士奇",
+    "author_tr": "楊士奇",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨后参差锦树明，碧云楼阁丽秋晴。\n扁舟闲恋溪亭净，已胜山阴雪夜行。",
+    "content_tr": "雨後參差錦樹明，碧雲樓閣麗秋晴。\n扁舟閒戀溪亭净，已勝山隂雪夜行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

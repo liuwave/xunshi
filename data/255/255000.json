@@ -1,0 +1,18 @@
+{
+  "work_id": 255000,
+  "work": {
+    "id": 255000,
+    "title": "度沧浪水",
+    "title_tr": "度滄浪水",
+    "author": "邓云霄",
+    "author_tr": "鄧雲霄",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "皎洁无冬春，清流一镜新。\n风恬波浩浩，岸险石粼粼。\n鼓枻逢渔父，怀沙吊楚臣。\n长缨行欲濯，凉雨未沾尘。",
+    "content_tr": "皎潔無冬春，清流一鏡新。\n風恬波浩浩，岸險石粼粼。\n鼓枻逢漁父，懷沙吊楚臣。\n長纓行欲濯，涼雨未沾塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

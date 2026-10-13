@@ -1,0 +1,18 @@
+{
+  "work_id": 253234,
+  "work": {
+    "id": 253234,
+    "title": "寄宋廷臣",
+    "title_tr": "寄宋廷臣",
+    "author": "郑真",
+    "author_tr": "鄭真",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "忆昔濠梁赠别时，斯文千古付襟期。\n咿嘤不作人前态，慷慨当为天下奇。\n北客尚令思若水，南冠今已释钟仪。\n裁书欲寄云边雁，香染西风洒墨池。",
+    "content_tr": "憶昔濠梁贈別時，斯文千古付襟期。\n咿嚶不作人前態，慷慨當爲天下奇。\n北客尚令思若水，南冠今已釋鍾儀。\n裁書欲寄雲邊雁，香染西風灑墨池。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

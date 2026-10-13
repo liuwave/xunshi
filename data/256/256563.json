@@ -1,0 +1,18 @@
+{
+  "work_id": 256563,
+  "work": {
+    "id": 256563,
+    "title": "读李太白诗集",
+    "title_tr": "讀李太白詩集",
+    "author": "郑文康",
+    "author_tr": "鄭文康",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白发三千丈，秋来日夜生。\n汪伦忽相见，无语各含情。",
+    "content_tr": "白髮三千丈，秋來日夜生。\n汪倫忽相見，無語各含情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 256799,
+  "work": {
+    "id": 256799,
+    "title": "拟闺词",
+    "title_tr": "擬閨詞",
+    "author": "刘祖满",
+    "author_tr": "劉祖滿",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杜鹃啼血闹阳回，百日红侵石上苔。\n愁听孩儿歌白苎，日长春尽碧桃开。",
+    "content_tr": "杜鵑啼血鬧陽回，百日紅侵石上苔。\n愁聽孩兒歌白薴，日長春盡碧桃開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

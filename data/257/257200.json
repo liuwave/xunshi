@@ -1,0 +1,18 @@
+{
+  "work_id": 257200,
+  "work": {
+    "id": 257200,
+    "title": "宋行朝",
+    "title_tr": "宋行朝",
+    "author": "刘鸿渐",
+    "author_tr": "劉鴻漸",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海上崎岖度浅湾，宋家遗迹绿芜间。\n西边不见銮舆返，行殿犹存在蔚山。",
+    "content_tr": "海上崎嶇度淺灣，宋家遺蹟綠蕪間。\n西邊不見鑾輿返，行殿猶存在蔚山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

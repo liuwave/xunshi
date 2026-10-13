@@ -1,0 +1,18 @@
+{
+  "work_id": 255723,
+  "work": {
+    "id": 255723,
+    "title": "夏朝凉",
+    "title_tr": "夏朝涼",
+    "author": "邓云霄",
+    "author_tr": "鄧雲霄",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细雨夜来收，高斋爽气浮。\n朝凉疑过夏，远客易惊秋。",
+    "content_tr": "細雨夜來收，高齋爽氣浮。\n朝涼疑過夏，遠客易驚秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

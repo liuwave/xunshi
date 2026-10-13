@@ -1,0 +1,18 @@
+{
+  "work_id": 262703,
+  "work": {
+    "id": 262703,
+    "title": "咏鸟毛",
+    "title_tr": "詠鳥毛",
+    "author": "刘崧",
+    "author_tr": "劉崧",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野鸟云山去，庭阴有坠毛。\n东风吹尽力，欲起不能高。",
+    "content_tr": "野鳥雲山去，庭陰有墜毛。\n東風吹盡力，欲起不能高。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

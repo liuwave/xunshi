@@ -1,0 +1,18 @@
+{
+  "work_id": 256090,
+  "work": {
+    "id": 256090,
+    "title": "伤吴宫绝句",
+    "title_tr": "傷吳宮絕句",
+    "author": "邓云霄",
+    "author_tr": "鄧雲霄",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "馆娃宫畔暮烟迷，响屟廊中返照西。\n莫话吴王当日事，恐惊寒鸟一时啼。",
+    "content_tr": "館娃宮畔暮烟迷，響屟廊中返照西。\n莫話吳王當日事，恐驚寒鳥一時啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

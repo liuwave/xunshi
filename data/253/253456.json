@@ -1,0 +1,18 @@
+{
+  "work_id": 253456,
+  "work": {
+    "id": 253456,
+    "title": "老柏图",
+    "title_tr": "老柏圖",
+    "author": "郑真",
+    "author_tr": "鄭真",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山中冰雪惯曾经，百岁长存铁石心。\n江海萧萧风雨夜，倚窗只听老龙吟。",
+    "content_tr": "山中冰雪慣曾經，百歲長存鐵石心。\n江海蕭蕭風雨夜，倚窗祇聽老龍吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

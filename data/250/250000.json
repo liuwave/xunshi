@@ -1,0 +1,18 @@
+{
+  "work_id": 250000,
+  "work": {
+    "id": 250000,
+    "title": "题江乡归趣图 其一",
+    "title_tr": "題江鄉歸趣圖 其一",
+    "author": "杨士奇",
+    "author_tr": "楊士奇",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "手握天机丝五色，大庭补衮不辞勤。\n如何一夕秋风兴，忆著沧波旧钓纶。",
+    "content_tr": "手握天機絲五色，大庭補衮不辭勤。\n如何一夕秋風興，憶著滄波舊釣綸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

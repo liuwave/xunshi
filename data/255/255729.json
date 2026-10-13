@@ -1,0 +1,18 @@
+{
+  "work_id": 255729,
+  "work": {
+    "id": 255729,
+    "title": "题王太史梅花帐",
+    "title_tr": "題王太史梅花帳",
+    "author": "邓云霄",
+    "author_tr": "鄧雲霄",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "官阁梅开雪霁时，月斜移影入书帷。\n暗香浮动谁先觉，只有庄周蝴蝶知。",
+    "content_tr": "官閣梅開雪霽時，月斜移影入書帷。\n暗香浮動誰先覺，祗有莊周蝴蝶知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
