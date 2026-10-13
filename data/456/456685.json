@@ -1,0 +1,18 @@
+{
+  "work_id": 456685,
+  "work": {
+    "id": 456685,
+    "title": "早过湖",
+    "title_tr": "早過湖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "唤得航船傍采菱，柳桥竹榭曙烟深。\n船头惊起蜻蜓睡，欲立还飞到涌金。",
+    "content_tr": "喚得航船傍采菱，柳橋竹榭曙煙深。\n船頭驚起蜻蜓睡，欲立還飛到湧金。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

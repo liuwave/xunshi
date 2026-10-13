@@ -1,0 +1,18 @@
+{
+  "work_id": 456783,
+  "work": {
+    "id": 456783,
+    "title": "和寒泉春日儿童三咏 其一 竹马",
+    "title_tr": "和寒泉春日兒童三詠 其一 竹馬",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "争跨迎侯彩竹新，相呼回策巧如萦。\n一鞭看是谁先著，稚子群中觅祖生。",
+    "content_tr": "爭跨迎侯彩竹新，相呼回策巧如縈。\n一鞭看是誰先著，穉子群中覓祖生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

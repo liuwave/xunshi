@@ -1,0 +1,18 @@
+{
+  "work_id": 456886,
+  "work": {
+    "id": 456886,
+    "title": "夫差避暑宫",
+    "title_tr": "夫差避暑宮",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天堑连天付水犀，离宫表里万山围。\n越帆直指吴松落，犹在娃宫醉不归。",
+    "content_tr": "天塹連天付水犀，離宮表裏萬山圍。\n越帆直指吳松落，猶在娃宮醉不歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

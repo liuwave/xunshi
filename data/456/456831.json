@@ -1,0 +1,18 @@
+{
+  "work_id": 456831,
+  "work": {
+    "id": 456831,
+    "title": "红叶 其六",
+    "title_tr": "紅葉 其六",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "树下收帆系断航，树头新染夜来霜。\n小春未凛犹相贷，款曲辞柯不要忙。",
+    "content_tr": "樹下收帆繫斷航，樹頭新染夜來霜。\n小春未凜猶相貸，款曲辭柯不要忙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

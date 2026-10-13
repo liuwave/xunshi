@@ -1,0 +1,18 @@
+{
+  "work_id": 456126,
+  "work": {
+    "id": 456126,
+    "title": "十二时颂 其四",
+    "title_tr": "十二時頌 其四",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "食时辰，更无一法可当情。\n千里出山云有色，一源投涧水无声。",
+    "content_tr": "食時辰，更無一法可當情。\n千里出山雲有色，一源投澗水無聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

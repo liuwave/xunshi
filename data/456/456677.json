@@ -1,0 +1,18 @@
+{
+  "work_id": 456677,
+  "work": {
+    "id": 456677,
+    "title": "及庵",
+    "title_tr": "及菴",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "过亦非中道，其如不及何。\n到江吴地尽，隔岸越山多。",
+    "content_tr": "過亦非中道，其如不及何。\n到江吳地盡，隔岸越山多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

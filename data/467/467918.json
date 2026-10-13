@@ -1,0 +1,18 @@
+{
+  "work_id": 467918,
+  "work": {
+    "id": 467918,
+    "title": "咏小儿采菱诗",
+    "title_tr": "詠小兒采菱詩",
+    "author": "刘孝绰",
+    "author_tr": "劉孝綽",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "采菱非采菉，日暮且盈舠。\n踟蹰未敢进，畏欲比残桃。",
+    "content_tr": "采菱非采菉，日暮且盈舠。\n踟躕未敢進，畏欲比殘桃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456824,
+  "work": {
+    "id": 456824,
+    "title": "鹤唳",
+    "title_tr": "鶴唳",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "九皋清响漏残时，想见松间露湿衣。\n弱水弗关云外路，乘轩终不似横飞。",
+    "content_tr": "九皋清響漏殘時，想見松間露濕衣。\n弱水弗關雲外路，乘軒終不似橫飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 450123,
+  "work": {
+    "id": 450123,
+    "title": "李白醉骑驴图",
+    "title_tr": "李白醉騎馿圖",
+    "author": "释绍昙",
+    "author_tr": "釋紹曇",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酒渴思鲸饮，金鸾早退朝。\n醉身扶不起，压折老驴腰。",
+    "content_tr": "酒渴思鯨飲，金鸞早退朝。\n醉身扶不起，壓折老馿腰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

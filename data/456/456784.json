@@ -1,0 +1,18 @@
+{
+  "work_id": 456784,
+  "work": {
+    "id": 456784,
+    "title": "红叶 其二",
+    "title_tr": "紅葉 其二",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "要与松筠共岁寒，听它青女苦雕残。\n不于叶上添生色，谁辨刚中一寸丹。",
+    "content_tr": "要與松筠共歲寒，聽它青女苦彫殘。\n不於葉上添生色，誰辨剛中一寸丹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456890,
+  "work": {
+    "id": 456890,
+    "title": "一庵",
+    "title_tr": "一菴",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "太极含三示极谈，初无一字可名庵。\n明明未画前消息，才落思惟便别参。",
+    "content_tr": "太極含三示極談，初無一字可名菴。\n明明未畫前消息，才落思惟便別參。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

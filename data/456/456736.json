@@ -1,0 +1,18 @@
+{
+  "work_id": 456736,
+  "work": {
+    "id": 456736,
+    "title": "题三教图",
+    "title_tr": "題三教圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "岩高风压树头低，三子相逢把手归。\n掩室在陈无足笑，笑它同传有韩非。",
+    "content_tr": "巖高風壓樹頭低，三子相逢把手歸。\n掩室在陳無足笑，笑它同傳有韓非。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

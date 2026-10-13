@@ -1,0 +1,18 @@
+{
+  "work_id": 456879,
+  "work": {
+    "id": 456879,
+    "title": "礼尼总持塔",
+    "title_tr": "禮尼總持塔",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诵莲华品谤斯经，业识芬陀舌上生。\n旧日阿閦如再见，定应无此恶名声。",
+    "content_tr": "誦蓮華品謗斯經，業識芬陀舌上生。\n舊日阿閦如再見，定應無此惡名聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

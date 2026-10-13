@@ -1,0 +1,18 @@
+{
+  "work_id": 456765,
+  "work": {
+    "id": 456765,
+    "title": "花芥 其一",
+    "title_tr": "花芥 其一",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "澹金生色染宫黄，只作坡羹亦擅场。\n稚子不能供小摘，相呼扑蝶趁斜阳。",
+    "content_tr": "澹金生色染宮黄，只作坡羹亦擅場。\n稚子不能供小摘，相呼撲蝶趁斜陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

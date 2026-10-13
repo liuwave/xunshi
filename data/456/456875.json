@@ -1,0 +1,18 @@
+{
+  "work_id": 456875,
+  "work": {
+    "id": 456875,
+    "title": "仁寿堂",
+    "title_tr": "仁壽堂",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阔开荡荡城中天，朝菌灵椿总大年。\n凿井耕田皆帝力，不知谁党复谁偏。",
+    "content_tr": "闊開蕩蕩城中天，朝菌靈椿總大年。\n鑿井耕田皆帝力，不知誰黨復誰偏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456456,
+  "work": {
+    "id": 456456,
+    "title": "热甚",
+    "title_tr": "熱甚",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "四壁除遮障，炎风似炽炉。\n汗随停扇滴，气逐漱冰苏。\n销暑露寒殿，归仁扇暍图。\n一杯槐叶冷，谁致锦屠苏。",
+    "content_tr": "四壁除遮障，炎風似熾爐。\n汗隨停扇滴，氣逐漱冰蘇。\n銷暑露寒殿，歸仁扇暍圖。\n一盃槐葉冷，誰致錦屠蘇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

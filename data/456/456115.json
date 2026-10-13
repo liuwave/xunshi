@@ -1,0 +1,18 @@
+{
+  "work_id": 456115,
+  "work": {
+    "id": 456115,
+    "title": "十二时颂 其十二",
+    "title_tr": "十二時頌 其十二",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "半夜子，梦里分明被人使。\n连宵合药到天光，起来何处有白芷。",
+    "content_tr": "半夜子，夢裏分明被人使。\n連宵合藥到天光，起來何處有白芷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

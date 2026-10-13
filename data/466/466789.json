@@ -1,0 +1,18 @@
+{
+  "work_id": 466789,
+  "work": {
+    "id": 466789,
+    "title": "双声诗",
+    "title_tr": "双声诗",
+    "author": "王融",
+    "author_tr": "王融",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "园蘅眩红花，湖荇燡黄华。\n回鹤横淮翰，远越合云霞。",
+    "content_tr": "园蘅眩红花，湖荇燡黄华。\n回鹤横淮翰，远越合云霞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

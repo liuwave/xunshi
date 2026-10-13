@@ -1,0 +1,18 @@
+{
+  "work_id": 456310,
+  "work": {
+    "id": 456310,
+    "title": "捣纸",
+    "title_tr": "搗紙",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万杵不为轻，丁宁玉汝成。\n忽闻敲月响，误作捣衣声。\n整整云添薄，方方雪更明。\n沉思过秦手，古恨满笺生。",
+    "content_tr": "萬杵不爲輕，丁寧玉汝成。\n忽聞敲月響，誤作搗衣聲。\n整整雲添薄，方方雪更明。\n沉思過秦手，古恨滿箋生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

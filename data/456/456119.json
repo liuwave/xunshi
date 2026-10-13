@@ -1,0 +1,18 @@
+{
+  "work_id": 456119,
+  "work": {
+    "id": 456119,
+    "title": "偈十二首 其十二",
+    "title_tr": "偈十二首 其十二",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天道运行，节气频更。\n五日为候，十日为旬。\n三十日为月，十二月为年。\n一日一日，因循因循。\n五九尽，又逢春。",
+    "content_tr": "天道運行，節氣頻更。\n五日爲候，十日爲旬。\n三十日爲月，十二月爲年。\n一日一日，因循因循。\n五九盡，又逢春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

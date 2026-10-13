@@ -1,0 +1,18 @@
+{
+  "work_id": 456804,
+  "work": {
+    "id": 456804,
+    "title": "墨梅 其一",
+    "title_tr": "墨梅 其一",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "描邈檀栾黪素元，万红千紫失根源。\n大玄自古人嫌白，白尽何妨反太玄。",
+    "content_tr": "描邈檀欒黲素元，萬紅千紫失根源。\n大玄自古人嫌白，白盡何妨反太玄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

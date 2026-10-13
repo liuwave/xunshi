@@ -1,0 +1,18 @@
+{
+  "work_id": 456767,
+  "work": {
+    "id": 456767,
+    "title": "书荆公访僧图",
+    "title_tr": "書荆公訪僧圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长须瘦蹇策深云，来就蒲团到夕曛。\n畴曩山中无此画，至今猿鹤怨移文。",
+    "content_tr": "長鬚瘦蹇策深雲，來就蒲團到夕曛。\n疇曩山中無此畫，至今猿鶴怨移文。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

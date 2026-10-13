@@ -1,0 +1,18 @@
+{
+  "work_id": 456987,
+  "work": {
+    "id": 456987,
+    "title": "示洞庭晓上人",
+    "title_tr": "示洞庭曉上人",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "显川曾作山中主，七十二峰环太湖。\n晓到西湖太分晓，诸峰还解点头无。",
+    "content_tr": "顯川曾作山中主，七十二峯環太湖。\n曉到西湖太分曉，諸峰還解點頭無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

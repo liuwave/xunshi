@@ -1,0 +1,18 @@
+{
+  "work_id": 456224,
+  "work": {
+    "id": 456224,
+    "title": "雪湖池上新筑",
+    "title_tr": "雪湖池上新築",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏绮闯冰池，苔封老石矶。\n鱼方深避钓，鸥亦早忘机。\n涤研融残雪，观书竞夕霏。\n春风长似旧，还趁雪中归。",
+    "content_tr": "疏綺闖冰池，苔封老石磯。\n魚方深避釣，鷗亦早忘機。\n滌研融殘雪，觀書競夕霏。\n春風長似舊，還趁雪中歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

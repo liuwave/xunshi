@@ -1,0 +1,18 @@
+{
+  "work_id": 456069,
+  "work": {
+    "id": 456069,
+    "title": "书杭州西湖涉公堂",
+    "title_tr": "書杭州西湖涉公堂",
+    "author": "释保暹",
+    "author_tr": "釋保暹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤舟孤鹤与孤云，湖上深居自不群。\n高卧可能容一榻，青山西岸且平分。",
+    "content_tr": "孤舟孤鶴與孤雲，湖上深居自不羣。\n高臥可能容一榻，青山西岸且平分。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

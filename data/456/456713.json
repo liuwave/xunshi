@@ -1,0 +1,18 @@
+{
+  "work_id": 456713,
+  "work": {
+    "id": 456713,
+    "title": "朱庵睡起",
+    "title_tr": "朱菴睡起",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "檐外飞花不翳天，阶前浅水恰通船。\n借床睡起自作供，餐尽楚英霜后妍。",
+    "content_tr": "簷外飛花不翳天，階前淺水恰通船。\n借床睡起自作供，餐盡楚英霜後妍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

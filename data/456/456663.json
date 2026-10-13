@@ -1,0 +1,18 @@
+{
+  "work_id": 456663,
+  "work": {
+    "id": 456663,
+    "title": "镜庵",
+    "title_tr": "鏡庵",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "毫发难藏覆，临台子细观。\n龙门无宿客，对舞失孤鸾。",
+    "content_tr": "毫髮難藏覆，臨臺子細觀。\n龍門無宿客，對舞失孤鸞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

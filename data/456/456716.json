@@ -1,0 +1,18 @@
+{
+  "work_id": 456716,
+  "work": {
+    "id": 456716,
+    "title": "云锦亭",
+    "title_tr": "雲錦亭",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花围竹护锦成林，檐压红云绕砌深。\n燕子来时寒未了，莫教帘幕带春阴。",
+    "content_tr": "花圍竹護錦成林，簷壓紅雲遶砌深。\n燕子來時寒未了，莫教簾幕带春陰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

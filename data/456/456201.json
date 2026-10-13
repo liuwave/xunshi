@@ -1,0 +1,18 @@
+{
+  "work_id": 456201,
+  "work": {
+    "id": 456201,
+    "title": "塘西寺闻蛙",
+    "title_tr": "塘西寺聞蛙",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "器小易彭亨，声连踸踔群。\n三更万籁息，两部一池分。\n语海嗟难合，窥天亦浪云。\n寻无杜鹃处，得此不堪闻。",
+    "content_tr": "器小易彭亨，聲連踸踔群。\n三更萬籟息，兩部一池分。\n語海嗟難合，窺天亦浪云。\n尋無杜鵑處，得此不堪聞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

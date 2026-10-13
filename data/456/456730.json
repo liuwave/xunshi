@@ -1,0 +1,18 @@
+{
+  "work_id": 456730,
+  "work": {
+    "id": 456730,
+    "title": "吹香",
+    "title_tr": "吹香",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒压痕云冻不消，华风酝藉不鸣条。\n瘦枝褪暖无多韵，亦有鲜明玉色潮。",
+    "content_tr": "寒壓痕雲凍不消，華風醖藉不鳴條。\n瘦枝褪煖無多韻，亦有鮮明玉色潮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

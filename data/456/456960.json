@@ -1,0 +1,18 @@
+{
+  "work_id": 456960,
+  "work": {
+    "id": 456960,
+    "title": "燕归",
+    "title_tr": "燕歸",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旧巢新补画梁西，趁得兰塘雨后泥。\n莫忆年年归去路，蜃楼高处海云低。",
+    "content_tr": "舊巢新補畫梁西，趁得蘭塘雨後泥。\n莫憶年年歸去路，蜃樓高處海雲低。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

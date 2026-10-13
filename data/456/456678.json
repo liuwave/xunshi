@@ -1,0 +1,18 @@
+{
+  "work_id": 456678,
+  "work": {
+    "id": 456678,
+    "title": "凤儿花 其一",
+    "title_tr": "鳳兒花 其一",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小似钗头缕粟金，不将红浅笑红深。\n虚名冗到闲花草，寂寞朝阳采羽喑。",
+    "content_tr": "小似釵頭縷粟金，不將紅淺笑紅深。\n虛名冗到閑花草，寂寞朝陽采羽瘖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

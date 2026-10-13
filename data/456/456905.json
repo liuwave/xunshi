@@ -1,0 +1,18 @@
+{
+  "work_id": 456905,
+  "work": {
+    "id": 456905,
+    "title": "百喜图",
+    "title_tr": "百喜圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "比翼飞梁跨碧浔，玉绳低转夜沈沈。\n一年一度丛霄去，却下人间送好音。",
+    "content_tr": "比翼飛梁跨碧潯，玉繩低轉夜沈沈。\n一年一度叢霄去，却下人間送好音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

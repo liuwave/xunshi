@@ -1,0 +1,18 @@
+{
+  "work_id": 456766,
+  "work": {
+    "id": 456766,
+    "title": "红叶 其一",
+    "title_tr": "紅葉 其一",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "猎猎翩翩赤羽旗，霜裁风剪乱零吹。\n打窗便是敲篷响，梦断吴江欲冷时。",
+    "content_tr": "獵獵翩翩赤羽旗，霜裁風剪亂零吹。\n打窗便是敲篷響，夢斷吳江欲冷時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

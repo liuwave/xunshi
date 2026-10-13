@@ -1,0 +1,18 @@
+{
+  "work_id": 456972,
+  "work": {
+    "id": 456972,
+    "title": "书壁图",
+    "title_tr": "書壁圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨涩苍崖墨色鲜，长安犹自犬羊膻。\n试临旧刻思天宝，末上先题十四年。",
+    "content_tr": "雨澀蒼崖墨色鮮，長安猶自犬羊羶。\n試臨舊刻思天寶，末上先題十四年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

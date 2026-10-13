@@ -1,0 +1,18 @@
+{
+  "work_id": 466001,
+  "work": {
+    "id": 466001,
+    "title": "象赞",
+    "title_tr": "象賛",
+    "author": "郭璞",
+    "author_tr": "郭璞",
+    "dynasty": "晋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "象实魁梧，体巨貌诡。\n肉兼十牛，目不逾豕。\n望头如尾，动若丘徙。",
+    "content_tr": "象實魁梧，體巨貌詭。\n肉兼十牛，目不踰豕。\n望頭如尾，動若丘徙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456664,
+  "work": {
+    "id": 456664,
+    "title": "月巢",
+    "title_tr": "月巢",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小小一枝足，寥寥万象空。\n踢翻旧窠窟，谁在月明中。",
+    "content_tr": "小小一枝足，寥寥萬象空。\n踢翻舊窠窟，誰在月明中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

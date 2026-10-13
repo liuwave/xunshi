@@ -1,0 +1,18 @@
+{
+  "work_id": 456055,
+  "work": {
+    "id": 456055,
+    "title": "偈颂十六首 其一",
+    "title_tr": "偈頌十六首 其一",
+    "author": "释如净",
+    "author_tr": "釋如淨",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灵灵而时时昧，不得月随流水。\n历历而处处混，不得雨逐行云。",
+    "content_tr": "靈靈而時時昧，不得月隨流水。\n歷歷而處處混，不得雨逐行雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

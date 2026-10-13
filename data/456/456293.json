@@ -1,0 +1,18 @@
+{
+  "work_id": 456293,
+  "work": {
+    "id": 456293,
+    "title": "寄湖州故旧",
+    "title_tr": "寄湖州故舊",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梦忆湖州旧，楼台画不如。\n溪从城里过，人在镜中居。\n闭户防惊鹭，开窗便钓鱼。\n鱼沉犹有雁，弗寄一行书。",
+    "content_tr": "夢憶湖州舊，樓臺畫不如。\n溪從城裏過，人在鏡中居。\n閉戶防驚鷺，開窗便釣魚。\n魚沈猶有雁，弗寄一行書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

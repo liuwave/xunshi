@@ -1,0 +1,18 @@
+{
+  "work_id": 456745,
+  "work": {
+    "id": 456745,
+    "title": "酬云卧白鸡",
+    "title_tr": "酬雲卧白雞",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冠染丹砂雪剪翎，不因风雨废常鸣。\n有时失度无人醒，只有刘琨与祖生。",
+    "content_tr": "冠染丹砂雪剪翎，不因風雨廢常鳴。\n有時失度無人醒，只有劉琨與祖生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

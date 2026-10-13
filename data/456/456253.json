@@ -1,0 +1,18 @@
+{
+  "work_id": 456253,
+  "work": {
+    "id": 456253,
+    "title": "风琴赠选上人",
+    "title_tr": "風琴贈選上人",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万籁甫消声，锵然忽自鸣。\n独宜风力小，双与月华清。\n历历谐三叠，玲玲叶九成。\n宫商虽断续，何处不分明。",
+    "content_tr": "萬籟甫消聲，鏘然忽自鳴。\n獨宜風力小，雙與月華清。\n歷歷諧三疊，玲玲叶九成。\n宮商雖斷續，何處不分明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

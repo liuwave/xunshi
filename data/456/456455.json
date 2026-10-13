@@ -1,0 +1,18 @@
+{
+  "work_id": 456455,
+  "work": {
+    "id": 456455,
+    "title": "祷雨龙祠",
+    "title_tr": "禱雨龍祠",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "魃奚为旱虐，亟问海嵎龙。\n山吐四更月，楼敲三叠钟。\n天应怜独苦，年亦岂终凶。\n霹雳轰平地，霶然足四封。",
+    "content_tr": "魃奚爲旱虐，亟問海嵎龍。\n山吐四更月，樓敲三疊鐘。\n天應憐獨苦，年亦豈終凶。\n霹靂轟平地，霶然足四封。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

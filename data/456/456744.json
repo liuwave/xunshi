@@ -1,0 +1,18 @@
+{
+  "work_id": 456744,
+  "work": {
+    "id": 456744,
+    "title": "韩寺遗墟",
+    "title_tr": "韓寺遺墟",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十年秋傍故山零，一坞残云夜不扃。\n土偶向人犹作祟，相传不似旧时灵。",
+    "content_tr": "十年秋傍故山零，一塢殘雲夜不扃。\n土偶向人猶作祟，相傳不似舊時靈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

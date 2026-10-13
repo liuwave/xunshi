@@ -1,0 +1,18 @@
+{
+  "work_id": 456300,
+  "work": {
+    "id": 456300,
+    "title": "善拳洞",
+    "title_tr": "善拳洞",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一山三洞幽，两洞碧通流。\n龙占层渊沕，鱼凭四足游。\n远舒云际望，凉惬水边留。\n更卜重来约，岩前石点头。",
+    "content_tr": "一山三洞幽，兩洞碧通流。\n龍占層淵沕，魚憑四足遊。\n遠舒雲際望，凉愜水邊留。\n更卜重來約，岩前石點頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

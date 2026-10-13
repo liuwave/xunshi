@@ -1,0 +1,18 @@
+{
+  "work_id": 456333,
+  "work": {
+    "id": 456333,
+    "title": "酬卢玉堂",
+    "title_tr": "酬盧玉堂",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "溪友弗来过，幽栖欠濯磨。\n眼饥嫌睡少，竹醉惜移多。\n雏燕骈争乳，慵莺噤弗歌。\n窗低云不扫，零乱尽从它。",
+    "content_tr": "溪友弗來過，幽栖欠濯磨。\n眼饑嫌睡少，竹醉惜移多。\n雛燕駢爭乳，慵鶯噤弗歌。\n窗低雲不掃，零亂儘從它。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456874,
+  "work": {
+    "id": 456874,
+    "title": "书六一居士归田图",
+    "title_tr": "書六一居士歸田圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "赋田中乐驾言归，勇决如何得似诗。\n诗后退之盘谷序，画成犹是未归时。",
+    "content_tr": "賦田中樂駕言歸，勇决如何得似詩。\n詩後退之盤谷序，畫成猶是未歸時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

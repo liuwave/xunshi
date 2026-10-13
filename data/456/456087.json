@@ -1,0 +1,18 @@
+{
+  "work_id": 456087,
+  "work": {
+    "id": 456087,
+    "title": "大隋盖龟",
+    "title_tr": "大隋蓋龜",
+    "author": "释慧方",
+    "author_tr": "釋慧方",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千古清声老大随，机锋壁立杳难窥。\n未能直下超凡圣，只道将鞋盖却龟。",
+    "content_tr": "千古清聲老大隨，機鋒壁立杳難窺。\n未能直下超凡聖，只道將鞋蓋却龜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

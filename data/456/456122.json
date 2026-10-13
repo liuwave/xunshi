@@ -1,0 +1,18 @@
+{
+  "work_id": 456122,
+  "work": {
+    "id": 456122,
+    "title": "十二时颂 其一",
+    "title_tr": "十二時頌 其一",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡鸣丑，念佛起来懒开口。\n上楼敲磬两三声，惊散飞禽方丈后。",
+    "content_tr": "雞鳴丑，念佛起來懶開口。\n上樓敲磬兩三聲，驚散飛禽方丈後。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

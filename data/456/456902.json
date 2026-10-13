@@ -1,0 +1,18 @@
+{
+  "work_id": 456902,
+  "work": {
+    "id": 456902,
+    "title": "饯燕 其二",
+    "title_tr": "餞燕 其二",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "歌楼经雨损花枝，魂断无情白傅诗。\n不啄阿京坟上土，地遒天老总愁思。",
+    "content_tr": "歌樓經雨損花枝，魂斷無情白傅詩。\n不啄阿京墳上土，地遒天老總愁思。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456222,
+  "work": {
+    "id": 456222,
+    "title": "卢直院大监挽辞",
+    "title_tr": "盧直院大監挽辭",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客葬柰贫何，无山无薜萝。\n近分南宕小，远胜北邙多。\n不与貂蝉老，空将琬琰磨。\n丁宁燕许手，遗事细蒐罗。",
+    "content_tr": "客葬柰貧何，無山無薜蘿。\n近分南宕小，遠勝北邙多。\n不與貂蟬老，空將琬琰磨。\n丁寧燕許手，遺事細蒐羅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

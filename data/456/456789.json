@@ -1,0 +1,18 @@
+{
+  "work_id": 456789,
+  "work": {
+    "id": 456789,
+    "title": "酬王哦松八景 其一 赤壁泛月",
+    "title_tr": "酬王哦松八景 其一 赤壁泛月",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "横玉临江展碧纨，冯夷庭院水晶寒。\n天教两赋酬风雅，不谓人闲作画看。",
+    "content_tr": "橫玉臨江展碧紈，馮夷庭院水晶寒。\n天教兩賦酬風雅，不謂人閒作畫看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

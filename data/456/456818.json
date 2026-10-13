@@ -1,0 +1,18 @@
+{
+  "work_id": 456818,
+  "work": {
+    "id": 456818,
+    "title": "冷湾",
+    "title_tr": "冷灣",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "怪雨盲风塞冷湾，破头艇子出湖滩。\n平生无地酬忠信，独向风波险处看。",
+    "content_tr": "怪雨盲風塞冷灣，破頭艇子出湖灘。\n平生無地酬忠信，獨向風波險處看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

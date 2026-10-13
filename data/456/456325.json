@@ -1,0 +1,18 @@
+{
+  "work_id": 456325,
+  "work": {
+    "id": 456325,
+    "title": "傅家林",
+    "title_tr": "傅家林",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "樵斧响晴雷，平林顷刻摧。\n兔亡三穴徙，猿吊一枝哀。\n桑梓思前辈，松杉惜上材。\n养林如养德，万木盍重栽。",
+    "content_tr": "樵斧響晴雷，平林頃刻摧。\n兔亡三穴徙，猿弔一枝哀。\n桑梓思前輩，松杉惜上材。\n養林如養德，萬木盍重栽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

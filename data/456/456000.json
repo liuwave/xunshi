@@ -1,0 +1,18 @@
+{
+  "work_id": 456000,
+  "work": {
+    "id": 456000,
+    "title": "偈颂三十八首 其七",
+    "title_tr": "偈頌三十八首 其七",
+    "author": "释如净",
+    "author_tr": "釋如淨",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不曾生，不曾死，洞里桃花红照水。\n可怜开眼被渠瞒，人间天上风波起。",
+    "content_tr": "不曾生，不曾死，洞裏桃花紅照水。\n可憐開眼被渠瞞，人間天上風波起。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

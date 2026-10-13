@@ -1,0 +1,18 @@
+{
+  "work_id": 468201,
+  "work": {
+    "id": 468201,
+    "title": "咏蜂诗",
+    "title_tr": "咏蜂诗",
+    "author": "萧纲",
+    "author_tr": "蕭綱",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "逐风从泛漾，照日乍依微。\n知君不留眄，衔花空自飞。",
+    "content_tr": "逐风从泛漾，照日乍依微。\n知君不留眄，衔花空自飞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

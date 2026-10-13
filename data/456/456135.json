@@ -1,0 +1,18 @@
+{
+  "work_id": 456135,
+  "work": {
+    "id": 456135,
+    "title": "十二时颂 其八",
+    "title_tr": "十二時頌 其八",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晡时申，由来大道绝疏亲。\n阳和九月百花发，须信壶中别有春。",
+    "content_tr": "晡時申，由來大道絕疏親。\n陽和九月百花發，須信壺中別有春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

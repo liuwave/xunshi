@@ -1,0 +1,18 @@
+{
+  "work_id": 456134,
+  "work": {
+    "id": 456134,
+    "title": "十二时颂 其五",
+    "title_tr": "十二時頌 其五",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "禺中巳，龙象须观第一义。\n若向其中觅是非，见解何曾有李二。",
+    "content_tr": "禺中巳，龍象須觀第一義。\n若向其中覓是非，見解何曾有李二。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

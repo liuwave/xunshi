@@ -1,0 +1,18 @@
+{
+  "work_id": 456788,
+  "work": {
+    "id": 456788,
+    "title": "庵居即事",
+    "title_tr": "菴居即事",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欲过东家怕渡桥，欲题黄叶怕随潮。\n经旬不踏门前路，陡顿苍苔绿色饶。",
+    "content_tr": "欲過東家怕渡橋，欲題黄葉怕隨潮。\n經旬不踏門前路，陡頓蒼苔綠色饒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

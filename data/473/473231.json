@@ -1,0 +1,18 @@
+{
+  "work_id": 473231,
+  "work": {
+    "id": 473231,
+    "title": "七夕一绝句",
+    "title_tr": "七夕一絕句",
+    "author": "王炎",
+    "author_tr": "王炎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轻云卷箔月钩垂，正是青楼乞巧时。\n牛女相望隔河汉，浪传天上有佳期。",
+    "content_tr": "輕雲捲箔月鈎垂，正是青樓乞巧時。\n牛女相望隔河漢，浪傳天上有佳期。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

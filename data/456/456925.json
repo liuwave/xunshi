@@ -1,0 +1,18 @@
+{
+  "work_id": 456925,
+  "work": {
+    "id": 456925,
+    "title": "渊明画像",
+    "title_tr": "淵明畫像",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "司马家儿历数穷，可能特地振孤踪。\n永怀东土清风远，不把元嘉纪岁终。",
+    "content_tr": "司馬家兒曆數窮，可能特地振孤蹤。\n永懷東土清風遠，不把元嘉紀歲終。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

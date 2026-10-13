@@ -1,0 +1,18 @@
+{
+  "work_id": 456988,
+  "work": {
+    "id": 456988,
+    "title": "铁岩",
+    "title_tr": "鐵巖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "大铁围连小铁围，此岩应是此分支。\n是中别有三禅乐，弗是曾来可得知。",
+    "content_tr": "大鐵圍連小鐵圍，此巖應是此分支。\n是中別有三禪樂，弗是曾來可得知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

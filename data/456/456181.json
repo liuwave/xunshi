@@ -1,0 +1,18 @@
+{
+  "work_id": 456181,
+  "work": {
+    "id": 456181,
+    "title": "泊然庵",
+    "title_tr": "泊然菴",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白日静中消，忘言赋解嘲。\n叶疏犹可幄，云浅亦堪巢。\n清拟圣人酒，澹于君子交。\n悠然无藉在，檐铎听风敲。",
+    "content_tr": "白日靜中消，忘言賦解嘲。\n葉疎猶可幄，雲淺亦堪巢。\n清擬聖人酒，澹於君子交。\n悠然無藉在，簷鐸聽風敲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

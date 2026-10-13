@@ -1,0 +1,18 @@
+{
+  "work_id": 456732,
+  "work": {
+    "id": 456732,
+    "title": "解嘲杜鹃",
+    "title_tr": "解嘲杜鵑",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "神武门头稳挂冠，至今犹颂二疏贤。\n试将史传从头读，不说西京有杜鹃。",
+    "content_tr": "神武門頭穩挂冠，至今猶頌二疎賢。\n試將史傳從頭讀，不說西京有杜鵑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456870,
+  "work": {
+    "id": 456870,
+    "title": "灞桥风雪图",
+    "title_tr": "灞橋風雪圖",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桥滑驴僵噤不嘶，诗穷弗死反穷诗。\n华山也是吟疆土，更欲烦君写倒骑。",
+    "content_tr": "橋滑馿僵噤不嘶，詩窮弗死反窮詩。\n華山也是吟疆土，更欲煩君寫倒騎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

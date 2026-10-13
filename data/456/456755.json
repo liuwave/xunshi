@@ -1,0 +1,18 @@
+{
+  "work_id": 456755,
+  "work": {
+    "id": 456755,
+    "title": "赵禅庵",
+    "title_tr": "趙禪菴",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "面面苍崖似削瓜，涛翻鼍鼓半天挝。\n依稀刘阮曾行处，无数水边桃未花。",
+    "content_tr": "面面蒼崖似削瓜，濤翻鼉鼓半天撾。\n依稀劉阮曾行處，無數水邊桃未花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

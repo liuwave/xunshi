@@ -1,0 +1,18 @@
+{
+  "work_id": 456999,
+  "work": {
+    "id": 456999,
+    "title": "送元侍者",
+    "title_tr": "送元侍者",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "国师三唤小空时，眼瞩东南意在西。\n风雨萧萧晓如晦，嘐嘐望尔一声啼。",
+    "content_tr": "國師三喚小空時，眼矚東南意在西。\n風雨蕭蕭曉如晦，嘐嘐望爾一聲啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

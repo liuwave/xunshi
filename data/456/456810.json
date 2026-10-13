@@ -1,0 +1,18 @@
+{
+  "work_id": 456810,
+  "work": {
+    "id": 456810,
+    "title": "樵谷",
+    "title_tr": "樵谷",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谷口云横草不生，弗容斤斧弗容耕。\n呼童尽拾风前叶，自去提撕折脚铛。",
+    "content_tr": "谷口雲橫草不生，弗容斤斧弗容耕。\n呼童盡拾風前葉，自去提撕折脚鐺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

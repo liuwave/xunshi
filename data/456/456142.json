@@ -1,0 +1,18 @@
+{
+  "work_id": 456142,
+  "work": {
+    "id": 456142,
+    "title": "颂古五首 其六",
+    "title_tr": "頌古五首 其六",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行路难，行路难，最难难是过台山。\n唯有赵州公验正，昂头掉臂总闲闲。",
+    "content_tr": "行路難，行路難，最難難是過臺山。\n唯有趙州公驗正，昂頭掉臂總閑閑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

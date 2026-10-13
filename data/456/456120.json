@@ -1,0 +1,18 @@
+{
+  "work_id": 456120,
+  "work": {
+    "id": 456120,
+    "title": "十二时颂 其七",
+    "title_tr": "十二時頌 其七",
+    "author": "释文准",
+    "author_tr": "釋文準",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日昳未，法身清净绝方比。\n乾坤遐迩尽东西，千山万山翠相倚。",
+    "content_tr": "日昳未，法身清浄絕方比。\n乾坤遐邇盡東西，千山萬山翠相倚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

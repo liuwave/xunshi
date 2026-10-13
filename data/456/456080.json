@@ -1,0 +1,18 @@
+{
+  "work_id": 456080,
+  "work": {
+    "id": 456080,
+    "title": "巴江秋夕",
+    "title_tr": "巴江秋夕",
+    "author": "释保暹",
+    "author_tr": "釋保暹",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "巴水寒声去渺茫，半空云树落秋光。\n离人此夜和愁宿，不听啼猿亦断肠。",
+    "content_tr": "巴水寒聲去渺茫，半空雲樹落秋光。\n離人此夜和愁宿，不聽啼猿亦斷腸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 456500,
+  "work": {
+    "id": 456500,
+    "title": "华亭明行院",
+    "title_tr": "華亭明行院",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三女冈边寺，楼台旧郁峨。\n近郊闻梵放，陆地出芬陁。\n天福虽营刹，中原尚枕戈。\n烟尘绝淮海，熨帖看鲸波。",
+    "content_tr": "三女岡邊寺，樓臺舊鬰峩。\n近郊聞梵放，陸地出芬陁。\n天福雖營剎，中原尚枕戈。\n煙塵絕淮海，熨帖看鯨波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

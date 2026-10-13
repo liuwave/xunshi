@@ -1,0 +1,18 @@
+{
+  "work_id": 474246,
+  "work": {
+    "id": 474246,
+    "title": "读唐诗 其一",
+    "title_tr": "讀唐詩 其一",
+    "author": "周南",
+    "author_tr": "周南",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一日勾消两卷诗，趁忙抄得是灯时。\n隔窗一哄狂风雨，无数啁啾冻雀儿。",
+    "content_tr": "一日勾消兩卷詩，趁忙抄得是燈時。\n隔窗一鬨狂風雨，無數啁啾凍雀兒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

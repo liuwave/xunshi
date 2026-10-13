@@ -1,0 +1,18 @@
+{
+  "work_id": 456674,
+  "work": {
+    "id": 456674,
+    "title": "书诚斋答晦庵帖伤刘子澄死于贬所",
+    "title_tr": "書誠齋答晦菴帖傷劉子澄死於貶所",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宋司马后鲁臧仓，贤圣虽穷道不伤。\n老子看棋高一著，噬脐空自忆刘郎。",
+    "content_tr": "宋司馬後魯臧倉，賢聖雖窮道不傷。\n老子看棋高一著，噬臍空自憶劉郎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
