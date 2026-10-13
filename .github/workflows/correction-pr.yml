@@ -1,0 +1,43 @@
+name: 纠错 Issue → 自动 PR
+
+# 读者在寻诗站点点「生成 Issue」提交后，本流程把正文里的变更 JSON
+# 落成一次真实 PR（改 data/<桶>/<id>.json）。合并后由
+#   node scripts/web/import_fixes.mjs --repo <本仓库> --range main~1..main
+# 回流到修正层，下次构建生效 —— 维护者不必手动搬运数据。
+#
+# 安全边界：
+#   - 只处理带 data-correction 标签的 Issue（站点生成的链接会自动带上）；
+#   - 字段白名单在脚本内二次校验，越界字段直接跳过；
+#   - PR 需要维护者合并后才进 main，机器人不会直接改主干；
+#   - token 用 Actions 内置的 GITHUB_TOKEN，不需要额外密钥。
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  correction-pr:
+    if: contains(github.event.issue.labels.*.name, 'data-correction')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 解析变更并开 PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # 必须用 toJSON 包一层：Issue 正文含换行/引号/反引号，直接插值会破坏 env 赋值
+          # 并被当成 shell 注入。toJSON 输出合法的 JSON 字符串，脚本内再 parse。
+          ISSUE_BODY: ${{ toJSON(github.event.issue.body) }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_AUTHOR: ${{ toJSON(github.event.issue.user.login) }}
+        run: node .github/scripts/correction-pr.mjs
