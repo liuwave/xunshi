@@ -1,0 +1,18 @@
+{
+  "work_id": 199975,
+  "work": {
+    "id": 199975,
+    "title": "金陵绝句",
+    "title_tr": "金陵絕句",
+    "author": "皇甫涍",
+    "author_tr": "皇甫涍",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长干已过落花辰，满地杨花不见春。\n强折垂杨送归客，劳劳亭畔共沾巾。",
+    "content_tr": "長幹已過落花辰，滿地楊花不見春。\n強折垂楊送歸客，勞勞亭畔共沾巾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

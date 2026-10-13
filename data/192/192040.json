@@ -1,0 +1,18 @@
+{
+  "work_id": 192040,
+  "work": {
+    "id": 192040,
+    "title": "红豆曲",
+    "title_tr": "紅豆曲",
+    "author": "屈大均",
+    "author_tr": "屈大均",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江南红豆树，一叶一相思。\n红豆尚可尽，相思无已时。",
+    "content_tr": "江南紅豆樹，一葉一相思。\n紅豆尚可盡，相思無已時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

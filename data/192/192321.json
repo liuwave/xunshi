@@ -1,0 +1,18 @@
+{
+  "work_id": 192321,
+  "work": {
+    "id": 192321,
+    "title": "题素",
+    "title_tr": "題素",
+    "author": "屈士煌",
+    "author_tr": "屈士煌",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何地无芳草，凄凄摇旅情。\n学书心转拙，弹剑事难成。\n竹月虚帘影，潭云乱水声。\n所思劳远道，题素意分明。",
+    "content_tr": "何地無芳草，悽悽搖旅情。\n學書心轉拙，彈劍事難成。\n竹月虛簾影，潭雲亂水聲。\n所思勞遠道，題素意分明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

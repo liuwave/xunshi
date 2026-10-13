@@ -1,0 +1,18 @@
+{
+  "work_id": 191234,
+  "work": {
+    "id": 191234,
+    "title": "哭稚女雁",
+    "title_tr": "哭稚女雁",
+    "author": "屈大均",
+    "author_tr": "屈大均",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三月艰难瘴海行，归来不见一枝琼。\n家中大小相持哭，尽作哀猿肠断声。",
+    "content_tr": "三月艱難瘴海行，歸來不見一枝瓊。\n家中大小相持哭，盡作哀猿腸斷聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

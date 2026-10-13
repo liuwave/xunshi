@@ -1,0 +1,18 @@
+{
+  "work_id": 180070,
+  "work": {
+    "id": 180070,
+    "title": "铙歌 其一 朱鹭",
+    "title_tr": "鐃歌 其一 朱鷺",
+    "author": "李攀龙",
+    "author_tr": "李攀龍",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朱鹭猎其缨，茄下行。\n鱼在梁，纵复横。\n鹈何飞，濡其羽，上书谏其主。",
+    "content_tr": "朱鷺獵其纓，茄下行。\n魚在梁，縱復横。\n鵜何飛，濡其羽，上書諫其主。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

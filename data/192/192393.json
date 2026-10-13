@@ -1,0 +1,18 @@
+{
+  "work_id": 192393,
+  "work": {
+    "id": 192393,
+    "title": "秋宫词",
+    "title_tr": "秋宮詞",
+    "author": "林世璧",
+    "author_tr": "林世璧",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碧天凉月湛悠悠，独上高楼望女牛。\n昨夜西风何处起，宫中无树不知秋。",
+    "content_tr": "碧天涼月湛悠悠，獨上高樓望女牛。\n昨夜西風何處起，宮中無樹不知秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

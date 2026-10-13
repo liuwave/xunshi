@@ -1,0 +1,18 @@
+{
+  "work_id": 186173,
+  "work": {
+    "id": 186173,
+    "title": "城南绝句",
+    "title_tr": "城南絕句",
+    "author": "贝琼",
+    "author_tr": "貝瓊",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "祗树园荒客不来，金银犹指旧楼台。\n风林日落鸟争噪，雪岸春迟花未开。",
+    "content_tr": "祗樹園荒客不來，金銀猶指舊樓臺。\n風林日落鳥爭噪，雪岸春遲花未開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

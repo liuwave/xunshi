@@ -1,0 +1,18 @@
+{
+  "work_id": 185008,
+  "work": {
+    "id": 185008,
+    "title": "咏鹭",
+    "title_tr": "詠鷺",
+    "author": "李梦阳",
+    "author_tr": "李夢陽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独立娟娟鹭，惊人离石矶。\n遥看一片雪，深映碧山飞。",
+    "content_tr": "獨立娟娟鷺，驚人離石磯。\n遙看一片雪，深映碧山飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

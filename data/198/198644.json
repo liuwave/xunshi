@@ -1,0 +1,18 @@
+{
+  "work_id": 198644,
+  "work": {
+    "id": 198644,
+    "title": "吴人歌",
+    "title_tr": "呉人歌",
+    "author": "胡奎",
+    "author_tr": "胡奎",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江悠悠，挽使舟。\n吴人歌，歌邓侯。\n江水东流去不返，邓侯邓侯舟莫挽。",
+    "content_tr": "江悠悠，輓使舟。\n呉人歌，歌鄧侯。\n江水東流去不返，鄧侯鄧侯舟莫輓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

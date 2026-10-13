@@ -1,0 +1,18 @@
+{
+  "work_id": 180012,
+  "work": {
+    "id": 180012,
+    "title": "前溪歌 其一",
+    "title_tr": "前溪歌 其一",
+    "author": "李攀龙",
+    "author_tr": "李攀龍",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "逍遥东武亭，下有独桑路。\n欢但宿侬家，前溪不可度。",
+    "content_tr": "逍遥東武亭，下有獨桑路。\n歡但宿儂家，前溪不可度。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

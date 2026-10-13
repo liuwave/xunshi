@@ -1,0 +1,18 @@
+{
+  "work_id": 191123,
+  "work": {
+    "id": 191123,
+    "title": "吊王于一",
+    "title_tr": "吊王於一",
+    "author": "屈大均",
+    "author_tr": "屈大均",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君本豫章贞女树，一朝摧折向秋风。\n大名空在遗民传，白首同归恨不同。",
+    "content_tr": "君本豫章貞女樹，一朝摧折向秋風。\n大名空在遺民傳，白首同歸恨不同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

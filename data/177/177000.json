@@ -1,0 +1,18 @@
+{
+  "work_id": 177000,
+  "work": {
+    "id": 177000,
+    "title": "送别陈子明",
+    "title_tr": "送別陳子明",
+    "author": "何吾驺",
+    "author_tr": "何吾騶",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "如此云山尔独行，骊驹歌罢不胜情。\n试看一片青天色，忽向江头送雨声。",
+    "content_tr": "如此雲山爾獨行，驪駒歌罷不勝情。\n試看一片青天色，忽向江頭送雨聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
