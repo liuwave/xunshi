@@ -1,0 +1,18 @@
+{
+  "work_id": 567767,
+  "work": {
+    "id": 567767,
+    "title": "论语 · 学而篇 · 第八章",
+    "title_tr": "論語 · 學而篇 · 第八章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“君子，不重则不威；学则不固。主忠信。无友不如己者；过则勿惮改。”",
+    "content_tr": "子曰：“君子，不重則不威；學則不固。主忠信。無友不如己者；過則勿憚改。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

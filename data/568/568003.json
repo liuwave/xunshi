@@ -1,0 +1,18 @@
+{
+  "work_id": 568003,
+  "work": {
+    "id": 568003,
+    "title": "论语 · 先进篇 · 第一章",
+    "title_tr": "論語 · 先進篇 · 第一章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“先进于礼乐，野人也；后进于礼乐，君子也。如用之，则吾从先进。”",
+    "content_tr": "子曰：“先進於禮樂，野人也；後進於禮樂，君子也。如用之，則吾從先進。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

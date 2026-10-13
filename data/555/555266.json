@@ -1,0 +1,18 @@
+{
+  "work_id": 555266,
+  "work": {
+    "id": 555266,
+    "title": "雨霖铃曲",
+    "title_tr": "雨霖铃曲",
+    "author": "杨士凝",
+    "author_tr": "楊士凝",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "雨霖铃曲",
+    "content": "天子犹难活妇人，梨园枉唱《雨霖铃》。\n万层剑岭千条峡，忍使官家掩泪听。",
+    "content_tr": "天子犹难活妇人，梨园枉唱《雨霖铃》。\n万层剑岭千条峡，忍使官家掩泪听。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

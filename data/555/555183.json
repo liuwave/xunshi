@@ -1,0 +1,18 @@
+{
+  "work_id": 555183,
+  "work": {
+    "id": 555183,
+    "title": "忆江南 · 题吴华卿一诗一研图",
+    "title_tr": "憶江南 · 題吳華卿一詩一研圖",
+    "author": "冯煦",
+    "author_tr": "馮煦",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "忆江南",
+    "content": "清芬渺，三泖昔栖迟。断石不随云景幻，一编重把琐窗西。\n恻恻夜乌啼。",
+    "content_tr": "清芬渺，三泖昔棲遲。斷石不隨雲景幻，一編重把瑣窗西。\n惻惻夜烏啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

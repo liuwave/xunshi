@@ -1,0 +1,18 @@
+{
+  "work_id": 562500,
+  "work": {
+    "id": 562500,
+    "title": "华阳洞辞",
+    "title_tr": "華陽洞辭",
+    "author": "游九言",
+    "author_tr": "遊九言",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "华阳洞辞",
+    "content": "仙子去，眇云程，天风杳杳佩环清。回望九州烟雾白，千山月落影纵横。",
+    "content_tr": "仙子去，眇雲程，天風杳杳佩環清。回望九州煙霧白，千山月落影縱橫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 567822,
+  "work": {
+    "id": 567822,
+    "title": "论语 · 述而篇 · 第一章",
+    "title_tr": "論語 · 述而篇 · 第一章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“述而不作，信而好古，窃比于我老彭。”",
+    "content_tr": "子曰：“述而不作，信而好古，竊比於我老彭。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

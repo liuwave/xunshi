@@ -1,0 +1,18 @@
+{
+  "work_id": 555505,
+  "work": {
+    "id": 555505,
+    "title": "开元乐",
+    "title_tr": "開元樂",
+    "author": "杨继端",
+    "author_tr": "楊繼端",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "开元乐",
+    "content": "惆怅阶前梅树，今年几度春花。犹带别时泪影，郎行何日还家。",
+    "content_tr": "惆悵階前梅樹，今年幾度春花。猶帶別時淚影，郎行何日還家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

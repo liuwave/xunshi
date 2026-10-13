@@ -1,0 +1,18 @@
+{
+  "work_id": 567901,
+  "work": {
+    "id": 567901,
+    "title": "论语 · 公冶长篇 · 第十五章",
+    "title_tr": "論語 · 公冶長篇 · 第十五章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子贡问曰：“孔文子何以谓之‘文’也？”子曰：“敏而好学，不耻下问，是以谓之‘文’也。”",
+    "content_tr": "子貢問曰：“孔文子何以謂之‘文’也？”子曰：“敏而好學，不恥下問，是以謂之‘文’也。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

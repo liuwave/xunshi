@@ -1,0 +1,18 @@
+{
+  "work_id": 567812,
+  "work": {
+    "id": 567812,
+    "title": "论语 · 乡党篇 · 第一章",
+    "title_tr": "論語 · 鄉黨篇 · 第一章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "孔子于乡党，恂恂如也，似不能言者。其在宗庙朝廷，便便言，唯谨尔。",
+    "content_tr": "孔子於鄉黨，恂恂如也，似不能言者。其在宗廟朝廷，便便言，唯謹爾。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

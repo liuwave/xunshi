@@ -1,0 +1,18 @@
+{
+  "work_id": 555198,
+  "work": {
+    "id": 555198,
+    "title": "东湖竹枝词",
+    "title_tr": "東湖竹枝詞",
+    "author": "杨毓秀",
+    "author_tr": "楊毓秀",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "东湖竹枝词",
+    "content": "荷衣裁作玉檠形，万点荷镫万点青。昔日秦兵今不戒，移将镫影照双星。",
+    "content_tr": "荷衣裁作玉檠形，萬點荷鐙萬點青。昔日秦兵今不戒，移將鐙影照雙星。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 568036,
+  "work": {
+    "id": 568036,
+    "title": "论语三则",
+    "title_tr": "論語三則",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "敏而好学，不耻下问。\n知之为知之，不知为不知，是知也。\n默而识之，学而不厌，诲人不倦。",
+    "content_tr": "敏而好學，不恥下問。\n知之爲知之，不知爲不知，是知也。\n默而識之，學而不厭，誨人不倦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

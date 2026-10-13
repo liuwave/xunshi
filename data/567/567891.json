@@ -1,0 +1,18 @@
+{
+  "work_id": 567891,
+  "work": {
+    "id": 567891,
+    "title": "论语 · 雍也篇 · 第二十八章",
+    "title_tr": "論語 · 雍也篇 · 第二十八章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子见南子，子路不说。夫子矢之曰：“予所否者，天厌之！天厌之！”",
+    "content_tr": "子見南子，子路不說。夫子矢之曰：“予所否者，天厭之！天厭之！”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

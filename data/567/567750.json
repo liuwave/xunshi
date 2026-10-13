@@ -1,0 +1,18 @@
+{
+  "work_id": 567750,
+  "work": {
+    "id": 567750,
+    "title": "论语 · 学而篇 · 第十三章",
+    "title_tr": "論語 · 學而篇 · 第十三章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "有子曰：“信近于义，言可复也；恭近于礼，远耻辱也；因不失其亲，亦可宗也。”",
+    "content_tr": "有子曰：“信近於義，言可復也；恭近於禮，遠恥辱也；因不失其親，亦可宗也。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 567749,
+  "work": {
+    "id": 567749,
+    "title": "论语 · 学而篇 · 第十二章",
+    "title_tr": "論語 · 學而篇 · 第十二章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "有子曰：“礼之用，和为贵。先王之道，斯为美。小大由之，有所不行。知和而和，不以礼节之，亦不可行也。”",
+    "content_tr": "有子曰：“禮之用，和爲貴。先王之道，斯爲美。小大由之，有所不行。知和而和，不以禮節之，亦不可行也。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

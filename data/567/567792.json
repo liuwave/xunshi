@@ -1,0 +1,18 @@
+{
+  "work_id": 567792,
+  "work": {
+    "id": 567792,
+    "title": "论语 · 子罕篇 · 第二十六章",
+    "title_tr": "論語 · 子罕篇 · 第二十六章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“三军可夺帅也，匹夫不可夺志也。”",
+    "content_tr": "子曰：“三軍可奪帥也，匹夫不可奪志也。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

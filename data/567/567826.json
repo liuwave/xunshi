@@ -1,0 +1,18 @@
+{
+  "work_id": 567826,
+  "work": {
+    "id": 567826,
+    "title": "论语 · 述而篇 · 第三十章",
+    "title_tr": "論語 · 述而篇 · 第三十章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“仁远乎哉？我欲仁，斯仁至矣。”",
+    "content_tr": "子曰：“仁遠乎哉？我欲仁，斯仁至矣。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 573624,
+  "work": {
+    "id": 573624,
+    "title": "本草纲目 · 石部 · 石鳖",
+    "title_tr": "本草綱目·石部·石鱉",
+    "author": "李时珍",
+    "author_tr": "李時珍",
+    "dynasty": "明",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "集解\n石鳖生海边，形状大小俨如虫，盖亦化成者。虫俗名土鳖。",
+    "content_tr": "集解\n石鱉生海邊，形狀大小儼如蟲，蓋亦化成者。蟲俗名土鱉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

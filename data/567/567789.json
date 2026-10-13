@@ -1,0 +1,18 @@
+{
+  "work_id": 567789,
+  "work": {
+    "id": 567789,
+    "title": "论语 · 子罕篇 · 第三十一章",
+    "title_tr": "論語 · 子罕篇 · 第三十一章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "“唐棣之华，偏其反而。岂不尔思，室是远而。”子曰：“未之思也，夫何远之有？”",
+    "content_tr": "“唐棣之華，偏其反而。豈不爾思，室是遠而。”子曰：“未之思也，夫何遠之有？”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

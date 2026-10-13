@@ -1,0 +1,18 @@
+{
+  "work_id": 567948,
+  "work": {
+    "id": 567948,
+    "title": "论语 · 为政篇 · 第三章",
+    "title_tr": "論語 · 爲政篇 · 第三章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。”",
+    "content_tr": "子曰：“道之以政，齊之以刑，民免而無恥；道之以德，齊之以禮，有恥且格。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

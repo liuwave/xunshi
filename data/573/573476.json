@@ -1,0 +1,18 @@
+{
+  "work_id": 573476,
+  "work": {
+    "id": 573476,
+    "title": "本草纲目 · 土部 · 香炉灰",
+    "title_tr": "本草綱目·水部·香爐灰",
+    "author": "李时珍",
+    "author_tr": "李時珍",
+    "dynasty": "明",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "主治\n跌扑金刃伤损，罨之，止血生肌。香炉岸，主疥疮。",
+    "content_tr": "主治\n跌撲金刃傷損，罨之，止血生肌。香爐岸，主疥瘡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

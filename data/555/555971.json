@@ -1,0 +1,18 @@
+{
+  "work_id": 555971,
+  "work": {
+    "id": 555971,
+    "title": "江南好青溪秋思",
+    "title_tr": "江南好青溪秋思",
+    "author": "杨圻",
+    "author_tr": "楊圻",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "江南好青溪秋思",
+    "content": "萧萧也，风起更潮生。独宿江城闻雁过，数星镫火暗金陵，秋笛雨中听。",
+    "content_tr": "蕭蕭也，風起更潮生。獨宿江城聞雁過，數星鐙火暗金陵，秋笛雨中聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

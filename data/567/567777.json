@@ -1,0 +1,18 @@
+{
+  "work_id": 567777,
+  "work": {
+    "id": 567777,
+    "title": "论语 · 子罕篇 · 第十章",
+    "title_tr": "論語 · 子罕篇 · 第十章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子见齐衰者、冕衣裳者与瞽者，见之，虽少，必作；过之，必趋。",
+    "content_tr": "子見齊衰者、冕衣裳者與瞽者，見之，雖少，必作；過之，必趨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

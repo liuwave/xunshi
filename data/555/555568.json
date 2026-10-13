@@ -1,0 +1,18 @@
+{
+  "work_id": 555568,
+  "work": {
+    "id": 555568,
+    "title": "长水竹枝词",
+    "title_tr": "長水竹枝詞",
+    "author": "黄燮清",
+    "author_tr": "黃燮清",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "长水竹枝词",
+    "content": "蚕种须教觅四眠，买桑须买枝头鲜。蚕眠桑老红闺静，灯火三更作茧圆。",
+    "content_tr": "蠶種須教覓四眠，買桑須買枝頭鮮。蠶眠桑老紅閨靜，燈火三更作繭圓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

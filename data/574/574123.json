@@ -1,0 +1,18 @@
+{
+  "work_id": 574123,
+  "work": {
+    "id": 574123,
+    "title": "本草纲目 · 木部 · 小蘖",
+    "title_tr": "本草綱目·木部·小櫱",
+    "author": "李时珍",
+    "author_tr": "李時珍",
+    "dynasty": "明",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "释名\n子蘖、山石榴。\n气味\n苦、大寒、无毒。\n主治\n去心腹中热气，杀诸虫，治血崩。",
+    "content_tr": "釋名\n子櫱、山石榴。\n氣味\n苦、大寒、無毒。\n主治\n去心腹中熱氣，殺諸蟲，治血崩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

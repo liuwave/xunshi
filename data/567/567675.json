@@ -1,0 +1,18 @@
+{
+  "work_id": 567675,
+  "work": {
+    "id": 567675,
+    "title": "大道帖",
+    "title_tr": "大道帖",
+    "author": "王羲之",
+    "author_tr": "王羲之",
+    "dynasty": "晋",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "大道久不下，与先未然耶！",
+    "content_tr": "大道久不下，與先未然耶！"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

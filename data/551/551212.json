@@ -1,0 +1,18 @@
+{
+  "work_id": 551212,
+  "work": {
+    "id": 551212,
+    "title": "望江南六十四阕",
+    "title_tr": "望江南六十四闋",
+    "author": "高燮",
+    "author_tr": "高燮",
+    "dynasty": "清",
+    "kind_cn": "词",
+    "rhythmic": "望江南六十四阕",
+    "content": "山庐好，得似古人无。虽逊南阳桑百本，却超彭泽柳千株。\n多少不妨殊。",
+    "content_tr": "山廬好，得似古人無。雖遜南陽桑百本，卻超彭澤柳千株。\n多少不妨殊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

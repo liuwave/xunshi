@@ -1,0 +1,18 @@
+{
+  "work_id": 567943,
+  "work": {
+    "id": 567943,
+    "title": "论语 · 为政篇 · 第一章",
+    "title_tr": "論語 · 爲政篇 · 第一章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：「为政以德，譬如北辰，居其所而众星共之。」",
+    "content_tr": "子曰：「爲政以德，譬如北辰，居其所而衆星共之。」"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

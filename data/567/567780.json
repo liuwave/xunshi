@@ -1,0 +1,18 @@
+{
+  "work_id": 567780,
+  "work": {
+    "id": 567780,
+    "title": "论语 · 泰伯篇 · 第十三章",
+    "title_tr": "論語 · 泰伯篇 · 第十三章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“笃信好学，守死善道。危邦不入，乱邦不居。天下有道则见，无道则隐。邦有道，贫且贱焉，耻也。邦无道，富且贵焉，耻也。”",
+    "content_tr": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也。邦無道，富且貴焉，恥也。」"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

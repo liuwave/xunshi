@@ -1,0 +1,18 @@
+{
+  "work_id": 567785,
+  "work": {
+    "id": 567785,
+    "title": "论语 · 泰伯篇 · 第十章",
+    "title_tr": "論語 · 泰伯篇 · 第十章",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“好勇疾贫，乱也。人而不仁，疾之已甚，乱也。”",
+    "content_tr": "子曰：“好勇疾貧，亂也。人而不仁，疾之已甚，亂也。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

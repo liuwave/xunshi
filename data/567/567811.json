@@ -1,0 +1,18 @@
+{
+  "work_id": 567811,
+  "work": {
+    "id": 567811,
+    "title": "论语 · 述而篇 · 第十八章",
+    "title_tr": "論語 · 述而篇 · 第十八章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子所雅言，《诗》、《书》、执礼，皆雅言也。",
+    "content_tr": "子所雅言，《詩》、《書》、執禮，皆雅言也。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

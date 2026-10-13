@@ -1,0 +1,18 @@
+{
+  "work_id": 567368,
+  "work": {
+    "id": 567368,
+    "title": "春赋",
+    "title_tr": "春賦",
+    "author": "萧绎",
+    "author_tr": "蕭繹",
+    "dynasty": "南北朝",
+    "kind_cn": "赋",
+    "rhythmic": null,
+    "content": "洛阳小苑之西，长安大道之东。\n苔染池而尽绿，桃含山而并红。\n露沾枝而重叶，纲萦花而曳风。",
+    "content_tr": "洛陽小苑之西，長安大道之東。\n苔染池而盡緑，桃含山而並紅。\n露沾枝而重葉，綱縈花而曳風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

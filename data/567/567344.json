@@ -1,0 +1,18 @@
+{
+  "work_id": 567344,
+  "work": {
+    "id": 567344,
+    "title": "临涡赋",
+    "title_tr": "臨渦賦",
+    "author": "曹丕",
+    "author_tr": "曹丕",
+    "dynasty": "三国",
+    "kind_cn": "赋",
+    "rhythmic": null,
+    "content": "荫高树兮临曲涡，微风起兮水增波，\n鱼颉颃兮鸟逶迤，雌雄呜兮声相和，\n萍藻生兮散茎柯，春水繁兮发丹华。",
+    "content_tr": "蔭高樹兮臨曲渦，微風起兮水增波，\n魚頡頏兮鳥逶迤，雌雄嗚兮聲相和，\n萍藻生兮散莖柯，春水繁兮發丹華。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

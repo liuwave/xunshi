@@ -1,0 +1,18 @@
+{
+  "work_id": 567654,
+  "work": {
+    "id": 567654,
+    "title": "郗司马帖",
+    "title_tr": "郗司馬帖",
+    "author": "王羲之",
+    "author_tr": "王羲之",
+    "dynasty": "晋",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "十七日先书，郗司马未去。即日得足下书，为慰。先书以具，示复数字。",
+    "content_tr": "十七日先書，郗司馬未去。即日得足下書，爲慰。先書以具，示覆數字。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

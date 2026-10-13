@@ -1,0 +1,18 @@
+{
+  "work_id": 567762,
+  "work": {
+    "id": 567762,
+    "title": "论语 · 学而篇 · 第一章",
+    "title_tr": "論語 · 學而篇 · 一",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？",
+    "content_tr": "子曰：學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

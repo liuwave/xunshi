@@ -1,0 +1,18 @@
+{
+  "work_id": 567800,
+  "work": {
+    "id": 567800,
+    "title": "论语 · 子罕篇 · 第三十章",
+    "title_tr": "論語 · 子罕篇 · 第三十章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“可与共学，未可与适道；可与适道，未可与立；可与立，未可与权。”",
+    "content_tr": "子曰：“可與共學，未可與適道；可與適道，未可與立；可與立，未可與權。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 567765,
+  "work": {
+    "id": 567765,
+    "title": "论语 · 学而篇 · 第三章",
+    "title_tr": "論語 · 學而篇 · 第三章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“巧言令色，鲜矣仁。”",
+    "content_tr": "子曰：“巧言令色，鮮矣仁。”"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

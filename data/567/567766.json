@@ -1,0 +1,18 @@
+{
+  "work_id": 567766,
+  "work": {
+    "id": 567766,
+    "title": "论语 · 学而篇 · 第五章",
+    "title_tr": "論語 · 學而篇 · 第五章 ",
+    "author": "孔子",
+    "author_tr": "孔子",
+    "dynasty": "周",
+    "kind_cn": "文",
+    "rhythmic": null,
+    "content": "子曰：“道千乘之国，敬事而信，节用而爱人，使民以时。”",
+    "content_tr": "子曰：「道千乘之國，敬事而信，節用而愛人，使民以時。」"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
