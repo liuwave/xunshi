@@ -1,0 +1,18 @@
+{
+  "work_id": 678123,
+  "work": {
+    "id": 678123,
+    "title": "颂古二十一首  其一一",
+    "title_tr": "頌古二十一首  其一一",
+    "author": "释居简",
+    "author_tr": "釋居簡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疾燄过风第二头，不堪惆怅只堪愁。\n一声振鬣长鸣后，万马皆瘖一战收。",
+    "content_tr": "疾燄過風第二頭，不堪惆悵只堪愁。\n一聲振鬣長鳴後，萬馬皆瘖一戰收。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

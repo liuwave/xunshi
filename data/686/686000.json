@@ -1,0 +1,18 @@
+{
+  "work_id": 686000,
+  "work": {
+    "id": 686000,
+    "title": "怀归",
+    "title_tr": "懷歸",
+    "author": "史弥宁",
+    "author_tr": "史彌寧",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倚阁南湖一钓舟，西风将梦到乡州。\n蛙蝇名利苦多事，薄有田园归去休。",
+    "content_tr": "倚閣南湖一釣舟，西風將夢到鄉州。\n蛙蠅名利苦多事，薄有田園歸去休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

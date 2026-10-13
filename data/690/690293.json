@@ -1,0 +1,18 @@
+{
+  "work_id": 690293,
+  "work": {
+    "id": 690293,
+    "title": "闺中词",
+    "title_tr": "閨中詞",
+    "author": "严羽",
+    "author_tr": "嚴羽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "良人西去击狂胡，妾在闺中对影居。\n万里长看天外月，一生空得梦中书。",
+    "content_tr": "良人西去擊狂胡，妾在閨中對影居。\n萬里長看天外月，一生空得夢中書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

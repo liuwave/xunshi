@@ -1,0 +1,18 @@
+{
+  "work_id": 691665,
+  "work": {
+    "id": 691665,
+    "title": "农歌",
+    "title_tr": "農歌",
+    "author": "白玉蟾",
+    "author_tr": "白玉蟾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上田稻似下田青，乳鸭儿鹅阵阵行。\n稻熟酒新鹅鸭大，村歌社舞贺秋成。",
+    "content_tr": "上田稻似下田青，乳鴨兒鵝陣陣行。\n稻熟酒新鵝鴨大，村歌社舞賀秋成。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

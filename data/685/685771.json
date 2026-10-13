@@ -1,0 +1,18 @@
+{
+  "work_id": 685771,
+  "work": {
+    "id": 685771,
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "陈昉",
+    "author_tr": "陳昉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桂影婆娑玉殿凉，风传花漏夜声长。\n内人亦有思仙者，月下吹箫引凤皇。",
+    "content_tr": "桂影婆娑玉殿涼，風傳花漏夜聲長。\n內人亦有思仙者，月下吹簫引鳳皇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

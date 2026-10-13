@@ -1,0 +1,24 @@
+{
+  "work_id": 699124,
+  "work": {
+    "id": 699124,
+    "title": "句",
+    "title_tr": "句",
+    "author": "林洪",
+    "author_tr": "林洪",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雪翻夜钵裁成玉，春化寒酥剪作金。",
+    "content_tr": "雪翻夜鉢裁成玉，春化寒酥剪作金。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "雪在夜钵中翻扬，被裁剪成玉；春意化作寒酥，又被剪裁成金。",
+    "annotation": "寒酥：喻雪花。",
+    "appreciation": "这是一副咏物对句，两句皆以雪为脉络：上句写雪在夜钵中翻扬，被裁成玉，取其白与洁；下句写春意中寒酥（雪花）化作金黄被剪裁，取其形与色。「翻」「裁」「化」「剪」四个动词接连而下，把静态的物象写得轻巧灵动；「夜钵」与「寒酥」相映，玉与金两色相照，对仗工整而设色秾丽。就文本看，此联意在摹写雪后物象的精巧可爱，至于所咏为何物，句中未明言，只能存其字面之美。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

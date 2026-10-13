@@ -1,0 +1,18 @@
+{
+  "work_id": 684004,
+  "work": {
+    "id": 684004,
+    "title": "黄鹤楼",
+    "title_tr": "黄鶴樓",
+    "author": "游似",
+    "author_tr": "游似",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长江巨浪拍天浮，城郭相望万景收。\n汉水北吞云梦入，蜀江西带洞庭流。\n角声交送千家月，帆影中分两岸秋。\n黄鹤楼高人不见，却随鹦鹉过汀洲。",
+    "content_tr": "長江巨浪拍天浮，城郭相望萬景收。\n漢水北吞雲夢入，蜀江西带洞庭流。\n角聲交送千家月，帆影中分兩岸秋。\n黄鶴樓高人不見，却隨鸚鵡過汀洲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

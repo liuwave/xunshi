@@ -1,0 +1,24 @@
+{
+  "work_id": 677084,
+  "work": {
+    "id": 677084,
+    "title": "句  其二",
+    "title_tr": "句  其二",
+    "author": "陈诗",
+    "author_tr": "陳詩",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莹光连烛动，月影带河流。",
+    "content_tr": "瑩光連燭動，月影带河流。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "莹莹的光连着烛焰晃动，月影带着河流（的波光）。",
+    "annotation": "莹：光洁明亮。",
+    "appreciation": "一联写夜景光影，纯以炼字见工。「莹光连烛动」，莹莹之光与烛焰相连而摇动，「连」字把两种光源绾合为一，「动」字赋予其摇曳之态；「月影带河流」，月影投入水中，随河流而流转，「带」字尤妙，月竟携河而行，静影遂有了奔流之势。上句烛光近而闪烁，下句月光远而浩荡，一近一远、一微一阔，光影交织成一幅明灭动人的水夜图。十字全以名词动词缀合，不着形容而光色自出。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

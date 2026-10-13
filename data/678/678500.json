@@ -1,0 +1,18 @@
+{
+  "work_id": 678500,
+  "work": {
+    "id": 678500,
+    "title": "句",
+    "title_tr": "句",
+    "author": "陈涣",
+    "author_tr": "陳渙",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "炊餠担头挑取去，白衣铺上喝将来。",
+    "content_tr": "炊餠擔頭挑取去，白衣鋪上喝將來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

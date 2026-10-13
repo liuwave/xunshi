@@ -1,0 +1,18 @@
+{
+  "work_id": 689809,
+  "work": {
+    "id": 689809,
+    "title": "陶渊明赞",
+    "title_tr": "陶淵明贊",
+    "author": "释广闻",
+    "author_tr": "釋廣聞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "和露锄豆苗，不觉日又夜。\n飘然从何来，定在南山下。",
+    "content_tr": "和露鋤豆苗，不覺日又夜。\n飄然從何來，定在南山下。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

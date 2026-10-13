@@ -1,0 +1,24 @@
+{
+  "work_id": 697195,
+  "work": {
+    "id": 697195,
+    "title": "句",
+    "title_tr": "句",
+    "author": "高达",
+    "author_tr": "高達",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "至今青霄人，犹是门下客。",
+    "content_tr": "至今青霄人，猶是門下客。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "到如今显达于青霄的人，还是当年的门下之客。",
+    "annotation": "青霄：天空，高空，喻显达的地位。\n门下客：依附权贵门庭的宾客、食客。",
+    "appreciation": "断句两句于冷峻对照中寓讽。青霄人指如今显达于青云之上的人物，门下客指昔日依附权贵门庭的食客；「至今」「犹是」两相衔接，点出这些人虽然飞黄腾达，骨子里依旧不过是攀附门下之客。地位已改而姿态未改，一语戳破，冷隽之至。全联不作铺陈，单以今昔身份的重叠见意，语极简而褒贬寓焉，是借人论世、含刺于感慨之中的笔墨，可见作者观人的冷眼与用笔的简峭。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

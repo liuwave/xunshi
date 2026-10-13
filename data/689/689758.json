@@ -1,0 +1,24 @@
+{
+  "work_id": 689758,
+  "work": {
+    "id": 689758,
+    "title": "句  其一",
+    "title_tr": "句  其一",
+    "author": "戴服",
+    "author_tr": "戴服",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一灯深夜雨，几处不眠人。",
+    "content_tr": "一燈深夜雨，幾處不眠人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一盏灯在深夜的雨里亮着，有多少处不眠的人。",
+    "annotation": "",
+    "appreciation": "这两句诗从极小的「一灯」落笔，推向「几处不眠人」。深夜之雨本是一片晦暗，孤灯透出一点微明，灯火之外是雨声，雨声之中是不眠者各自的心事。诗人不明写为何不眠，羁旅之愁、思乡之念、身世之感，皆由「不眠」二字留给读者想象。「一」与「几」由少而多、由近及远，画面层层推开，以一点照见全局。全联不着一个「愁」字，而愁绪弥漫纸上，是典型的以景结情、言近旨远的写法，十字之内自具深夜雨寺（驿）的苍茫境味。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

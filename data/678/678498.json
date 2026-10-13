@@ -1,0 +1,18 @@
+{
+  "work_id": 678498,
+  "work": {
+    "id": 678498,
+    "title": "咏鹤",
+    "title_tr": "詠鶴",
+    "author": "史弥逊",
+    "author_tr": "史彌遜",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "缟衣湖上月明天，雪影飘飘意欲仙。\n世网从来禁不得，高飞冲破晚秋烟。",
+    "content_tr": "縞衣湖上月明天，雪影飄飄意欲仙。\n世網從來禁不得，高飛沖破晚秋煙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

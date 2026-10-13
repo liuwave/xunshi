@@ -1,0 +1,24 @@
+{
+  "work_id": 698051,
+  "work": {
+    "id": 698051,
+    "title": "句  其四",
+    "title_tr": "句  其四",
+    "author": "贾似道",
+    "author_tr": "賈似道",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "稻花香满路，菰叶乱苍洲。",
+    "content_tr": "稻花香滿路，菰葉亂蒼洲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "稻花香满一路，菰叶散乱长满苍青的洲渚。",
+    "annotation": "菰（gū）：多年生水草，嫩茎可食，即茭白。",
+    "appreciation": "这是一副水乡写景对句。上句写陆上：稻花香满路，从嗅觉落笔，「满路」二字见稻熟连阡、香气四达的丰年气象；下句写水面：菰叶乱苍洲，从视觉落笔，一个「乱」字状出菰叶丛生交错、青苍满洲的野趣。一路一洲、一香一色、一丰穰一苍茫，对仗自然而无斧凿痕，画面开阔而有层次。虽仅存两句，全篇本意不可考，然江南稻熟菰茂之际的泽国风光，已尽在这十字之中。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

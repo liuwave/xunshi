@@ -1,0 +1,18 @@
+{
+  "work_id": 689010,
+  "work": {
+    "id": 689010,
+    "title": "自箴",
+    "title_tr": "自箴",
+    "author": "刘克庄",
+    "author_tr": "劉克莊",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梦亦齐庄非矫戾，病犹温习见操存。\n生柴参后千余载，恍似同时及圣门。",
+    "content_tr": "夢亦齊莊非矯戾，病猶溫習見操存。\n生柴參後千餘載，恍似同時及聖門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

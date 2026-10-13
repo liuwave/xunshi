@@ -1,0 +1,18 @@
+{
+  "work_id": 693000,
+  "work": {
+    "id": 693000,
+    "title": "荷花",
+    "title_tr": "荷花",
+    "author": "江万里",
+    "author_tr": "江萬里",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "结亭临水似舟中，夜雨潇潇乱打篷。\n荷叶晓看元不湿，却疑误听五更风。",
+    "content_tr": "結亭臨水似舟中，夜雨瀟瀟亂打篷。\n荷葉曉看元不濕，却疑誤聽五更風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

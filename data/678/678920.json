@@ -1,0 +1,18 @@
+{
+  "work_id": 678920,
+  "work": {
+    "id": 678920,
+    "title": "山村",
+    "title_tr": "山村",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨过山村六月凉，田田流水稻花香。\n松边一石平如榻，坐听风蝉送夕阳。",
+    "content_tr": "雨過山村六月凉，田田流水稻花香。\n松邊一石平如榻，坐聽風蟬送夕陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

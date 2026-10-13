@@ -1,0 +1,24 @@
+{
+  "work_id": 696384,
+  "work": {
+    "id": 696384,
+    "title": "句",
+    "title_tr": "句",
+    "author": "楼扶",
+    "author_tr": "樓扶",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜深更拥寒衾坐，明月梅花共一窗。",
+    "content_tr": "夜深更擁寒衾坐，明月梅花共一窗。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "夜深了，更拥着寒衾坐着，明月与梅花同映一窗。",
+    "annotation": "寒衾：冰冷的被褥。",
+    "appreciation": "断句两句写清夜孤坐之境。夜已深而更拥寒衾独坐，一个「更」字见出不寐之久，「寒」字兼写衾冷与心境之清冷；孤清之中却有慰藉——明月与梅花的光影同映一窗。窗仅一扇，纳尽月色梅影，境极简极清，冷艳之景与不寐之人相对，孤寂里自见高洁自适的襟怀。全联不着一句情语，只以夜、衾、月、梅、窗数物从容布置，清气满纸，静中有味，是以清景写幽怀的典型笔法，两句足抵一幅寒夜小景图。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

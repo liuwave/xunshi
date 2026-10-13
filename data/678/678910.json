@@ -1,0 +1,18 @@
+{
+  "work_id": 678910,
+  "work": {
+    "id": 678910,
+    "title": "怀家三首  其一",
+    "title_tr": "懷家三首  其一",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白发出门来，三见梅花谢。\n客路有岁年，归心无昼夜。",
+    "content_tr": "白髮出門來，三見梅花謝。\n客路有歲年，歸心無晝夜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 698052,
+  "work": {
+    "id": 698052,
+    "title": "句  其五",
+    "title_tr": "句  其五",
+    "author": "贾似道",
+    "author_tr": "賈似道",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅花见处多留句，谏草藏来定得名。",
+    "content_tr": "梅花見處多留句，諫草藏來定得名。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "见到梅花之处多留下诗句，谏草珍藏起来必定得名。",
+    "annotation": "谏草：谏章的草稿。",
+    "appreciation": "此联上句言诗，下句言谏：见梅花辄留题咏，是风雅之事；藏谏草而必得名，是风节之事。两句以「梅花」与「谏草」并举，把幽独清峻的花品与直言敢谏的臣节相绾合——梅之耐寒孤直，正可拟谏臣之骨，一雅一节，互为映照。「多留句」「定得名」语气笃定，见出以文章风节自期的怀抱。因系摘句，所指之人不可考，然咏梅而归之于士大夫人格，正是「以梅比德」一路的传统写法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

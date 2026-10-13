@@ -1,0 +1,18 @@
+{
+  "work_id": 675400,
+  "work": {
+    "id": 675400,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "李壁",
+    "author_tr": "李壁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沙上翩翩两白鸥，西风想见芰荷秋。\n晚来十幅冰纨净，断取潇湘一片愁。",
+    "content_tr": "沙上翩翩兩白鷗，西風想見芰荷秋。\n晚來十幅冰紈淨，斷取瀟湘一片愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 689900,
+  "work": {
+    "id": 689900,
+    "title": "春闺怨",
+    "title_tr": "春閨怨",
+    "author": "吴惟信",
+    "author_tr": "吳惟信",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细柳轻烟锁画楼，楼中人去水长流。\n琵琶声断梅花落，别是春风一种愁。",
+    "content_tr": "細柳輕煙鎖畫樓，樓中人去水長流。\n琵琶聲斷梅花落，別是春風一種愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

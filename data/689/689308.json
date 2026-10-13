@@ -1,0 +1,18 @@
+{
+  "work_id": 689308,
+  "work": {
+    "id": 689308,
+    "title": "王昭君",
+    "title_tr": "王昭君",
+    "author": "盛世忠",
+    "author_tr": "盛世忠",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉使南归绝信音，毡庭青草始知春。\n蛾眉却解安邦国，羞杀麒麟阁上人。",
+    "content_tr": "漢使南歸絕信音，氈庭青草始知春。\n蛾眉却解安邦國，羞殺麒麟閣上人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

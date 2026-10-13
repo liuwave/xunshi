@@ -1,0 +1,18 @@
+{
+  "work_id": 678272,
+  "work": {
+    "id": 678272,
+    "title": "读苏武传",
+    "title_tr": "讀蘇武傳",
+    "author": "刘宰",
+    "author_tr": "劉宰",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "李陵卫律两降人，大义相规几尽诚。\n陵语不传传卫律，要令千载识交情。",
+    "content_tr": "李陵衛律兩降人，大義相規幾盡誠。\n陵語不傳傳衛律，要令千載識交情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

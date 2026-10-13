@@ -1,0 +1,18 @@
+{
+  "work_id": 690301,
+  "work": {
+    "id": 690301,
+    "title": "闻笛",
+    "title_tr": "聞笛",
+    "author": "严羽",
+    "author_tr": "嚴羽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江上谁家吹笛声，月明霜白不堪听。\n孤舟万里潇湘客，一夜归心满洞庭。",
+    "content_tr": "江上誰家吹笛聲，月明霜白不堪聽。\n孤舟萬里瀟湘客，一夜歸心滿洞庭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

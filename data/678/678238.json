@@ -1,0 +1,18 @@
+{
+  "work_id": 678238,
+  "work": {
+    "id": 678238,
+    "title": "白鹭",
+    "title_tr": "白鷺",
+    "author": "赵希崱",
+    "author_tr": "趙希崱",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漠漠江湖自在飞，一身到处占渔矶。\n稻田水浅鱼能几，莫被泥沙污雪衣。",
+    "content_tr": "漠漠江湖自在飛，一身到處占漁磯。\n稻田水淺魚能幾，莫被泥沙汙雪衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

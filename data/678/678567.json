@@ -1,0 +1,18 @@
+{
+  "work_id": 678567,
+  "work": {
+    "id": 678567,
+    "title": "山行",
+    "title_tr": "山行",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "度岭休骑马，临渊看网鱼。\n木根高可坐，岩石细堪书。\n谷鸟鸣相答，山云卷复舒。\n儒衣人卖酒，疑是马相如。",
+    "content_tr": "度嶺休騎馬，臨淵看網魚。\n木根高可坐，巖石細堪書。\n谷鳥鳴相答，山雲卷復舒。\n儒衣人賣酒，疑是馬相如。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

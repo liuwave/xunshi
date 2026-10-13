@@ -1,0 +1,18 @@
+{
+  "work_id": 689904,
+  "work": {
+    "id": 689904,
+    "title": "晓吟",
+    "title_tr": "曉吟",
+    "author": "吴惟信",
+    "author_tr": "吳惟信",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翠帐香消卷碧纱，风捎残雨湿栏牙。\n蜻蜓亦被凉勾引，清晓低飞入水花。",
+    "content_tr": "翠帳香消捲碧紗，風捎殘雨濕欄牙。\n蜻蜓亦被凉勾引，清曉低飛入水花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

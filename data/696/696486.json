@@ -1,0 +1,24 @@
+{
+  "work_id": 696486,
+  "work": {
+    "id": 696486,
+    "title": "句",
+    "title_tr": "句",
+    "author": "释斯植",
+    "author_tr": "釋斯植",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小桃自与春风恶，花不随人独下楼。",
+    "content_tr": "小桃自與春風惡，花不隨人獨下樓。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "小桃自是与春风相恶，花不肯随人，独自落下楼去。",
+    "annotation": "",
+    "appreciation": "断句两句笔致新奇峭拔。说小桃「自与春风恶」，把花与春风写成反目的双方，仿佛春光愈热闹，花愈负气，无一字言愁而怨意宛然；「花不随人独下楼」，人不来赏，花亦不肯媚人，竟独自飘落楼下。花在诗中有了性格与傲骨，落花的失意被写成不合作的自持，怨而不哀，孤峭可爱。两句皆从反面着笔——不随人、独下楼，以小小的违逆姿态写尽花的性情，咏落花而不落窠臼，于宋人断句中见构思之巧。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

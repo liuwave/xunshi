@@ -1,0 +1,24 @@
+{
+  "work_id": 696049,
+  "work": {
+    "id": 696049,
+    "title": "句",
+    "title_tr": "句",
+    "author": "彭克",
+    "author_tr": "彭克",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一溪烟月无人共，吹落梨花晓梦初。",
+    "content_tr": "一溪煙月無人共，吹落梨花曉夢初。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "一溪烟水月色无人共同欣赏，风吹落梨花，晓梦刚刚醒来。",
+    "annotation": "",
+    "appreciation": "此断句营造清寂幽渺之境。上句写一溪烟水、月色空明，却无人共赏，孤清之意先立；下句写风吹梨花飘落，恰在晓梦初醒之际，梦境与实景于落花一瞬悄然交叠。梨花似雪，随风而堕，与残梦一同消散，朦胧凄美。两句全不着情语，只以烟、月、梨花、晓梦数种清冷物象布置成境，而幽人独处、无人与共的孤怀自见于言外。落花惊梦，梦醒花落，二事相触，清冷之境遂有动态的凄美，是纯以景摄情、以境传心的手笔。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

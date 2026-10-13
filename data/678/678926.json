@@ -1,0 +1,24 @@
+{
+  "work_id": 678926,
+  "work": {
+    "id": 678926,
+    "title": "句  其四",
+    "title_tr": "句  其四",
+    "author": "戴复古",
+    "author_tr": "戴復古",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "诗骨梅花瘦，归心江水流。",
+    "content_tr": "詩骨梅花瘦，歸心江水流。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "诗的风骨如梅花般清瘦，归乡的心绪似江水般奔流。",
+    "annotation": "诗骨：诗歌的风骨、骨力。",
+    "appreciation": "这是两句以梅与江水对举的断句。上句以「瘦」字论诗，梅花疏影横斜、枝干清劲，正可比诗风骨之清峻不俗，以花品论诗品，是宋人以梅论诗的惯常思路；下句以「归心」对「诗骨」，归思如江水东流，绵长不尽。两句一静一动，一凝一放：诗骨如梅之瘦，是内在的坚守；归心似水之流，是不可遏止的思乡之情。十字之内将写景、论诗、抒怀熔为一体，对仗工整而气脉流走，见出炼字之功。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

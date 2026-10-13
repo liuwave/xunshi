@@ -1,0 +1,18 @@
+{
+  "work_id": 679123,
+  "work": {
+    "id": 679123,
+    "title": "句",
+    "title_tr": "句",
+    "author": "陈玨",
+    "author_tr": "陳玨",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石洞云归春雨足，海门月上夜潮生。",
+    "content_tr": "石洞雲歸春雨足，海門月上夜潮生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
