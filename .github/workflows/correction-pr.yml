@@ -6,14 +6,26 @@ name: 纠错 Issue → 自动 PR
 # 回流到修正层，下次构建生效 —— 维护者不必手动搬运数据。
 #
 # 安全边界：
-#   - 只处理带 data-correction 标签的 Issue（站点生成的链接会自动带上）；
+#   - 不依赖 label 触发：站点链接带的 labels=data-correction 对无写权限的读者会被
+#     GitHub 静默丢弃（实测 Issue #1 因此没被处理），所以所有 Issue 都跑，
+#     由脚本判断正文里有没有变更 JSON；不是纠错 Issue 就静默跳过、不评论。
 #   - 字段白名单在脚本内二次校验，越界字段直接跳过；
 #   - PR 需要维护者合并后才进 main，机器人不会直接改主干；
 #   - token 用 Actions 内置的 GITHUB_TOKEN，不需要额外密钥。
+#   - 前置条件：仓库 Settings → Actions → General 必须开启
+#     「Allow GitHub Actions to create and approve pull requests」，
+#     否则开 PR 会 403（实测踩过，可用 gh api PUT repos/<repo>/actions/permissions/workflow 打开）。
 
 on:
   issues:
     types: [opened]
+  # 手动补跑：老 Issue 或机器人失败后重放，填 issue 号即可
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 要处理的 Issue 号
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -22,7 +34,6 @@ permissions:
 
 jobs:
   correction-pr:
-    if: contains(github.event.issue.labels.*.name, 'data-correction')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -37,7 +48,8 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           # 必须用 toJSON 包一层：Issue 正文含换行/引号/反引号，直接插值会破坏 env 赋值
           # 并被当成 shell 注入。toJSON 输出合法的 JSON 字符串，脚本内再 parse。
+          # 手动 dispatch 时为空，脚本会按 issue 号自己取正文。
           ISSUE_BODY: ${{ toJSON(github.event.issue.body) }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
           ISSUE_AUTHOR: ${{ toJSON(github.event.issue.user.login) }}
         run: node .github/scripts/correction-pr.mjs

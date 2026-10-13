@@ -48,7 +48,10 @@ export function classifyField(f) {
 export function parseIssueBody(body) {
   const text = String(body == null ? '' : body);
   const m = /```json\s*([\s\S]*?)```/.exec(text);
-  if (!m) return { ok: false, reason: '正文里没有找到 ```json 代码块，无法自动处理。' };
+  // 没有 json 块 = 这不是一条纠错 Issue（普通提问、闲聊等），静默跳过，不评论打扰。
+  // 不能靠 label 判断：站点链接带的 labels=data-correction 对无写权限的读者会被
+  // GitHub 静默丢弃，实测 Issue #1 就是因为没有标签而没被处理。
+  if (!m) return { ok: false, silent: true, reason: '正文里没有 json 代码块，非纠错 Issue。' };
   let data;
   try { data = JSON.parse(m[1].trim()); } catch {
     return { ok: false, reason: 'JSON 代码块解析失败，可能不是合法的 JSON。' };
@@ -132,8 +135,21 @@ async function comment(body) {
 
 async function main() {
   const repo = env('GITHUB_REPOSITORY');
-  const issueBody = JSON.parse(env('ISSUE_BODY', '""'));
-  const parsed = parseIssueBody(issueBody);
+  const issueNo = env('ISSUE_NUMBER') || env('ISSUE_NUMBER_INPUT');
+
+  // ISSUE_BODY 由 workflow 用 toJSON 传入（防换行注入）；手动 dispatch 时没有它，
+  // 就按 issue 号自己取。两条路都覆盖，补跑老 Issue 也能用。
+  let rawBody = '';
+  const envBody = env('ISSUE_BODY');
+  if (envBody) {
+    try { rawBody = JSON.parse(envBody); } catch { rawBody = envBody; }
+  } else if (issueNo) {
+    const it = await gh(`/repos/${repo}/issues/${issueNo}`);
+    rawBody = it.body || '';
+  }
+
+  const parsed = parseIssueBody(rawBody);
+  if (parsed.silent) { console.log(`跳过：${parsed.reason}`); return; }
 
   if (!parsed.ok) {
     await comment([
@@ -176,7 +192,7 @@ async function main() {
   }
 
   // 3) 建分支
-  const branch = `fix/issue-${env('ISSUE_NUMBER') || 'x'}-${workId}`;
+  const branch = `fix/issue-${issueNo || 'x'}-${workId}`;
   await gh(`/repos/${repo}/git/refs`, {
     method: 'POST', body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: baseSha }),
   });
@@ -184,7 +200,7 @@ async function main() {
   await gh(`/repos/${repo}/contents/${path}`, {
     method: 'PUT',
     body: JSON.stringify({
-      message: `fix(work ${workId}): ${changes.map((c) => c.field).join(', ')}（来自 #${env('ISSUE_NUMBER')}）`,
+      message: `fix(work ${workId}): ${changes.map((c) => c.field).join(', ')}（来自 #${issueNo}）`,
       content: Buffer.from(next, 'utf8').toString('base64'),
       branch, sha: file.sha,
     }),
@@ -193,10 +209,10 @@ async function main() {
   const pr = await gh(`/repos/${repo}/pulls`, {
     method: 'POST',
     body: JSON.stringify({
-      title: `[纠错 #${env('ISSUE_NUMBER')}] work ${workId}：${changes.map((c) => c.field).join(', ')}`,
+      title: `[纠错 #${issueNo}] work ${workId}：${changes.map((c) => c.field).join(', ')}`,
       head: branch, base: 'main',
       body: [
-        `由 #${env('ISSUE_NUMBER')} 自动生成的纠错 PR。`,
+        `由 #${issueNo} 自动生成的纠错 PR。`,
         '',
         '## 变更字段',
         ...changes.map((c) => `- \`${c.field}\``),
@@ -205,7 +221,7 @@ async function main() {
         '',
         '合并后由 `scripts/web/import_fixes.mjs` 回流到修正层，下次构建生效。',
         '',
-        `Closes #${env('ISSUE_NUMBER')}`,
+        `Closes #${issueNo}`,
       ].filter((x) => x !== null).join('\n'),
     }),
   });
