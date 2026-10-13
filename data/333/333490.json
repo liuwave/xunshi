@@ -1,0 +1,18 @@
+{
+  "work_id": 333490,
+  "work": {
+    "id": 333490,
+    "title": "夜雨过山阴",
+    "title_tr": "夜雨過山陰",
+    "author": "凌泰封",
+    "author_tr": "凌泰封",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "几日春江正上潮，晚峰两岸去迢迢。\n篷窗睡足三更雨，知过山阴第几桥。",
+    "content_tr": "幾日春江正上潮，晚峯兩岸去迢迢。\n篷窗睡足三更雨，知過山陰第幾橋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

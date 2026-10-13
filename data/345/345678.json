@@ -1,0 +1,18 @@
+{
+  "work_id": 345678,
+  "work": {
+    "id": 345678,
+    "title": "夏日听莺",
+    "title_tr": "夏日聽鶯",
+    "author": "曹鉴伦",
+    "author_tr": "曹鑑倫",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓来闲自啭，误认是残春。\n树密看难见，风高听始真。\n玉箫疑上苑，筝柱出西秦。\n留得余声在，烟花已作尘。",
+    "content_tr": "曉來閒自囀，誤認是殘春。\n樹密看難見，風高聽始真。\n玉簫疑上苑，箏柱出西秦。\n留得餘聲在，煙花已作塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

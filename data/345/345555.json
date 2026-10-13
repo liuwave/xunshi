@@ -1,0 +1,18 @@
+{
+  "work_id": 345555,
+  "work": {
+    "id": 345555,
+    "title": "病中漫兴三首 其三",
+    "title_tr": "病中漫興三首 其三",
+    "author": "曹溶",
+    "author_tr": "曹溶",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鳌矶胜与鹤洲邻，双桨莼香下钓纶。\n只是金陀扶病叟，不曾孤负故园春。",
+    "content_tr": "鼇磯勝與鶴洲鄰，雙槳蓴香下釣綸。\n祗是金陀扶病叟，不曾孤負故園春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 345876,
+  "work": {
+    "id": 345876,
+    "title": "四统碑",
+    "title_tr": "四統碑",
+    "author": "常纪",
+    "author_tr": "常紀",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "丰碑林立意如何，褒诏深镌尚未磨。\n读罢临风成一笑，阿虽尤擅战功多。",
+    "content_tr": "豐碑林立意如何，褒詔深鐫尚未磨。\n讀罷臨風成一笑，阿雖尤擅戰功多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

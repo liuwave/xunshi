@@ -1,0 +1,18 @@
+{
+  "work_id": 345454,
+  "work": {
+    "id": 345454,
+    "title": "赏番",
+    "title_tr": "賞番",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "领悬文石间雕螺，连臂唉噫踏地歌。\n簇锦围中看赐酒，累觞未觉醉颜酡。",
+    "content_tr": "領懸文石間雕螺，連臂唉噫踏地歌。\n簇錦圍中看賜酒，累觴未覺醉顏酡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

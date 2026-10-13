@@ -1,0 +1,18 @@
+{
+  "work_id": 345455,
+  "work": {
+    "id": 345455,
+    "title": "枣子槟榔",
+    "title_tr": "棗子檳榔",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "丹颊无端生酒晕，朱唇那复吐脂香。\n饥餐饱嚼日百颗，倾尽蛮州金错囊。",
+    "content_tr": "丹頰無端生酒暈，朱唇那復吐脂香。\n饑餐飽嚼日百顆，傾盡蠻州金錯囊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

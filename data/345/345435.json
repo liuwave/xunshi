@@ -1,0 +1,18 @@
+{
+  "work_id": 345435,
+  "work": {
+    "id": 345435,
+    "title": "祀灶词",
+    "title_tr": "祀竈詞",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海风刁骚西日暝，爆竹满城独客警。送神何归云上天，云车飙马相腾骞。\n胶牙饧果臈尾酎，饮食媚神术不售。居高听卑天耳聪，灶君有言长落后，安用黄羊致暴富。",
+    "content_tr": "海風刁騷西日暝，爆竹滿城獨客警。送神何歸雲上天，雲車飆馬相騰騫。\n膠牙餳果臈尾酎，飲食媚神術不售。居高聽卑天耳聰，竈君有言長落後，安用黃羊致暴富。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

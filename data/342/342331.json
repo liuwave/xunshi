@@ -1,0 +1,18 @@
+{
+  "work_id": 342331,
+  "work": {
+    "id": 342331,
+    "title": "旅夜书感",
+    "title_tr": "旅夜書感",
+    "author": "张鹏翮",
+    "author_tr": "張鵬翮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "分水驿连古万州，烽烟无际暮云愁。\n三军不作刀环梦，一夜边声绕戍楼。",
+    "content_tr": "分水驛連古萬州，烽煙無際暮雲愁。\n三軍不作刀環夢，一夜邊聲繞戍樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

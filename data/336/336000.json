@@ -1,0 +1,18 @@
+{
+  "work_id": 336000,
+  "work": {
+    "id": 336000,
+    "title": "读外君登岱诗",
+    "title_tr": "讀外君登岱詩",
+    "author": "孙兰媛",
+    "author_tr": "孫蘭媛",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天下何曾小，家乡吴观中。\n卧游诗一坐，片石白云封。",
+    "content_tr": "天下何曽小，家鄉吳觀中。\n卧遊詩一坐，片石白雲封。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

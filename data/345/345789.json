@@ -1,0 +1,18 @@
+{
+  "work_id": 345789,
+  "work": {
+    "id": 345789,
+    "title": "与清湖共赋",
+    "title_tr": "與清湖共賦",
+    "author": "崔梦远",
+    "author_tr": "崔夢遠",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "过江鸿雁碧云秋，客思迢迢恋旧游。\n世远文章常欲哭，酒醒风雨易生愁。\n芦花白处怀卬友，柳叶青时到此楼。\n共是穷途馀侠气，羞将斑鬓对清流。",
+    "content_tr": "過江鴻雁碧雲秋，客思迢迢戀舊遊。\n世遠文章常欲哭，酒醒風雨易生愁。\n蘆花白處懷卬友，柳葉青時到此樓。\n共是窮途餘俠氣，羞將斑鬢對清流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

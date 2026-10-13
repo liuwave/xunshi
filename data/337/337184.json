@@ -1,0 +1,18 @@
+{
+  "work_id": 337184,
+  "work": {
+    "id": 337184,
+    "title": "枫桥泊舟",
+    "title_tr": "楓橋泊舟",
+    "author": "陈廷桂",
+    "author_tr": "陳廷桂",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山寺昏钟隔水清，溪烟渐暝阖闾城。\n吴波不动酒船出，终夜月明闻橹声。",
+    "content_tr": "山寺昏鍾隔水清，溪煙漸暝闔閭城。\n吳波不動酒船出，終夜月明聞櫓聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 342000,
+  "work": {
+    "id": 342000,
+    "title": "平湖秋月",
+    "title_tr": "平湖秋月",
+    "author": "乾隆",
+    "author_tr": "乾隆",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春水初生绿似油，新蛾泻影镜光柔。\n待予重命行秋棹，饱弄金波万里流。",
+    "content_tr": "春水初生綠似油，新蛾瀉影鏡光柔。\n待予重命行秋棹，飽弄金波萬里流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

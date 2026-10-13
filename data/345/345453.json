@@ -1,0 +1,18 @@
+{
+  "work_id": 345453,
+  "work": {
+    "id": 345453,
+    "title": "檨",
+    "title_tr": "檨",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "参天高树午风清，嘉实累累当暑成。\n好事久传番尔雅，南方草木未知名。",
+    "content_tr": "參天高樹午風清，嘉實纍纍當暑成。\n好事久傳番爾雅，南方草木未知名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 345401,
+  "work": {
+    "id": 345401,
+    "title": "制酒",
+    "title_tr": "制酒",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "□□□□□□□，□□□□□□□。\n玉蛆满瓮新醅熟，滴滴流芬齿颊中。",
+    "content_tr": "□□□□□□□，□□□□□□□。\n玉蛆滿甕新醅熟，滴滴流芬齒頰中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

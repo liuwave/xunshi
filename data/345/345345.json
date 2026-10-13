@@ -1,0 +1,18 @@
+{
+  "work_id": 345345,
+  "work": {
+    "id": 345345,
+    "title": "康熙二十七年正月恭赋大行太皇太后挽辞六章 其二",
+    "title_tr": "康熈二十七年正月恭賦大行太皇太后輓辭六章 其二",
+    "author": "张英",
+    "author_tr": "張英",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轩车陈绣幄，文驷列珠鞯。\n同轨三千国，重闱五十年。\n慈云长荫日，涕雨正敷天。\n缟素龙荒远，星轺驿使传。",
+    "content_tr": "軒車陳繡幄，文駟列珠韉。\n同軌三千國，重闈五十年。\n慈雲長䕃日，涕雨正敷天。\n縞素龍荒逺，星軺驛使傳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

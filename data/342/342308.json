@@ -1,0 +1,18 @@
+{
+  "work_id": 342308,
+  "work": {
+    "id": 342308,
+    "title": "晓行曲二首",
+    "title_tr": "曉行曲二首",
+    "author": "张鹏翮",
+    "author_tr": "張鵬翮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "匹马翩翩趁晓行，关城曙色动高旌。\n书生一纸安边檄，能扫黄尘万里清。",
+    "content_tr": "匹馬翩翩趁曉行，關城曙色動高旌。\n書生一紙安邊檄，能掃黃塵萬里清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

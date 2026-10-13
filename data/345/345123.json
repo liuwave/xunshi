@@ -1,0 +1,18 @@
+{
+  "work_id": 345123,
+  "work": {
+    "id": 345123,
+    "title": "直庐中同说岩先生读阮亭南海诗即用其见赠原韵寄阮亭",
+    "title_tr": "直廬中同説巖先生讀阮亭南海詩即用其見贈原韻寄阮亭",
+    "author": "张英",
+    "author_tr": "張英",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风雪山城别，天涯复几时。\n梅花江北路，荔子岭南诗。\n不觉清吟久，重闻禁漏迟。\n直庐相忆处，应遣故人知。",
+    "content_tr": "風雪山城别，天涯復幾時。\n梅花江北路，茘子嶺南詩。\n不覺清吟久，重聞禁漏遲。\n直廬相憶處，應遣故人知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

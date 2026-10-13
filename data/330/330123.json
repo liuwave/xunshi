@@ -1,0 +1,18 @@
+{
+  "work_id": 330123,
+  "work": {
+    "id": 330123,
+    "title": "牛柴",
+    "title_tr": "牛柴",
+    "author": "胡健",
+    "author_tr": "胡健",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "漫云牛后逊鸡声，粪出呼柴亦令名。\n跨灶人惊烟缕缕，登山谁听斧丁丁。\n输他榾柮原无累，剩得扊扅更有情。\n虽不用燔郊上帝，力能调鼎著和羹。",
+    "content_tr": "漫云牛後遜雞聲，糞出呼柴亦令名。\n跨灶人驚煙縷縷，登山誰聽斧丁丁。\n輸他榾柮原無累，剩得扊扅更有情。\n雖不用燔郊上帝，力能調鼎著和羹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

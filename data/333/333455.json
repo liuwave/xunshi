@@ -1,0 +1,18 @@
+{
+  "work_id": 333455,
+  "work": {
+    "id": 333455,
+    "title": "沈吉田中丞挽诗",
+    "title_tr": "沈吉田中丞輓詩",
+    "author": "唐赞衮",
+    "author_tr": "唐贊袞",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蛮风催送出山云，莽莽烽烟蔽夕曛。\n偷渡中流狂击楫，投艰历险懋勋勤。",
+    "content_tr": "蠻風催送出山雲，莽莽烽煙蔽夕曛。\n偷渡中流狂擊楫，投艱歷險懋勳勤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

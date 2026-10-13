@@ -1,0 +1,18 @@
+{
+  "work_id": 345999,
+  "work": {
+    "id": 345999,
+    "title": "山中暮归",
+    "title_tr": "山中暮歸",
+    "author": "张廷玉",
+    "author_tr": "張廷玉",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "林端鸦阵横，烟外樵歌起。\n我从山中归，幽怀殊未已。\n小童负欹筐，迂路采兰芷。\n疲驴缓缓行，斜阳在溪水。",
+    "content_tr": "林端鴉陣橫，煙外樵歌起。\n我從山中歸，幽懷殊未已。\n小童負欹筐，迂路採蘭芷。\n疲驢緩緩行，斜陽在溪水。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

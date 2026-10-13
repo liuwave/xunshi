@@ -1,0 +1,18 @@
+{
+  "work_id": 345654,
+  "work": {
+    "id": 345654,
+    "title": "高秋",
+    "title_tr": "高秋",
+    "author": "张元升",
+    "author_tr": "張元升",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寞高秋晚，微霜下古城。\n西风吹鬓老，落叶入诗清。\n天地孤鸿影，关山画角声。\n只思归去好，闲卧听春莺。",
+    "content_tr": "寂寞高秋晚，微霜下古城。\n西風吹鬢老，落葉入詩清。\n天地孤鴻影，關山畫角聲。\n只思歸去好，閒臥聽春鶯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

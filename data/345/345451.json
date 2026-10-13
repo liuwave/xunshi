@@ -1,0 +1,18 @@
+{
+  "work_id": 345451,
+  "work": {
+    "id": 345451,
+    "title": "聚星园",
+    "title_tr": "聚星園",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梧竹阴森护短垣，群峰飞落聚星园。\n海翁九十发如鹤，门外水田秋稼繁。",
+    "content_tr": "梧竹陰森護短垣，群峰飛落聚星園。\n海翁九十髮如鶴，門外水田秋稼繁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

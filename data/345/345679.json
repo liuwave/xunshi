@@ -1,0 +1,18 @@
+{
+  "work_id": 345679,
+  "work": {
+    "id": 345679,
+    "title": "舟行喜晴",
+    "title_tr": "舟行喜晴",
+    "author": "曹鉴伦",
+    "author_tr": "曹鑑倫",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浓绿谁家柳，深藏茅屋低。\n溪花含日笑，谷鸟向人啼。\n草浅嘶骄马，村深叫午鸡。\n一番春雨足，新笋竞冲泥。",
+    "content_tr": "濃綠誰家柳，深藏茅屋低。\n溪花含日笑，谷鳥向人啼。\n草淺嘶驕馬，村深叫午雞。\n一番春雨足，新筍競衝泥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

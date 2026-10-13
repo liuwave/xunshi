@@ -1,0 +1,18 @@
+{
+  "work_id": 333556,
+  "work": {
+    "id": 333556,
+    "title": "春日梦中得句",
+    "title_tr": "春日夢中得句",
+    "author": "夏子麟",
+    "author_tr": "夏子麟",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "微阴初霁逗朝暾，小院清晨鸟语喧。\n月尚有痕花有影，最难捉摸是春魂。",
+    "content_tr": "微陰初霽逗朝暾，小院清晨鳥語喧。\n月尚有痕花有影，最難捉摸是春魂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

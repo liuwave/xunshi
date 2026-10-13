@@ -1,0 +1,18 @@
+{
+  "work_id": 340123,
+  "work": {
+    "id": 340123,
+    "title": "张园坐雨",
+    "title_tr": "張園坐雨",
+    "author": "陈三立",
+    "author_tr": "陳三立",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雨叶烟枝乌鹊猜，自移茗碗看楼台。\n醉人游女今争席，可费三年食豕来。",
+    "content_tr": "雨葉煙枝烏鵲猜，自移茗椀看樓臺。\n醉人游女今爭席，可費三年食豕來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

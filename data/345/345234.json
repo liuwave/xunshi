@@ -1,0 +1,18 @@
+{
+  "work_id": 345234,
+  "work": {
+    "id": 345234,
+    "title": "赠姑苏周履坦",
+    "title_tr": "贈姑蘇周履坦",
+    "author": "张英",
+    "author_tr": "張英",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "直庐铃索地，曾识顾长康。\n写照传天语，挥毫近御香。\n宸颜频激赏，衰质藉恩光。\n底事耽湖海，轻帆别帝乡。",
+    "content_tr": "直廬鈴索地，曾識顧長康。\n寫照傳天語，揮毫近御香。\n宸顔頻激賞，衰質藉恩光。\n底事躭湖海，輕帆别帝鄉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

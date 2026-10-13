@@ -1,0 +1,18 @@
+{
+  "work_id": 345422,
+  "work": {
+    "id": 345422,
+    "title": "海道",
+    "title_tr": "海道",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "七更针路指澎湖，秘本流传近有无。\n此地未须论道里，风生八面往来殊。",
+    "content_tr": "七更針路指澎湖，祕本流傳近有無。\n此地未須論道里，風生八面往來殊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

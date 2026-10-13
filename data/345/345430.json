@@ -1,0 +1,18 @@
+{
+  "work_id": 345430,
+  "work": {
+    "id": 345430,
+    "title": "衣服",
+    "title_tr": "衣服",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "乌衣渐易裸人风，尺布为裈犊鼻同。\n可但鹿胎花簇簇，达戈纹锦手裁工。",
+    "content_tr": "烏衣漸易裸人風，尺布爲褌犢鼻同。\n可但鹿胎花簇簇，達戈紋錦手裁工。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 345798,
+  "work": {
+    "id": 345798,
+    "title": "鸳湖秋泛",
+    "title_tr": "鴛湖秋泛",
+    "author": "张娄",
+    "author_tr": "張婁",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸳湖烟水阔，一棹望中迷。\n野迥云连树，风高浪压堤。\n酒帘金墓北，渔笛石帆西。\n归去怜天晚，寒鸦不住啼。",
+    "content_tr": "鴛湖煙水闊，一棹望中迷。\n野迥雲連樹，風高浪壓堤。\n酒帘金墓北，漁笛石帆西。\n歸去憐天晚，寒鴉不住啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

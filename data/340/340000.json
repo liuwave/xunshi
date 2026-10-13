@@ -1,0 +1,18 @@
+{
+  "work_id": 340000,
+  "work": {
+    "id": 340000,
+    "title": "玉玺",
+    "title_tr": "玉璽",
+    "author": "陈三立",
+    "author_tr": "陳三立",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉家玉玺祖龙遗，老寡犹缠掷地悲。\n文致谶文身佐命，可怜宗室更生儿。",
+    "content_tr": "漢家玉璽祖龍遺，老寡猶纏擲地悲。\n文致讖文身佐命，可憐宗室更生兒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

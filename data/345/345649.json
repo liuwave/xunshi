@@ -1,0 +1,18 @@
+{
+  "work_id": 345649,
+  "work": {
+    "id": 345649,
+    "title": "邯郸歌",
+    "title_tr": "邯鄲歌",
+    "author": "曹鉴平",
+    "author_tr": "曹鑑平",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "翩翩游侠儿，驱马邯郸道。\n直上古丛台，天风吹白草。",
+    "content_tr": "翩翩遊俠兒，驅馬邯鄲道。\n直上古叢臺，天風吹白草。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

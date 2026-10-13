@@ -1,0 +1,18 @@
+{
+  "work_id": 345480,
+  "work": {
+    "id": 345480,
+    "title": "七夕咏",
+    "title_tr": "七夕詠",
+    "author": "张芬",
+    "author_tr": "張芬",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晚凉无复旧时妆，欲罢金棱益自伤。\n莫笑离多偏易别，久时离别作寻常。",
+    "content_tr": "晚涼無復舊時妝，欲罷金棱益自傷。\n莫笑離多偏易別，久時離別作尋常。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

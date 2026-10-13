@@ -1,0 +1,18 @@
+{
+  "work_id": 333452,
+  "work": {
+    "id": 333452,
+    "title": "咏西螺柑其一",
+    "title_tr": "詠西螺柑其一",
+    "author": "唐赞衮",
+    "author_tr": "唐贊袞",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "离离青磊砢，佳种出螺西。\n斗酒倾三雅，官衙莫听鹂。",
+    "content_tr": "離離青磊砢，佳種出螺西。\n斗酒傾三雅，官衙莫聽鸝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

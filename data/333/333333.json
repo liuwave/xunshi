@@ -1,0 +1,18 @@
+{
+  "work_id": 333333,
+  "work": {
+    "id": 333333,
+    "title": "归宁后寄外",
+    "title_tr": "歸寧後寄外",
+    "author": "胡缘",
+    "author_tr": "胡緣",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "社雨连朝洒麦田，辞家又值月初弦。\n菜花黄后桑芽白，好向东湖放酒船。",
+    "content_tr": "社雨連朝灑麥田，辭家又值月初弦。\n菜花黃後桑芽白，好向東湖放酒船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

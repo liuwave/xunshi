@@ -1,0 +1,18 @@
+{
+  "work_id": 345448,
+  "work": {
+    "id": 345448,
+    "title": "捕鹿",
+    "title_tr": "捕鹿",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "出草东郊径路深，枝头鸟语最关心。\n几声啁唽宛如诉，不似黄鹂俱好音。",
+    "content_tr": "出草東郊徑路深，枝頭鳥語最關心。\n幾聲啁唽宛如訴，不似黃鸝俱好音。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

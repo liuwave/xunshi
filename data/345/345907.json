@@ -1,0 +1,18 @@
+{
+  "work_id": 345907,
+  "work": {
+    "id": 345907,
+    "title": "听舟人渝歌",
+    "title_tr": "聽舟人渝歌",
+    "author": "常纪",
+    "author_tr": "常紀",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "款乃歌声隔远烟，云山缥缈好音传。\n长年三老遥相示，多是前滩下濑船。",
+    "content_tr": "款乃歌聲隔遠煙，雲山縹緲好音傳。\n長年三老遙相示，多是前灘下瀨船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

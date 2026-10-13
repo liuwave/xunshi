@@ -1,0 +1,18 @@
+{
+  "work_id": 345400,
+  "work": {
+    "id": 345400,
+    "title": "北香湖",
+    "title_tr": "北香湖",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十顷红云贴水铺，藕花深处乱鸥凫。\n北风凉动香逾好，得似西湖六月无。",
+    "content_tr": "十頃紅雲貼水鋪，藕花深處亂鷗鳧。\n北風涼動香逾好，得似西湖六月無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

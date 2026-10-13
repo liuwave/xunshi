@@ -1,0 +1,18 @@
+{
+  "work_id": 333334,
+  "work": {
+    "id": 333334,
+    "title": "琴韵楼春尽遣怀",
+    "title_tr": "琴韻樓春盡遣懷",
+    "author": "胡缘",
+    "author_tr": "胡緣",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "搓烟垂柳一丝丝，帘押无风放故迟。\n正是养花天气好，又缘小病负芳时。",
+    "content_tr": "搓煙垂柳一絲絲，簾押無風放故遲。\n正是養花天氣好，又緣小病負芳時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

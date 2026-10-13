@@ -1,0 +1,18 @@
+{
+  "work_id": 345432,
+  "work": {
+    "id": 345432,
+    "title": "蒙面",
+    "title_tr": "蒙面",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "香车碧怀厌纷纭，拥盖微行拟鄂君。\n一队新妆相掩映，红□叶底避斜曛。",
+    "content_tr": "香車碧懷厭紛紜，擁蓋微行擬鄂君。\n一隊新妝相掩映，紅□葉底避斜曛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

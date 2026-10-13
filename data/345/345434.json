@@ -1,0 +1,18 @@
+{
+  "work_id": 345434,
+  "work": {
+    "id": 345434,
+    "title": "赘婿",
+    "title_tr": "贅婿",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瓜瓞移根自剪劖，家家秦赘俗同谙。\n再传尽使孙忘祖，有赚惟知女胜男。",
+    "content_tr": "瓜瓞移根自剪劖，家家秦贅俗同諳。\n再傳盡使孫忘祖，有賺惟知女勝男。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

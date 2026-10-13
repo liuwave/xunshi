@@ -1,0 +1,18 @@
+{
+  "work_id": 333565,
+  "work": {
+    "id": 333565,
+    "title": "游雪浪山",
+    "title_tr": "遊雪浪山",
+    "author": "夏子麟",
+    "author_tr": "夏子麟",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万壑千岩里，声来何属钟。\n林深不知寺，总被白云封。",
+    "content_tr": "萬壑千巖裏，聲來何屬鍾。\n林深不知寺，總被白雲封。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

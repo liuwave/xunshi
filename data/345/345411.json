@@ -1,0 +1,18 @@
+{
+  "work_id": 345411,
+  "work": {
+    "id": 345411,
+    "title": "剑潭",
+    "title_tr": "劍潭",
+    "author": "张湄",
+    "author_tr": "張湄",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空明潭影月溶溶，向夜寒随剑气冲。\n三尺枯蛟抱树死，只馀秋水绕加冬。",
+    "content_tr": "空明潭影月溶溶，向夜寒隨劍氣衝。\n三尺枯蛟抱樹死，祇餘秋水繞加冬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 345111,
+  "work": {
+    "id": 345111,
+    "title": "似古山房",
+    "title_tr": "似古山房",
+    "author": "张英",
+    "author_tr": "張英",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "境外幽人宅，庭轩倚翠微。\n斜过深竹径，忽见乱泉飞。\n湍急连朝雨，寒添六月衣。\n主人摇落后，萝薜闭山扉。",
+    "content_tr": "境外幽人宅，庭軒倚翠微。\n斜過深竹徑，忽見亂泉飛。\n湍急連朝雨，寒添六月衣。\n主人摇落後，蘿薜閉山扉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

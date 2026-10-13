@@ -1,0 +1,18 @@
+{
+  "work_id": 345749,
+  "work": {
+    "id": 345749,
+    "title": "孤舟杂咏",
+    "title_tr": "孤舟雜詠",
+    "author": "曹玘",
+    "author_tr": "曹玘",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "才过长亭复短亭，隔江遥见一峰青。\n多情犹有春深鸟，到处催归不少停。",
+    "content_tr": "才過長亭復短亭，隔江遙見一峯青。\n多情猶有春深鳥，到處催歸不少停。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
