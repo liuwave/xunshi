@@ -1,0 +1,18 @@
+{
+  "work_id": 733329,
+  "work": {
+    "id": 733329,
+    "title": "塞下曲",
+    "title_tr": "塞下曲",
+    "author": "江为",
+    "author_tr": "江爲",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里黄云冻不飞，碛烟烽火夜深微。\n胡儿移帐寒笳绝，雪路时闻探马归。",
+    "content_tr": "萬里黃雲凍不飛，磧煙烽火夜深微。\n胡兒移帳寒笳絕，雪路時聞探馬歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 737999,
+  "work": {
+    "id": 737999,
+    "title": "留别",
+    "title_tr": "留別",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桑林映陂水，雨过宛城西。\n留醉楚山别，阴云暮霋霋。",
+    "content_tr": "桑林映陂水，雨過宛城西。\n留醉楚山別，陰雲暮霋霋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

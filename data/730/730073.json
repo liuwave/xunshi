@@ -1,0 +1,18 @@
+{
+  "work_id": 730073,
+  "work": {
+    "id": 730073,
+    "title": "华清宫",
+    "title_tr": "華清宮",
+    "author": "司空图",
+    "author_tr": "司空圖",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "帝业山河固，离宫宴幸频。\n岂知驱战马，只是太平人。",
+    "content_tr": "帝業山河固，離宮宴幸頻。\n豈知驅戰馬，只是太平人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

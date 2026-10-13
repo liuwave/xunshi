@@ -1,0 +1,24 @@
+{
+  "work_id": 734357,
+  "work": {
+    "id": 734357,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王龟",
+    "author_tr": "王龜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "珠箔卷繁星，金樽泻月明。",
+    "content_tr": "珠箔卷繁星，金樽瀉月明。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "珠箔卷起，卷入满天繁星；金樽倾泻，泻出杯中月明。",
+    "annotation": "珠箔：珠帘。",
+    "appreciation": "两句皆以天光入人事：珠箔卷起，似卷入满天繁星；金樽倾泻，似泻出一片月明。一句写天上、一句写席间，光影上下相照，帘樽之间天地光景俱来赴席，夜饮写得极有光华，豪华中自有清气。「卷」「泻」两个动词奇警，将帘与樽写成吞吐星辰月色的口，物象阔大，想落天外，对仗亦极工稳，是摘句体中最见巧思的一路。光景如在目前，令人神往。两句不作一情语，而宴饮之欢、天地之阔俱在其中，摘句之妙，正在以象尽意。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

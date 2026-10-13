@@ -1,0 +1,18 @@
+{
+  "work_id": 730301,
+  "work": {
+    "id": 730301,
+    "title": "滕王阁",
+    "title_tr": "滕王閣",
+    "author": "张乔",
+    "author_tr": "張喬",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔人登览处，遗阁大江隅。\n叠浪有时有，闲云无日无。\n早凉先燕去，返照后帆孤。\n未得营归计，菱歌满旧湖。",
+    "content_tr": "昔人登覽處，遺閣大江隅。\n疊浪有時有，閑雲無日無。\n早涼先燕去，返照後帆孤。\n未得營歸計，菱歌滿舊湖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

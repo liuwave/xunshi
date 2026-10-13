@@ -1,0 +1,18 @@
+{
+  "work_id": 725375,
+  "work": {
+    "id": 725375,
+    "title": "山中五绝句 涧中鱼",
+    "title_tr": "山中五絕句 澗中魚",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海水桑田欲变时，风涛翻覆沸天池。\n鲸吞蛟鬬波成血，深涧游鱼乐不知。",
+    "content_tr": "海水桑田欲變時，風濤翻覆沸天池。\n鯨吞蛟鬬波成血，深澗遊魚樂不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

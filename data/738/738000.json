@@ -1,0 +1,18 @@
+{
+  "work_id": 738000,
+  "work": {
+    "id": 738000,
+    "title": "送别",
+    "title_tr": "送別",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春江愁送君，蕙草生氤氲。\n醉后不能语，乡山雨雰雰。",
+    "content_tr": "春江愁送君，蕙草生氤氳。\n醉後不能語，鄉山雨雰雰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

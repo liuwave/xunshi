@@ -1,0 +1,18 @@
+{
+  "work_id": 730681,
+  "work": {
+    "id": 730681,
+    "title": "咏史诗 石城",
+    "title_tr": "詠史詩 石城",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古郢云开白雪楼，汉江还遶石城流。\n何人知道寥天月，曾向朱门送莫愁。",
+    "content_tr": "古郢雲開白雪樓，漢江還遶石城流。\n何人知道寥天月，曾向朱門送莫愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

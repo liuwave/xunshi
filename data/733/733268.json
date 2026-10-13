@@ -1,0 +1,24 @@
+{
+  "work_id": 733268,
+  "work": {
+    "id": 733268,
+    "title": "句",
+    "title_tr": "句",
+    "author": "潘佑",
+    "author_tr": "潘佑",
+    "dynasty": "五代十国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "劝君此醉直须欢，明朝又是花狼藉。",
+    "content_tr": "勸君此醉直須歡，明朝又是花狼藉。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "劝你趁着这一醉只管尽欢，明日清晨又是落花狼藉。",
+    "annotation": "直须：只管、尽管。",
+    "appreciation": "两句劝酒惜花之词。「此醉直须欢」是趁今日一醉尽欢的旷语，「明朝又是花狼藉」却陡然接以明日的悬想：一夜风过，落花满地，狼藉不堪。今朝之醉正因明朝之残败而起，及时行乐的背后是对好景难驻的深切惋惜。以「直须」与「又是」两个虚词紧相勾连，把乐语与哀意压在同一联之内，语极豪快而意极沉痛，与其说是劝饮，不如说是惜春，与其说是惜花，不如说是自惜其时。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

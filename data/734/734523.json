@@ -1,0 +1,18 @@
+{
+  "work_id": 734523,
+  "work": {
+    "id": 734523,
+    "title": "宫词 一百四",
+    "title_tr": "宮詞 一百四",
+    "author": "花蕊夫人徐氏",
+    "author_tr": "花蕊夫人徐氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨柳阴中引御沟，碧梧桐树拥朱楼。\n金陵城共滕王阁，画向丹青也合羞。",
+    "content_tr": "楊柳陰中引御溝，碧梧桐樹擁朱樓。\n金陵城共滕王閣，畫向丹青也合羞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

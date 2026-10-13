@@ -1,0 +1,24 @@
+{
+  "work_id": 744424,
+  "work": {
+    "id": 744424,
+    "title": "字对诗 一",
+    "title_tr": "字對詩 一",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山椒架寒雾，池筿韵凉飙。",
+    "content_tr": "山椒架寒霧，池篠韻涼飆。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "山顶上架着寒雾，池边的小竹子在凉风中发出声响。",
+    "annotation": "山椒：山顶。椒，山顶。\n筿（xiǎo）：小竹。\n飙（biāo）：疾风。",
+    "appreciation": "这一联写秋日寒景，一句取静，一句取动。上句山顶为寒雾所笼罩，「架」字把无形之雾写成横架山巅之物，化虚为实；下句池边修竹在凉风中摇曳生声，「韵」字以名物作动词，谓竹声自成韵律，风之凉与竹之响相织。山与池、雾与风、高与低两两相对，「寒」「凉」二字互相映照，通联不著一人，纯以景物自见秋气之清寒萧瑟。炼字处尤见用心，是借一字之工带动一联之活的写法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

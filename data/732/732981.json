@@ -1,0 +1,24 @@
+{
+  "work_id": 732981,
+  "work": {
+    "id": 732981,
+    "title": "句",
+    "title_tr": "句",
+    "author": "唐求",
+    "author_tr": "唐求",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "恰似有龙深处卧，被人惊起黑云生。",
+    "content_tr": "恰似有龍深處臥，被人驚起黑雲生。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "恰像有龙在深处潜卧，被人惊起时黑云顿生。",
+    "annotation": "",
+    "appreciation": "此联以一喻成境。上句设象，「恰似有龙深处卧」，以龙之潜卧写深水之幽不可测；下句写变，「被人惊起黑云生」，一惊一起之间，黑云顿生，静与动、潜与腾、幽与暗瞬间转换，画面极具张力。诗人不作直陈，全用一个完整的比喻托出物象的深不可犯，起势陡峻，收在「黑云生」三字，余威犹在。就文本看，所咏对象难以确指，或为深潭，或为砚池，然其摹写深物惊起之势，确是晚唐摘句中气象峥嵘的一格。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

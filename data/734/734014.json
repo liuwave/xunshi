@@ -1,0 +1,18 @@
+{
+  "work_id": 734014,
+  "work": {
+    "id": 734014,
+    "title": "赋诗",
+    "title_tr": "賦詩",
+    "author": "辛弘智",
+    "author_tr": "辛弘智",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君为河边草，逢春心剩生。\n妾如台上镜，得照始分明。",
+    "content_tr": "君爲河邊草，逢春心剩生。\n妾如臺上鏡，得照始分明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

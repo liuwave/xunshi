@@ -1,0 +1,24 @@
+{
+  "work_id": 734335,
+  "work": {
+    "id": 734335,
+    "title": "句",
+    "title_tr": "句",
+    "author": "韦青",
+    "author_tr": "韋青",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三代掌纶诰，一身能唱歌。",
+    "content_tr": "三代掌綸誥，一身能唱歌。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "三代人执掌帝王诏令，而此身能够唱歌。",
+    "annotation": "纶诰（guān gào）：帝王的诏令文书。",
+    "appreciation": "两句以工对造成身分的巨大反差：掌纶诰是庙堂文翰之任，一门三代相继，何等庄重；能唱歌是声伎之艺，何等俚俗。两者并置于一身，庄谐相映，既见其家世之贵，又见其才艺之奇。或为自题、或为题赠他人，强烈对照本身即含机趣，自嘲与自负并见，通脱之中自有胸襟。残句仅此二语，本事已难确考，此处只就文本立论，而反差之趣自足可味。两句若为题赠，则戏谑之中寓有推崇；若为自题，则语带自嘲而胸次通脱，残句虽短，而余味不尽。",
+    "confidence": "low",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

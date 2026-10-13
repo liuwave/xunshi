@@ -1,0 +1,18 @@
+{
+  "work_id": 736711,
+  "work": {
+    "id": 736711,
+    "title": "驿楼诵诗",
+    "title_tr": "驛樓誦詩",
+    "author": "湘中女子",
+    "author_tr": "湘中女子",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红树醉秋色，碧溪弹夜弦。\n佳期不可再，风雨杳如年。",
+    "content_tr": "紅樹醉秋色，碧溪彈夜弦。\n佳期不可再，風雨杳如年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

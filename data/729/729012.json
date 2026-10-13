@@ -1,0 +1,18 @@
+{
+  "work_id": 729012,
+  "work": {
+    "id": 729012,
+    "title": "唐乐府十首 祝河水",
+    "title_tr": "唐樂府十首 祝河水",
+    "author": "刘驾",
+    "author_tr": "劉駕",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河水清弥弥，照见远树枝。\n征人不饮马，再拜祝冯夷。\n从今亿万岁，不见河浊时。",
+    "content_tr": "河水清瀰瀰，照見遠樹枝。\n征人不飲馬，再拜祝馮夷。\n從今億萬歲，不見河濁時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

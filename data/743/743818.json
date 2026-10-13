@@ -1,0 +1,24 @@
+{
+  "work_id": 743818,
+  "work": {
+    "id": 743818,
+    "title": "句 四",
+    "title_tr": "句 四",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "上有千年树，下有百年人。",
+    "content_tr": "上有千年樹，下有百年人。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "上面有千年的树，下面有百年的人。",
+    "annotation": "百年人：人寿不过百年，指老去或已故之人。",
+    "appreciation": "十字对举，上句千年，下句百年，以树之长寿衬人之短促。上有、下有，一仰一俯，若就墓地而言，便是古树覆坟的图景：千年之树犹在，树下百年之人早已长眠，生死之对照不言自明。即不坐实为挽联墓铭，树与人、千年与百年的数字对勘，也足以生出人寿不及草木的感慨。语意浑成，不出一字议论，而迟暮之感、存亡之思尽在其中，是民间谚谣以对偶寓慨的写法。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

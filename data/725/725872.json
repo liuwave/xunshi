@@ -1,0 +1,18 @@
+{
+  "work_id": 725872,
+  "work": {
+    "id": 725872,
+    "title": "句",
+    "title_tr": "句",
+    "author": "杨敬之",
+    "author_tr": "楊敬之",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜树鸟栖夜，空街雀报明。\n碧山相倚暮，归鴈一行斜。",
+    "content_tr": "霜樹鳥棲夜，空街雀報明。\n碧山相倚暮，歸鴈一行斜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

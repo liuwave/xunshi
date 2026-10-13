@@ -1,0 +1,18 @@
+{
+  "work_id": 727273,
+  "work": {
+    "id": 727273,
+    "title": "对雪",
+    "title_tr": "對雪",
+    "author": "许浑",
+    "author_tr": "許渾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "飞舞北风凉，玉人歌玉堂。\n帘帷增曙色，珠翠发寒光。\n柳重絮微湿，梅繁花未香。\n兹辰贺丰岁，箫鼓宴梁王。",
+    "content_tr": "飛舞北風涼，玉人歌玉堂。\n簾帷增曙色，珠翠發寒光。\n柳重絮微濕，梅繁花未香。\n茲辰賀豐歲，簫鼓宴梁王。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

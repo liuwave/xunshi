@@ -1,0 +1,24 @@
+{
+  "work_id": 733821,
+  "work": {
+    "id": 733821,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王元",
+    "author_tr": "王元",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "伴行惟瘦鹤，寻步入深云。",
+    "content_tr": "伴行惟瘦鶴，尋步入深雲。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "与他同行作伴的只有瘦鹤，寻着小路走进深深的云中。",
+    "annotation": "",
+    "appreciation": "残句十字，勾勒一位入山高士的形象。出行唯有瘦鹤相伴，见其孤；寻径走入深云，见其远。「瘦」字下得尤佳——鹤瘦，其人亦当清癯，人与鹤俱是出尘之态；「深云」则人迹不到之处，一行一步俱入幽渺，去向与心境同其深远。两句不言隐逸之志，而高蹈绝尘之致自出，以清瘦意象造境，正是晚唐清峭一路的典型句法。十字之中有画、有人、有境，孤句而自成完境，不待全篇而意致已足。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

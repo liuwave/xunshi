@@ -1,0 +1,24 @@
+{
+  "work_id": 737106,
+  "work": {
+    "id": 737106,
+    "title": "占雨 三",
+    "title_tr": "占雨 三",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝霞不出门，暮霞行千里。",
+    "content_tr": "朝霞不出門，暮霞行千里。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "早晨出现朝霞就不要出门，傍晚出现晚霞可以远行千里。",
+    "annotation": "",
+    "appreciation": "这是一首传诵极广的占雨谚语。同是霞，朝暮而兆候相反：朝霞出则水汽方兴，主雨，故「不出门」；暮霞出则云气将敛，主晴，故「行千里」。谚语不设一个难字，只把两种天象与两种行止对举成文，五字对五字，音节浏亮，便于记诵，正是民间经验知识的理想载体。其观察着眼在霞所反映的大气水汽与天气系统移动之势，虽出经验之谈，却与后世气象认识大体相合，见古人物候智慧之一斑。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

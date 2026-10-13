@@ -1,0 +1,18 @@
+{
+  "work_id": 735123,
+  "work": {
+    "id": 735123,
+    "title": "画松",
+    "title_tr": "畫松",
+    "author": "景云",
+    "author_tr": "景雲",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "画松一似真松树，且待寻思记得无。\n曾在天台山上见，石桥南畔第三株。",
+    "content_tr": "畫松一似真松樹，且待尋思記得無。\n曾在天台山上見，石橋南畔第三株。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

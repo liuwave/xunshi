@@ -1,0 +1,18 @@
+{
+  "work_id": 734214,
+  "work": {
+    "id": 734214,
+    "title": "绝句",
+    "title_tr": "絕句",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "传闻天子访沈沦，万里怀书西入秦。\n早知不用无媒客，恨别江南杨柳春。",
+    "content_tr": "傳聞天子訪沈淪，萬里懷書西入秦。\n早知不用無媒客，恨別江南楊柳春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

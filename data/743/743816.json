@@ -1,0 +1,24 @@
+{
+  "work_id": 743816,
+  "work": {
+    "id": 743816,
+    "title": "句 二",
+    "title_tr": "句 二",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不知何处在？惆怅望东西。",
+    "content_tr": "不知何處在？惆悵望東西。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "不知道在什么地方？惆怅地向东向西张望。",
+    "annotation": "",
+    "appreciation": "两句残句，写一种无所归着的怅惘。上句自问，下句自答：不知何处在，便只是一味东西张望。所望者何，诗中不著一字，或为人，或为地，或为旧游之迹，均不可确知；然而「惆怅」二字已把心绪点明，东西两望又把彷徨无措之状写活。一问一答之间，茫然求索之态如见眼前。正因不知其在何处，这份怅惘便不为一人一事所限，成为人人可会的心境，残章仅十字，而余味悠然不尽。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

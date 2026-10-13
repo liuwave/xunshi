@@ -1,0 +1,18 @@
+{
+  "work_id": 729401,
+  "work": {
+    "id": 729401,
+    "title": "鸡鸣曲",
+    "title_tr": "雞鳴曲",
+    "author": "汪遵",
+    "author_tr": "汪遵",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金距花冠傍舍栖，清晨相呌一声齐。\n开关自有冯生计，不必天明待汝啼。",
+    "content_tr": "金距花冠傍舍棲，清晨相呌一聲齊。\n開關自有馮生計，不必天明待汝啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

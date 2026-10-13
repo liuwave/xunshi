@@ -1,0 +1,24 @@
+{
+  "work_id": 736946,
+  "work": {
+    "id": 736946,
+    "title": "吏人语",
+    "title_tr": "吏人語",
+    "author": "不详",
+    "author_tr": "不詳",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不畏侯卿杖，惟畏尹卿笔。",
+    "content_tr": "不畏侯卿杖，惟畏尹卿筆。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "不害怕侯卿的杖，只害怕尹卿的笔。",
+    "annotation": "惟：只。\n尹卿笔：（存疑）指尹姓官员的判笔，落笔即定人事。",
+    "appreciation": "此为官吏之间流传的口语，两句对举，以「不畏」与「惟畏」翻出轻重。杖刑加身，痛在一时，尚可忍受；而「尹卿笔」一落，注官、判案皆成定案，前程祸福系于一笔，故吏人反而畏之更深。谚语借这一反常的对比，写尽小吏在权柄之下的战栗心理——怕的不是皮肉之苦，而是执笔者笔下的生杀升黜。全语只用两个姓氏、两样器物，不加形容，而畏意层层递进，正是官场谚语冷峻传神处。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

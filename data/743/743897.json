@@ -1,0 +1,24 @@
+{
+  "work_id": 743897,
+  "work": {
+    "id": 743897,
+    "title": "句 一",
+    "title_tr": "句 一",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "相识满天下，知心能几人？\n（见《宗镜录》卷二六引昔人诗。\n）。",
+    "content_tr": "相識滿天下，知心能幾人？\n（見《宗鏡錄》卷二六引昔人詩。\n）。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "相识的人遍满天下，知心的能有几个人？",
+    "annotation": "",
+    "appreciation": "一联之内自设问答：相识满天下，是极言其多；知心能几人，是忽然一转，极言其少。满天下与能几人两相激荡，落差全在交情的真假深浅上——认识的人再多，可以剖心相付的却没有几个。语全平白，如出俚口，却把人情冷暖、知交难觅之叹一语道尽，所以能脱离原本语境传诵不衰。以问句收束而不作答，答案自在人人心底，咀嚼之余更觉沉痛，正是格言式诗句以浅语藏深慨的典型。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

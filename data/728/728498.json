@@ -1,0 +1,24 @@
+{
+  "work_id": 728498,
+  "work": {
+    "id": 728498,
+    "title": "句",
+    "title_tr": "句",
+    "author": "莫宣卿",
+    "author_tr": "莫宣卿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我本南山凤，岂同凡鸟群。",
+    "content_tr": "我本南山鳳，豈同凡鳥羣。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "我本是南山上的凤凰，怎能与凡鸟同群。",
+    "annotation": "凡鸟：平凡的鸟，喻平庸之辈。",
+    "appreciation": "两句以凤鸟自比。“我本”二字先把自己与南山这一高远之地牢牢系住，“岂同凡鸟群”以反诘收束，不屑之意斩截无疑。一正一反之间，不写凤凰如何美丽尊贵，只写与凡鸟“不同群”，弃取分明，气概自见。以物拟人而全用比体，不从正面铺陈凤凰之姿，只以“岂同”二字翻出，愈见骨力。这种自许中带着孤傲的口吻，是唐人题壁赠答中常见的自我期许之辞，虽只十字，态度鲜明，声调高亢，读之有昂首出尘之感。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

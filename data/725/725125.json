@@ -1,0 +1,18 @@
+{
+  "work_id": 725125,
+  "work": {
+    "id": 725125,
+    "title": "新雪二首 二",
+    "title_tr": "新雪二首 二",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不思朱雀街东鼓，不忆青龙寺后钟。\n唯忆夜深新雪后，新昌台上七株松。",
+    "content_tr": "不思朱雀街東鼓，不憶青龍寺後鐘。\n唯憶夜深新雪後，新昌臺上七株松。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

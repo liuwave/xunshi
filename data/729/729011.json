@@ -1,0 +1,18 @@
+{
+  "work_id": 729011,
+  "work": {
+    "id": 729011,
+    "title": "唐乐府十首 望归马",
+    "title_tr": "唐樂府十首 望歸馬",
+    "author": "刘驾",
+    "author_tr": "劉駕",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东人望归马，马归莲峰下。\n莲峰与地平，亦不更征兵。",
+    "content_tr": "東人望歸馬，馬歸蓮峰下。\n蓮峰與地平，亦不更徵兵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

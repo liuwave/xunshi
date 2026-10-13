@@ -1,0 +1,18 @@
+{
+  "work_id": 744468,
+  "work": {
+    "id": 744468,
+    "title": "咏秋诗",
+    "title_tr": "詠秋詩",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "熠燿流寒火，蟋蟀动秋音。\n凝露如悬玉，攒菊似披金。",
+    "content_tr": "熠燿流寒火，蟋蟀動秋音。\n凝露如懸玉，攢菊似披金。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

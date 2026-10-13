@@ -1,0 +1,18 @@
+{
+  "work_id": 734687,
+  "work": {
+    "id": 734687,
+    "title": "风",
+    "title_tr": "風",
+    "author": "薛涛",
+    "author_tr": "薛濤",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "猎蕙微风远，飘弦唳一声。\n林梢鸣淅沥，松径夜凄清。",
+    "content_tr": "獵蕙微風遠，飄弦唳一聲。\n林梢鳴淅瀝，松徑夜淒清。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

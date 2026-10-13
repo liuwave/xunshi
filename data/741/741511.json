@@ -1,0 +1,24 @@
+{
+  "work_id": 741511,
+  "work": {
+    "id": 741511,
+    "title": "句",
+    "title_tr": "句",
+    "author": "南卓",
+    "author_tr": "南卓",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "芙蓉点露一枝开。\n（胡伟《宫词》）。",
+    "content_tr": "芙蓉點露一枝開。\n（胡偉《宮詞》）。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "芙蓉花点缀着露珠，一枝绽开。",
+    "annotation": "芙蓉：可指荷花，亦可指木芙蓉，此处所指（存疑）。",
+    "appreciation": "这是一句写花残句。妙处在「点露」二字：露珠缀于花上，如画家点笔，花与露互为点缀，画面顿生光润。「一枝开」以数量限定画面，不作满塘满树铺陈，只取一枝特写，愈见简净。芙蓉本身花色明艳，承以清晨之露，鲜艳之中更添清气。七字之中有花、有露、有枝，纯是白描，不着一个情语，而一枝独放、清晓初开的生趣自现。句子短小而完整，近乎一幅小品折枝，可见写景句炼意炼字之工。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 731298,
+  "work": {
+    "id": 731298,
+    "title": "句",
+    "title_tr": "句",
+    "author": "高蟾",
+    "author_tr": "高蟾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君恩秋后叶，日日向人疎。",
+    "content_tr": "君恩秋後葉，日日向人疎。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "君王的恩宠如同秋后的树叶，一天天向人疏远。",
+    "annotation": "疎：同「疏」，疏远。",
+    "appreciation": "仅此十字，却是一则精警的比喻。君恩本难测，诗人不直说恩宠衰减，只说它如秋后之叶——秋叶并非骤然落尽，而是日日减损、渐渐飘零，「日日向人疏」五字将这一渐进过程点出，时间感与寒意俱足。以草木荣枯喻君心向背，承比兴传统，而「日日」叠字使无情之事有了刻刻可见的动态，愈见体物之细。两句虽为断句，起承自足，冷语写热望之熄灭，读之凛然。此类断句多因全篇散佚而独存警策处，愈见其炼字之功。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

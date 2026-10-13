@@ -1,0 +1,18 @@
+{
+  "work_id": 732137,
+  "work": {
+    "id": 732137,
+    "title": "春闺怨",
+    "title_tr": "春閨怨",
+    "author": "杜荀鹤",
+    "author_tr": "杜荀鶴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝喜花艳春，暮悲花委尘。\n不悲花落早，悲妾似花身。",
+    "content_tr": "朝喜花豔春，暮悲花委塵。\n不悲花落早，悲妾似花身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

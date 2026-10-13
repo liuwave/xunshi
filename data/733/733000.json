@@ -1,0 +1,18 @@
+{
+  "work_id": 733000,
+  "work": {
+    "id": 733000,
+    "title": "和三乡诗",
+    "title_tr": "和三鄉詩",
+    "author": "高衢",
+    "author_tr": "高衢",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南北千山与万山，轩车谁不思乡关。\n独留芳翰悲前迹，陌上恐伤桃李颜。",
+    "content_tr": "南北千山與萬山，軒車誰不思鄉關。\n獨留芳翰悲前跡，陌上恐傷桃李顏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

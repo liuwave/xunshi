@@ -1,0 +1,18 @@
+{
+  "work_id": 738002,
+  "work": {
+    "id": 738002,
+    "title": "失题",
+    "title_tr": "失題",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桑叶下墟落，鹍鸡鸣渚田。\n物情每衰极，吾道方渊然。",
+    "content_tr": "桑葉下墟落，鵾雞鳴渚田。\n物情每衰極，吾道方淵然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

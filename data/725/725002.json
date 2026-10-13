@@ -1,0 +1,18 @@
+{
+  "work_id": 725002,
+  "work": {
+    "id": 725002,
+    "title": "春词",
+    "title_tr": "春詞",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "低花树暎小妆楼，春入眉心两点愁。\n斜倚栏干背鹦鹉，思量何事不回头。",
+    "content_tr": "低花樹暎小妝樓，春入眉心兩點愁。\n斜倚欄干背鸚鵡，思量何事不回頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

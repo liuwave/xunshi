@@ -1,0 +1,18 @@
+{
+  "work_id": 730683,
+  "work": {
+    "id": 730683,
+    "title": "咏史诗 函谷关",
+    "title_tr": "詠史詩 函谷關",
+    "author": "胡曾",
+    "author_tr": "胡曾",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寂函关锁未开，田文车马出秦来。\n朱门不养三千客，谁为鸡鸣得放回。",
+    "content_tr": "寂寂函關鎖未開，田文車馬出秦來。\n朱門不養三千客，誰爲雞鳴得放回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 734400,
+  "work": {
+    "id": 734400,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张迥",
+    "author_tr": "張迥",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜长灯影灭，天遶鹤声孤。",
+    "content_tr": "夜長燈影滅，天遶鶴聲孤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

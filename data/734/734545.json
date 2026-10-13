@@ -1,0 +1,18 @@
+{
+  "work_id": 734545,
+  "work": {
+    "id": 734545,
+    "title": "宫词 一二七",
+    "title_tr": "宮詞 一二七",
+    "author": "花蕊夫人徐氏",
+    "author_tr": "花蕊夫人徐氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日晚宫人外按回，自牵骢马出林隈。\n御前接得高叉手，射得山鸡喜进来。",
+    "content_tr": "日晚宮人外按回，自牽驄馬出林隈。\n御前接得高叉手，射得山雞喜進來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

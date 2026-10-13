@@ -1,0 +1,18 @@
+{
+  "work_id": 731130,
+  "work": {
+    "id": 731130,
+    "title": "听琴",
+    "title_tr": "聽琴",
+    "author": "罗隐",
+    "author_tr": "羅隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒雨萧萧落井梧，夜深何处怨啼乌？不知一盏临邛酒，救得相如渴病无。",
+    "content_tr": "寒雨蕭蕭落井梧，夜深何處怨啼烏？不知一盞臨邛酒，救得相如渴病無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

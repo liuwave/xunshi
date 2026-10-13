@@ -1,0 +1,24 @@
+{
+  "work_id": 738080,
+  "work": {
+    "id": 738080,
+    "title": "句",
+    "title_tr": "句",
+    "author": "李淮",
+    "author_tr": "李淮",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "撩乱客心眠不得，秋庭一夜月中行。",
+    "content_tr": "撩亂客心眠不得，秋庭一夜月中行。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "撩乱的客心难以入眠，整个秋夜在庭院中月下徘徊。",
+    "annotation": "",
+    "appreciation": "两句写客中失眠。上句直陈心绪：客居之心撩乱纷杂，长夜无眠，撩乱二字把乱丝般的情绪和盘托出，眠不得三字加重其无奈。下句却不写如何辗转反侧，只说整个秋夜在庭院中月下徘徊，以整夜踱步的动作写失眠之状，愁不直言而愁态自见。秋庭与月色又为撩乱之心布下清冷空寂的背景，步履之迟缓与心绪之纷乱两相映照。以行写心，语淡而味长，景清而情苦，动与静、外与内互相映发，是唐人写客愁常用的含蓄笔法。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 727581,
+  "work": {
+    "id": 727581,
+    "title": "岳阳楼",
+    "title_tr": "岳陽樓",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉水方城带百蛮，四隣谁道乱周班。\n如何一梦高唐雨，自此无心入武关。",
+    "content_tr": "漢水方城帶百蠻，四隣誰道亂周班。\n如何一夢高唐雨，自此無心入武關。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

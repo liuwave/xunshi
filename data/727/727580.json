@@ -1,0 +1,18 @@
+{
+  "work_id": 727580,
+  "work": {
+    "id": 727580,
+    "title": "岳阳楼",
+    "title_tr": "岳陽樓",
+    "author": "李商隐",
+    "author_tr": "李商隱",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欲为平生一散愁，洞庭湖上岳阳楼。\n可怜万里堪乘兴，枉是蛟龙解覆舟。",
+    "content_tr": "欲爲平生一散愁，洞庭湖上岳陽樓。\n可憐萬里堪乘興，枉是蛟龍解覆舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

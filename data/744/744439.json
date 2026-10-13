@@ -1,0 +1,18 @@
+{
+  "work_id": 744439,
+  "work": {
+    "id": 744439,
+    "title": "大韵诗",
+    "title_tr": "大韻詩",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "游鱼牵细藻，鸣琴哢好音。\n谁知迟暮节，悲吟伤寸心。",
+    "content_tr": "遊魚牽細藻，鳴琴哢好音。\n誰知遲暮節，悲吟傷寸心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

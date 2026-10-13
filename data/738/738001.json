@@ -1,0 +1,18 @@
+{
+  "work_id": 738001,
+  "work": {
+    "id": 738001,
+    "title": "失题",
+    "title_tr": "失題",
+    "author": "王昌龄",
+    "author_tr": "王昌齡",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "时与醉林壑，因之堕农桑。\n槐烟渐含夜，楼月深苍茫。",
+    "content_tr": "時與醉林壑，因之墮農桑。\n槐煙漸含夜，樓月深蒼茫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

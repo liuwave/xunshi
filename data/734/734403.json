@@ -1,0 +1,24 @@
+{
+  "work_id": 734403,
+  "work": {
+    "id": 734403,
+    "title": "句",
+    "title_tr": "句",
+    "author": "王俊",
+    "author_tr": "王俊",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "胜日登楼望，山川一半春。",
+    "content_tr": "勝日登樓望，山川一半春。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "晴好的日子登楼远望，山川已有一半是春色。",
+    "annotation": "胜日：天气晴朗的好日子。",
+    "appreciation": "十字之中有一次登临、一次远望、一片将透未透的春意。「胜日」点出天时之佳，「登楼望」带出人的动作与视线的放远；结穴在「一半春」——不说满目春光，只说「一半」，似春色方至、来日正长，反而余味不尽。数目字的运用尤见巧思：「一半」既是实写山川渐染之貌，又透出乍见春意的惊喜与从容。全联淡笔直叙，不作雕饰，而登高所见的开豁心境与初春气象俱在其中，短而能远。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

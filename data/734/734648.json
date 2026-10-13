@@ -1,0 +1,24 @@
+{
+  "work_id": 734648,
+  "work": {
+    "id": 734648,
+    "title": "句",
+    "title_tr": "句",
+    "author": "田娥",
+    "author_tr": "田娥",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春至偏无兴，秋来秪是眠。",
+    "content_tr": "春至偏無興，秋來秪是眠。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "春天到了偏偏没有兴致，秋天来了只是睡眠。",
+    "annotation": "秪（zhī）：同「只」，仅仅。",
+    "appreciation": "十个字把一年的光景对折起来：春至该有兴而「偏无兴」，秋来宜愁而「秪是眠」。两个虚字最吃力——「偏」字写有心无绪，春光越盛越显出兴味之索然；「秪」字写无心应物，秋夜以一眠了之。春与秋、兴与眠两两错位，把一种四时都提不起情绪的倦怠写成常态，不诉苦而百无聊赖之态自见。字面极淡，意兴阑珊的底色全藏在「偏」与「秪」的转折之间，是以淡语写深情的一例。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

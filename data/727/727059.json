@@ -1,0 +1,18 @@
+{
+  "work_id": 727059,
+  "work": {
+    "id": 727059,
+    "title": "江南春绝句",
+    "title_tr": "江南春絕句",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千里莺啼绿映江，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
+    "content_tr": "千里鶯啼綠映江，水村山郭酒旗風。\n南朝四百八十寺，多少樓臺煙雨中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

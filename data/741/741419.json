@@ -1,0 +1,24 @@
+{
+  "work_id": 741419,
+  "work": {
+    "id": 741419,
+    "title": "句 三",
+    "title_tr": "句 三",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白发镊不尽，根在愁肠中。\n（同前）。",
+    "content_tr": "白髮鑷不盡，根在愁腸中。\n（同前）。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "白发拔了拔不尽，它的根扎在愁肠之中。",
+    "annotation": "镊（niè）：用镊子拔除。",
+    "appreciation": "十字小诗，妙在后句翻空出奇。白发可镊，本是形骸之事；诗人却问：为何拔之不尽？答曰「根在愁肠中」——把白发的根移到愁肠里，以有形之发系无形之愁，愁遂成为剪不断、拔不尽的东西。前句写动作之徒劳，后句揭病根之所在，一问一答之间，忧愁之深长可掬。镊是人力，愁是心病，人力穷而心病长，两层意思互相逼出。以生理现象写心理积郁，构思奇警而语意平实，是咏老叹愁语中戛戛独造之句。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

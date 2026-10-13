@@ -1,0 +1,18 @@
+{
+  "work_id": 738491,
+  "work": {
+    "id": 738491,
+    "title": "诗一首",
+    "title_tr": "詩一首",
+    "author": "张𬸦",
+    "author_tr": "張鷟",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "得意似鸳鸯，情乖若吴越。\n不向君边尽，更知何处歇。",
+    "content_tr": "得意似鴛鴦，情乖若吳越。\n不向君邊盡，更知何處歇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 726512,
+  "work": {
+    "id": 726512,
+    "title": "杏园",
+    "title_tr": "杏園",
+    "author": "姚合",
+    "author_tr": "姚合",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江头数顷杏花开，车马争先尽此来。\n欲待无人连夜看，黄昏树树满尘埃。",
+    "content_tr": "江頭數頃杏花開，車馬爭先盡此來。\n欲待無人連夜看，黃昏樹樹滿塵埃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

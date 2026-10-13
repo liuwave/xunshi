@@ -1,0 +1,18 @@
+{
+  "work_id": 729009,
+  "work": {
+    "id": 729009,
+    "title": "唐乐府十首 吊西人",
+    "title_tr": "唐樂府十首 弔西人",
+    "author": "刘驾",
+    "author_tr": "劉駕",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河湟父老地，尽知归明主。\n将军入空城，城下吊黄土。\n所愿边人耕，岁岁生禾黍。",
+    "content_tr": "河湟父老地，盡知歸明主。\n將軍入空城，城下弔黃土。\n所願邊人耕，歲歲生禾黍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

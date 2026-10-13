@@ -1,0 +1,18 @@
+{
+  "work_id": 729421,
+  "work": {
+    "id": 729421,
+    "title": "长城",
+    "title_tr": "長城",
+    "author": "汪遵",
+    "author_tr": "汪遵",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秦筑长城比铁牢，蕃戎不敢过临洮。\n虽然万里连云际，争及尧阶三尺高。",
+    "content_tr": "秦築長城比鐵牢，蕃戎不敢過臨洮。\n雖然萬里連雲際，爭及堯階三尺高。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,24 @@
+{
+  "work_id": 741345,
+  "work": {
+    "id": 741345,
+    "title": "句 二",
+    "title_tr": "句 二",
+    "author": "贾岛",
+    "author_tr": "賈島",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "祭闲收朔雪，吊后折寒花。",
+    "content_tr": "祭閒收朔雪，弔後折寒花。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "祭事的闲暇里收得北方来的雪，吊唁之后折下寒天的花。",
+    "annotation": "朔雪：北方来的雪。朔，北方。\n吊：吊丧，哀悼死者。",
+    "appreciation": "一联写岁暮丧祭之间的清苦光景。「祭闲收朔雪」，祭事才毕，趁着片刻之闲收取庭中积雪，是荒寒中的细事；「吊后折寒花」，吊唁归来，随手折下一枝寒花，是哀伤里的余情。「祭」与「吊」点出丧仪背景，「朔雪」「寒花」点出岁暮时令，人事之哀与天时之寒相互浸染。「收」「折」两个细小动作，把悲凉写得极有分寸，不事渲染而荒寒之气袭人，正见苦吟诗人于冷处用心的手段。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

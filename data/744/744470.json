@@ -1,0 +1,24 @@
+{
+  "work_id": 744470,
+  "work": {
+    "id": 744470,
+    "title": "句 二",
+    "title_tr": "句 二",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "树荫逢歇马，鱼潭见洗船。",
+    "content_tr": "樹蔭逢歇馬，魚潭見洗船。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "在树荫下遇见歇马，在鱼潭边看见洗船。",
+    "annotation": "",
+    "appreciation": "两句写旅途闲适之景：树荫下恰逢有人歇马，鱼潭边望见有人洗船，皆是不期而遇的眼前光景。「逢」「见」二字最可玩味——行路之人随所见而笔之，无预告、无经营，正是即目成句的写法。树荫与鱼潭、歇马与洗船，一陆一水，一人一物，对仗自然匀称而不见斧凿。全联无人声亦无情绪字面，只有荫、潭、马、船的安静物象，而行旅途中的从容与野趣自在其中，以景语作情语，是白描小景的长处所在。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": false
+}

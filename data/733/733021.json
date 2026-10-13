@@ -1,0 +1,24 @@
+{
+  "work_id": 733021,
+  "work": {
+    "id": 733021,
+    "title": "句",
+    "title_tr": "句",
+    "author": "张为",
+    "author_tr": "張爲",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "到处即闭户，逢君方展眉。",
+    "content_tr": "到處即閉戶，逢君方展眉。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "到处都是闭门谢客，遇到你才舒展眉头。",
+    "annotation": "",
+    "appreciation": "残句仅十字，却把一种孤僻寡合的性情写得极分明。「到处即闭户」，是无处不闭门，拒人于千里之外的孤冷；「逢君方展眉」，唯逢一人方才开颜，一「即」一「方」，两个虚字对举，闭户之常与展眉之稀形成强烈反差。诗人不写交情如何深厚，只以闭户与展眉两个动作作比，遇合之难、知己之贵尽在言外。这类以行为细节写性情的句子，正是唐人摘句所赏的以少总多之笔，淡语中自有至情，不作一议论而情味自足。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

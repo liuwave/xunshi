@@ -1,0 +1,18 @@
+{
+  "work_id": 730123,
+  "work": {
+    "id": 730123,
+    "title": "乐府",
+    "title_tr": "樂府",
+    "author": "司空图",
+    "author_tr": "司空圖",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五更窗下簇妆台，已怕堂前阿母催。\n满鸭香薰鹦鹉睡，隔帘灯照牡丹开。",
+    "content_tr": "五更窗下簇妝臺，已怕堂前阿母催。\n滿鴨香薰鸚鵡睡，隔簾燈照牡丹開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

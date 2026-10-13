@@ -1,0 +1,18 @@
+{
+  "work_id": 725418,
+  "work": {
+    "id": 725418,
+    "title": "池鹤八绝句 鸢赠鹤",
+    "title_tr": "池鶴八絕句 鳶贈鶴",
+    "author": "白居易",
+    "author_tr": "白居易",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君夸名鹤我名鸢，君呌闻天我戾天。\n更有与君相似处，饥来一种啄腥膻。",
+    "content_tr": "君誇名鶴我名鳶，君呌聞天我戾天。\n更有與君相似處，飢來一種啄腥羶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

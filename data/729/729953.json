@@ -1,0 +1,18 @@
+{
+  "work_id": 729953,
+  "work": {
+    "id": 729953,
+    "title": "汉宫词",
+    "title_tr": "漢宮詞",
+    "author": "陆龟蒙",
+    "author_tr": "陸龜蒙",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "招灵阁上霓旌绝，柏梁台中珠翠稠。\n一身三十六宫夜，露滴玉盘青桂秋。",
+    "content_tr": "招靈閣上霓旌絕，柏梁臺中珠翠稠。\n一身三十六宮夜，露滴玉盤青桂秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

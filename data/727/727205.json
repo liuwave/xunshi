@@ -1,0 +1,18 @@
+{
+  "work_id": 727205,
+  "work": {
+    "id": 727205,
+    "title": "江楼",
+    "title_tr": "江樓",
+    "author": "杜牧",
+    "author_tr": "杜牧",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独酌芳春酒，登楼已半醺。\n谁惊一行雁，冲断过江云。",
+    "content_tr": "獨酌芳春酒，登樓已半醺。\n誰驚一行雁，衝斷過江雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
