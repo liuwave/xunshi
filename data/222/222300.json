@@ -1,0 +1,18 @@
+{
+  "work_id": 222300,
+  "work": {
+    "id": 222300,
+    "title": "游五台",
+    "title_tr": "遊五臺",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五云常覆五台端，天近清都特地寒。\n涧道千年冰未化，林梢一夜雨初干。\n黄河紫塞依依见，碧殿朱楼面面看。\n万壑千岩青未了，更从高处望长安。",
+    "content_tr": "五雲常覆五臺端，天近清都特地寒。\n澗道千年冰未化，林梢一夜雨初乾。\n黃河紫塞依依見，碧殿朱樓面面看。\n萬壑千巖青未了，更從高處望長安。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

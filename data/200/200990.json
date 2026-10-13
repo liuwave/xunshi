@@ -1,0 +1,18 @@
+{
+  "work_id": 200990,
+  "work": {
+    "id": 200990,
+    "title": "留别赵上舍",
+    "title_tr": "留別趙上舍",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "归骑聊乘一日闲，夕阳移座未能还。\n西风明日丹阳道，回首鸡鸣雪满山。",
+    "content_tr": "歸騎聊乘一日閒，夕陽移座未能還。\n西風明日丹陽道，回首雞鳴雪滿山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

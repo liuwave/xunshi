@@ -1,0 +1,18 @@
+{
+  "work_id": 222220,
+  "work": {
+    "id": 222220,
+    "title": "南陵王望云楼",
+    "title_tr": "南陵王望雲樓",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五色云中本帝州，梁园更起望云楼。\n太行西去天逾近，华表归来鹤暂留。\n贝阙珠宫元渺渺，白衣苍狗自悠悠。\n凭将一掬思亲泪，洒向朱阑最上头。",
+    "content_tr": "五色雲中本帝州，梁園更起望雲樓。\n太行西去天逾近，華表歸來鶴暫留。\n貝闕珠宮元渺渺，白衣蒼狗自悠悠。\n憑將一掬思親淚，灑向朱闌最上頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 222560,
+  "work": {
+    "id": 222560,
+    "title": "秋江钓舟图",
+    "title_tr": "秋江釣舟圖",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西风吹满荻芦花，酿作霜寒啼乱鸦。\n买得钓船如屋里，只将秋水老南华。",
+    "content_tr": "西風吹滿荻蘆花，釀作霜寒啼亂鴉。\n買得釣船如屋裏，只將秋水老南華。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

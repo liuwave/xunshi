@@ -1,0 +1,18 @@
+{
+  "work_id": 224639,
+  "work": {
+    "id": 224639,
+    "title": "凤仙图",
+    "title_tr": "鳯仙圖",
+    "author": "张宁",
+    "author_tr": "張寧",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "华月中天一凤过，五铢衣薄夜凉多。\n彩云未断箫声远，回首秦台路几何。",
+    "content_tr": "華月中天一鳯過，五銖衣薄夜涼多。\n彩雲未斷簫聲遠，回首秦臺路幾何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

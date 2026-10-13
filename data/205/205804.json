@@ -1,0 +1,18 @@
+{
+  "work_id": 205804,
+  "work": {
+    "id": 205804,
+    "title": "咏马 其二",
+    "title_tr": "詠馬 其二",
+    "author": "唐文凤",
+    "author_tr": "唐文鳳",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙马由来产渥洼，骄思顾影自矜夸。\n太平天子东封日，五色成群云作花。",
+    "content_tr": "龍馬由來産渥洼，驕思顧影自矜誇。\n太平天子東封日，五色成羣雲作花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

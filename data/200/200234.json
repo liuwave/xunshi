@@ -1,0 +1,18 @@
+{
+  "work_id": 200234,
+  "work": {
+    "id": 200234,
+    "title": "傅说",
+    "title_tr": "傅說",
+    "author": "倪谦",
+    "author_tr": "倪謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "审象旁求傅野贤，商宗一梦格皇天。\n为霖束取岩前板，已筑王基六百年。",
+    "content_tr": "審象旁求傅野賢，商宗一夢格皇天。\n爲霖束取巖前板，已築王基六百年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

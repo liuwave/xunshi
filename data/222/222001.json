@@ -1,0 +1,18 @@
+{
+  "work_id": 222001,
+  "work": {
+    "id": 222001,
+    "title": "定襄雨中",
+    "title_tr": "定襄雨中",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细雨重门寂，新凉病骨清。\n河山襄子国，关塞代王城。\n独夜闻鸡早，高云过鸟轻。\n断桥题豫让，身后尚留名。",
+    "content_tr": "細雨重門寂，新涼病骨清。\n河山襄子國，關塞代王城。\n獨夜聞雞早，高雲過鳥輕。\n斷橋題豫讓，身後尚留名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

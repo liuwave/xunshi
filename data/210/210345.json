@@ -1,0 +1,18 @@
+{
+  "work_id": 210345,
+  "work": {
+    "id": 210345,
+    "title": "入慧庆寺",
+    "title_tr": "入慧慶寺",
+    "author": "袁景休",
+    "author_tr": "袁景休",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "新秋入古寺，凉气何清越。\n树杪夕阳微，山蝉鸣不歇。",
+    "content_tr": "新秋入古寺，涼氣何清越。\n樹杪夕陽微，山蟬鳴不歇。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

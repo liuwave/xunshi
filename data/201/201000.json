@@ -1,0 +1,18 @@
+{
+  "work_id": 201000,
+  "work": {
+    "id": 201000,
+    "title": "山窗昼睡",
+    "title_tr": "山窗晝睡",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "身在云房梦亦闲，松头鹤影枕屏间。\n一声隔谷鸣华雉，信手推窗满眼山。",
+    "content_tr": "身在雲房夢亦閒，鬆頭鶴影枕屏間。\n一聲隔谷鳴華雉，信手推窗滿眼山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

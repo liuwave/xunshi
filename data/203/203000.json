@@ -1,0 +1,18 @@
+{
+  "work_id": 203000,
+  "work": {
+    "id": 203000,
+    "title": "宋王二隽篇",
+    "title_tr": "宋王二雋篇",
+    "author": "胡应麟",
+    "author_tr": "胡應麟",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浦阳既龙跃，华川亦鷟起。\n有雏必九苞，为驹日千里。\n飞翰洒玉楼，重茧历金齿。\n太息承家风，寥寥坠兰芷。",
+    "content_tr": "浦陽既龍躍，華川亦鷟起。\n有雛必九苞，爲駒日千里。\n飛翰灑玉樓，重繭歷金齒。\n太息承家風，寥寥墜蘭芷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 201209,
+  "work": {
+    "id": 201209,
+    "title": "法驾",
+    "title_tr": "法駕",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蔚蓝天上郁萧台，五色云旌雉尾开。\n法驾几多牛马走，不容凡世一夫来。",
+    "content_tr": "蔚藍天上鬱蕭臺，五色雲旌雉尾開。\n法駕幾多牛馬走，不容凡世一夫來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

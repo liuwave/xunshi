@@ -1,0 +1,18 @@
+{
+  "work_id": 200241,
+  "work": {
+    "id": 200241,
+    "title": "题小景画",
+    "title_tr": "題小景畫",
+    "author": "倪谦",
+    "author_tr": "倪謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白云红叶已惊秋，萝屋凉生境倍幽。\n长啸碧山宁负我，不胜清兴绕沧洲。",
+    "content_tr": "白雲紅葉已驚秋，蘿屋涼生境倍幽。\n長嘯碧山寧負我，不勝清興繞滄洲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 213880,
+  "work": {
+    "id": 213880,
+    "title": "万猿书屋",
+    "title_tr": "萬猿書屋",
+    "author": "袁宗道",
+    "author_tr": "袁宗道",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高斋何所有，琴书伴幽榻。\n中有吾伊声，声与猿声杂。",
+    "content_tr": "高齋何所有，琴書伴幽榻。\n中有吾伊聲，聲與猿聲雜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

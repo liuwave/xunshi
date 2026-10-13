@@ -1,0 +1,18 @@
+{
+  "work_id": 200456,
+  "work": {
+    "id": 200456,
+    "title": "闻莺怀邹继甫",
+    "title_tr": "聞鶯懷鄒繼甫",
+    "author": "胡直",
+    "author_tr": "胡直",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旭日高槐啼欲断，午风深竹弄还长。\n莫言绝域如天外，犹有莺声似省廊。",
+    "content_tr": "旭日高槐啼欲斷，午風深竹弄還長。\n莫言絕域如天外，猶有鶯聲似省廊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

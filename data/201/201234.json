@@ -1,0 +1,18 @@
+{
+  "work_id": 201234,
+  "work": {
+    "id": 201234,
+    "title": "春日送人之剑南二首",
+    "title_tr": "春日送人之劍南二首",
+    "author": "胡应麟",
+    "author_tr": "胡應麟",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蜀道难犹乍，湘潭去若何。\n青天浮滟滪，白雪涌岷峨。\n宅问扬雄隐，堂携杜甫过。\n锦官城外路，翠柏几婆娑。",
+    "content_tr": "蜀道難猶乍，湘潭去若何。\n青天浮灩澦，白雪涌岷峨。\n宅問揚雄隱，堂攜杜甫過。\n錦官城外路，翠柏幾婆娑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

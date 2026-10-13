@@ -1,0 +1,18 @@
+{
+  "work_id": 204001,
+  "work": {
+    "id": 204001,
+    "title": "三河县送三公子回通州读书",
+    "title_tr": "三河縣送三公子回通州讀書",
+    "author": "唐之淳",
+    "author_tr": "唐之淳",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "书生且逐三军去，公子还归八鲁庄。\n灯火夜窗联句坐，惟应说着到渔阳。",
+    "content_tr": "書生且逐三軍去，公子還歸八魯莊。\n燈火夜窗聯句坐，惟應說著到漁陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

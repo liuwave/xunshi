@@ -1,0 +1,18 @@
+{
+  "work_id": 222244,
+  "work": {
+    "id": 222244,
+    "title": "桐江舟行沿月",
+    "title_tr": "桐江舟行沿月",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锦帆明月舵楼风，逝水澄鲜复映空。\n万里鹤归迷近远，一溪人语隔西东。\n广寒金粟秋香动，碧落银槎海气通。\n漫向桐江论往事，客星元是钓鱼翁。",
+    "content_tr": "錦帆明月舵樓風，逝水澄鮮復映空。\n萬里鶴歸迷近遠，一溪人語隔西東。\n廣寒金粟秋香動，碧落銀槎海氣通。\n漫向桐江論往事，客星元是釣魚翁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

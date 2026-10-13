@@ -1,0 +1,18 @@
+{
+  "work_id": 200901,
+  "work": {
+    "id": 200901,
+    "title": "省耕图",
+    "title_tr": "省耕圖",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老农真我事，何敢笑樊须。\n植杖芸苗处，伸眉纳税馀。\n锄头三寸泽，田舍五行书。\n饱饭高眠熟，朱门未必如。",
+    "content_tr": "老農真我事，何敢笑樊須。\n植杖芸苗處，伸眉納稅餘。\n鋤頭三寸澤，田舍五行書。\n飽飯高眠熟，朱門未必如。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

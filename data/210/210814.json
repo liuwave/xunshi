@@ -1,0 +1,18 @@
+{
+  "work_id": 210814,
+  "work": {
+    "id": 210814,
+    "title": "放鹤曲",
+    "title_tr": "放鶴曲",
+    "author": "袁廷昌",
+    "author_tr": "袁廷昌",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江亭如画趁晴晖，凭栏放鹤看高飞，白云深处何时归。\n何时归，记华表。笑沧桑，尘事了。",
+    "content_tr": "江亭如畫趁晴暉，憑欄放鶴看高飛，白雲深處何時歸。\n何時歸，記華表。笑滄桑，塵事了。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

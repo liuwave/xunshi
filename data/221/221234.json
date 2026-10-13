@@ -1,0 +1,18 @@
+{
+  "work_id": 221234,
+  "work": {
+    "id": 221234,
+    "title": "约同社舟游",
+    "title_tr": "約同社舟遊",
+    "author": "区元晋",
+    "author_tr": "區元晉",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅坞参差柳岸黄，雪晴幽意满轻航。\n正思招隐无公右，敢妄临流滥我长。\n九陌嚣尘方隔断，五湖春色又弥茫。\n好知范蠡游非浅，一棹清风亘万霜。",
+    "content_tr": "梅塢參差柳岸黃，雪晴幽意滿輕航。\n正思招隱無公右，敢妄臨流濫我長。\n九陌囂塵方隔斷，五湖春色又瀰茫。\n好知范蠡遊非淺，一棹清風亙萬霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

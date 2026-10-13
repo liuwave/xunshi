@@ -1,0 +1,18 @@
+{
+  "work_id": 200030,
+  "work": {
+    "id": 200030,
+    "title": "湘江杂兴",
+    "title_tr": "湘江雜興",
+    "author": "胡安",
+    "author_tr": "胡安",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百丈牵风浪作山，别情何必恨阳关。\n萧萧客坐依灯影，知是潇湘夜雨间。",
+    "content_tr": "百丈牽風浪作山，別情何必恨陽關。\n蕭蕭客坐依燈影，知是瀟湘夜雨間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

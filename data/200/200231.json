@@ -1,0 +1,18 @@
+{
+  "work_id": 200231,
+  "work": {
+    "id": 200231,
+    "title": "题蒲石",
+    "title_tr": "題蒲石",
+    "author": "倪谦",
+    "author_tr": "倪謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "拳石浸清漪，灵苗亦自奇。\n虎须真可捋，相近莫相疑。",
+    "content_tr": "拳石浸清漪，靈苗亦自奇。\n虎鬚真可捋，相近莫相疑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

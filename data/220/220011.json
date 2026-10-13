@@ -1,0 +1,18 @@
+{
+  "work_id": 220011,
+  "work": {
+    "id": 220011,
+    "title": "西湖杂曲",
+    "title_tr": "西湖雜曲",
+    "author": "区大相",
+    "author_tr": "區大相",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "城外朱楼映晓霞，酒船伎舸各穿花。\n少年尽日出行乐，薄暮还寻苏小家。",
+    "content_tr": "城外朱樓映曉霞，酒船伎舸各穿花。\n少年盡日出行樂，薄暮還尋蘇小家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

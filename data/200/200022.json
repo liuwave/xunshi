@@ -1,0 +1,18 @@
+{
+  "work_id": 200022,
+  "work": {
+    "id": 200022,
+    "title": "旅途杂兴二首",
+    "title_tr": "旅途雜興二首",
+    "author": "胡安",
+    "author_tr": "胡安",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小窗雨夜滴枝残，客馆灯寒归梦迟。\n明日犹寻西路去，青山长似越中时。",
+    "content_tr": "小窗雨夜滴枝殘，客館燈寒歸夢遲。\n明日猶尋西路去，青山長似越中時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

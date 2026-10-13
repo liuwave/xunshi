@@ -1,0 +1,18 @@
+{
+  "work_id": 200789,
+  "work": {
+    "id": 200789,
+    "title": "天台怀古",
+    "title_tr": "天台懷古",
+    "author": "胡缵宗",
+    "author_tr": "胡纘宗",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "悬崖挂石梁，缥缈隔仙子。\n不见采药人，桃花自流水。",
+    "content_tr": "懸崖掛石梁，縹緲隔仙子。\n不見採藥人，桃花自流水。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

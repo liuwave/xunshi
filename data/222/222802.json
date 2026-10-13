@@ -1,0 +1,18 @@
+{
+  "work_id": 222802,
+  "work": {
+    "id": 222802,
+    "title": "漫兴六首 其一",
+    "title_tr": "漫興六首 其一",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风成阵落红稀，日日溪头坐钓矶。\n传语白鸥休避我，此心虽在已忘机。",
+    "content_tr": "東風成陣落紅稀，日日溪頭坐釣磯。\n傳語白鷗休避我，此心雖在已忘機。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

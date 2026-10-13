@@ -1,0 +1,18 @@
+{
+  "work_id": 222435,
+  "work": {
+    "id": 222435,
+    "title": "谢何登之惠玉兰",
+    "title_tr": "謝何登之惠玉蘭",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扬州何逊最能文，江水东流隔暮云。\n我有好峰三十六，玉兰花发正思君。",
+    "content_tr": "揚州何遜最能文，江水東流隔暮雲。\n我有好峯三十六，玉蘭花發正思君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

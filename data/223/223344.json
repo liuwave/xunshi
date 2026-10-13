@@ -1,0 +1,18 @@
+{
+  "work_id": 223344,
+  "work": {
+    "id": 223344,
+    "title": "病起诸友以诗问答之",
+    "title_tr": "病起諸友以詩問答之",
+    "author": "区越",
+    "author_tr": "區越",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "初伏投床直到秋，秋来百药饵方休。\n同袍问病垂怜甚，造物磨人不自由。\n酒为相如消渴病，诗同杜老解穷愁。\n风光逐我还如旧，共钓鲈鱼出水头。",
+    "content_tr": "初伏投牀直到秋，秋來百藥餌方休。\n同袍問病垂憐甚，造物磨人不自由。\n酒爲相如消渴病，詩同杜老解窮愁。\n風光逐我還如舊，共釣鱸魚出水頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

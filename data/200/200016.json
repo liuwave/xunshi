@@ -1,0 +1,18 @@
+{
+  "work_id": 200016,
+  "work": {
+    "id": 200016,
+    "title": "吊古",
+    "title_tr": "弔古",
+    "author": "伦文叙",
+    "author_tr": "倫文敘",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万事悠悠总逝波，人非物是旧山河。\n凤楼寥寂金莲步，燕馆荒凉玉树歌。\n别浦春风开芍药，小亭秋色上藤萝。\n客怀正苦风涛恶，况复登临思转多。",
+    "content_tr": "萬事悠悠總逝波，人非物是舊山河。\n鳳樓寥寂金蓮步，燕館荒涼玉樹歌。\n別浦春風開芍藥，小亭秋色上藤蘿。\n客懷正苦風濤惡，況復登臨思轉多。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

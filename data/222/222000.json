@@ -1,0 +1,18 @@
+{
+  "work_id": 222000,
+  "work": {
+    "id": 222000,
+    "title": "石铁村乘月行",
+    "title_tr": "石鐵村乘月行",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "片月新秋里，行人山路中。\n晚凉微带露，宿雨尚含风。\n星炬参差列，肩舆窅窱通。\n去程迷远近，时复问西东。",
+    "content_tr": "片月新秋裏，行人山路中。\n晚涼微帶露，宿雨尚含風。\n星炬參差列，肩輿窅窱通。\n去程迷遠近，時復問西東。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

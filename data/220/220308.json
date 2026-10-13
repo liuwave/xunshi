@@ -1,0 +1,18 @@
+{
+  "work_id": 220308,
+  "work": {
+    "id": 220308,
+    "title": "吴姬吟",
+    "title_tr": "吳姬吟",
+    "author": "区大相",
+    "author_tr": "區大相",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金塘霜落渚莲稀，日暮吴姬荡桨归。\n白纻风前吹不散，夜随明月过江飞。",
+    "content_tr": "金塘霜落渚蓮稀，日暮吳姬蕩槳歸。\n白紵風前吹不散，夜隨明月過江飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

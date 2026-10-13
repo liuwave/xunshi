@@ -1,0 +1,18 @@
+{
+  "work_id": 222415,
+  "work": {
+    "id": 222415,
+    "title": "漫兴五首",
+    "title_tr": "漫興五首",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萧萧凉雨报秋衣，云影岚光锁翠微。\n人在竹窗初睡起，坐看蛛网织危机。",
+    "content_tr": "蕭蕭涼雨報秋衣，雲影嵐光鎖翠微。\n人在竹窗初睡起，坐看蛛網織危機。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

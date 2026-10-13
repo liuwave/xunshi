@@ -1,0 +1,18 @@
+{
+  "work_id": 221000,
+  "work": {
+    "id": 221000,
+    "title": "咏史十五首 其六 安",
+    "title_tr": "詠史十五首 其六 安",
+    "author": "陶安",
+    "author_tr": "陶安",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东山高卧听弹丝，正是苍生属望时。\n儿子进兵优破敌，矫情镇物尚围棋。",
+    "content_tr": "東山髙卧聴彈絲，正是蒼生屬望時。\n兒子進兵優破敵，矯情鎮物尚圍棊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 201220,
+  "work": {
+    "id": 201220,
+    "title": "赠翁隐居",
+    "title_tr": "贈翁隠居",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吴郡翁高士，森森君子儒。\n风标抗轩冕，礼乐在江湖。\n松露濡谈麈，匏樽尽酒壶。\n却嫌城市隔，欲别重踟蹰。",
+    "content_tr": "吳郡翁髙士，森森君子儒。\n風標抗軒冕，禮樂在江湖。\n松露濡談麈，匏樽盡酒壺。\n却嫌城市隔，欲别重踟蹰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

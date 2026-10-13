@@ -1,0 +1,18 @@
+{
+  "work_id": 200613,
+  "work": {
+    "id": 200613,
+    "title": "王昭君五首 其一",
+    "title_tr": "王昭君五首 其一",
+    "author": "胡直",
+    "author_tr": "胡直",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "冰雪凋蝉鬓，风沙涴绮裳。\n愁容无复理，不为学新妆。",
+    "content_tr": "冰雪凋蟬鬢，風沙涴綺裳。\n愁容無復理，不為學新粧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

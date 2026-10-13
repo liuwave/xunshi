@@ -1,0 +1,18 @@
+{
+  "work_id": 222501,
+  "work": {
+    "id": 222501,
+    "title": "游武夷",
+    "title_tr": "遊武夷",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清游妙得此山中，一度来过一不同。\n泉石烟霞时上下，阴阳昏晓自西东。\n溪流九曲层层去，云锁千峰面面通。\n向晚天风堕仙乐，月明知是武夷宫。",
+    "content_tr": "清遊妙得此山中，一度來過一不同。\n泉石煙霞時上下，陰陽昏曉自西東。\n溪流九曲層層去，雲鎖千峯面面通。\n向晚天風墮仙樂，月明知是武夷宮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

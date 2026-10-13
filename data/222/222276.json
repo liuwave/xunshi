@@ -1,0 +1,18 @@
+{
+  "work_id": 222276,
+  "work": {
+    "id": 222276,
+    "title": "题两江号",
+    "title_tr": "題兩江號",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "长江西来双白龙，接天波浪春溶溶。\n群鸥弄影舞欲下，独鹤转翅鸣相从。\n雨后莺花看不尽，烟中舟楫望犹重。\n主人不是鸱夷子，一曲沧浪十二峰。",
+    "content_tr": "長江西來雙白龍，接天波浪春溶溶。\n羣鷗弄影舞欲下，獨鶴轉翅鳴相從。\n雨後鶯花看不盡，煙中舟楫望猶重。\n主人不是鴟夷子，一曲滄浪十二峯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

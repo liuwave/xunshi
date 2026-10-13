@@ -1,0 +1,18 @@
+{
+  "work_id": 200129,
+  "work": {
+    "id": 200129,
+    "title": "风雨归渔",
+    "title_tr": "風雨歸漁",
+    "author": "倪谦",
+    "author_tr": "倪謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江树风力斜，江波雨声急。\n孤篷有归渔，清寒压蓑笠。",
+    "content_tr": "江樹風力斜，江波雨聲急。\n孤篷有歸漁，清寒壓蓑笠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

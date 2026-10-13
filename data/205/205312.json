@@ -1,0 +1,18 @@
+{
+  "work_id": 205312,
+  "work": {
+    "id": 205312,
+    "title": "陶潜",
+    "title_tr": "陶潛",
+    "author": "孙一元",
+    "author_tr": "孫一元",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江山万里云无色，归去柴桑日已斜。\n风景满前非故物，东篱采采独黄花。",
+    "content_tr": "江山萬里雲無色，歸去柴桑日已斜。\n風景滿前非故物，東籬采采獨黃花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 222123,
+  "work": {
+    "id": 222123,
+    "title": "哭桴儿六首",
+    "title_tr": "哭桴兒六首",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琴书办得为消忧，独抱琴书可自由。\n归计未能随北雁，年华无奈逐东流。\n废来诗草谁收拾，验后医方自检求。\n宾客不通门巷寂，几番寒日下西楼。",
+    "content_tr": "琴書辦得爲消憂，獨抱琴書可自由。\n歸計未能隨北雁，年華無奈逐東流。\n廢來詩草誰收拾，驗後醫方自檢求。\n賓客不通門巷寂，幾番寒日下西樓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

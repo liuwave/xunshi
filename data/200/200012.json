@@ -1,0 +1,18 @@
+{
+  "work_id": 200012,
+  "work": {
+    "id": 200012,
+    "title": "灵峰",
+    "title_tr": "靈峯",
+    "author": "皇甫涍",
+    "author_tr": "皇甫涍",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灵峰望缥缈，疑是接层城。\n梯绕丹霞入，人攀碧树行。\n洞门山日落，石室海云生。\n何事吟招隐，空令猿夜惊。",
+    "content_tr": "靈峯望縹緲，疑是接層城。\n梯繞丹霞入，人攀碧樹行。\n洞門山日落，石室海雲生。\n何事吟招隠，空令猿夜驚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

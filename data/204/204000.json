@@ -1,0 +1,18 @@
+{
+  "work_id": 204000,
+  "work": {
+    "id": 204000,
+    "title": "堤上行",
+    "title_tr": "堤上行",
+    "author": "唐之淳",
+    "author_tr": "唐之淳",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桃枝着叶杨枝软，芹芽出土蒲芽短。\n堤边人唱踏春词，河豚吹雨晴江暖。",
+    "content_tr": "桃枝著葉楊枝軟，芹芽出土蒲芽短。\n堤邊人唱蹋春詞，河豚吹雨晴江暖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

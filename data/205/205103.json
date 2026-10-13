@@ -1,0 +1,18 @@
+{
+  "work_id": 205103,
+  "work": {
+    "id": 205103,
+    "title": "读孟浩然诗",
+    "title_tr": "讀孟浩然詩",
+    "author": "孙一元",
+    "author_tr": "孫一元",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春水长兰苕，春鸥来复饶。\n云光欲到地，江色澹相摇。\n浊酒同渔父，轻风动野袍。\n岘山斜照里，归去趁鸣桡。",
+    "content_tr": "春水長蘭苕，春鷗來複饒。\n雲光欲到地，江色澹相搖。\n濁酒同漁父，輕風動野袍。\n峴山斜照裏，歸去趁鳴橈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

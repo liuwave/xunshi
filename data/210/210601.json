@@ -1,0 +1,18 @@
+{
+  "work_id": 210601,
+  "work": {
+    "id": 210601,
+    "title": "读书舍",
+    "title_tr": "讀書舍",
+    "author": "袁华",
+    "author_tr": "袁華",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "芳草生书带，香芸辟蠹鱼。\n钩帘双燕入，长日坐看书。",
+    "content_tr": "芳草生書帶，香芸闢蠹魚。\n鉤簾雙燕入，長日坐看書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

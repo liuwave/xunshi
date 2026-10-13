@@ -1,0 +1,18 @@
+{
+  "work_id": 222419,
+  "work": {
+    "id": 222419,
+    "title": "山居八首",
+    "title_tr": "山居八首",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "望中城郭故依依，乔木千章水合围。\n风动海门闻鹤唳，鲈鱼正美客南归。",
+    "content_tr": "望中城郭故依依，喬木千章水合圍。\n風動海門聞鶴唳，鱸魚正美客南歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

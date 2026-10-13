@@ -1,0 +1,18 @@
+{
+  "work_id": 201009,
+  "work": {
+    "id": 201009,
+    "title": "戏作纪梦",
+    "title_tr": "戲作紀夢",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何事高唐入梦游，淡云轻雨太温柔。\n瑶姬错认维摩婿，枕畔花人空抱裯。",
+    "content_tr": "何事高唐入夢遊，淡雲輕雨太溫柔。\n瑤姬錯認維摩婿，枕畔花人空抱裯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

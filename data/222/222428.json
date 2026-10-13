@@ -1,0 +1,18 @@
+{
+  "work_id": 222428,
+  "work": {
+    "id": 222428,
+    "title": "张仙斜",
+    "title_tr": "張仙斜",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "骖鸾归去是何年，覆釜山头有墓田。\n名姓却随丹灶在，县人相对说张颠。",
+    "content_tr": "驂鸞歸去是何年，覆釜山頭有墓田。\n名姓卻隨丹竈在，縣人相對說張顛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

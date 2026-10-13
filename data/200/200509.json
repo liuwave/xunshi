@@ -1,0 +1,18 @@
+{
+  "work_id": 200509,
+  "work": {
+    "id": 200509,
+    "title": "王昭君五首 其二",
+    "title_tr": "王昭君五首 其二",
+    "author": "胡直",
+    "author_tr": "胡直",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "泪作冰霜结，愁添塞草翻。\n断肠那假寐，有寐是归魂。",
+    "content_tr": "淚作冰霜結，愁添塞草翻。\n斷腸那假寐，有寐是歸魂。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

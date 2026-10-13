@@ -1,0 +1,18 @@
+{
+  "work_id": 200915,
+  "work": {
+    "id": 200915,
+    "title": "南洲词四首",
+    "title_tr": "南洲詞四首",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝向南洲行，暮向南洲宿。\n不钓亦不泛，爱看南洲绿。",
+    "content_tr": "朝向南洲行，暮向南洲宿。\n不釣亦不泛，愛看南洲綠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

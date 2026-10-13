@@ -1,0 +1,18 @@
+{
+  "work_id": 222815,
+  "work": {
+    "id": 222815,
+    "title": "馆中",
+    "title_tr": "館中",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天上文章白玉堂，日华浮动郁金香。\n词头封罢浑无事，独步花砖绕画廊。",
+    "content_tr": "天上文章白玉堂，日華浮動鬱金香。\n詞頭封罷渾無事，獨步花磚繞畫廊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

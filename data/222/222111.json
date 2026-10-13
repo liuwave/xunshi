@@ -1,0 +1,18 @@
+{
+  "work_id": 222111,
+  "work": {
+    "id": 222111,
+    "title": "戏马台晚眺",
+    "title_tr": "戲馬臺晚眺",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "王气萧条伯业收，彭城依旧砀山秋。\n山连青郡兼齐绕，水合黄河入海流。\n漠漠云边低度鸟，疏疏树杪送行舟。\n凌空台阁宜春望，尚及西风半日游。",
+    "content_tr": "王氣蕭條伯業收，彭城依舊碭山秋。\n山連青郡兼齊繞，水合黃河入海流。\n漠漠雲邊低度鳥，疏疏樹杪送行舟。\n凌空臺閣宜春望，尚及西風半日遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

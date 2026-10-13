@@ -1,0 +1,18 @@
+{
+  "work_id": 222333,
+  "work": {
+    "id": 222333,
+    "title": "锦江",
+    "title_tr": "錦江",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浪花如织远黏天，濯锦溪边胜可怜。\n五色文章初日里，一川绮縠午风前。\n东流到海通蓬岛，南浦逢春送酒船。\n若问乘槎霄汉事，支机抱得已多年。",
+    "content_tr": "浪花如織遠黏天，濯錦溪邊勝可憐。\n五色文章初日裏，一川綺縠午風前。\n東流到海通蓬島，南浦逢春送酒船。\n若問乘槎霄漢事，支機抱得已多年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

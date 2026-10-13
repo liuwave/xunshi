@@ -1,0 +1,18 @@
+{
+  "work_id": 222222,
+  "work": {
+    "id": 222222,
+    "title": "和郁潮州",
+    "title_tr": "和鬱潮州",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欲从东海望蓬莱，试上江头百尺台。\n春色送将?独醉，好怀留取为君开。\n诗成满砌翻红药，客去闲门长绿苔。\n寄语桃花休折尽，刘郎应是不重来。",
+    "content_tr": "欲從東海望蓬萊，試上江頭百尺臺。\n春色送將?獨醉，好懷留取爲君開。\n詩成滿砌翻紅藥，客去閒門長綠苔。\n寄語桃花休折盡，劉郎應是不重來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

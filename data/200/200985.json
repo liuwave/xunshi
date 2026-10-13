@@ -1,0 +1,18 @@
+{
+  "work_id": 200985,
+  "work": {
+    "id": 200985,
+    "title": "题徵明画",
+    "title_tr": "題徵明畫",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍帻滃沈雾，白氎垂虚泉。\n归帆信流水，万襟同澹然。",
+    "content_tr": "蒼幘滃沈霧，白氎垂虛泉。\n歸帆信流水，萬襟同澹然。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

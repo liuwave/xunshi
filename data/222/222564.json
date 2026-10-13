@@ -1,0 +1,18 @@
+{
+  "work_id": 222564,
+  "work": {
+    "id": 222564,
+    "title": "满林风雨图",
+    "title_tr": "滿林風雨圖",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山林何处无风雨，不似人情翻覆间。\n我有一区江上宅，几回蓑笠夜深还。",
+    "content_tr": "山林何處無風雨，不似人情翻覆間。\n我有一區江上宅，幾回蓑笠夜深還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

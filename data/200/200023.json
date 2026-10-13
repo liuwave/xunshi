@@ -1,0 +1,18 @@
+{
+  "work_id": 200023,
+  "work": {
+    "id": 200023,
+    "title": "秋日闲行",
+    "title_tr": "秋日閒行",
+    "author": "胡安",
+    "author_tr": "胡安",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍松偃盖覆吾庐，俯视澄潭可数鱼。\n风到乍回流去叶，萤飞时照读残书。\n西山拄笏气应爽，北海开尊坐未虚。\n游屐转从云畔入，朱门寂寞近何如。",
+    "content_tr": "蒼松偃蓋覆吾廬，俯視澄潭可數魚。\n風到乍迴流去葉，螢飛時照讀殘書。\n西山拄笏氣應爽，北海開尊坐未虛。\n遊屐轉從雲畔入，朱門寂寞近何如。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

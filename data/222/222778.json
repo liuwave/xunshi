@@ -1,0 +1,18 @@
+{
+  "work_id": 222778,
+  "work": {
+    "id": 222778,
+    "title": "我有江南屋",
+    "title_tr": "我有江南屋",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我有江南屋，春深草映门。\n湘帘低不卷，宝鼎夜常温。",
+    "content_tr": "我有江南屋，春深草映門。\n湘簾低不捲，寶鼎夜常温。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

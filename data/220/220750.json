@@ -1,0 +1,18 @@
+{
+  "work_id": 220750,
+  "work": {
+    "id": 220750,
+    "title": "渊明醉图",
+    "title_tr": "淵明醉圖",
+    "author": "陶安",
+    "author_tr": "陶安",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何劳一县恼闲情，五柳柴桑老此生。\n每向黄花作沈湎，寄奴已据石头城。",
+    "content_tr": "何勞一縣惱閒情，五柳柴桑老此生。\n每向黃花作沈湎，寄奴已據石頭城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

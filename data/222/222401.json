@@ -1,0 +1,18 @@
+{
+  "work_id": 222401,
+  "work": {
+    "id": 222401,
+    "title": "史泾西发",
+    "title_tr": "史涇西發",
+    "author": "陆深",
+    "author_tr": "陸深",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西去青山入望多，栋花风信水云和。\n田家秧马黄梅雨，谷口渔榔白苎歌。\n星馆宛如天上列，画船疑向镜中过。\n人生合住江南老，何处沧浪与碧波。",
+    "content_tr": "西去青山入望多，棟花風信水雲和。\n田家秧馬黃梅雨，谷口漁榔白薴歌。\n星館宛如天上列，畫船疑向鏡中過。\n人生合住江南老，何處滄浪與碧波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

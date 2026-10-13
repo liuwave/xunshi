@@ -1,0 +1,18 @@
+{
+  "work_id": 209300,
+  "work": {
+    "id": 209300,
+    "title": "棠梨竹枝锦鸠",
+    "title_tr": "棠梨竹枝錦鳩",
+    "author": "徐庸",
+    "author_tr": "徐庸",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "棠梨花朵压枝低，两两锦鸠来上啼。\n更有青青君子竹，如何不见凤凰栖。",
+    "content_tr": "棠梨花朵壓枝低，兩兩錦鳩來上啼。\n更有青青君子竹，如何不見鳳凰棲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 200424,
+  "work": {
+    "id": 200424,
+    "title": "咏秋柳",
+    "title_tr": "詠秋柳",
+    "author": "纪映淮",
+    "author_tr": "紀映淮",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "栖鸦流水点秋光，爱此萧疏树几行。\n不与行人绾离别，赋成谢女雪飞香。",
+    "content_tr": "棲鴉流水點秋光，愛此蕭疏樹幾行。\n不與行人綰離別，賦成謝女雪飛香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

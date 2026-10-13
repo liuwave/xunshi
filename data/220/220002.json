@@ -1,0 +1,18 @@
+{
+  "work_id": 220002,
+  "work": {
+    "id": 220002,
+    "title": "月下泛沧浪江",
+    "title_tr": "月下泛滄浪江",
+    "author": "区大相",
+    "author_tr": "區大相",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碧空云尽水无烟，孺子沧波正渺然。\n惆怅濯缨人不见，月明歌送钓鱼船。",
+    "content_tr": "碧空雲盡水無煙，孺子滄波正渺然。\n惆悵濯纓人不見，月明歌送釣魚船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

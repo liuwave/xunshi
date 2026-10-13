@@ -1,0 +1,18 @@
+{
+  "work_id": 200989,
+  "work": {
+    "id": 200989,
+    "title": "咏公馆花木",
+    "title_tr": "詠公館花木",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "句曲酴醾溧水桃，溧阳孤柏倚风高。\n家园几树桑和柳，何事令人梦想劳。",
+    "content_tr": "句曲酴醾溧水桃，溧陽孤柏倚風高。\n家園幾樹桑和柳，何事令人夢想勞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 200594,
+  "work": {
+    "id": 200594,
+    "title": "王昭君五首 其五",
+    "title_tr": "王昭君五首 其五",
+    "author": "胡直",
+    "author_tr": "胡直",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "传闻汉帝怒，遣将靖边氛。\n安得从俘虏，南随霍冠军。",
+    "content_tr": "傳聞漢帝怒，遣將靖邊氛。\n安得從俘虜，南隨霍冠軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

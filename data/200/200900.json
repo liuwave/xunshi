@@ -1,0 +1,18 @@
+{
+  "work_id": 200900,
+  "work": {
+    "id": 200900,
+    "title": "汉室",
+    "title_tr": "漢室",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉室咸阳建，山河百二开。\n甘泉芝草出，天马大宛来。\n宣室宵衣问，长杨献赋回。\n宁知天禄阁，不用子云才。",
+    "content_tr": "漢室咸陽建，山河百二開。\n甘泉芝草出，天馬大宛來。\n宣室宵衣問，長楊獻賦回。\n寧知天祿閣，不用子云才。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

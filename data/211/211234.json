@@ -1,0 +1,18 @@
+{
+  "work_id": 211234,
+  "work": {
+    "id": 211234,
+    "title": "樟树阻风",
+    "title_tr": "樟樹阻風",
+    "author": "陈邦彦",
+    "author_tr": "陳邦彥",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凉吹起青蘋，怒涛浮白马。\n舟人惯耐愁，倚棹长堤下。",
+    "content_tr": "涼吹起青蘋，怒濤浮白馬。\n舟人慣耐愁，倚棹長堤下。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

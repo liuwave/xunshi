@@ -1,0 +1,18 @@
+{
+  "work_id": 201122,
+  "work": {
+    "id": 201122,
+    "title": "首夏山中行吟",
+    "title_tr": "首夏山中行吟",
+    "author": "祝允明",
+    "author_tr": "祝允明",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梅子青，梅子黄，菜肥麦熟养蚕忙。\n山僧过岭看茶老，村女当炉煮酒香。",
+    "content_tr": "梅子青，梅子黃，菜肥麥熟養蠶忙。\n山僧過嶺看茶老，村女當爐煮酒香。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
