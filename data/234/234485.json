@@ -1,0 +1,18 @@
+{
+  "work_id": 234485,
+  "work": {
+    "id": 234485,
+    "title": "巴丘野泊",
+    "title_tr": "巴丘野泊",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江寒星斗夜苍苍，夹岸青山万里长。\n偏是东风吹不寐，巴丘落月吊周郎。",
+    "content_tr": "江寒星斗夜蒼蒼，夾岸青山萬里長。\n偏是東風吹不寐，巴丘落月弔周郎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

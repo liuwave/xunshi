@@ -1,0 +1,18 @@
+{
+  "work_id": 242188,
+  "work": {
+    "id": 242188,
+    "title": "题万孝子诗卷",
+    "title_tr": "題萬孝子詩巻",
+    "author": "邹智",
+    "author_tr": "鄒智",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "匹马萧萧度远岑，霜清月冷乱云深。\n两行青泪衣裳湿，谁识良工独苦心。",
+    "content_tr": "匹馬蕭蕭度逺岑，霜清月冷亂雲深。\n兩行青泪衣裳濕，誰識良工獨苦心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

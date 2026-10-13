@@ -1,0 +1,18 @@
+{
+  "work_id": 234323,
+  "work": {
+    "id": 234323,
+    "title": "戏题金章所画 其一",
+    "title_tr": "戯題金章所畫 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云雨高唐祗梦中，人间何处貌能同。\n相看相忆曾相识，应在苎萝溪水东。",
+    "content_tr": "雲雨髙唐祗夣中，人間何處貌能同。\n相㸔相憶曽相識，應在苧蘿溪水東。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

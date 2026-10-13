@@ -1,0 +1,18 @@
+{
+  "work_id": 234442,
+  "work": {
+    "id": 234442,
+    "title": "凉口",
+    "title_tr": "凉口",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风吹我上凉滩，月晦山寒日已残。\n不及沙头南去雁，随风先到贡江干。",
+    "content_tr": "東風吹我上凉灘，月晦山寒日已殘。\n不及沙頭南去雁，随風先到貢江干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

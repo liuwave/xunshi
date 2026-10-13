@@ -1,0 +1,18 @@
+{
+  "work_id": 234678,
+  "work": {
+    "id": 234678,
+    "title": "雷港",
+    "title_tr": "雷港",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "久客乡音改，还家鬓发疏。\n应凭小池雁，为寄大雷书。",
+    "content_tr": "久客郷音改，還家鬢髪踈。\n應慿小池雁，為寄大雷書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

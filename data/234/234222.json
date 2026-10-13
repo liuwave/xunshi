@@ -1,0 +1,18 @@
+{
+  "work_id": 234222,
+  "work": {
+    "id": 234222,
+    "title": "然明叔父以金钱花一本见贻戏占绝句 其一",
+    "title_tr": "然明叔父以金錢花一本見貽戯占絶句 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜落金钱昼自开，绿跗朱辫点苍苔。\n王孙多少夸金埒，不向闲阶次第栽。",
+    "content_tr": "夜落金錢晝自開，緑跗朱辮㸃蒼苔。\n王孫多少誇金埒，不向閒堦次第栽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

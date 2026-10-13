@@ -1,0 +1,18 @@
+{
+  "work_id": 240345,
+  "work": {
+    "id": 240345,
+    "title": "题吴氏乐义卷",
+    "title_tr": "題吳氏樂義卷",
+    "author": "程敏政",
+    "author_tr": "程敏政",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "商山深处一斋居，远客归时乐有馀。\n教子义方开义塾，牙签重理竹洲书。",
+    "content_tr": "商山深處一齋居，遠客歸時樂有餘。\n教子義方開義塾，牙籤重理竹洲書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

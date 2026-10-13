@@ -1,0 +1,18 @@
+{
+  "work_id": 239023,
+  "work": {
+    "id": 239023,
+    "title": "舟次潇湘",
+    "title_tr": "舟次瀟湘",
+    "author": "程通",
+    "author_tr": "程通",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碧水连秋汉，丹枫映夕阳。\n扁舟歌楚些，早晚下潇湘。",
+    "content_tr": "碧水連秋漢，丹楓映夕陽。\n扁舟歌楚些，早晚下瀟湘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

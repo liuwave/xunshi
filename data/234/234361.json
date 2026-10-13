@@ -1,0 +1,18 @@
+{
+  "work_id": 234361,
+  "work": {
+    "id": 234361,
+    "title": "闻鹧鸪啼",
+    "title_tr": "聞鷓鴣啼",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "章水东流贡水西，郁孤台下草萋萋。\n云山万里行应遍，山鸟空劳向客啼。",
+    "content_tr": "章水東流貢水西，欝孤臺下草萋萋。\n雲山萬里行應徧，山鳥空勞向客啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

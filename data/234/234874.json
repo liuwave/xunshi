@@ -1,0 +1,18 @@
+{
+  "work_id": 234874,
+  "work": {
+    "id": 234874,
+    "title": "迎春曲 其一",
+    "title_tr": "迎春曲 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东郊迎春去，车马杂飞尘。\n不见春色至，看杀寻春人。",
+    "content_tr": "東郊迎春去，車馬雜飛塵。\n不見春色至，看殺㝷春人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

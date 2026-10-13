@@ -1,0 +1,18 @@
+{
+  "work_id": 234354,
+  "work": {
+    "id": 234354,
+    "title": "城南书所见",
+    "title_tr": "城南書所見",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒食才过三月三，野花芳草遍江南。\n无情春色关心甚，杨柳青青出小庵。",
+    "content_tr": "寒食纔過三月三，野花芳草徧江南。\n無情春色關心甚，楊栁青青出小庵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

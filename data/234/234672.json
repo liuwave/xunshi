@@ -1,0 +1,18 @@
+{
+  "work_id": 234672,
+  "work": {
+    "id": 234672,
+    "title": "田家 其五",
+    "title_tr": "田家 其五",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "流水当屋角，藕花绕四围。\n采莲冒山雨，荷叶盖头归。",
+    "content_tr": "流水當屋角，藕花繞四圍。\n採蓮冐山雨，荷葉蓋頭歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

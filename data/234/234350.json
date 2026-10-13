@@ -1,0 +1,18 @@
+{
+  "work_id": 234350,
+  "work": {
+    "id": 234350,
+    "title": "听画眉作",
+    "title_tr": "聴畫眉作",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江南三月落花时，到处东风叫画眉。\n无限春愁听不得，雕笼移挂海棠枝。",
+    "content_tr": "江南三月落花時，到處東風叫畫眉。\n無限春愁聴不得，雕籠移掛海棠枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234674,
+  "work": {
+    "id": 234674,
+    "title": "神弦曲 其三",
+    "title_tr": "神弦曲 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "采荪持作舟，縳桂以为楫。\n河伯骑鲤鱼，荡舟自相接。",
+    "content_tr": "采蓀持作舟，縳桂以為楫。\n河伯騎鯉魚，蕩舟自相接。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

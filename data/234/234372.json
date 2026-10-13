@@ -1,0 +1,18 @@
+{
+  "work_id": 234372,
+  "work": {
+    "id": 234372,
+    "title": "孤舟独泊",
+    "title_tr": "孤舟獨泊",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行尽西江两月程，孤舟夜夜听滩声。\n江流不待东归客，先逐秋风下石城。",
+    "content_tr": "行盡西江两月程，孤舟夜夜聴灘聲。\n江流不待東歸客，先逐秋風下石城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

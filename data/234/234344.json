@@ -1,0 +1,18 @@
+{
+  "work_id": 234344,
+  "work": {
+    "id": 234344,
+    "title": "少年行 其三",
+    "title_tr": "少年行 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "买得吴钩雪色明，从师未肯学长生。\n学成击剑无人知，行尽人间问不平。",
+    "content_tr": "買得吳鈎雪色朙，從師未肯學長生。\n學成擊劍無人知，行盡人間問不平。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

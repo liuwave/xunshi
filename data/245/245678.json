@@ -1,0 +1,18 @@
+{
+  "work_id": 245678,
+  "work": {
+    "id": 245678,
+    "title": "赠医",
+    "title_tr": "贈醫",
+    "author": "黄廷用",
+    "author_tr": "黃廷用",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "久客风尘怜病渴，检方相向夕阳斜。\n君心似逐春风转，细雨迤门有杏花。",
+    "content_tr": "久客風塵憐病渴，檢方相向夕陽斜。\n君心似逐春風轉，細雨迤門有杏花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234348,
+  "work": {
+    "id": 234348,
+    "title": "闻琵琶作",
+    "title_tr": "聞琵琶作",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小楼风急上窗纱，百子榴低未着花。\n病起闺中无限意，闲将心事问琵琶。",
+    "content_tr": "小樓風急上牕紗，百子榴低未着花。\n病起閨中無限意，閒将心事問琵琶。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234798,
+  "work": {
+    "id": 234798,
+    "title": "龙口",
+    "title_tr": "龍口",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红树裹青山，树里闻人语。\n遥问隔林僧，江村何处去。",
+    "content_tr": "紅樹褁青山，樹裏聞人語。\n遥問隔林僧，江村何處去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234210,
+  "work": {
+    "id": 234210,
+    "title": "和黄梅南老默庵十咏 其九",
+    "title_tr": "和黄梅南老黙庵十詠 其九",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十载诛茆鬓各苍，桑田几度计难量。\n谁钻劫大三生石，误点真铅百炼钢。",
+    "content_tr": "十載誅茆髩各蒼，桑田幾度計難量。\n誰鑚刼大三生石，誤㸃真鉛百鍊鋼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234419,
+  "work": {
+    "id": 234419,
+    "title": "午眠",
+    "title_tr": "午眠",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茶寮烟冷药垆寒，啼鸟声中午梦残。\n一觉松轩欠申起，辛夷花影过阑干。",
+    "content_tr": "茶寮烟冷藥罏寒，啼鳥聲中午夣殘。\n一覺松軒欠申起，辛夷花影過闌干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234434,
+  "work": {
+    "id": 234434,
+    "title": "早发见庐山",
+    "title_tr": "早發見廬山",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤帆天际下西吴，雾里看山澹欲无。\n似卧石梁三峡畔，不知枕上是匡庐。",
+    "content_tr": "孤帆天際下西吳，霧裏㸔山澹欲無。\n似卧石梁三峡畔，不知枕上是匡廬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

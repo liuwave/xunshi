@@ -1,0 +1,18 @@
+{
+  "work_id": 234544,
+  "work": {
+    "id": 234544,
+    "title": "塞下曲六首 其五",
+    "title_tr": "塞下曲六首 其五",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沙场如雪月黄昏，舞剑高歌对酒樽。\n醉向健儿夸独异，赤身无一箭刀痕。",
+    "content_tr": "沙塲如雪月黄昏，舞劍高歌對酒樽。\n醉向健兒誇獨異，赤身無一箭刀痕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

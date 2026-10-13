@@ -1,0 +1,18 @@
+{
+  "work_id": 248479,
+  "work": {
+    "id": 248479,
+    "title": "咏雁一首",
+    "title_tr": "詠雁一首",
+    "author": "黄省曾",
+    "author_tr": "黃省曾",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋落衡阳月，春鸣塞上霜。\n往来年岁改，南北海天长。",
+    "content_tr": "秋落衡陽月，春鳴塞上霜。\n往來年歲改，南北海天長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

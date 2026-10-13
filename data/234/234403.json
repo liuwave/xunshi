@@ -1,0 +1,18 @@
+{
+  "work_id": 234403,
+  "work": {
+    "id": 234403,
+    "title": "上巳阁望",
+    "title_tr": "上巳閣望",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杏花雨歇鸟争啼，绿过河桥西复西。\n正是倚阑凝望处，碧天无际纸鸢低。",
+    "content_tr": "杏花雨歇鳥争啼，緑過河橋西復西。\n正是倚闌凝望處，碧天無際紙鳶低。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

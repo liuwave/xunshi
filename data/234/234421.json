@@ -1,0 +1,18 @@
+{
+  "work_id": 234421,
+  "work": {
+    "id": 234421,
+    "title": "题伯载画册二首 其二",
+    "title_tr": "題伯載畫册二首 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风流公子长斋久，日日摊书不下楼。\n莫向邻家乞馀沈，只今谁许卖浆游。",
+    "content_tr": "風流公子長齋久，日日攤書不下樓。\n莫向鄰家乞餘瀋，只今誰許賣漿逰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

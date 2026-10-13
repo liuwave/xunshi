@@ -1,0 +1,18 @@
+{
+  "work_id": 241004,
+  "work": {
+    "id": 241004,
+    "title": "金阊曲",
+    "title_tr": "金閶曲",
+    "author": "程嘉燧",
+    "author_tr": "程嘉燧",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金阊潭水写金波，画烛红楼歌吹多。\n长夜牵愁无远近，山塘一望似秋河。",
+    "content_tr": "金閶潭水寫金波，畫燭紅樓歌吹多。\n長夜牽愁無遠近，山塘一望似秋河。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

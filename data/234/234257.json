@@ -1,0 +1,18 @@
+{
+  "work_id": 234257,
+  "work": {
+    "id": 234257,
+    "title": "和黄梅南老默庵十咏 其一",
+    "title_tr": "和黄梅南老黙庵十詠 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绕屋群山障卧游，野田寒涧水空流。\n祖堂寂寂无人问，一树东风叫鹁鸠。",
+    "content_tr": "繞屋羣山障卧逰，野田寒澗水空流。\n祖堂寂寂無人問，一樹東風叫鵓鳩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

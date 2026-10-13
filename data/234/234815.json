@@ -1,0 +1,18 @@
+{
+  "work_id": 234815,
+  "work": {
+    "id": 234815,
+    "title": "题箑 其一",
+    "title_tr": "題箑 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一朵两朵云，三株四株树。\n忆昔在空山，落叶无人处。",
+    "content_tr": "一朶両朶雲，三株四株樹。\n憶昔在空山，落葉無人處。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

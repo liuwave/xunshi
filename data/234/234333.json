@@ -1,0 +1,18 @@
+{
+  "work_id": 234333,
+  "work": {
+    "id": 234333,
+    "title": "晓过南湖",
+    "title_tr": "曉過南湖",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "烟雨楼台似有无，独留秋色满滮湖。\n扁舟晓掠水云过，似入南宫泼墨图。",
+    "content_tr": "烟雨樓臺似有無，獨留秋色滿滮湖。\n扁舟曉掠水雲過，似入南宫潑墨圖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

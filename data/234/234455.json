@@ -1,0 +1,18 @@
+{
+  "work_id": 234455,
+  "work": {
+    "id": 234455,
+    "title": "夜泊望梁山",
+    "title_tr": "夜泊望梁山",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天门中断两山空，一片孤帆落晚风。\n莫向秋江望明月，故乡千里月明中。",
+    "content_tr": "天門中㫁两山空，一片孤帆落晚風。\n莫向秋江望眀月，故郷千里月眀中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

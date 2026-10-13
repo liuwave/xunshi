@@ -1,0 +1,18 @@
+{
+  "work_id": 234799,
+  "work": {
+    "id": 234799,
+    "title": "樵舍驿",
+    "title_tr": "樵舍驛",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江雾暗如雨，孤舟横水滨。\n不是棹歌发，那知中有人。",
+    "content_tr": "江霧暗如雨，孤舟横水濵。\n不是棹歌發，那知中有人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234600,
+  "work": {
+    "id": 234600,
+    "title": "和李山甫咏柳十首 其六",
+    "title_tr": "和李山甫詠桺十首 其六",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春城掩映出楼台，不放闲愁入院来。\n只为情人离别苦，劳劳亭畔莫教栽。",
+    "content_tr": "春城掩映出樓臺，不放閒愁入院來。\n只爲情人離别苦，勞勞亭畔莫教栽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

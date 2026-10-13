@@ -1,0 +1,18 @@
+{
+  "work_id": 234789,
+  "work": {
+    "id": 234789,
+    "title": "曲尺滩",
+    "title_tr": "曲尺灘",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千尺长江流，萦纡凡几曲。\n盘尽九回肠，云山黯然绿。",
+    "content_tr": "千尺長江流，縈紆凢㡬曲。\n盤盡九迴膓，雲山黯然緑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

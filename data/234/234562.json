@@ -1,0 +1,18 @@
+{
+  "work_id": 234562,
+  "work": {
+    "id": 234562,
+    "title": "五日杂言 其一",
+    "title_tr": "五日雜言 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五月逢重五，堂前共举觞。\n无端小儿女，争索五丝囊。",
+    "content_tr": "五月逢重五，堂前共舉觴。\n無端小兒女，争索五絲囊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

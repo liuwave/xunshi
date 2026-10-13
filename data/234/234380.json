@@ -1,0 +1,18 @@
+{
+  "work_id": 234380,
+  "work": {
+    "id": 234380,
+    "title": "禾城书所见 其二",
+    "title_tr": "禾城書所見 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "画角凄凉永夜鸣，馲驼牛马满荒城。\n天涯处处吹芦管，何必重歌出塞行。",
+    "content_tr": "畫角凄凉永夜鳴，馲駝牛馬滿荒城。\n天涯處處吹蘆管，何必重歌出塞行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

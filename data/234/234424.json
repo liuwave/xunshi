@@ -1,0 +1,18 @@
+{
+  "work_id": 234424,
+  "work": {
+    "id": 234424,
+    "title": "怀诸兄弟",
+    "title_tr": "懐諸兄弟",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云树连天阻梦思，江花如雪雨如丝。\n石床长日摊书处，想到南窗对弈时。",
+    "content_tr": "雲樹連天阻夢思，江花如雪雨如絲。\n石床長日攤書處，想到南窓對弈時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

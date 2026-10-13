@@ -1,0 +1,18 @@
+{
+  "work_id": 242424,
+  "work": {
+    "id": 242424,
+    "title": "西湖寺中",
+    "title_tr": "西湖寺中",
+    "author": "董其昌",
+    "author_tr": "董其昌",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绕阁行吟候月华，秋风无力扫尘埃。\n即今河汉虽清浅，可奈迢迢使者槎。",
+    "content_tr": "繞閣行吟候月華，秋風無力掃塵埃。\n即今河漢雖清淺，可奈迢迢使者槎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234669,
+  "work": {
+    "id": 234669,
+    "title": "潭头渡",
+    "title_tr": "潭頭渡",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天寒飞木叶，水涸有饥鹭。\n不是偃树枝，危桥那得渡。",
+    "content_tr": "天寒飛木葉，水涸有飢鷺。\n不是偃樹枝，危橋那得渡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234613,
+  "work": {
+    "id": 234613,
+    "title": "杏子",
+    "title_tr": "杏子",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杏实甘于酪，丹浆溅齿寒。\n林风吹果坠，早已鸟衔残。",
+    "content_tr": "杏實甘于酪，丹漿濺齒寒。\n林風吹果墜，早已鳥銜殘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

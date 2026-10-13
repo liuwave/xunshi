@@ -1,0 +1,18 @@
+{
+  "work_id": 234756,
+  "work": {
+    "id": 234756,
+    "title": "田家 其二",
+    "title_tr": "田家 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "种桑蚕已成，新丝踊方贵。\n入城卖丝归，田租巳完未。",
+    "content_tr": "種桑蠶已成，新絲踊方貴。\n入城賣絲歸，田租巳完未。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

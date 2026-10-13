@@ -1,0 +1,18 @@
+{
+  "work_id": 234416,
+  "work": {
+    "id": 234416,
+    "title": "山庵晓起",
+    "title_tr": "山庵曉起",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓起山窗月未斜，一林风叶动寒鸦。\n荒庭秋色无人径，惟有牵牛满地花。",
+    "content_tr": "曉起山窓月未斜，一林風葉動寒鴉。\n荒庭秋色無人徑，惟有牽牛滿地花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

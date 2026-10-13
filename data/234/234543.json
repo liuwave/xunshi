@@ -1,0 +1,18 @@
+{
+  "work_id": 234543,
+  "work": {
+    "id": 234543,
+    "title": "边城怨四首 其四",
+    "title_tr": "邉城怨四首 其四",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "边草青青几度春，髑髅堆上柳条新。\n三更蒲类河头月，偏照还家梦里人。",
+    "content_tr": "邉草青青㡬度春，髑髏堆上柳條新。\n三更蒲類河頭月，偏照還家夣裡人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

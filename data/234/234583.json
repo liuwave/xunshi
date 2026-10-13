@@ -1,0 +1,18 @@
+{
+  "work_id": 234583,
+  "work": {
+    "id": 234583,
+    "title": "苏台夜眺",
+    "title_tr": "蘓臺夜眺",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨花如雪野莺啼，细草丝丝雨不迷。\n零落采菱歌巳断，夜来月上越来溪。",
+    "content_tr": "楊花如雪野鶯啼，細草絲絲雨不迷。\n零落采菱歌巳斷，夜來月上越來溪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

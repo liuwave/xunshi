@@ -1,0 +1,18 @@
+{
+  "work_id": 240101,
+  "work": {
+    "id": 240101,
+    "title": "夜宿绵溪",
+    "title_tr": "夜宿綿溪",
+    "author": "程敏政",
+    "author_tr": "程敏政",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "屈指离家又一程，篷窗欹枕梦难成。\n无端水郭停舟处，半夜滩声似雨声。",
+    "content_tr": "屈指離家又一程，篷窗欹枕夢難成。\n無端水郭停舟處，半夜灘聲似雨聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

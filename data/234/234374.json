@@ -1,0 +1,18 @@
+{
+  "work_id": 234374,
+  "work": {
+    "id": 234374,
+    "title": "阿呾回",
+    "title_tr": "阿呾囬",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "紫陌红襟杂燕来，踏歌人与月徘徊。\n飞花卷作回波舞，欲上君王万寿杯。",
+    "content_tr": "紫陌紅襟雜燕来，踏歌人與月徘徊。\n飛花捲作回波舞，欲上君王萬壽杯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

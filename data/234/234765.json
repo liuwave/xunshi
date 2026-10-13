@@ -1,0 +1,18 @@
+{
+  "work_id": 234765,
+  "work": {
+    "id": 234765,
+    "title": "溪行得鸿羽",
+    "title_tr": "溪行得鴻羽",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "为问南栖鸿，何时至江浒。\n欲寄一行书，借我双飞羽。",
+    "content_tr": "為問南棲鴻，何時至江滸。\n欲寄一行書，借我雙飛羽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

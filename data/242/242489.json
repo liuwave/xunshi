@@ -1,0 +1,18 @@
+{
+  "work_id": 242489,
+  "work": {
+    "id": 242489,
+    "title": "题尹使君诗册",
+    "title_tr": "題尹使君詩冊",
+    "author": "董其昌",
+    "author_tr": "董其昌",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "剑戟森罗武库雄，扶桑日近海门东。\n书成杨子谈玄后，赋有吴都在部中。",
+    "content_tr": "劍戟森羅武庫雄，扶桑日近海門東。\n書成楊子談玄後，賦有吳都在部中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

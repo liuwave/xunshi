@@ -1,0 +1,18 @@
+{
+  "work_id": 234230,
+  "work": {
+    "id": 234230,
+    "title": "和黄梅南老默庵十咏 其四",
+    "title_tr": "和黄梅南老黙庵十詠 其四",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山白骨埋何处，烧得丹霞舍利无。\n同付地炉煨榾柮，好风为我借吹嘘。",
+    "content_tr": "青山白骨埋何處，燒得丹霞舍利無。\n同付地爐煨榾柮，好風為我借吹嘘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

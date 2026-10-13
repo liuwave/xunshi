@@ -1,0 +1,18 @@
+{
+  "work_id": 234587,
+  "work": {
+    "id": 234587,
+    "title": "月下独坐 其一",
+    "title_tr": "月下獨坐 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜深徵露下，庭花暗香发。\n无人可与言，独坐见明月。",
+    "content_tr": "夜深徴露下，庭花暗香發。\n無人可與言，獨坐見朙月。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234498,
+  "work": {
+    "id": 234498,
+    "title": "秦宫曲",
+    "title_tr": "秦宫曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花前自梦旧君王，花外宫车绕御墙。\n宫女思归似啼鸟，鹧鸪飞入小咸阳。",
+    "content_tr": "花前自夣舊君王，花外宫車繞御墻。\n宫女思歸似啼鳥，鷓鴣飛入小咸陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

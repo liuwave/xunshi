@@ -1,0 +1,18 @@
+{
+  "work_id": 234625,
+  "work": {
+    "id": 234625,
+    "title": "题画渔父",
+    "title_tr": "題畫漁父",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "钓得箬䈎鱼，持归木兰桨。\n大雪满千山，空江绝来往。",
+    "content_tr": "釣得篛䈎魚，持歸木蘭槳。\n大雪滿千山，空江絶来徃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

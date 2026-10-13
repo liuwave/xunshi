@@ -1,0 +1,18 @@
+{
+  "work_id": 234950,
+  "work": {
+    "id": 234950,
+    "title": "涤研",
+    "title_tr": "滌研",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "笔床尘暗香，涤研清池里。\n松烟生水云，影落鱼鳞紫。",
+    "content_tr": "筆床塵暗香，滌研清池裏。\n松烟生水雲，影落魚鱗紫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

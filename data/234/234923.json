@@ -1,0 +1,18 @@
+{
+  "work_id": 234923,
+  "work": {
+    "id": 234923,
+    "title": "懊侬曲 其三",
+    "title_tr": "懊儂曲 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昨夜梦归家，双桨石头下。\n江路不分明，五两健如马。",
+    "content_tr": "昨夜夢歸家，雙槳石頭下。\n江路不分明，五兩健如馬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

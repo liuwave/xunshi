@@ -1,0 +1,18 @@
+{
+  "work_id": 234532,
+  "work": {
+    "id": 234532,
+    "title": "斋卧偶成 其一",
+    "title_tr": "齋卧偶成 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风定络纬语，晚凉池馆生。\n萧萧响高树，半巳作秋声。",
+    "content_tr": "風定絡緯語，晚凉池館生。\n蕭蕭響髙樹，半巳作秋聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

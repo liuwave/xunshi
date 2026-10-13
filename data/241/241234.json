@@ -1,0 +1,18 @@
+{
+  "work_id": 241234,
+  "work": {
+    "id": 241234,
+    "title": "又题墨菊二首 其二",
+    "title_tr": "又題墨菊二首 其二",
+    "author": "童冀",
+    "author_tr": "童冀",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东篱秋色晚，白发对斜晖。\n独怪休官后，犹纡墨绶归。",
+    "content_tr": "東籬秋色晚，白髪對斜暉。\n獨怪休官後，猶紆墨綬歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

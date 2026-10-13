@@ -1,0 +1,18 @@
+{
+  "work_id": 234724,
+  "work": {
+    "id": 234724,
+    "title": "湓浦渡",
+    "title_tr": "湓浦渡",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "隔水唤渔子，抛罾客上船。\n渡头人过尽，白鸟傍舟眠。",
+    "content_tr": "隔水喚漁子，抛罾客上船。\n渡頭人過盡，白鳥傍舟眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234700,
+  "work": {
+    "id": 234700,
+    "title": "田家 其六",
+    "title_tr": "田家 其六",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锄禾风打笠，始知山雨骤。\n抛犁看雨眠，前村有牛斗。",
+    "content_tr": "鋤禾風打笠，始知山雨驟。\n抛犁㸔雨眠，前邨有牛闘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

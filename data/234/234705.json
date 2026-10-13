@@ -1,0 +1,18 @@
+{
+  "work_id": 234705,
+  "work": {
+    "id": 234705,
+    "title": "大溜滩",
+    "title_tr": "大溜灘",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江声无古今，送尽远行客。\n昨夜上滩人，一夕成头白。",
+    "content_tr": "江聲無古今，送盡逺行客。\n昨夜上灘人，一夕成頭白。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

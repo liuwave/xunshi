@@ -1,0 +1,18 @@
+{
+  "work_id": 234444,
+  "work": {
+    "id": 234444,
+    "title": "宿芜关闻夜哭",
+    "title_tr": "宿蕪闗聞夜哭",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昏鸦定后草虫喧，一片羁心落晓猿。\n那更悲秋禁夜哭，月明明日是中元。",
+    "content_tr": "昏鴉定後草蟲喧，一片覊心落曉猿。\n那更悲秋禁夜哭，月眀明日是中元。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

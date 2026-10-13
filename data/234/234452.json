@@ -1,0 +1,18 @@
+{
+  "work_id": 234452,
+  "work": {
+    "id": 234452,
+    "title": "怀家宜人",
+    "title_tr": "懐家宜人",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南天瘴疠起秋尘，游子高堂忆老亲。\n总有家音传驿使，干戈愁杀白头人。",
+    "content_tr": "南天瘴癘起秋塵，游子高堂憶老親。\n縂有家音傳驛使，干戈愁殺白頭人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

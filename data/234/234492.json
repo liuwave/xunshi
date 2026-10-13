@@ -1,0 +1,18 @@
+{
+  "work_id": 234492,
+  "work": {
+    "id": 234492,
+    "title": "望荻港",
+    "title_tr": "望荻港",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山如画水如烟，日落空江月未圆。\n东望故园知不远，白云只隔秣陵天。",
+    "content_tr": "青山如畫水如烟，日落空江月未圓。\n東望故園知不逺，白雲只隔秣陵天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

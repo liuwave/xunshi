@@ -1,0 +1,18 @@
+{
+  "work_id": 234888,
+  "work": {
+    "id": 234888,
+    "title": "桂花 其四",
+    "title_tr": "桂花 其四",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "把卷桂丛下，抛书梦欲来。\n广寒三万树，一一为谁开。",
+    "content_tr": "把卷桂叢下，抛書夢欲來。\n廣寒三萬樹，一一爲誰開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

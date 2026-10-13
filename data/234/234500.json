@@ -1,0 +1,18 @@
+{
+  "work_id": 234500,
+  "work": {
+    "id": 234500,
+    "title": "青楼曲 其一",
+    "title_tr": "青樓曲 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高楼却对浣花溪，窈窕花深月易低。\n何处门前堪系马，乳鸦新柳一行齐。",
+    "content_tr": "高樓却對浣花谿，窈窕花深月易低。\n何處門前堪繫馬，乳鴉新柳一行齊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

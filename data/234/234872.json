@@ -1,0 +1,18 @@
+{
+  "work_id": 234872,
+  "work": {
+    "id": 234872,
+    "title": "扬州曲 其三",
+    "title_tr": "揚州曲 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浣沙吴女郎，临江出素足。\n相逢不得语，回眸背人瞩。",
+    "content_tr": "浣沙吳女郞，臨江出素足。\n相逢不得語，迴眸背人矚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

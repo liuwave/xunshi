@@ -1,0 +1,18 @@
+{
+  "work_id": 230234,
+  "work": {
+    "id": 230234,
+    "title": "留别金陵",
+    "title_tr": "留別金陵",
+    "author": "曹学佺",
+    "author_tr": "曹學佺",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "微月斜阳影已低，霜风四起夕凄凄。\n乌生两翼不飞去，只在白门城上啼。",
+    "content_tr": "微月斜陽影已低，霜風四起夕悽悽。\n烏生兩翼不飛去，只在白門城上啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234534,
+  "work": {
+    "id": 234534,
+    "title": "侠客行三首 其一",
+    "title_tr": "俠客行三首 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千金买剑五陵游，赌命轻身借报雠。\n夜半早霜人迹绝，吴钩如月月如钩。",
+    "content_tr": "千金買劍五陵逰，賭命輕身借報讐。\n夜半早霜人跡絶，吴鈎如月月如鈎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

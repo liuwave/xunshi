@@ -1,0 +1,18 @@
+{
+  "work_id": 234542,
+  "work": {
+    "id": 234542,
+    "title": "山行四咏 其四 襆被",
+    "title_tr": "山行四詠 其四 襆被",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杖头肩一襆，中有五岳图。\n山寒入布被，絮絮白云铺。",
+    "content_tr": "杖頭肩一襆，中有五嶽圗。\n山寒入布被，絮絮白雲鋪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234357,
+  "work": {
+    "id": 234357,
+    "title": "元旦雨中",
+    "title_tr": "元旦雨中",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海雨萧萧白鸟飞，海红花瘦水仙肥。\n非关避客无人问，久已门前半刺稀。",
+    "content_tr": "海雨蕭蕭白鳥飛，海紅花痩水仙肥。\n非闗避客無人問，久巳門前半刺稀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

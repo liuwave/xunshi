@@ -1,0 +1,18 @@
+{
+  "work_id": 234369,
+  "work": {
+    "id": 234369,
+    "title": "晓眠未起闻书声喜不复寐",
+    "title_tr": "曉眠未起聞書聲喜不復寐",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓钟才尽小窗明，展转松轩梦不成。\n红日未高春鸟静，寥寥只有读书声。",
+    "content_tr": "曉鍾纔盡小窗朙，展轉松軒夣不成。\n紅日未髙春鳥静，寥寥只有讀書聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

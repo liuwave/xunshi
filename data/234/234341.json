@@ -1,0 +1,18 @@
+{
+  "work_id": 234341,
+  "work": {
+    "id": 234341,
+    "title": "诗社分赋十绝句 其四 荷珠",
+    "title_tr": "詩社分賦十絶句 其四 荷珠",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江南千里绿田田，荡漾临风碎复圆。\n为报汉皋神女道，骊龙尚未月中眠。",
+    "content_tr": "江南千里緑田田，蕩漾臨風碎復圓。\n為報漢臯神女道，驪龍尚未月中眠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234824,
+  "work": {
+    "id": 234824,
+    "title": "书斋秋海棠",
+    "title_tr": "書齋秋海棠",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空斋人寂寂，幽卉自参差。\n似有含愁色，嫣然怅所思。",
+    "content_tr": "空齋人寂寂，幽卉自參差。\n似有含愁色，嫣然悵所思。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

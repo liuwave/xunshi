@@ -1,0 +1,18 @@
+{
+  "work_id": 234607,
+  "work": {
+    "id": 234607,
+    "title": "山行见虎迹",
+    "title_tr": "山行見虎跡",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独行入深山，无人有虎迹。\n兴尽始知还，林昏风坠帻。",
+    "content_tr": "獨行入深山，無人有虎跡。\n興盡始知還，林昏風墜幘。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

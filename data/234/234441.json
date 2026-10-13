@@ -1,0 +1,18 @@
+{
+  "work_id": 234441,
+  "work": {
+    "id": 234441,
+    "title": "长廊",
+    "title_tr": "長廊",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梧竹萧萧青十寻，疏廊如到碧山岑。\n题诗石上无人和，惟有山禽伴苦吟。",
+    "content_tr": "梧竹蕭蕭青十尋，踈廊如到碧山岑。\n題詩石上無人和，惟有山禽伴苦吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

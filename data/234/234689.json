@@ -1,0 +1,18 @@
+{
+  "work_id": 234689,
+  "work": {
+    "id": 234689,
+    "title": "裴头陀洞",
+    "title_tr": "裴頭陀洞",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "空寻裴公洞，裴公更何处。\n无复问山僧，江头老鼋语。",
+    "content_tr": "空尋裴公洞，裴公更何處。\n無復問山僧，江頭老黿語。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

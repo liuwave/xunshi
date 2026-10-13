@@ -1,0 +1,18 @@
+{
+  "work_id": 234456,
+  "work": {
+    "id": 234456,
+    "title": "苦蚊",
+    "title_tr": "苦蚊",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜永横参斗柄翻，流萤寂历更无喧。\n惟馀白鸟欺人甚，不放离人梦故园。",
+    "content_tr": "夜永横參斗柄翻，流螢寂歴更無喧。\n惟餘白鳥欺人甚，不放離人夢故園。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

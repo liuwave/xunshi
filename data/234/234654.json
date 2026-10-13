@@ -1,0 +1,18 @@
+{
+  "work_id": 234654,
+  "work": {
+    "id": 234654,
+    "title": "采莲曲五首 其二",
+    "title_tr": "采蓮曲五首 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "贪看鸳央飞，从教水湿衣。\n含娇弄莲的，夺得并头归。",
+    "content_tr": "貪㸔鴛央飛，從教水濕衣。\n含嬌㺯蓮的，奪得並頭歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

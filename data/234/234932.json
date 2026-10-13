@@ -1,0 +1,18 @@
+{
+  "work_id": 234932,
+  "work": {
+    "id": 234932,
+    "title": "卞帘",
+    "title_tr": "卞簾",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏帘未受风，半榻寒云拥。\n细梦不能明，鸟飞花影动。",
+    "content_tr": "踈簾未受風，半榻寒雲擁。\n細夢不能明，鳥飛花影動。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

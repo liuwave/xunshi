@@ -1,0 +1,18 @@
+{
+  "work_id": 230600,
+  "work": {
+    "id": 230600,
+    "title": "山居书怀",
+    "title_tr": "山居書懷",
+    "author": "张元凯",
+    "author_tr": "張元凱",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "薜萝垂户闭云烟，永谢区中未了缘。\n待得三秋明月夜，青松影里弄寒泉。",
+    "content_tr": "薜蘿垂戶閉雲煙，永謝區中未了緣。\n待得三秋明月夜，青松影里弄寒泉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

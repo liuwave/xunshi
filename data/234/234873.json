@@ -1,0 +1,18 @@
+{
+  "work_id": 234873,
+  "work": {
+    "id": 234873,
+    "title": "扬州曲 其一",
+    "title_tr": "揚州曲 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "婀娜一相顾，含羞未能前。\n遗欢藕花子，侬自得人怜。",
+    "content_tr": "婀娜一相顧，含羞未能前。\n遺歡藕花子，儂自得人憐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

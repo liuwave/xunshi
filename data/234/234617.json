@@ -1,0 +1,18 @@
+{
+  "work_id": 234617,
+  "work": {
+    "id": 234617,
+    "title": "床头七咏 其五 葫卢",
+    "title_tr": "床頭七詠 其五 葫盧",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "卯酒未得醒，午眠将至酉。\n忽听提壶卢，呼儿复沽酒。",
+    "content_tr": "卯酒未得醒，午眠将至酉。\n忽聴提壷盧，呼兒復沽酒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

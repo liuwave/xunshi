@@ -1,0 +1,18 @@
+{
+  "work_id": 234620,
+  "work": {
+    "id": 234620,
+    "title": "侠客行三首 其三",
+    "title_tr": "俠客行三首 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "生平然诺重金樽，不受贫交说报恩。\n遇客道逢倾十万，携家相谢不开门。",
+    "content_tr": "生平然諾重金樽，不受貧交說報恩。\n遇客道逢傾十萬，携家相謝不開門。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

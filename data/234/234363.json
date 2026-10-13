@@ -1,0 +1,18 @@
+{
+  "work_id": 234363,
+  "work": {
+    "id": 234363,
+    "title": "过浩溪驿",
+    "title_tr": "過浩溪驛",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江自东流客向西，云山万叠岭猿啼。\n三千里外还乡梦，又逐秋风入浩溪。",
+    "content_tr": "江自東流客向西，雲山萬叠嶺猿啼。\n三千里外還郷夢，又逐秋風入浩溪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

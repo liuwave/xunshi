@@ -1,0 +1,18 @@
+{
+  "work_id": 234411,
+  "work": {
+    "id": 234411,
+    "title": "瓶桂",
+    "title_tr": "瓶桂",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荷芰香残霜满林，百花零落送秋阴。\n独怜幽桂偏迟发，寂寞山窗伴苦吟。",
+    "content_tr": "荷芰香殘霜滿林，百花零落送秋隂。\n獨憐幽桂偏遲發，寂寞山窗伴苦吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234748,
+  "work": {
+    "id": 234748,
+    "title": "老鹳口",
+    "title_tr": "老鸛口",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "亭午人烟冷，天寒鹳雀饥。\n钓船收不住，大泽卷游丝。",
+    "content_tr": "亭午人烟冷，天寒鸛雀飢。\n釣船收不住，大澤捲游絲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 233321,
+  "work": {
+    "id": 233321,
+    "title": "梨葡萄",
+    "title_tr": "梨葡萄",
+    "author": "傅汝楫",
+    "author_tr": "傅汝楫",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸟惊午睡浓，起坐林花近。\n渴思谷口浆，醉唤梁州酝。",
+    "content_tr": "鳥驚午睡濃，起坐林花近。\n渇思谷口漿，醉喚梁州醖。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

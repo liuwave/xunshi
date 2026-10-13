@@ -1,0 +1,18 @@
+{
+  "work_id": 234349,
+  "work": {
+    "id": 234349,
+    "title": "三月三日风雨",
+    "title_tr": "三月三日風雨",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春莫初逢三月三，多情风两遍江南。\n愁中花事关心事，带雨移花上小篮。",
+    "content_tr": "春莫初逢三月三，多情風兩徧江南。\n愁中花事關心事，帯雨移花上小籃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234800,
+  "work": {
+    "id": 234800,
+    "title": "扬子洲",
+    "title_tr": "揚子洲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扬子洲前月，离人未觉愁。\n不因风雨夕，那识是孤舟。",
+    "content_tr": "揚子洲前月，離人未覺愁。\n不因風雨夕，那識是孤舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

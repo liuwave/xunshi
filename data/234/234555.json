@@ -1,0 +1,18 @@
+{
+  "work_id": 234555,
+  "work": {
+    "id": 234555,
+    "title": "从军行四首 其三",
+    "title_tr": "從軍行四首 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锦绣雕青裹铁衣，弯弧五石月同围。\n禽生只射匈奴首，狐兔秋原一任肥。",
+    "content_tr": "錦繡雕青褁鐡衣，彎弧五石月同圍。\n禽生只射匈奴首，狐兎秋原一任肥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

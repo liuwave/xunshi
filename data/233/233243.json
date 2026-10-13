@@ -1,0 +1,18 @@
+{
+  "work_id": 233243,
+  "work": {
+    "id": 233243,
+    "title": "登襄城歌",
+    "title_tr": "登襄城歌",
+    "author": "傅汝舟",
+    "author_tr": "傅汝舟",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客子道路浮云轻，北风发发飘蛮荆。\n二妃汉滨昔解佩，庞公襄阳今入城。\n天清岘山水上出，日倒习池花内明。\n错将玉笛兴此弄，尽使九天鸾鹤惊。",
+    "content_tr": "客子道路浮雲輕，北風發發飄蠻荆。\n二妃漢濵昔解佩，龎公襄陽今入城。\n天清峴山水上出，日倒習池花内明。\n錯將玉笛興此弄，盡使九天鸞鶴驚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

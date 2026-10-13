@@ -1,0 +1,18 @@
+{
+  "work_id": 234688,
+  "work": {
+    "id": 234688,
+    "title": "大鸟洲",
+    "title_tr": "大鳥洲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渡口渔舟去，收筒卷钓绳。\n空留矶畔石，照水立鱼鹰。",
+    "content_tr": "渡口漁舟去，收筒捲釣繩。\n空留磯畔石，照水立魚鷹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

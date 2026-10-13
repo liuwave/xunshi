@@ -1,0 +1,18 @@
+{
+  "work_id": 230000,
+  "work": {
+    "id": 230000,
+    "title": "余襄公祠",
+    "title_tr": "餘襄公祠",
+    "author": "张以宁",
+    "author_tr": "張以寧",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "名在东京四諌官，曲江日照寸心丹。\n只今遗庙年年祭，可是功名久远看。",
+    "content_tr": "名在東京四諌官，曲江日照寸心丹。\n只今遺廟年年祭，可是功名久遠看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

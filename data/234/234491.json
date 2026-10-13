@@ -1,0 +1,18 @@
+{
+  "work_id": 234491,
+  "work": {
+    "id": 234491,
+    "title": "草庵",
+    "title_tr": "草庵",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "藕花如雪柳丝丝，竹覆茅庵客到迟。\n长日掩关无一事，幽人枕易梦回时。",
+    "content_tr": "藕花如雪柳絲絲，竹覆茅庵客到遲。\n長日掩闗無一事，幽人枕易夢回時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

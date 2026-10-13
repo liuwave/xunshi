@@ -1,0 +1,18 @@
+{
+  "work_id": 234528,
+  "work": {
+    "id": 234528,
+    "title": "小斋杂咏 其一",
+    "title_tr": "小齋雜詠 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五月黄梅候，家家望插青。\n空斋无雨过，愁绝闭柴扃。",
+    "content_tr": "五月黄梅候，家家望挿青。\n空齋無雨過，愁絶閉柴扃。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

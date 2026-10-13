@@ -1,0 +1,18 @@
+{
+  "work_id": 234603,
+  "work": {
+    "id": 234603,
+    "title": "江南可采莲五绝句各以一句为题 其一 鱼戏莲叶间",
+    "title_tr": "江南可採蓮五絶句各以一句爲題 其一 魚戯蓮葉間",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "采莲惊游鱼，叶动花零乱。\n棹入花中央，萍开鱼不见。",
+    "content_tr": "采蓮驚逰魚，葉動花零亂。\n棹入花中央，萍開魚不見。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

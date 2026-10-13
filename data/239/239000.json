@@ -1,0 +1,18 @@
+{
+  "work_id": 239000,
+  "work": {
+    "id": 239000,
+    "title": "为萧尹题墨梅",
+    "title_tr": "爲蕭尹題墨梅",
+    "author": "程通",
+    "author_tr": "程通",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "屈铁为根玉作肌，移栽不记几何时。\n东风昨夜回天地，开遍墙头一两枝。",
+    "content_tr": "屈鐵爲根玉作肌，移栽不記幾何時。\n東風昨夜迴天地，開遍牆頭一兩枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

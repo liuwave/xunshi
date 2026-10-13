@@ -1,0 +1,18 @@
+{
+  "work_id": 230777,
+  "work": {
+    "id": 230777,
+    "title": "四美人咏 其一 明妃",
+    "title_tr": "四美人詠 其一 明妃",
+    "author": "张元凯",
+    "author_tr": "張元凱",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白龙堆里塞云昏，黄鹤歌残马上论。\n自恨良家充内选，也同公主嫁乌孙。",
+    "content_tr": "白龍堆裏塞雲昏，黃鶴歌殘馬上論。\n自恨良家充内選，也同公主嫁烏孫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

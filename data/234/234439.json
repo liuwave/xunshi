@@ -1,0 +1,18 @@
+{
+  "work_id": 234439,
+  "work": {
+    "id": 234439,
+    "title": "水鼓子第一曲",
+    "title_tr": "水鼓子第一曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白草黄河绕寒垣，轻弓短箭出辕门。\n黄花戍冷秋先入，黑水河流月不昏。",
+    "content_tr": "白草黄河繞寒垣，輕弓短箭出轅門。\n黄花戍冷秋先入，黒水河流月不昏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

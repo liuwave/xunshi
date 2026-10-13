@@ -1,0 +1,18 @@
+{
+  "work_id": 234217,
+  "work": {
+    "id": 234217,
+    "title": "题鲁庵画",
+    "title_tr": "題魯庵畫",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔年采石矶头泊，江上馀霞正晚晴。\n追忆旧游如画里，分明梦到石头城。",
+    "content_tr": "昔年采石磯頭泊，江上餘霞正晚晴。\n追憶舊逰如畫裏，分明夣到石頭城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234521,
+  "work": {
+    "id": 234521,
+    "title": "营州曲",
+    "title_tr": "營州曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "貂衣风暖猎渔阳，马乳蒲桃醉战场。\n夜半胡笳自哀怨，浑河水黑月如霜。",
+    "content_tr": "貂衣風煖獵漁陽，馬乳蒲桃醉戰塲。\n夜半胡笳自哀怨，渾河水黑月如霜。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

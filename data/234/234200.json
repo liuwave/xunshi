@@ -1,0 +1,18 @@
+{
+  "work_id": 234200,
+  "work": {
+    "id": 234200,
+    "title": "古诗十二首 其八",
+    "title_tr": "古詩十二首 其八",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "少年重意气，结客长安陌。\n千金买宝剑，烂若芙蓉色。\n相逢豪侠友，脱赠无所惜。\n烽火连朔方，羽书蔽白日。\n壮心纵横起，结束吴钩出。\n焉能老牖下，腰镰事阡陌。",
+    "content_tr": "少年重意氣，結客長安陌。\n千金買寳劍，爛若芙蓉色。\n相逢豪俠友，脫贈無所惜。\n烽火連朔方，羽書蔽白日。\n壯心縱橫起，結束吳鈎出。\n焉能老牖下，腰鎌事阡陌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

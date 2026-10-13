@@ -1,0 +1,18 @@
+{
+  "work_id": 234847,
+  "work": {
+    "id": 234847,
+    "title": "扬州曲 其二",
+    "title_tr": "揚州曲 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高楼望江口，天尽阑干头。\n闻欢隔江去，流盻长江流。",
+    "content_tr": "高樓望江口，天盡䦨干頭。\n聞歡隔江去，流盻長江流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

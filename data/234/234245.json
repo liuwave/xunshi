@@ -1,0 +1,18 @@
+{
+  "work_id": 234245,
+  "work": {
+    "id": 234245,
+    "title": "倒押骏孙寄调十绝句寄调骏孙 其六",
+    "title_tr": "倒押駿孫寄調十絶句寄調駿孫 其六",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "燕山雪后倦游人，又见江南柳色新。\n红袖殷勤别时泪，不堪重洒客衣尘。",
+    "content_tr": "燕山雪後倦逰人，又見江南栁色新。\n紅䄂殷勤别時淚，不堪重洒客衣塵。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

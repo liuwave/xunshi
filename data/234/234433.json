@@ -1,0 +1,18 @@
+{
+  "work_id": 234433,
+  "work": {
+    "id": 234433,
+    "title": "石头城下漏止四更",
+    "title_tr": "石頭城下漏止四更",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "星斗阑干寐未成，江鼍点点应江城。\n荒鸡莫怪天难白，月落霜高只四更。",
+    "content_tr": "星斗䦨干寐未成，江鼍點點應江城。\n荒雞莫恠天難白，月落霜髙只四更。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234948,
+  "work": {
+    "id": 234948,
+    "title": "夜来曲",
+    "title_tr": "夜来曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明镜夜来意，含愁髻半髽。\n多情惟片月，独照满庭花。",
+    "content_tr": "明鏡夜来意，含愁髻半髽。\n多情惟片月，獨照滿庭花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

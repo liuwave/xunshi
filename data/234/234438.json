@@ -1,0 +1,18 @@
+{
+  "work_id": 234438,
+  "work": {
+    "id": 234438,
+    "title": "横林",
+    "title_tr": "横林",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梁溪雨过改秋阴，一曲菱歌乱客心。\n遥指前村人宿处，惊鸦千点下横林。",
+    "content_tr": "梁溪雨過改秋隂，一曲菱歌亂客心。\n遥指前邨人宿處，驚鴉千點下横林。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

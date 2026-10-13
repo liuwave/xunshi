@@ -1,0 +1,18 @@
+{
+  "work_id": 231123,
+  "work": {
+    "id": 231123,
+    "title": "挽陈朴庵",
+    "title_tr": "挽陳樸庵",
+    "author": "张天赋",
+    "author_tr": "張天賦",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红尘界断白云关，不上天朝拜将坛。\n应是百年人事毕，黄金突兀对青山。",
+    "content_tr": "紅塵界斷白雲關，不上天朝拜將壇。\n應是百年人事畢，黃金突兀對青山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

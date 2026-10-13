@@ -1,0 +1,18 @@
+{
+  "work_id": 234545,
+  "work": {
+    "id": 234545,
+    "title": "瓶中桂",
+    "title_tr": "瓶中桂",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "铜瓶双耳鹧鸪斑，供养幽花出小山。\n念尔清芬长对我，时时汲月浸潺湲。",
+    "content_tr": "銅缾雙耳鷓鴣斑，供養幽花出小山。\n念爾清芬長對我，時時汲月浸潺湲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

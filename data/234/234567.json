@@ -1,0 +1,18 @@
+{
+  "work_id": 234567,
+  "work": {
+    "id": 234567,
+    "title": "听吼堂长老夜讲般若 其二",
+    "title_tr": "聴吼堂長老夜講般若 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山堂夜寥寥，人散歇鸣磬。\n风声海潮声，大士讲经竟。",
+    "content_tr": "山堂夜寥寥，人散歇鳴磬。\n風聲海潮聲，大士講經竟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

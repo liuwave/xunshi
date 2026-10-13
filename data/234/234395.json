@@ -1,0 +1,18 @@
+{
+  "work_id": 234395,
+  "work": {
+    "id": 234395,
+    "title": "金陵人归无书",
+    "title_tr": "金陵人歸無書",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "官况萧条旅思初，南来归信日应疏。\n匆匆口语传难尽，不寄平安一纸书。",
+    "content_tr": "官况蕭條旅思初，南来歸信日應踈。\n匆匆口語傳難盡，不寄平安一紙書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

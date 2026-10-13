@@ -1,0 +1,18 @@
+{
+  "work_id": 234410,
+  "work": {
+    "id": 234410,
+    "title": "舟行见红树",
+    "title_tr": "舟行見紅樹",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "枫叶萧萧草半枯，乱鸦飞尽夕阳孤。\n扁舟忽忆西窗画，古木云林三两株。",
+    "content_tr": "楓葉蕭蕭草半枯，亂鴉飛盡夕陽孤。\n扁舟忽憶西窗畫，古木雲林三两株。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

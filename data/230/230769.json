@@ -1,0 +1,18 @@
+{
+  "work_id": 230769,
+  "work": {
+    "id": 230769,
+    "title": "四公子诗 其三 平原",
+    "title_tr": "四公子詩 其三 平原",
+    "author": "张元凯",
+    "author_tr": "張元凱",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夫人弟却五城封，存得邯郸罢折冲。\n门下毛生犹未识，如何肯过卖浆佣。",
+    "content_tr": "夫人弟却五城封，存得邯鄲罷折衝。\n門下毛生猶未識，如何肯過賣漿傭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

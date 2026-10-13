@@ -1,0 +1,18 @@
+{
+  "work_id": 234564,
+  "work": {
+    "id": 234564,
+    "title": "雨后扶菊",
+    "title_tr": "雨後扶菊",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "连夕多风雨，披蓑护菊苗。\n添泥重插竹，剪尽碧干霄。",
+    "content_tr": "連夕多風雨，披簑䕶菊苗。\n添泥重揷竹，剪盡碧干霄。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

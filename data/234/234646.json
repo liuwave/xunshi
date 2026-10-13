@@ -1,0 +1,18 @@
+{
+  "work_id": 234646,
+  "work": {
+    "id": 234646,
+    "title": "床头七咏 其七 羽扇",
+    "title_tr": "床頭七詠 其七 羽扇",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏牖延月光，照我白羽扇。\n风吹入君怀，所思不可见。",
+    "content_tr": "踈牖延月光，照我白羽扇。\n風吹入君懐，所思不可見。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234432,
+  "work": {
+    "id": 234432,
+    "title": "述间二首 其二",
+    "title_tr": "述間二首 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "罢钓归来月满身，水流花落夜无人。\n山猿伴我扫花卧，铺地白云闲可亲。",
+    "content_tr": "罷釣歸来月滿身，水流花落夜無人。\n山猿伴我掃花卧，鋪地白雲閒可親。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

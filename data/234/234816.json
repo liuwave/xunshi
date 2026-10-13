@@ -1,0 +1,18 @@
+{
+  "work_id": 234816,
+  "work": {
+    "id": 234816,
+    "title": "淀山湖",
+    "title_tr": "澱山湖",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洞庭山下去，白浪接天流。\n烟波十万顷，少个打鱼舟。",
+    "content_tr": "洞庭山下去，白浪接天流。\n煙波十萬頃，少箇打魚舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234495,
+  "work": {
+    "id": 234495,
+    "title": "洛社",
+    "title_tr": "洛社",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莲子花残菊满枝，燕飞已定雁来期。\n只今秋社西风起，不及春归洛下时。",
+    "content_tr": "蓮子花殘菊滿枝，燕飛已定雁来期。\n只今秋社西風起，不及春歸洛下時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

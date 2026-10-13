@@ -1,0 +1,18 @@
+{
+  "work_id": 230120,
+  "work": {
+    "id": 230120,
+    "title": "秋江夜月",
+    "title_tr": "秋江夜月",
+    "author": "张家玉",
+    "author_tr": "張家玉",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜满空林红叶稀，卷篷秋露欲沾衣。\n水鸟夜寒栖不定，双双偏掠客船飞。",
+    "content_tr": "霜滿空林紅葉稀，捲篷秋露欲沾衣。\n水鳥夜寒棲不定，雙雙偏掠客船飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

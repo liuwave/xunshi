@@ -1,0 +1,18 @@
+{
+  "work_id": 234647,
+  "work": {
+    "id": 234647,
+    "title": "并州歌",
+    "title_tr": "并州歌",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "桑干河上雁初飞，戌客长征老铁衣。\n一夜望乡头白尽，应知梦里寄书归。",
+    "content_tr": "桑乾河上雁初飛，戌客長征老鉄衣。\n一夜望郷頭白盡，應知夣裏寄書歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

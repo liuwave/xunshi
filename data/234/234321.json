@@ -1,0 +1,18 @@
+{
+  "work_id": 234321,
+  "work": {
+    "id": 234321,
+    "title": "倒押骏孙寄调十绝句寄调骏孙 其一",
+    "title_tr": "倒押駿孫寄調十絶句寄調駿孫 其一",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天涯岁尽只残灯，烟月扬州思不胜。\n试问还家连夕梦，空床夜夜到还曾。",
+    "content_tr": "天涯歲盡只殘燈，烟月揚州思不勝。\n試問還家連夕夣，空床夜夜到還曽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

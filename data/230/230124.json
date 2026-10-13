@@ -1,0 +1,18 @@
+{
+  "work_id": 230124,
+  "work": {
+    "id": 230124,
+    "title": "怀内二首",
+    "title_tr": "懷內二首",
+    "author": "张家玉",
+    "author_tr": "張家玉",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闺中昨日起离愁，杨柳青青送客舟。\n今夕凄凉又何处，半帆烟雨楚江秋。",
+    "content_tr": "閨中昨日起離愁，楊柳青青送客舟。\n今夕淒涼又何處，半帆煙雨楚江秋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

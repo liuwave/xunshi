@@ -1,0 +1,18 @@
+{
+  "work_id": 234551,
+  "work": {
+    "id": 234551,
+    "title": "床头七咏 其二 倚杖",
+    "title_tr": "床頭七詠 其二 倚杖",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "瘦藤倚孤榻，苍藓尚斑斑。\n梦中扶杖去，犹自绕千山。",
+    "content_tr": "痩藤倚孤榻，蒼蘚尚斑斑。\n夣中扶杖去，猶自繞千山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234538,
+  "work": {
+    "id": 234538,
+    "title": "和李山甫咏柳十首 其十",
+    "title_tr": "和李山甫詠桺十首 其十",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜落曾随塞草枯，东风依旧拂平芜。\n春衣未寄砧声起，肠断银床旧鹿卢。",
+    "content_tr": "霜落曾隨塞草枯，東風依舊拂平蕪。\n春衣未寄砧聲起，腸斷銀床舊鹿盧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

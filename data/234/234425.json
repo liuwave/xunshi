@@ -1,0 +1,18 @@
+{
+  "work_id": 234425,
+  "work": {
+    "id": 234425,
+    "title": "龙门山马祖道场",
+    "title_tr": "龍門山馬祖道塲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "马祖禅林迹已残，山花开落旧经坛。\n龙湫一片传灯月，长照雷池万古寒。",
+    "content_tr": "馬祖禪林迹已殘，山花開落舊經壇。\n龍湫一片傳燈月，長照雷池萬古寒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

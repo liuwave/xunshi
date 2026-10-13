@@ -1,0 +1,18 @@
+{
+  "work_id": 234665,
+  "work": {
+    "id": 234665,
+    "title": "月下独坐 其三",
+    "title_tr": "月下獨坐 其三",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "坐久觉夜凉，月华淡于水。\n烛灭花阴深，湿萤飞不起。",
+    "content_tr": "坐久覺夜凉，月華淡于水。\n燭滅花隂深，濕螢飛不起。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234296,
+  "work": {
+    "id": 234296,
+    "title": "宋浦书感",
+    "title_tr": "宋浦書感",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒食东风冷墓田，石楠折尽草芉绵。\n桃花流水俱非旧，惟有伤心似去年。",
+    "content_tr": "寒食東風冷墓田，石楠折盡草芉綿。\n桃花流水俱非舊，惟有傷心似去年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

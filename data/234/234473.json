@@ -1,0 +1,18 @@
+{
+  "work_id": 234473,
+  "work": {
+    "id": 234473,
+    "title": "窗前红梅",
+    "title_tr": "窓前紅梅",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曾向新寒探早梅，一枝未放小春回。\n只今纸帐空斋畔，独有红梅冒雪开。",
+    "content_tr": "曽向新寒探早梅，一枝未放小春回。\n只今紙帳空齋畔，獨有紅梅冒雪開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

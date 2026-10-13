@@ -1,0 +1,18 @@
+{
+  "work_id": 234255,
+  "work": {
+    "id": 234255,
+    "title": "又题桃源图二首 其二",
+    "title_tr": "又題桃源圖二首 其二",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五柳先生只寓言，人间那得有桃源。\n武陵今日山如旧，流水飞花更几村。",
+    "content_tr": "五栁先生只寓言，人間那得有桃源。\n武陵今日山如舊，流水飛花更㡬村。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

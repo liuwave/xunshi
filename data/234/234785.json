@@ -1,0 +1,18 @@
+{
+  "work_id": 234785,
+  "work": {
+    "id": 234785,
+    "title": "吴城后湖",
+    "title_tr": "吳城後湖",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昨宵山雨来，没却前村碓。\n夜半阁渔舟，寒江知水退。",
+    "content_tr": "昨宵山雨来，沒却前村碓。\n夜半閣漁舟，寒江知水退。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

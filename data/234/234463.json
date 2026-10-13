@@ -1,0 +1,18 @@
+{
+  "work_id": 234463,
+  "work": {
+    "id": 234463,
+    "title": "一捻盐",
+    "title_tr": "一捻鹽",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "名花选得进西宫，正值新妆一捻红。\n自是六宫虚粉黛，倚阑谁复更春风。",
+    "content_tr": "名花選得進西宫，正值新粧一捻紅。\n自是六宫虚粉黛，倚闌誰復更春風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

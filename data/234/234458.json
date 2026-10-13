@@ -1,0 +1,18 @@
+{
+  "work_id": 234458,
+  "work": {
+    "id": 234458,
+    "title": "龙沙废寺",
+    "title_tr": "龍沙廢寺",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古寺荒台石径斜，青山依旧绕龙沙。\n僧房昔日题诗处，佛座俱开枳壳花。",
+    "content_tr": "古寺荒臺石徑斜，青山依舊繞龍沙。\n僧房昔日題詩處，佛座俱開枳殼花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 232345,
+  "work": {
+    "id": 232345,
+    "title": "赋秋泉",
+    "title_tr": "賦秋泉",
+    "author": "许相卿",
+    "author_tr": "許相卿",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "微霜昨夜下庭柯，东岫朝来爽气多。\n偶过溪桥探三秀，惊看白发照沧波。",
+    "content_tr": "微霜昨夜下庭柯，東岫朝來爽氣多。\n偶過溪橋探三秀，驚看白髪照滄波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

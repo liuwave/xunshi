@@ -1,0 +1,18 @@
+{
+  "work_id": 232323,
+  "work": {
+    "id": 232323,
+    "title": "勾溪和什来再用原韵",
+    "title_tr": "勾溪和什來再用原韻",
+    "author": "许相卿",
+    "author_tr": "許相卿",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "梦断纷华几岁年，烟云况味只萧然。\n草玄笔砚消长昼，今雨都忘旧雨船。",
+    "content_tr": "夢斷紛華㡬嵗年，煙雲況味只蕭然。\n草玄筆硯消長晝，今雨都忘舊雨船。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

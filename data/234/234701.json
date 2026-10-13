@@ -1,0 +1,18 @@
+{
+  "work_id": 234701,
+  "work": {
+    "id": 234701,
+    "title": "夜卧见月",
+    "title_tr": "夜卧見月",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "幽人卧南楼，枕上见明月。\n花影未分明，更起吹灯灭。",
+    "content_tr": "幽人卧南樓，枕上見明月。\n花影未分眀，更起吹燈㓕。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

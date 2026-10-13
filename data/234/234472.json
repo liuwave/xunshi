@@ -1,0 +1,18 @@
+{
+  "work_id": 234472,
+  "work": {
+    "id": 234472,
+    "title": "春望曲",
+    "title_tr": "春望曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东风双骑踏平沙，三月光风蕙吐花。\n肠断高楼卷帘坐，马蹄归去入谁家。",
+    "content_tr": "東風雙騎踏平沙，三月光風蕙吐花。\n膓㫁髙樓捲簾坐，馬蹄歸去入誰家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

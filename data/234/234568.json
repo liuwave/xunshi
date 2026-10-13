@@ -1,0 +1,18 @@
+{
+  "work_id": 234568,
+  "work": {
+    "id": 234568,
+    "title": "江南可采莲五绝句各以一句为题 其二 鱼戏莲叶东",
+    "title_tr": "江南可採蓮五絶句各以一句爲題 其二 魚戯蓮葉東",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日出渌波㡳，荷花影许长。\n游鱼弄朝旭，吹沬溅红妆。",
+    "content_tr": "日出渌波㡳，荷花影許長。\n逰魚㺯朝旭，吹沬濺紅粧。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

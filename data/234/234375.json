@@ -1,0 +1,18 @@
+{
+  "work_id": 234375,
+  "work": {
+    "id": 234375,
+    "title": "水鼓子第二曲",
+    "title_tr": "水鼓子第二曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金微汉月碛中分，铁勒胡笳徼外闻。\n昏黑烧□山背火，苍黄出塞马头云。",
+    "content_tr": "金微漢月磧中分，鉄勒胡笳徼外聞。\n昏黒燒□山背火，蒼黄出塞馬頭雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 234729,
+  "work": {
+    "id": 234729,
+    "title": "江上小诗二十首 其十四 梅根",
+    "title_tr": "江上小詩二十首 其十四 梅根",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五月黄梅雨，江流尽日浑。\n谁持渡江楫，隔水唤桃根。",
+    "content_tr": "五月黄梅雨，江流盡日渾。\n誰持渡江檝，隔水喚桃根。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

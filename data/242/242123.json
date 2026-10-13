@@ -1,0 +1,18 @@
+{
+  "work_id": 242123,
+  "work": {
+    "id": 242123,
+    "title": "送客南征",
+    "title_tr": "送客南征",
+    "author": "邹智",
+    "author_tr": "鄒智",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "疏雨不复月，蟋蟀空自鸣。\n出门送佳客，正值新月晴。\n月晴已足嘉，况复惊波平。\n君知爱月意，莫惜清宵征。",
+    "content_tr": "疏雨不復月，蟋蟀空自鳴。\n出門送佳客，正值新月晴。\n月晴已足嘉，況復驚波平。\n君知愛月意，莫惜清宵征。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

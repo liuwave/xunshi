@@ -1,0 +1,18 @@
+{
+  "work_id": 234283,
+  "work": {
+    "id": 234283,
+    "title": "诗社分赋十绝句 其六 雁字",
+    "title_tr": "詩社分賦十絶句 其六 雁字",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "塞门秋冷朔风初，几阵征鸿过碧虚。\n多少辽西下归客，临风只有数行书。",
+    "content_tr": "塞門秋冷朔風初，㡬陣征鴻過碧虚。\n多少遼西下歸客，臨風祗有數行書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

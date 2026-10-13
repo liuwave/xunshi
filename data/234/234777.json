@@ -1,0 +1,18 @@
+{
+  "work_id": 234777,
+  "work": {
+    "id": 234777,
+    "title": "寡妇矶",
+    "title_tr": "寡婦磯",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寡鹄矶头立，青天夜夜霜。\n应怜小姑女，昨夜嫁彭郎。",
+    "content_tr": "寡鵠磯頭立，青天夜夜霜。\n應憐小姑女，昨夜嫁彭郎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

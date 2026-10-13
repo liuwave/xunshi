@@ -1,0 +1,18 @@
+{
+  "work_id": 234830,
+  "work": {
+    "id": 234830,
+    "title": "双蝶曲",
+    "title_tr": "雙蝶曲",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "双蝶自相见，俱飞入柳花。\n空馀无限意，寂寞数昏鸦。",
+    "content_tr": "雙蝶自相見，俱飛入栁花。\n空餘無限意，寂寞數昏鴉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 231111,
+  "work": {
+    "id": 231111,
+    "title": "闲中口号",
+    "title_tr": "閒中口號",
+    "author": "张天赋",
+    "author_tr": "張天賦",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "困倦无聊懒作诗，高山音调少人知。\n欲将心向渔郎说，何处江头好钓矶。",
+    "content_tr": "睏倦無聊懶作詩，高山音調少人知。\n欲將心向漁郎說，何處江頭好釣磯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

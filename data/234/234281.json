@@ -1,0 +1,18 @@
+{
+  "work_id": 234281,
+  "work": {
+    "id": 234281,
+    "title": "此夜",
+    "title_tr": "此夜",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三十年前此夜游，重携红烛上西楼。\n添灯可似当时面，不为文君已白头。",
+    "content_tr": "三十年前此夜逰，重擕紅燭上西樓。\n添燈可似當時面，不為文君已白頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

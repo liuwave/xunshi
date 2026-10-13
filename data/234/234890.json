@@ -1,0 +1,18 @@
+{
+  "work_id": 234890,
+  "work": {
+    "id": 234890,
+    "title": "庭中紫荆花",
+    "title_tr": "庭中紫荆花",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "兄弟凋零尽，荆花空自荣。\n可怜枝上紫，偏对小窗明。",
+    "content_tr": "兄弟凋零盡，荆花空自榮。\n可憐枝上紫，偏對小窗明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

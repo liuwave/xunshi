@@ -1,0 +1,18 @@
+{
+  "work_id": 240102,
+  "work": {
+    "id": 240102,
+    "title": "皋亭山",
+    "title_tr": "皋亭山",
+    "author": "程敏政",
+    "author_tr": "程敏政",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓受降书夜戢兵，路人犹说伯颜名。\n中原多少奇男子，不向燕山立汉旌。",
+    "content_tr": "曉受降書夜戢兵，路人猶說伯顏名。\n中原多少奇男子，不向燕山立漢旌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

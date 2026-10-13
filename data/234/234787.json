@@ -1,0 +1,18 @@
+{
+  "work_id": 234787,
+  "work": {
+    "id": 234787,
+    "title": "荒庵",
+    "title_tr": "荒庵",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山僧坐荒庵，深草没门径。\n对客了无言，晨昏数声磬。",
+    "content_tr": "山僧坐荒庵，深草沒門徑。\n對客了無言，晨昏數聲磬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

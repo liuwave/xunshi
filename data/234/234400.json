@@ -1,0 +1,18 @@
+{
+  "work_id": 234400,
+  "work": {
+    "id": 234400,
+    "title": "舟行晋陵忆斋头竹筱下",
+    "title_tr": "舟行晋陵憶齋頭竹篠下",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "高柳西风送夕阳，夜深牛斗各苍苍。\n扁舟忽忆南轩下，万个清阴竹筱傍。",
+    "content_tr": "髙栁西風送夕陽，夜深牛斗各蒼蒼。\n扁舟忽憶南軒下，萬箇清隂竹篠傍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

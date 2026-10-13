@@ -1,0 +1,18 @@
+{
+  "work_id": 234266,
+  "work": {
+    "id": 234266,
+    "title": "诗社分赋十绝句 其三 红尘",
+    "title_tr": "詩社分賦十絶句 其三 紅塵",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "非烟非雾敛芳埃，紫陌氤氲昼未开。\n惟有青山高卧客，未曾一到此中来。",
+    "content_tr": "非烟非霧斂芳埃，紫陌氤氲晝未開。\n惟有青山髙卧客，未曽一到此中来。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

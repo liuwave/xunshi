@@ -1,0 +1,18 @@
+{
+  "work_id": 234397,
+  "work": {
+    "id": 234397,
+    "title": "买花口号",
+    "title_tr": "買花口號",
+    "author": "彭孙贻",
+    "author_tr": "彭孫貽",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红板桥西问酒家，子规声里歇韶华。\n游人不识春归尽，犹向街头问卖花。",
+    "content_tr": "紅板橋西問酒家，子規聲裏歇韶華。\n游人不識春歸盡，猶向街頭問賣花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
