@@ -1,0 +1,18 @@
+{
+  "work_id": 401020,
+  "work": {
+    "id": 401020,
+    "title": "临蜕遗诗",
+    "title_tr": "臨蛻遺詩",
+    "author": "晏颖",
+    "author_tr": "晏穎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江外三千里，人间十八年。\n此行谁复见，一鹤上辽天。",
+    "content_tr": "江外三千里，人間十八年。\n此行誰復見，一鶴上遼天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 400800,
+  "work": {
+    "id": 400800,
+    "title": "读江南诸公诗",
+    "title_tr": "讀江南諸公詩",
+    "author": "晁公溯",
+    "author_tr": "晁公溯",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吟尽江南草木春，只今台阁有诗人。\n汉廷安用沧浪句，容我持竿咏白蘋。",
+    "content_tr": "吟盡江南草木春，只今臺閣有詩人。\n漢廷安用滄浪句，容我持竿詠白蘋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

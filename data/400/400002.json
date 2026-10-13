@@ -1,0 +1,18 @@
+{
+  "work_id": 400002,
+  "work": {
+    "id": 400002,
+    "title": "贵仙",
+    "title_tr": "貴仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凤节霓旌拥万神，五云车骑驾龙麟。\n腰闲独佩黄金箓，元是瑶宫第一人。",
+    "content_tr": "鳳節霓旌擁萬神，五雲車騎駕龍麟。\n腰閒獨佩黃金籙，元是瑤宮第一人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

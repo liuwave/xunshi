@@ -1,0 +1,18 @@
+{
+  "work_id": 411000,
+  "work": {
+    "id": 411000,
+    "title": "晓径",
+    "title_tr": "曉徑",
+    "author": "高遁翁",
+    "author_tr": "高遁翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "萝径朝飞雨，莓苔染翠浓。\n登山双屐健，自拟少年同。",
+    "content_tr": "蘿徑朝飛雨，莓苔染翠濃。\n登山雙屐健，自擬少年同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

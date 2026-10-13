@@ -1,0 +1,18 @@
+{
+  "work_id": 400050,
+  "work": {
+    "id": 400050,
+    "title": "吟仙",
+    "title_tr": "吟仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金编诵处无人见，玉洞题时有凤知。\n昨夜忽然何处去，月中吟就白云诗。",
+    "content_tr": "金編誦處無人見，玉洞題時有鳳知。\n昨夜忽然何處去，月中吟就白雲詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

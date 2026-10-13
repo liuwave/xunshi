@@ -1,0 +1,18 @@
+{
+  "work_id": 400003,
+  "work": {
+    "id": 400003,
+    "title": "困仙",
+    "title_tr": "困仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "洞中一觉春风梦，落尽桃源万树花。\n灶上丹砂寻不见，骑鸾误入阿谁家。",
+    "content_tr": "洞中一覺春風夢，落盡桃源萬樹花。\n竈上丹砂尋不見，騎鸞誤入阿誰家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

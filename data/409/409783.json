@@ -1,0 +1,18 @@
+{
+  "work_id": 409783,
+  "work": {
+    "id": 409783,
+    "title": "诵少陵诗集",
+    "title_tr": "誦少陵詩集",
+    "author": "陈藻",
+    "author_tr": "陳藻",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麻鞋奔走杜陵翁，卧尽风帆雨驿中。\n天也不愁穷饿杀，年年催促要诗工。",
+    "content_tr": "麻鞋奔走杜陵翁，臥盡風帆雨驛中。\n天也不愁窮餓殺，年年催促要詩工。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 400782,
+  "work": {
+    "id": 400782,
+    "title": "簿书",
+    "title_tr": "簿書",
+    "author": "晁公溯",
+    "author_tr": "晁公溯",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨梢飞雪满城风，暖日催花烂熳红。\n诗兴消磨浑欲尽，一春心事簿书中。",
+    "content_tr": "楊梢飛雪滿城風，暖日催花爛熳紅。\n詩興消磨渾欲盡，一春心事簿書中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

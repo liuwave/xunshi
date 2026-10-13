@@ -1,0 +1,18 @@
+{
+  "work_id": 400006,
+  "work": {
+    "id": 400006,
+    "title": "送云鹤山人",
+    "title_tr": "送雲鶴山人",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "倦鹤寻流水，闲云归故山。\n青囊书在否，留取教人闲。",
+    "content_tr": "倦鶴尋流水，閒雲歸故山。\n青囊書在否，留取教人閒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

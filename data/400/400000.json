@@ -1,0 +1,18 @@
+{
+  "work_id": 400000,
+  "work": {
+    "id": 400000,
+    "title": "送曾子开",
+    "title_tr": "送曾子開",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扬子江头风正寒，行人莫叹渡头难。\n江头杨柳岂常在，但向江头洗眼看。",
+    "content_tr": "揚子江頭風正寒，行人莫嘆渡頭難。\n江頭楊柳豈常在，但向江頭洗眼看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

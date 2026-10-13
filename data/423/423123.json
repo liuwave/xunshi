@@ -1,0 +1,18 @@
+{
+  "work_id": 423123,
+  "work": {
+    "id": 423123,
+    "title": "弘忍像赞",
+    "title_tr": "弘忍像贊",
+    "author": "杨杰",
+    "author_tr": "楊傑",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人孰无父，祖独有母。\n其母为谁，周氏季女。\n浊港滔滔入大江，门前依旧长安路。",
+    "content_tr": "人孰無父，祖獨有母。\n其母爲誰，周氏季女。\n濁港滔滔入大江，門前依舊長安路。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

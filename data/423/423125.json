@@ -1,0 +1,18 @@
+{
+  "work_id": 423125,
+  "work": {
+    "id": 423125,
+    "title": "琉璃轩",
+    "title_tr": "琉璃軒",
+    "author": "杨杰",
+    "author_tr": "楊傑",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西轩一泓水，莹净碧琉璃。\n天人举目视，中有鱼龙知不知。",
+    "content_tr": "西軒一泓水，瑩凈碧琉璃。\n天人舉目視，中有魚龍知不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

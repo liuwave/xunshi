@@ -1,0 +1,18 @@
+{
+  "work_id": 400025,
+  "work": {
+    "id": 400025,
+    "title": "廉仙",
+    "title_tr": "廉仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人闲日月分庭过，天外星河入户流。\n是物化金无所用，满田种玉不曾收。",
+    "content_tr": "人閒日月分庭過，天外星河入戶流。\n是物化金無所用，滿田種玉不曾收。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

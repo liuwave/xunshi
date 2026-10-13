@@ -1,0 +1,18 @@
+{
+  "work_id": 422093,
+  "work": {
+    "id": 422093,
+    "title": "咏西湖",
+    "title_tr": "詠西湖",
+    "author": "程琳",
+    "author_tr": "程琳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西湖多胜景，飞盖喜相陪。\n暑气迎秋尽，江声向夕来。",
+    "content_tr": "西湖多勝景，飛蓋喜相陪。\n暑氣迎秋盡，江聲向夕來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

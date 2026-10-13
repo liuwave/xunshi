@@ -1,0 +1,18 @@
+{
+  "work_id": 420622,
+  "work": {
+    "id": 420622,
+    "title": "马上吟",
+    "title_tr": "馬上吟",
+    "author": "汤莘叟",
+    "author_tr": "湯莘叟",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宿雨洗山新绿嫩，晓风吹杏浅红干。\n沙头路暖日欲上，行客扬鞭不觉难。",
+    "content_tr": "宿雨洗山新綠嫩，曉風吹杏淺紅乾。\n沙頭路暖日欲上，行客揚鞭不覺難。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

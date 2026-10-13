@@ -1,0 +1,18 @@
+{
+  "work_id": 424344,
+  "work": {
+    "id": 424344,
+    "title": "王鸥盟别去久之有诗继韵",
+    "title_tr": "王鷗盟別去久之有詩繼韻",
+    "author": "杨冠卿",
+    "author_tr": "楊冠卿",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "急桨冲烟去，奚奴唤不应。\n清吟继囊锦，妙句琢壶冰。\n天远暮云碧，江寒秋练澄。\n怀人心欲折，愁坐对青灯。",
+    "content_tr": "急槳衝煙去，奚奴喚不應。\n清吟繼囊錦，妙句琢壺冰。\n天遠暮雲碧，江寒秋練澄。\n懷人心欲折，愁坐對青燈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

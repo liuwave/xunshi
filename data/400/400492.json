@@ -1,0 +1,18 @@
+{
+  "work_id": 400492,
+  "work": {
+    "id": 400492,
+    "title": "直钩和韵",
+    "title_tr": "直鉤和韻",
+    "author": "徐俨夫",
+    "author_tr": "徐儼夫",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一曲湖边一钓矶，桃花风定柳绵飞。\n渔人岂识濠梁趣，只解沙头尽醉归。",
+    "content_tr": "一曲湖邊一釣磯，桃花風定柳綿飛。\n漁人豈識濠梁趣，只解沙頭盡醉歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

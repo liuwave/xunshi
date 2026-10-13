@@ -1,0 +1,18 @@
+{
+  "work_id": 404234,
+  "work": {
+    "id": 404234,
+    "title": "庐山爱莲堂观雨",
+    "title_tr": "廬山愛蓮堂觀雨",
+    "author": "陈宓",
+    "author_tr": "陳宓",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秀色真香先自清，更将轻雨出芳明。\n萧萧打叶虽堪听，争似时时泻水声。",
+    "content_tr": "秀色真香先自清，更將輕雨出芳明。\n蕭蕭打葉雖堪聽，爭似時時瀉水聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

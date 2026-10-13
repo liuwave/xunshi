@@ -1,0 +1,18 @@
+{
+  "work_id": 400042,
+  "work": {
+    "id": 400042,
+    "title": "玉妃",
+    "title_tr": "玉妃",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "琳琅宫殿本无尘，犹跨青鸾踏紫云。\n怪得晓来天色淡，海霞都在玉妃裙。",
+    "content_tr": "琳琅宮殿本無塵，猶跨青鸞踏紫雲。\n怪得曉來天色淡，海霞都在玉妃裙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

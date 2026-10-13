@@ -1,0 +1,18 @@
+{
+  "work_id": 400340,
+  "work": {
+    "id": 400340,
+    "title": "谢秀才晦庵",
+    "title_tr": "謝秀才晦菴",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山有武夷，水有建溪。\n有猿有鹤，有庵可栖。\n有庵可栖，云乎不归。",
+    "content_tr": "山有武夷，水有建溪。\n有猿有鶴，有菴可棲。\n有菴可棲，云乎不歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

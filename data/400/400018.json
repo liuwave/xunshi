@@ -1,0 +1,18 @@
+{
+  "work_id": 400018,
+  "work": {
+    "id": 400018,
+    "title": "忧仙",
+    "title_tr": "憂仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我是真人何所忧，所忧世俗好多求。\n相谋相诈何时了，一笑一啼无日休。",
+    "content_tr": "我是真人何所憂，所憂世俗好多求。\n相謀相詐何時了，一笑一啼無日休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

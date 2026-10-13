@@ -1,0 +1,18 @@
+{
+  "work_id": 400020,
+  "work": {
+    "id": 400020,
+    "title": "宴仙",
+    "title_tr": "宴仙",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "紫瑶楼上宴真人，脍是鲸鲵脯是麟。\n醉倒玉妃何处去，烟霞迎步鹤随身。",
+    "content_tr": "紫瑤樓上宴真人，膾是鯨鯢脯是麟。\n醉倒玉妃何處去，煙霞迎步鶴隨身。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

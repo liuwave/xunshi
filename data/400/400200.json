@@ -1,0 +1,18 @@
+{
+  "work_id": 400200,
+  "work": {
+    "id": 400200,
+    "title": "韦侍郎挽词其二",
+    "title_tr": "韋侍郎輓詞其二",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "野水鹤犹回，旧山云不归。\n不归将奈何，但恐云无依。\n公是吴中老，吴人爱公好。\n公好不来归，泪湿江边草。",
+    "content_tr": "野水鶴猶回，舊山雲不歸。\n不歸將奈何，但恐雲無依。\n公是吳中老，吳人愛公好。\n公好不來歸，淚溼江邊草。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

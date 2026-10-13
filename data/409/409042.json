@@ -1,0 +1,18 @@
+{
+  "work_id": 409042,
+  "work": {
+    "id": 409042,
+    "title": "送行诗",
+    "title_tr": "送行詩",
+    "author": "陈琦",
+    "author_tr": "陳琦",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "太白休愁横阁暝，少陵剩赋浣花春。\n金沙银铄巴中路，绿水红莲幕下宾。",
+    "content_tr": "太白休愁橫閣暝，少陵剩賦浣花春。\n金沙銀鑠巴中路，綠水紅蓮幕下賓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

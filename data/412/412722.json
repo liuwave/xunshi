@@ -1,0 +1,18 @@
+{
+  "work_id": 412722,
+  "work": {
+    "id": 412722,
+    "title": "雨中听邻家侍儿歌",
+    "title_tr": "雨中聽鄰家侍兒歌",
+    "author": "张嵲",
+    "author_tr": "張嵲",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客恨如酲何日醒，满空烟雨昼冥冥。\n垂帘竟日无馀事，隔叶流莺独坐听。",
+    "content_tr": "客恨如酲何日醒，滿空煙雨晝冥冥。\n垂簾竟日無餘事，隔葉流鶯獨坐聽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

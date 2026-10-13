@@ -1,0 +1,18 @@
+{
+  "work_id": 400023,
+  "work": {
+    "id": 400023,
+    "title": "答白云之句其一",
+    "title_tr": "答白雲之句其一",
+    "author": "徐积",
+    "author_tr": "徐積",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我是白云云是我，自知云我不须分。\n时人若问山翁意，看取山头一片云。",
+    "content_tr": "我是白雲雲是我，自知雲我不須分。\n時人若問山翁意，看取山頭一片雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

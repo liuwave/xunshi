@@ -1,0 +1,18 @@
+{
+  "work_id": 403500,
+  "work": {
+    "id": 403500,
+    "title": "题吴公辅庵",
+    "title_tr": "題吳公輔庵",
+    "author": "陈东",
+    "author_tr": "陳東",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一径萦回屋数间，我来聊欲寄清闲。\n道人杖履知何处，空锁烟霞万叠山。",
+    "content_tr": "一徑縈迴屋數間，我來聊欲寄清閒。\n道人杖履知何處，空鎖煙霞萬疊山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

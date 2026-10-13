@@ -1,0 +1,18 @@
+{
+  "work_id": 415234,
+  "work": {
+    "id": 415234,
+    "title": "宫词三十三首 其一",
+    "title_tr": "宮詞三十三首 其一",
+    "author": "曹勋",
+    "author_tr": "曹勳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "郁葱佳气转春风，五色云低驻玉龙。\n紫府清都天不远，翘鸱浑在翠微中。",
+    "content_tr": "鬰葱佳氣轉春風，五色雲低駐玉龍。\n紫府清都天不遠，翹鴟渾在翠微中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

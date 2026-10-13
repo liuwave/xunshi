@@ -1,0 +1,18 @@
+{
+  "work_id": 422123,
+  "work": {
+    "id": 422123,
+    "title": "瑞峰院",
+    "title_tr": "瑞峯院",
+    "author": "董渊",
+    "author_tr": "董淵",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "石屏树幄白云端，溪路生苔树石间。\n闲访禅家问尘世，总言尘事不相干。",
+    "content_tr": "石屏樹幄白雲端，溪路生苔樹石間。\n閒訪禪家問塵世，總言塵事不相干。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 401504,
+  "work": {
+    "id": 401504,
+    "title": "夜闻乌啼",
+    "title_tr": "夜聞烏啼",
+    "author": "晁说之",
+    "author_tr": "晁說之",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "义乌此夜一何啼，明日欢欣事不迷。\n定是军回蓟南北，宁论贼退关东西。",
+    "content_tr": "義烏此夜一何啼，明日歡欣事不迷。\n定是軍回薊南北，寧論賊退關東西。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

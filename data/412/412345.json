@@ -1,0 +1,18 @@
+{
+  "work_id": 412345,
+  "work": {
+    "id": 412345,
+    "title": "晚春游金明抵暮入宜秋门阍兵捧门牌请官位因书一阕",
+    "title_tr": "晚春遊金明抵暮入宜秋門閽兵捧門牌請官位因書一闋",
+    "author": "张士逊",
+    "author_tr": "張士遜",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闲游灵沼送春回，关吏何须苦见猜。\n八十衰翁无品秩，昔曾三到凤池来。",
+    "content_tr": "閒遊靈沼送春回，關吏何須苦見猜。\n八十衰翁無品秩，昔曾三到鳳池來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

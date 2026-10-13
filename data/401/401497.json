@@ -1,0 +1,18 @@
+{
+  "work_id": 401497,
+  "work": {
+    "id": 401497,
+    "title": "扬州三绝句",
+    "title_tr": "揚州三絕句",
+    "author": "晁说之",
+    "author_tr": "晁說之",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客散平山堂上后，孰如子骏在扬州。\n解传鲍照旧辞赋，输尽芜城千古愁。",
+    "content_tr": "客散平山堂上後，孰如子駿在揚州。\n解傳鮑照舊辭賦，輸盡蕪城千古愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
