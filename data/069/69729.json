@@ -1,0 +1,18 @@
+{
+  "work_id": 69729,
+  "work": {
+    "id": 69729,
+    "title": "大雨联句",
+    "title_tr": "大雨聯句",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庭松偃盖如醉，夏雨凄凉似秋。\n有客高吟拥鼻，无人共吃馒头。",
+    "content_tr": "庭松偃蓋如醉，夏雨淒涼似秋。\n有客高吟擁鼻，無人共吃饅頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

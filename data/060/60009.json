@@ -1,0 +1,18 @@
+{
+  "work_id": 60009,
+  "work": {
+    "id": 60009,
+    "title": "桃林夜贺晋公",
+    "title_tr": "桃林夜賀晉公",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西来骑火照山红，夜宿桃林腊月中。\n手把命圭兼相印，一时重叠赏元功。",
+    "content_tr": "西來騎火照山紅，夜宿桃林臘月中。\n手把命圭兼相印，一時重疊賞元功。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

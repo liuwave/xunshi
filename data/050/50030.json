@@ -1,0 +1,18 @@
+{
+  "work_id": 50030,
+  "work": {
+    "id": 50030,
+    "title": "长安新晴",
+    "title_tr": "長安新晴",
+    "author": "陆畅",
+    "author_tr": "陸暢",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "九重深浅人不知，金殿玉楼倚朝日。\n一夜城中新雨晴，御沟流得宫花出。",
+    "content_tr": "九重深淺人不知，金殿玉樓倚朝日。\n一夜城中新雨晴，御溝流得宮花出。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

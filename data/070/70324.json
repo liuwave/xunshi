@@ -1,0 +1,18 @@
+{
+  "work_id": 70324,
+  "work": {
+    "id": 70324,
+    "title": "书寿宁寺壁",
+    "title_tr": "書壽寧寺壁",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "门前幽径踏苍苔，犹忆前回信步来。\n午醉正酣归未得，斜阳古殿橘花开。",
+    "content_tr": "門前幽徑踏蒼苔，猶憶前回信步來。\n午醉正酣歸未得，斜陽古殿橘花開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

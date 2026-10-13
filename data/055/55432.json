@@ -1,0 +1,18 @@
+{
+  "work_id": 55432,
+  "work": {
+    "id": 55432,
+    "title": "樵翁",
+    "title_tr": "樵翁",
+    "author": "蒋吉",
+    "author_tr": "蔣吉",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独入深山信脚行，惯当貙虎不曾惊。\n路傍花发无心看，惟见枯枝刮眼明。",
+    "content_tr": "獨入深山信腳行，慣當貙虎不曾驚。\n路傍花發無心看，惟見枯枝刮眼明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

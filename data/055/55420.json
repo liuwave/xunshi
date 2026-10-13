@@ -1,0 +1,18 @@
+{
+  "work_id": 55420,
+  "work": {
+    "id": 55420,
+    "title": "湘中怨讽",
+    "title_tr": "湘中怨諷",
+    "author": "郑仆射",
+    "author_tr": "鄭僕射",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青鹢苦幽独，隔江相对稀。\n夜寒芦叶雨，空作一声归。",
+    "content_tr": "青鷁苦幽獨，隔江相對稀。\n夜寒蘆葉雨，空作一聲歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 70269,
+  "work": {
+    "id": 70269,
+    "title": "言志诗",
+    "title_tr": "言志詩",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "庆云未时兴，云龙潜作鱼。\n神鸾失其俦，还从燕雀居。",
+    "content_tr": "慶雲未時興，雲龍潛作魚。\n神鸞失其儔，還從燕雀居。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 53425,
+  "work": {
+    "id": 53425,
+    "title": "老僧",
+    "title_tr": "老僧",
+    "author": "景云",
+    "author_tr": "景雲",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日照西山雪，老僧门始开。\n冻瓶粘柱础，宿火陷炉灰。\n童子病归去，鹿麑寒入来。\n斋钟知渐近，枝鸟下生台。",
+    "content_tr": "日照西山雪，老僧門始開。\n凍瓶粘柱礎，宿火陷爐灰。\n童子病歸去，鹿麑寒入來。\n齋鍾知漸近，枝鳥下生臺。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

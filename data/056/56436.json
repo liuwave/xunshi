@@ -1,0 +1,18 @@
+{
+  "work_id": 56436,
+  "work": {
+    "id": 56436,
+    "title": "路傍曲",
+    "title_tr": "路傍曲",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南山宿雨晴，春入凤凰城。\n处处闻弦管，无非送酒声。",
+    "content_tr": "南山宿雨晴，春入鳳凰城。\n處處聞弦管，無非送酒聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

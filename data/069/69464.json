@@ -1,0 +1,18 @@
+{
+  "work_id": 69464,
+  "work": {
+    "id": 69464,
+    "title": "和叔盎画马",
+    "title_tr": "和叔盎畫馬",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天骥德力备，马外龙麟中。\n皇天不遣言，兀与图画同。\n驽骀饱官粟，未受一洗空。\n十驾均一至，何事籋云风。",
+    "content_tr": "天驥德力備，馬外龍麟中。\n皇天不遣言，兀與圖畫同。\n駑駘飽官粟，未受一洗空。\n十駕均一至，何事籋雲風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

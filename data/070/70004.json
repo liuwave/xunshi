@@ -1,0 +1,18 @@
+{
+  "work_id": 70004,
+  "work": {
+    "id": 70004,
+    "title": "登太白峰",
+    "title_tr": "登太白峯",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西上太白峰，夕阳穷登攀。\n太白与我语，为我开天关。\n愿乘泠风去，直出浮云间。\n举手可近月，前行若无山。\n一别武功去，何时复见还。",
+    "content_tr": "西上太白峯，夕陽窮登攀。\n太白與我語，爲我開天關。\n願乘泠風去，直出浮雲間。\n舉手可近月，前行若無山。\n一別武功去，何時復見還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

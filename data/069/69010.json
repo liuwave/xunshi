@@ -1,0 +1,18 @@
+{
+  "work_id": 69010,
+  "work": {
+    "id": 69010,
+    "title": "同景文咏莲塘",
+    "title_tr": "同景文詠蓮塘",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "塘上钩帘对晚香，不知斜日已侵床。\n江妃自惜凌波袜，长在高荷扇影凉。",
+    "content_tr": "塘上鉤簾對晚香，不知斜日已侵牀。\n江妃自惜凌波襪，長在高荷扇影涼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

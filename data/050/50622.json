@@ -1,0 +1,18 @@
+{
+  "work_id": 50622,
+  "work": {
+    "id": 50622,
+    "title": "题僧影堂",
+    "title_tr": "題僧影堂",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寒叶坠清霜，空帘著烬香。\n生前既无事，何事更悲伤。",
+    "content_tr": "寒葉墜清霜，空簾著燼香。\n生前既無事，何事更悲傷。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

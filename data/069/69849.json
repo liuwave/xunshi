@@ -1,0 +1,24 @@
+{
+  "work_id": 69849,
+  "work": {
+    "id": 69849,
+    "title": "句 其三",
+    "title_tr": "句 其三",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荔枝已成吾发白，犹作江南未归客。",
+    "content_tr": "荔枝已成吾髮白，猶作江南未歸客。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "荔枝已经结成果实，我的头发也已变白，却仍然做着江南未归的客子。",
+    "annotation": "",
+    "appreciation": "此为残句，仅存两句。上句「荔枝已成吾发白」，以荔枝结成与双鬓染霜并举，果之熟与人之老同时呈现，节候推移与生命流逝叠合，语极简而意极深。下句「犹作江南未归客」，点出久客未归的处境，「犹」字含无限怅惘，荔枝年年可熟，而归期渺然。两句以岭南风物与羁旅之情相扣，物候明丽而心绪凄然，对照鲜明。虽只十四字，已具天涯迟暮之感，可见残句亦自有其完整的情境。",
+    "confidence": "medium",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

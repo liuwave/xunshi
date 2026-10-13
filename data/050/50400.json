@@ -1,0 +1,18 @@
+{
+  "work_id": 50400,
+  "work": {
+    "id": 50400,
+    "title": "告绝诗",
+    "title_tr": "告絕詩",
+    "author": "崔莺莺",
+    "author_tr": "崔鶯鶯",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "弃置今何道，当时且自亲。\n还将旧来意，怜取眼前人。",
+    "content_tr": "棄置今何道，當時且自親。\n還將舊來意，憐取眼前人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

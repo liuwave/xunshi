@@ -1,0 +1,18 @@
+{
+  "work_id": 60610,
+  "work": {
+    "id": 60610,
+    "title": "丘小府小鼓歌",
+    "title_tr": "丘小府小鼓歌",
+    "author": "顾况",
+    "author_tr": "顧況",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "地盘山鸡犹可像，坎坎砰砰随手长。\n夜半高楼沉醉时，万里踏桥乱山响。",
+    "content_tr": "地盤山雞猶可像，坎坎砰砰隨手長。\n夜半高樓沈醉時，萬里踏橋亂山響。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

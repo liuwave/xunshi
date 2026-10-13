@@ -1,0 +1,18 @@
+{
+  "work_id": 70027,
+  "work": {
+    "id": 70027,
+    "title": "相和歌辞估客乐",
+    "title_tr": "相和歌辭估客樂",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "海客乘天风，将船远行役。\n譬如云中鸟，一去无踪迹。",
+    "content_tr": "海客乘天風，將船遠行役。\n譬如雲中鳥，一去無蹤跡。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

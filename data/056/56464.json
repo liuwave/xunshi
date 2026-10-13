@@ -1,0 +1,18 @@
+{
+  "work_id": 56464,
+  "work": {
+    "id": 56464,
+    "title": "酬瑞",
+    "title_tr": "酬瑞",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜泊湘川逐客心，月明猿苦血沾襟。\n湘妃旧竹痕犹浅，从此因君染更深。",
+    "content_tr": "夜泊湘川逐客心，月明猿苦血沾襟。\n湘妃舊竹痕猶淺，從此因君染更深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

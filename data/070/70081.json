@@ -1,0 +1,18 @@
+{
+  "work_id": 70081,
+  "work": {
+    "id": 70081,
+    "title": "杂曲歌辞高句丽",
+    "title_tr": "雜曲歌辭高句麗",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金花折风帽，白马小迟回。\n翩翩舞广袖，似鸟海东来。",
+    "content_tr": "金花折風帽，白馬小遲迴。\n翩翩舞廣袖，似鳥海東來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

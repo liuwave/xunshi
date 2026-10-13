@@ -1,0 +1,18 @@
+{
+  "work_id": 55403,
+  "work": {
+    "id": 55403,
+    "title": "隔壁闻奏伎",
+    "title_tr": "隔壁聞奏伎",
+    "author": "裴延",
+    "author_tr": "裴延",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "徒闻管弦切，不见舞腰回。\n赖有歌梁合，尘飞一半来。",
+    "content_tr": "徒聞管絃切，不見舞腰回。\n賴有歌樑合，塵飛一半來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

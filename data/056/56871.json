@@ -1,0 +1,18 @@
+{
+  "work_id": 56871,
+  "work": {
+    "id": 56871,
+    "title": "唐乐府十首送征夫",
+    "title_tr": "唐樂府十首送征夫",
+    "author": "刘驾",
+    "author_tr": "劉駕",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔送征夫苦，今送征夫乐。\n寒衣纵携去，应向归时着。\n天子待功成，别造凌烟阁。",
+    "content_tr": "昔送征夫苦，今送征夫樂。\n寒衣縱攜去，應向歸時着。\n天子待功成，別造凌煙閣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

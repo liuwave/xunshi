@@ -1,0 +1,18 @@
+{
+  "work_id": 56845,
+  "work": {
+    "id": 56845,
+    "title": "咏仙掌",
+    "title_tr": "詠仙掌",
+    "author": "刘象",
+    "author_tr": "劉象",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万古亭亭倚碧霄，不成擎亦不成招。\n何如掬取天池水，洒向人间救旱苗。",
+    "content_tr": "萬古亭亭倚碧霄，不成擎亦不成招。\n何如掬取天池水，灑向人間救旱苗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

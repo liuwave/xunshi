@@ -1,0 +1,18 @@
+{
+  "work_id": 56485,
+  "work": {
+    "id": 56485,
+    "title": "忆乐天",
+    "title_tr": "憶樂天",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寻常相见意殷勤，别后相思梦更频。\n每遇登临好风景，羡他天性少情人。",
+    "content_tr": "尋常相見意殷勤，別後相思夢更頻。\n每遇登臨好風景，羨他天性少情人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

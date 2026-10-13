@@ -1,0 +1,18 @@
+{
+  "work_id": 59400,
+  "work": {
+    "id": 59400,
+    "title": "叹葵花",
+    "title_tr": "嘆葵花",
+    "author": "戴叔伦",
+    "author_tr": "戴叔倫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "今日见花落，明日见花开。\n花开能向日，花落委苍苔。\n自不同凡卉，看时几日回。",
+    "content_tr": "今日見花落，明日見花開。\n花開能向日，花落委蒼苔。\n自不同凡卉，看時幾日回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

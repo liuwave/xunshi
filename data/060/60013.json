@@ -1,0 +1,18 @@
+{
+  "work_id": 60013,
+  "work": {
+    "id": 60013,
+    "title": "题临泷寺",
+    "title_tr": "題臨瀧寺",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不觉离家已五千，仍将衰病入泷船。\n潮阳未到吾能说，海气昏昏水拍天。",
+    "content_tr": "不覺離家已五千，仍將衰病入瀧船。\n潮陽未到吾能說，海氣昏昏水拍天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 50619,
+  "work": {
+    "id": 50619,
+    "title": "松江怀古",
+    "title_tr": "松江懷古",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碧树吴洲远，青山震泽深。\n无人踪范蠡，烟水暮沈沈。",
+    "content_tr": "碧樹吳洲遠，青山震澤深。\n無人蹤范蠡，煙水暮沈沈。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

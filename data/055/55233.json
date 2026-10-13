@@ -1,0 +1,18 @@
+{
+  "work_id": 55233,
+  "work": {
+    "id": 55233,
+    "title": "席上贻歌者",
+    "title_tr": "席上貽歌者",
+    "author": "郑谷",
+    "author_tr": "鄭谷",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "花月楼台近九衢，清歌一曲倒金壶。\n座中亦有江南客，莫向春风唱鹧鸪。",
+    "content_tr": "花月樓臺近九衢，清歌一曲倒金壺。\n座中亦有江南客，莫向春風唱鷓鴣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

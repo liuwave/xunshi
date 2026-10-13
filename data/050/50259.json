@@ -1,0 +1,18 @@
+{
+  "work_id": 50259,
+  "work": {
+    "id": 50259,
+    "title": "北山书事",
+    "title_tr": "北山書事",
+    "author": "张乔",
+    "author_tr": "張喬",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄河一曲山，天半锁重关。\n圣日雄藩静，秋风老将闲。\n车舆穿谷口，市井响云间。\n大野无飞鸟，元戎校猎还。",
+    "content_tr": "黃河一曲山，天半鎖重關。\n聖日雄藩靜，秋風老將閒。\n車輿穿谷口，市井響雲間。\n大野無飛鳥，元戎校獵還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 50100,
+  "work": {
+    "id": 50100,
+    "title": "江上旅泊",
+    "title_tr": "江上旅泊",
+    "author": "崔涂",
+    "author_tr": "崔塗",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汀洲一夜泊，久客半连樯。\n尽说逢秋色，多同忆故乡。\n孤冈生晚烧，独树隐回塘。\n欲问东归路，遥知隔渺茫。",
+    "content_tr": "汀洲一夜泊，久客半連檣。\n盡說逢秋色，多同憶故鄉。\n孤岡生晚燒，獨樹隱回塘。\n欲問東歸路，遙知隔渺茫。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

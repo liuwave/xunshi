@@ -1,0 +1,18 @@
+{
+  "work_id": 70315,
+  "work": {
+    "id": 70315,
+    "title": "江山庆云桥",
+    "title_tr": "江山慶雲橋",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "草梢出水已无多，村路弥漫奈雨何。\n水底有桥桥有月，只今平地怕风波。",
+    "content_tr": "草梢出水已無多，村路瀰漫奈雨何。\n水底有橋橋有月，只今平地怕風波。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

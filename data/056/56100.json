@@ -1,0 +1,18 @@
+{
+  "work_id": 56100,
+  "work": {
+    "id": 56100,
+    "title": "读李贺歌集",
+    "title_tr": "讀李賀歌集",
+    "author": "齐己",
+    "author_tr": "齊己",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "赤水无精华，荆山亦枯槁。玄珠与虹玉，璨璨李贺抱。\n清晨醉起临春台，吴绫蜀锦胸襟开。狂多两手掀蓬莱，珊瑚掇尽空土堆。",
+    "content_tr": "赤水無精華，荊山亦枯槁。玄珠與虹玉，璨璨李賀抱。\n清晨醉起臨春臺，吳綾蜀錦胸襟開。狂多兩手掀蓬萊，珊瑚掇盡空土堆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

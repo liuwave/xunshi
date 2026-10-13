@@ -1,0 +1,18 @@
+{
+  "work_id": 50789,
+  "work": {
+    "id": 50789,
+    "title": "湘州北亭",
+    "title_tr": "湘州北亭",
+    "author": "张说",
+    "author_tr": "張說",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人务南亭少，风烟北院多。\n山花迷径路，池水拂藤萝。\n萍散鱼时跃，林幽鸟任歌。\n悠然白云意，乘兴抱琴过。",
+    "content_tr": "人務南亭少，風煙北院多。\n山花迷徑路，池水拂藤蘿。\n萍散魚時躍，林幽鳥任歌。\n悠然白雲意，乘興抱琴過。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

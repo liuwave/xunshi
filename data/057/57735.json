@@ -1,0 +1,18 @@
+{
+  "work_id": 57735,
+  "work": {
+    "id": 57735,
+    "title": "谪后再书一绝",
+    "title_tr": "謫後再書一絕",
+    "author": "卢肇",
+    "author_tr": "盧肇",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "崆峒道士误烧丹，赤鼠黄牙几许难。\n坠堕阎浮南斗下，不知何事犯星官。",
+    "content_tr": "崆峒道士誤燒丹，赤鼠黃牙幾許難。\n墜墮閻浮南鬥下，不知何事犯星官。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

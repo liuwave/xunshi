@@ -1,0 +1,18 @@
+{
+  "work_id": 65001,
+  "work": {
+    "id": 65001,
+    "title": "寄赠吴二皋倩",
+    "title_tr": "寄贈吳二皋倩",
+    "author": "王世贞",
+    "author_tr": "王世貞",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酒态傀俄兄不如，弄船钓得武昌鱼。\n青藜忽破高斋色，醒后吾伊读父书。",
+    "content_tr": "酒態傀俄兄不如，弄船釣得武昌魚。\n青藜忽破高齋色，醒後吾伊讀父書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

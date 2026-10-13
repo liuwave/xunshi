@@ -1,0 +1,18 @@
+{
+  "work_id": 56683,
+  "work": {
+    "id": 56683,
+    "title": "台城怀古",
+    "title_tr": "臺城懷古",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "清江悠悠王气沉，六朝遗事何处寻。\n宫墙隐嶙围野泽，鹳鹢夜鸣秋色深。",
+    "content_tr": "清江悠悠王氣沉，六朝遺事何處尋。\n宮牆隱嶙圍野澤，鸛鷁夜鳴秋色深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

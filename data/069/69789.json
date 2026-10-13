@@ -1,0 +1,18 @@
+{
+  "work_id": 69789,
+  "work": {
+    "id": 69789,
+    "title": "寄虎儿",
+    "title_tr": "寄虎兒",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "独倚桄榔树，闲挑荜拨根。\n谋生看拙否，送老此蛮村。",
+    "content_tr": "獨倚桄榔樹，閑挑蓽撥根。\n謀生看拙否，送老此蠻村。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

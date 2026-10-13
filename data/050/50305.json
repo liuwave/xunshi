@@ -1,0 +1,18 @@
+{
+  "work_id": 50305,
+  "work": {
+    "id": 50305,
+    "title": "吴江旅次",
+    "title_tr": "吳江旅次",
+    "author": "张乔",
+    "author_tr": "張喬",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行人愁落日，去鸟倦遥林。\n旷野鸣流水，空山响暮砧。\n旅途归计晚，乡树别年深。\n寂寞逢村酒，渔家一醉吟。",
+    "content_tr": "行人愁落日，去鳥倦遙林。\n曠野鳴流水，空山響暮砧。\n旅途歸計晚，鄉樹別年深。\n寂寞逢村酒，漁家一醉吟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

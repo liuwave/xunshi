@@ -1,0 +1,18 @@
+{
+  "work_id": 50553,
+  "work": {
+    "id": 50553,
+    "title": "箜篌",
+    "title_tr": "箜篌",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "星汉夜牢牢，深帘调更高。\n乱流公莫度，沉骨妪空嗥。\n向月轻轮甲，迎风重纫绦。\n不堪闻别引，沧海恨波涛。",
+    "content_tr": "星漢夜牢牢，深簾調更高。\n亂流公莫度，沉骨嫗空嘷。\n向月輕輪甲，迎風重紉絛。\n不堪聞別引，滄海恨波濤。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

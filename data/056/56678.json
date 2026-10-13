@@ -1,0 +1,18 @@
+{
+  "work_id": 56678,
+  "work": {
+    "id": 56678,
+    "title": "淮阴行五首",
+    "title_tr": "淮陰行五首",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "簇簇淮阴市，竹楼缘岸上。\n好日起樯竿，乌飞惊五两。",
+    "content_tr": "簇簇淮陰市，竹樓緣岸上。\n好日起檣竿，烏飛驚五兩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

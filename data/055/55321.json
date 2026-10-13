@@ -1,0 +1,18 @@
+{
+  "work_id": 55321,
+  "work": {
+    "id": 55321,
+    "title": "闻杨炯幽兰之歌作",
+    "title_tr": "聞楊炯幽蘭之歌作",
+    "author": "赵元淑",
+    "author_tr": "趙元淑",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昔闻兰叶据龙图，复道兰林引凤雏。\n鸿归燕去紫茎歇，露往霜来绿叶枯。",
+    "content_tr": "昔聞蘭葉據龍圖，複道蘭林引鳳雛。\n鴻歸燕去紫莖歇，露往霜來綠葉枯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

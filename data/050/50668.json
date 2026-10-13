@@ -1,0 +1,18 @@
+{
+  "work_id": 50668,
+  "work": {
+    "id": 50668,
+    "title": "王家五弦",
+    "title_tr": "王家五絃",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "五条弦出万端情，撚拨间关漫态生。\n唯羡风流田太守，小金铃子耳边鸣。",
+    "content_tr": "五條弦出萬端情，撚撥間關漫態生。\n唯羨風流田太守，小金鈴子耳邊鳴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

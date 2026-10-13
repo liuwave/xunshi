@@ -1,0 +1,18 @@
+{
+  "work_id": 68749,
+  "work": {
+    "id": 68749,
+    "title": "读《晋史》",
+    "title_tr": "讀《晉史》",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "沧海横流血作津，犬羊角出竞称真。\n中原岂是无豪杰，天遣群雄杀晋人。",
+    "content_tr": "滄海橫流血作津，犬羊角出競稱真。\n中原豈是無豪傑，天遣羣雄殺晉人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

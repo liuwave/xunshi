@@ -1,0 +1,18 @@
+{
+  "work_id": 70310,
+  "work": {
+    "id": 70310,
+    "title": "重午日戏书",
+    "title_tr": "重午日戲書",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山吞吐古今月，绿树低昂朝暮风。\n万事有为应有尽，此身无我自无穷。",
+    "content_tr": "青山吞吐古今月，綠樹低昂朝暮風。\n萬事有爲應有盡，此身無我自無窮。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

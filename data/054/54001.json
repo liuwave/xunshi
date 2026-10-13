@@ -1,0 +1,18 @@
+{
+  "work_id": 54001,
+  "work": {
+    "id": 54001,
+    "title": "题范阳金台驿",
+    "title_tr": "題范陽金臺驛",
+    "author": "杨巨源",
+    "author_tr": "楊巨源",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "六国唯求客，千金遂筑台。\n若令逢圣代，憔悴郭生回。",
+    "content_tr": "六國唯求客，千金遂築臺。\n若令逢聖代，憔悴郭生回。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

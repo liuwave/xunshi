@@ -1,0 +1,18 @@
+{
+  "work_id": 68765,
+  "work": {
+    "id": 68765,
+    "title": "谒敦诗先生因留一绝",
+    "title_tr": "謁敦詩先生因留一絕",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凛凛人言君似雪，我言凛凛雪如君。\n时人尽怪苏司业，不解将钱与广文。",
+    "content_tr": "凜凜人言君似雪，我言凜凜雪如君。\n時人盡怪蘇司業，不解將錢與廣文。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

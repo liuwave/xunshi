@@ -1,0 +1,18 @@
+{
+  "work_id": 72889,
+  "work": {
+    "id": 72889,
+    "title": "四时",
+    "title_tr": "四時",
+    "author": "陶渊明",
+    "author_tr": "陶淵明",
+    "dynasty": "晋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春水满四泽，夏云多奇峰。\n秋月扬明晖，冬岭秀寒松。",
+    "content_tr": "春水滿四澤，夏雲多奇峯。\n秋月揚明暉，冬嶺秀寒松。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

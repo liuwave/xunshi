@@ -1,0 +1,18 @@
+{
+  "work_id": 60238,
+  "work": {
+    "id": 60238,
+    "title": "咏死兔",
+    "title_tr": "詠死兔",
+    "author": "苏颋",
+    "author_tr": "蘇頲",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "兔子死兰弹，持来挂竹竿。\n试将明镜照，何异月中看。",
+    "content_tr": "兔子死蘭彈，持來掛竹竿。\n試將明鏡照，何異月中看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

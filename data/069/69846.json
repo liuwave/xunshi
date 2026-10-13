@@ -1,0 +1,18 @@
+{
+  "work_id": 69846,
+  "work": {
+    "id": 69846,
+    "title": "句：诗二句",
+    "title_tr": "句：詩二句",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "叶随流水归何处，牛载寒鸦过别村。",
+    "content_tr": "葉隨流水歸何處，牛載寒鴉過別村。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

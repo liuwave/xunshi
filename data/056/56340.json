@@ -1,0 +1,18 @@
+{
+  "work_id": 56340,
+  "work": {
+    "id": 56340,
+    "title": "题集贤阁",
+    "title_tr": "題集賢閣",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凤池西畔图书府，玉树玲珑景气闲。\n长听馀风送天乐，时登高阁望人寰。\n青山云绕栏干外，紫殿香来步武间。\n曾是先贤翔集地，每看壁记一惭颜。",
+    "content_tr": "鳳池西畔圖書府，玉樹玲瓏景氣閒。\n長聽餘風送天樂，時登高閣望人寰。\n青山雲繞欄干外，紫殿香來步武間。\n曾是先賢翔集地，每看壁記一慚顏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

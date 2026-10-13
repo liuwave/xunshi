@@ -1,0 +1,18 @@
+{
+  "work_id": 69800,
+  "work": {
+    "id": 69800,
+    "title": "怀望西山",
+    "title_tr": "懷望西山",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "双峰何处白云悠，赤壁千年战未休。\n纵使长江澄碧玉，谁将梅子落黄州。",
+    "content_tr": "雙峰何處白雲悠，赤壁千年戰未休。\n縱使長江澄碧玉，誰將梅子落黃州。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

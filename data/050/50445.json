@@ -1,0 +1,18 @@
+{
+  "work_id": 50445,
+  "work": {
+    "id": 50445,
+    "title": "题搔口",
+    "title_tr": "題搔口",
+    "author": "张仲谋",
+    "author_tr": "張仲謀",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "尝闻烧尾便拿空，只过天门更一重。\n大禹未生门未凿，可能天下总无龙。",
+    "content_tr": "嘗聞燒尾便拿空，只過天門更一重。\n大禹未生門未鑿，可能天下總無龍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

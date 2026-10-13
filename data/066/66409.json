@@ -1,0 +1,18 @@
+{
+  "work_id": 66409,
+  "work": {
+    "id": 66409,
+    "title": "平城歌",
+    "title_tr": "平城歌",
+    "author": "王世贞",
+    "author_tr": "王世貞",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉使来，胡马死。汉使归，死马起。生何致致汉天子。",
+    "content_tr": "漢使來，胡馬死。漢使歸，死馬起。生何致致漢天子。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

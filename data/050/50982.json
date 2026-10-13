@@ -1,0 +1,18 @@
+{
+  "work_id": 50982,
+  "work": {
+    "id": 50982,
+    "title": "夜到渔家",
+    "title_tr": "夜到漁家",
+    "author": "张籍",
+    "author_tr": "張籍",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "渔家在江口，潮水入柴扉。\n行客欲投宿，主人犹未归。\n竹深村路远，月出钓船稀。\n遥见寻沙岸，春风动草衣。",
+    "content_tr": "漁家在江口，潮水入柴扉。\n行客欲投宿，主人猶未歸。\n竹深村路遠，月出釣船稀。\n遙見尋沙岸，春風動草衣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

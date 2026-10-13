@@ -1,0 +1,18 @@
+{
+  "work_id": 50010,
+  "work": {
+    "id": 50010,
+    "title": "下第寄友人",
+    "title_tr": "下第寄友人",
+    "author": "马戴",
+    "author_tr": "馬戴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金门君待问，石室我思归。\n圣主尊黄屋，何人荐白衣。\n年来御沟柳，赠别雨霏霏。",
+    "content_tr": "金門君待問，石室我思歸。\n聖主尊黃屋，何人薦白衣。\n年來御溝柳，贈別雨霏霏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

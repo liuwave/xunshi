@@ -1,0 +1,18 @@
+{
+  "work_id": 70329,
+  "work": {
+    "id": 70329,
+    "title": "鹤鸣亭独饮",
+    "title_tr": "鶴鳴亭獨飲",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "小亭独酌兴悠哉，忽有清愁到酒杯。\n四面青山围欲合，不知愁自那边来。",
+    "content_tr": "小亭獨酌興悠哉，忽有清愁到酒杯。\n四面青山圍欲合，不知愁自那邊來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

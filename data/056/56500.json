@@ -1,0 +1,18 @@
+{
+  "work_id": 56500,
+  "work": {
+    "id": 56500,
+    "title": "赠元九侍御文石枕以诗奖之",
+    "title_tr": "贈元九侍御文石枕以詩獎之",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "文章似锦气如虹，宜荐华簪绿殿中。\n纵使凉飙生旦夕，犹堪拂拭愈头风。",
+    "content_tr": "文章似錦氣如虹，宜薦華簪綠殿中。\n縱使涼飆生旦夕，猶堪拂拭愈頭風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

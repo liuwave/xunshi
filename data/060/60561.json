@@ -1,0 +1,18 @@
+{
+  "work_id": 60561,
+  "work": {
+    "id": 60561,
+    "title": "海鸥咏",
+    "title_tr": "海鷗詠",
+    "author": "顾况",
+    "author_tr": "顧況",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万里飞来为客鸟，曾蒙丹凤借枝柯。\n一朝凤去梧桐死，满目鸱鸢奈尔何。",
+    "content_tr": "萬里飛來爲客鳥，曾蒙丹鳳借枝柯。\n一朝鳳去梧桐死，滿目鴟鳶奈爾何。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 56741,
+  "work": {
+    "id": 56741,
+    "title": "咏笛",
+    "title_tr": "詠笛",
+    "author": "刘孝孙",
+    "author_tr": "劉孝孫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凉秋夜笛鸣，流风韵九成。\n调高时慷慨，曲变或凄清。\n征客怀离绪，邻人思旧情。\n幸以知音顾，千载有奇声。",
+    "content_tr": "涼秋夜笛鳴，流風韻九成。\n調高時慷慨，曲變或悽清。\n徵客懷離緒，鄰人思舊情。\n幸以知音顧，千載有奇聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

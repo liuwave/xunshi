@@ -1,0 +1,18 @@
+{
+  "work_id": 50245,
+  "work": {
+    "id": 50245,
+    "title": "郢州即事",
+    "title_tr": "郢州即事",
+    "author": "张乔",
+    "author_tr": "張喬",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤城临远水，千里见寒山。\n白雪无人唱，沧洲尽日闲。\n鸟归残烧外，帆出断云间。\n此地秋风起，应随计吏还。",
+    "content_tr": "孤城臨遠水，千里見寒山。\n白雪無人唱，滄洲盡日閒。\n鳥歸殘燒外，帆出斷雲間。\n此地秋風起，應隨計吏還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

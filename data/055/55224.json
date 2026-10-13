@@ -1,0 +1,18 @@
+{
+  "work_id": 55224,
+  "work": {
+    "id": 55224,
+    "title": "望湘亭",
+    "title_tr": "望湘亭",
+    "author": "郑谷",
+    "author_tr": "鄭谷",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湘水似伊水，湘人非故人。\n登临独无语，风柳自摇春。",
+    "content_tr": "湘水似伊水，湘人非故人。\n登臨獨無語，風柳自搖春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

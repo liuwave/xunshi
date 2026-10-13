@@ -1,0 +1,18 @@
+{
+  "work_id": 60405,
+  "work": {
+    "id": 60405,
+    "title": "唐州东途作",
+    "title_tr": "唐州東途作",
+    "author": "窦巩",
+    "author_tr": "竇鞏",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "绿林兵起结愁云，白羽飞书未解纷。\n天子欲开三面网，莫将弓箭射官军。",
+    "content_tr": "綠林兵起結愁雲，白羽飛書未解紛。\n天子欲開三面網，莫將弓箭射官軍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

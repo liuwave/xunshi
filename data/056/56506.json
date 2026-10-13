@@ -1,0 +1,18 @@
+{
+  "work_id": 56506,
+  "work": {
+    "id": 56506,
+    "title": "重寄绝句",
+    "title_tr": "重寄絕句",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "淮西既是平安地，鸦路今无羽檄飞。\n闻道唐州最清静，战场耕尽野花稀。",
+    "content_tr": "淮西既是平安地，鴉路今無羽檄飛。\n聞道唐州最清靜，戰場耕盡野花稀。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

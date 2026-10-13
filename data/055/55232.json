@@ -1,0 +1,18 @@
+{
+  "work_id": 55232,
+  "work": {
+    "id": 55232,
+    "title": "嘉陵",
+    "title_tr": "嘉陵",
+    "author": "郑谷",
+    "author_tr": "鄭谷",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细雨湿萋萋，人稀江日西。\n春愁肠已断，不在子规啼。",
+    "content_tr": "細雨溼萋萋，人稀江日西。\n春愁腸已斷，不在子規啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

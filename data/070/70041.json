@@ -1,0 +1,18 @@
+{
+  "work_id": 70041,
+  "work": {
+    "id": 70041,
+    "title": "相和歌辞凤凰曲",
+    "title_tr": "相和歌辭鳳凰曲",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嬴女吹玉箫，吟弄天上春。\n青鸾不独去，更有携手人。\n影灭彩云断，遗声落西秦。",
+    "content_tr": "嬴女吹玉簫，吟弄天上春。\n青鸞不獨去，更有攜手人。\n影滅彩雲斷，遺聲落西秦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

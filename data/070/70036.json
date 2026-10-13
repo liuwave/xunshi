@@ -1,0 +1,18 @@
+{
+  "work_id": 70036,
+  "work": {
+    "id": 70036,
+    "title": "戏赠杜甫",
+    "title_tr": "戲贈杜甫",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饭颗山头逢杜甫，顶戴笠子日卓午。\n借问别来太瘦生，总为从前作诗苦。",
+    "content_tr": "飯顆山頭逢杜甫，頂戴笠子日卓午。\n借問別來太瘦生，總爲從前作詩苦。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

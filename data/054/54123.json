@@ -1,0 +1,18 @@
+{
+  "work_id": 54123,
+  "work": {
+    "id": 54123,
+    "title": "送客归常州",
+    "title_tr": "送客歸常州",
+    "author": "杨凝",
+    "author_tr": "楊凝",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "行到河边从此辞，寒天日远暮帆迟。\n可怜芳草成衰草，公子归时过绿时。",
+    "content_tr": "行到河邊從此辭，寒天日遠暮帆遲。\n可憐芳草成衰草，公子歸時過綠時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

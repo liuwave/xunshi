@@ -1,0 +1,18 @@
+{
+  "work_id": 50011,
+  "work": {
+    "id": 50011,
+    "title": "离夜二首",
+    "title_tr": "離夜二首",
+    "author": "马戴",
+    "author_tr": "馬戴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东征辽水迥，北近单于台。\n戎衣挂宝剑，玉箸衔金杯。\n红烛暗将灭，翠蛾终不开。",
+    "content_tr": "東征遼水迥，北近單于臺。\n戎衣掛寶劍，玉箸銜金盃。\n紅燭暗將滅，翠蛾終不開。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

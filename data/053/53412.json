@@ -1,0 +1,18 @@
+{
+  "work_id": 53412,
+  "work": {
+    "id": 53412,
+    "title": "杂曲歌辞侠客行",
+    "title_tr": "雜曲歌辭俠客行",
+    "author": "温庭筠",
+    "author_tr": "溫庭筠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "欲出鸿都门，阴云蔽城阙。\n宝剑黯如水，微红湿馀血。\n白马夜频嘶，三更霸陵雪。",
+    "content_tr": "欲出鴻都門，陰雲蔽城闕。\n寶劍黯如水，微紅溼餘血。\n白馬夜頻嘶，三更霸陵雪。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

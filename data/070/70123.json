@@ -1,0 +1,18 @@
+{
+  "work_id": 70123,
+  "work": {
+    "id": 70123,
+    "title": "初出金门寻王侍御不遇咏壁上鹦鹉",
+    "title_tr": "初出金門尋王侍御不遇詠壁上鸚鵡",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "落羽辞金殿，孤鸣咤绣衣。\n能言终见弃，还向陇西飞。",
+    "content_tr": "落羽辭金殿，孤鳴吒繡衣。\n能言終見棄，還向隴西飛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

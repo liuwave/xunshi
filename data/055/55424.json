@@ -1,0 +1,18 @@
+{
+  "work_id": 55424,
+  "work": {
+    "id": 55424,
+    "title": "汉东道中",
+    "title_tr": "漢東道中",
+    "author": "蒋吉",
+    "author_tr": "蔣吉",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "九十九冈遥，天寒雪未消。\n羸童牵瘦马，不敢过危桥。",
+    "content_tr": "九十九岡遙，天寒雪未消。\n羸童牽瘦馬，不敢過危橋。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

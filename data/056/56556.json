@@ -1,0 +1,18 @@
+{
+  "work_id": 56556,
+  "work": {
+    "id": 56556,
+    "title": "顺阳歌",
+    "title_tr": "順陽歌",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝辞官军驿，前望顺阳路。\n野水啮荒坟，秋虫镂宫树。\n曾闻天宝末，胡马西南骛。\n城守鲁将军，拔城从此去。",
+    "content_tr": "朝辭官軍驛，前望順陽路。\n野水齧荒墳，秋蟲鏤宮樹。\n曾聞天寶末，胡馬西南騖。\n城守魯將軍，拔城從此去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 50007,
+  "work": {
+    "id": 50007,
+    "title": "广陵曲",
+    "title_tr": "廣陵曲",
+    "author": "马戴",
+    "author_tr": "馬戴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "葱茏桂树枝，高系黄金羁。\n叶隐青蛾翠，花飘白玉墀。\n上鸣间关鸟，下醉游侠儿。\n炀帝国已破，此中都不知。",
+    "content_tr": "蔥蘢桂樹枝，高系黃金羈。\n葉隱青蛾翠，花飄白玉墀。\n上鳴間關鳥，下醉遊俠兒。\n煬帝國已破，此中都不知。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

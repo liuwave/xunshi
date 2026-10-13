@@ -1,0 +1,18 @@
+{
+  "work_id": 70162,
+  "work": {
+    "id": 70162,
+    "title": "相和歌辞 玉阶怨",
+    "title_tr": "相和歌辭 玉階怨",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "玉阶生白露，夜久侵罗袜。\n却下水精帘，玲珑望秋月。",
+    "content_tr": "玉階生白露，夜久侵羅襪。\n却下水精簾，玲瓏望秋月。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

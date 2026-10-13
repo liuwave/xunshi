@@ -1,0 +1,18 @@
+{
+  "work_id": 59446,
+  "work": {
+    "id": 59446,
+    "title": "相和歌辞 · 乌夜啼",
+    "title_tr": "相和歌辭烏夜啼",
+    "author": "聂夷中",
+    "author_tr": "聶夷中",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "众鸟各归枝，乌乌尔不栖。\n还应知妾恨，故向绿窗啼。",
+    "content_tr": "衆鳥各歸枝，烏烏爾不棲。\n還應知妾恨，故向綠窗啼。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

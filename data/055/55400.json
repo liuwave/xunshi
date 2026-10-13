@@ -1,0 +1,18 @@
+{
+  "work_id": 55400,
+  "work": {
+    "id": 55400,
+    "title": "古石之歌",
+    "title_tr": "古石之歌",
+    "author": "郑惟忠",
+    "author_tr": "鄭惟忠",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江东藏瑞简，济北蕴兵书。若非平固湖中雁，定是昆明池里鱼。",
+    "content_tr": "江東藏瑞簡，濟北蘊兵書。若非平固湖中雁，定是昆明池裏魚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

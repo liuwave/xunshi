@@ -1,0 +1,18 @@
+{
+  "work_id": 70303,
+  "work": {
+    "id": 70303,
+    "title": "述仙诗",
+    "title_tr": "述仙詩",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "游将升云烟。",
+    "content_tr": "游將升雲煙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

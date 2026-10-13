@@ -1,0 +1,18 @@
+{
+  "work_id": 68700,
+  "work": {
+    "id": 68700,
+    "title": "题毛女真",
+    "title_tr": "題毛女真",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "雾鬓风鬟木叶衣，山川良是昔人非。\n只应闲过商颜老，独自吹箫月下归。",
+    "content_tr": "霧鬢風鬟木葉衣，山川良是昔人非。\n祇應閒過商顏老，獨自吹簫月下歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

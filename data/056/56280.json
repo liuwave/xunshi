@@ -1,0 +1,18 @@
+{
+  "work_id": 56280,
+  "work": {
+    "id": 56280,
+    "title": "汉寿城春望",
+    "title_tr": "漢壽城春望",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "汉寿城边野草春，荒祠古墓对荆榛。\n田中牧竖烧刍狗，陌上行人看石麟。\n华表半空经霹雳，碑文才见满埃尘。\n不知何日东瀛变，此地还成要路津。",
+    "content_tr": "漢壽城邊野草春，荒祠古墓對荊榛。\n田中牧豎燒芻狗，陌上行人看石麟。\n華表半空經霹靂，碑文才見滿埃塵。\n不知何日東瀛變，此地還成要路津。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 71428,
+  "work": {
+    "id": 71428,
+    "title": "流水诗",
+    "title_tr": "流水詩",
+    "author": "唐寅",
+    "author_tr": "唐寅",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浅浅水，长悠悠，来无尽，去无休。\n曲曲折折向东流，山山岭岭难阻留。\n问伊奔腾何时歇，不到大海不回头。",
+    "content_tr": "淺淺水，長悠悠，來無盡，去無休。\n曲曲折折向東流，山山嶺嶺難阻留。\n問伊奔騰何時歇，不到大海不回頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

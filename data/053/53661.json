@@ -1,0 +1,18 @@
+{
+  "work_id": 53661,
+  "work": {
+    "id": 53661,
+    "title": "送客之蜀",
+    "title_tr": "送客之蜀",
+    "author": "杨凌",
+    "author_tr": "楊凌",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西蜀三千里，巴南水一方。\n晓云天际断，夜月峡中长。",
+    "content_tr": "西蜀三千里，巴南水一方。\n曉雲天際斷，夜月峽中長。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

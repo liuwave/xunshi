@@ -1,0 +1,18 @@
+{
+  "work_id": 70280,
+  "work": {
+    "id": 70280,
+    "title": "离友诗",
+    "title_tr": "離友詩",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "灵鉴无私。",
+    "content_tr": "靈鑒無私。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

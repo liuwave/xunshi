@@ -1,0 +1,18 @@
+{
+  "work_id": 74512,
+  "work": {
+    "id": 74512,
+    "title": "读李杜诗",
+    "title_tr": "讀李杜詩",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "濯锦沧浪客，青莲澹荡人。\n才名塞天地，身世老风尘。\n士固难推挽，人谁不贱贫。\n明窗数编在，长与物华新。",
+    "content_tr": "濯錦滄浪客，青蓮澹盪人。\n才名塞天地，身世老風塵。\n士固難推輓，人誰不賤貧。\n明窗數編在，長與物華新。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

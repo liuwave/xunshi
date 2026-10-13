@@ -1,0 +1,18 @@
+{
+  "work_id": 56999,
+  "work": {
+    "id": 56999,
+    "title": "饿咏",
+    "title_tr": "餓詠",
+    "author": "刘叉",
+    "author_tr": "劉叉",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "文王久不出，贤士如土贱。\n妻孥从饿死，敢爱黄金篆。",
+    "content_tr": "文王久不出，賢士如土賤。\n妻孥從餓死，敢愛黃金篆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

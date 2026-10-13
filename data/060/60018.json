@@ -1,0 +1,18 @@
+{
+  "work_id": 60018,
+  "work": {
+    "id": 60018,
+    "title": "题广昌馆",
+    "title_tr": "題廣昌館",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白水龙飞已几春，偶逢遗迹问耕人。\n丘坟发掘当官路，何处南阳有近亲。",
+    "content_tr": "白水龍飛已幾春，偶逢遺蹟問耕人。\n丘墳發掘當官路，何處南陽有近親。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

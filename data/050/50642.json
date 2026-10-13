@@ -1,0 +1,18 @@
+{
+  "work_id": 50642,
+  "work": {
+    "id": 50642,
+    "title": "王家琵琶",
+    "title_tr": "王家琵琶",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金屑檀槽玉腕明，子弦轻撚为多情。\n只愁拍尽凉州破，画出风雷是拨声。",
+    "content_tr": "金屑檀槽玉腕明，子弦輕撚爲多情。\n只愁拍盡涼州破，畫出風雷是撥聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

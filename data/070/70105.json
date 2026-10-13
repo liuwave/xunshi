@@ -1,0 +1,18 @@
+{
+  "work_id": 70105,
+  "work": {
+    "id": 70105,
+    "title": "忆东山二首",
+    "title_tr": "憶東山二首",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "不向东山久，蔷薇几度花。\n白云还自散，明月落谁家。\n\n我今携谢妓，长啸绝人群。\n欲报东山客，开关扫白云。",
+    "content_tr": "【其一】\n不嚮東山久，薔薇幾度花。\n白雲還自散，明月落誰家。\n【其二】\n我今攜謝妓，長嘯絶人群。\n欲報東山客，開關掃白雲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

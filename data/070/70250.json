@@ -1,0 +1,18 @@
+{
+  "work_id": 70250,
+  "work": {
+    "id": 70250,
+    "title": "乐府 其六",
+    "title_tr": "樂府 其六",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "墨出青松烟，笔出狡兔翰。\n古人感鸟迹，文字有改判。",
+    "content_tr": "墨出青松煙，筆出狡兔翰。\n古人感鳥跡，文字有改判。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

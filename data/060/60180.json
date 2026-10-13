@@ -1,0 +1,18 @@
+{
+  "work_id": 60180,
+  "work": {
+    "id": 60180,
+    "title": "知音者诚希",
+    "title_tr": "知音者誠希",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "知音者诚希，念子不能别。\n行行天未晓，携酒踏明月。",
+    "content_tr": "知音者誠希，念子不能別。\n行行天未曉，攜酒踏明月。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 63000,
+  "work": {
+    "id": 63000,
+    "title": "读酷吏传",
+    "title_tr": "讀酷吏傳",
+    "author": "王世贞",
+    "author_tr": "王世貞",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荐士如张史，忠言有郅都。\n兼闻尚廉俭，不肯学贪污。\n遗橐千金累，同时五族诛。\n温舒今眼底，能达汉廷无。",
+    "content_tr": "薦士如張史，忠言有郅都。\n兼聞尚廉儉，不肯學貪污。\n遺橐千金累，同時五族誅。\n溫舒今眼底，能達漢廷無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

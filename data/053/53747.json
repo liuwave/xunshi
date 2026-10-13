@@ -1,0 +1,18 @@
+{
+  "work_id": 53747,
+  "work": {
+    "id": 53747,
+    "title": "咏蛙",
+    "title_tr": "詠蛙",
+    "author": "杨收",
+    "author_tr": "楊收",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "兔边分玉树，龙底耀铜仪。\n会当同鼓吹，不复问官私。",
+    "content_tr": "兔邊分玉樹，龍底耀銅儀。\n會當同鼓吹，不復問官私。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

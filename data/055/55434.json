@@ -1,0 +1,18 @@
+{
+  "work_id": 55434,
+  "work": {
+    "id": 55434,
+    "title": "昭君冢",
+    "title_tr": "昭君冢",
+    "author": "蒋吉",
+    "author_tr": "蔣吉",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曾为汉帝眼中人，今作狂胡陌上尘。\n身死不知多少载，冢花犹带洛阳春。",
+    "content_tr": "曾爲漢帝眼中人，今作狂胡陌上塵。\n身死不知多少載，冢花猶帶洛陽春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

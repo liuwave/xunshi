@@ -1,0 +1,18 @@
+{
+  "work_id": 54545,
+  "work": {
+    "id": 54545,
+    "title": "过京索先生坟",
+    "title_tr": "過京索先生墳",
+    "author": "贾岛",
+    "author_tr": "賈島",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "京索先生三尺坟，秋风漠漠吐寒云。\n从来有恨君多哭，今日何人更哭君。",
+    "content_tr": "京索先生三尺墳，秋風漠漠吐寒雲。\n從來有恨君多哭，今日何人更哭君。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

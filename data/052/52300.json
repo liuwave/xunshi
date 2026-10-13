@@ -1,0 +1,18 @@
+{
+  "work_id": 52300,
+  "work": {
+    "id": 52300,
+    "title": "捕渔谣",
+    "title_tr": "捕漁謠",
+    "author": "曹邺",
+    "author_tr": "曹鄴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天子好征战，百姓不种桑。\n天子好年少，无人荐冯唐。\n天子好美女，夫妇不成双。",
+    "content_tr": "天子好征戰，百姓不種桑。\n天子好年少，無人薦馮唐。\n天子好美女，夫婦不成雙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

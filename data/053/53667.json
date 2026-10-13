@@ -1,0 +1,18 @@
+{
+  "work_id": 53667,
+  "work": {
+    "id": 53667,
+    "title": "秋原野望",
+    "title_tr": "秋原野望",
+    "author": "杨凌",
+    "author_tr": "楊凌",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "客雁秋来次第逢，家书频寄两三封。\n夕阳天外云归尽，乱见青山无数峰。",
+    "content_tr": "客雁秋來次第逢，家書頻寄兩三封。\n夕陽天外雲歸盡，亂見青山無數峯。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

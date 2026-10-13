@@ -1,0 +1,18 @@
+{
+  "work_id": 54321,
+  "work": {
+    "id": 54321,
+    "title": "送邹明府游灵武",
+    "title_tr": "送鄒明府遊靈武",
+    "author": "贾岛",
+    "author_tr": "賈島",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "曾宰西畿县，三年马不肥。\n债多平剑与，官满载书归。\n边雪藏行径，林风透卧衣。\n灵州听晓角，客馆未开扉。",
+    "content_tr": "曾宰西畿縣，三年馬不肥。\n債多平劍與，官滿載書歸。\n邊雪藏行徑，林風透臥衣。\n靈州聽曉角，客館未開扉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

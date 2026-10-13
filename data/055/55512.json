@@ -1,0 +1,18 @@
+{
+  "work_id": 55512,
+  "work": {
+    "id": 55512,
+    "title": "咏影",
+    "title_tr": "詠影",
+    "author": "齐己",
+    "author_tr": "齊己",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万物患有象，不能逃大明。\n始随残魄灭，又逐晓光生。\n曲直宁相隐，洪纤必自呈。\n还如至公世，洞鉴是非情。",
+    "content_tr": "萬物患有象，不能逃大明。\n始隨殘魄滅，又逐曉光生。\n曲直寧相隱，洪纖必自呈。\n還如至公世，洞鑑是非情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

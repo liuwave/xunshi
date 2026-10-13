@@ -1,0 +1,18 @@
+{
+  "work_id": 69703,
+  "work": {
+    "id": 69703,
+    "title": "题陈公园",
+    "title_tr": "題陳公園",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春池水暖鱼自乐，翠岭竹静鸟知还。\n莫言叠石小风景，卷帘看尽铜官山。",
+    "content_tr": "春池水暖魚自樂，翠嶺竹靜鳥知還。\n莫言疊石小風景，捲簾看盡銅官山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

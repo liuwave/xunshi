@@ -1,0 +1,18 @@
+{
+  "work_id": 50323,
+  "work": {
+    "id": 50323,
+    "title": "题贾岛吟诗台",
+    "title_tr": "題賈島吟詩臺",
+    "author": "张乔",
+    "author_tr": "張喬",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "吟魂不复游，台亦似荒丘。\n一径草中出，长江天外流。\n暝烟寒鸟集，残月夜虫愁。\n愿得生禾黍，锄平恨即休。",
+    "content_tr": "吟魂不復遊，臺亦似荒丘。\n一徑草中出，長江天外流。\n暝煙寒鳥集，殘月夜蟲愁。\n願得生禾黍，鋤平恨即休。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

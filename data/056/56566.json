@@ -1,0 +1,18 @@
+{
+  "work_id": 56566,
+  "work": {
+    "id": 56566,
+    "title": "送春曲三首",
+    "title_tr": "送春曲三首",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "春向晚，春晚思悠哉。风云日已改，花叶自相摧。\n漠漠空中去，何时天际来。",
+    "content_tr": "春向晚，春晚思悠哉。風雲日已改，花葉自相摧。\n漠漠空中去，何時天際來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

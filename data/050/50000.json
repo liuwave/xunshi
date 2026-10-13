@@ -1,0 +1,18 @@
+{
+  "work_id": 50000,
+  "work": {
+    "id": 50000,
+    "title": "送武陵王将军",
+    "title_tr": "送武陵王將軍",
+    "author": "马戴",
+    "author_tr": "馬戴",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河外今无事，将军有战名。\n艰难长剑缺，功业少年成。\n晓仗亲云陛，寒宵突禁营。\n朱旗身外色，玉漏耳边声。\n开閤谈宾至，调弓过雁惊。\n为儒多不达，见学请长缨。",
+    "content_tr": "河外今無事，將軍有戰名。\n艱難長劍缺，功業少年成。\n曉仗親雲陛，寒宵突禁營。\n朱旗身外色，玉漏耳邊聲。\n開閤談賓至，調弓過雁驚。\n爲儒多不達，見學請長纓。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

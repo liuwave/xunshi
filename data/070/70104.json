@@ -1,0 +1,18 @@
+{
+  "work_id": 70104,
+  "work": {
+    "id": 70104,
+    "title": "劳劳亭",
+    "title_tr": "勞勞亭",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天下伤心处，劳劳送客亭。\n春风知别苦，不遣柳条青。",
+    "content_tr": "天下傷心處，勞勞送客亭。\n春風知別苦，不遣柳條靑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

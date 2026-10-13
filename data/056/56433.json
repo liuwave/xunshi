@@ -1,0 +1,18 @@
+{
+  "work_id": 56433,
+  "work": {
+    "id": 56433,
+    "title": "咏红柿子",
+    "title_tr": "詠紅柿子",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晓连星影出，晚带日光悬。\n本因遗采掇，翻自保天年。",
+    "content_tr": "曉連星影出，晚帶日光懸。\n本因遺採掇，翻自保天年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

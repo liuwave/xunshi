@@ -1,0 +1,18 @@
+{
+  "work_id": 50160,
+  "work": {
+    "id": 50160,
+    "title": "赠李十二白",
+    "title_tr": "贈李十二白",
+    "author": "崔成甫",
+    "author_tr": "崔成甫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我是潇湘放逐臣，君辞明主汉江滨。\n天外常求太白老，金陵捉得酒仙人。",
+    "content_tr": "我是瀟湘放逐臣，君辭明主漢江濱。\n天外常求太白老，金陵捉得酒仙人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

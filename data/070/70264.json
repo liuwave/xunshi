@@ -1,0 +1,18 @@
+{
+  "work_id": 70264,
+  "work": {
+    "id": 70264,
+    "title": "妒诗",
+    "title_tr": "妬詩",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嗟尔同衾，曾不是志。\n宁彼冶容，安此妒忌。",
+    "content_tr": "嗟爾同衾，曾不是志。\n寧彼冶容，安此妬忌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

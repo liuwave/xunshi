@@ -1,0 +1,18 @@
+{
+  "work_id": 50403,
+  "work": {
+    "id": 50403,
+    "title": "与国贤良夜歌二首",
+    "title_tr": "與國賢良夜歌二首",
+    "author": "张柬之",
+    "author_tr": "張柬之",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "柳台临新堰，楼堞相重复。\n窈窕凤皇姝，倾城复倾国。",
+    "content_tr": "柳臺臨新堰，樓堞相重複。\n窈窕鳳皇姝，傾城復傾國。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

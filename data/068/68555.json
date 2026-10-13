@@ -1,0 +1,18 @@
+{
+  "work_id": 68555,
+  "work": {
+    "id": 68555,
+    "title": "闻捷",
+    "title_tr": "聞捷",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "闻说官军取乞訚，将军旗鼓捷如神。\n故知无定河边柳，得共中原雪絮春。",
+    "content_tr": "聞說官軍取乞誾，將軍旂鼓捷如神。\n故知無定河邊柳，得共中原雪絮春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

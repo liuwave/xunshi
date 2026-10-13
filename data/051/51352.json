@@ -1,0 +1,18 @@
+{
+  "work_id": 51352,
+  "work": {
+    "id": 51352,
+    "title": "魏宫词",
+    "title_tr": "魏宮詞",
+    "author": "崔国辅",
+    "author_tr": "崔國輔",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "朝日照红妆，拟上铜雀台。\n画眉犹未了，魏帝使人催。",
+    "content_tr": "朝日照紅妝，擬上銅雀臺。\n畫眉猶未了，魏帝使人催。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

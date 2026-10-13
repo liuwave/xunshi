@@ -1,0 +1,18 @@
+{
+  "work_id": 54164,
+  "work": {
+    "id": 54164,
+    "title": "西亭春望",
+    "title_tr": "西亭春望",
+    "author": "贾至",
+    "author_tr": "賈至",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "日长风暖柳青青，北雁归飞入窅冥。\n岳阳城上闻吹笛，能使春心满洞庭。",
+    "content_tr": "日長風煖柳青青，北雁歸飛入窅冥。\n岳陽城上聞吹笛，能使春心滿洞庭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

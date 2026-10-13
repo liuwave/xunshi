@@ -1,0 +1,18 @@
+{
+  "work_id": 73645,
+  "work": {
+    "id": 73645,
+    "title": "和回文诗",
+    "title_tr": "和回文诗",
+    "author": "庾信",
+    "author_tr": "庾信",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旱莲生竭镬，嫩菊养秋邻。\n满池留浴鸟，分桥上戏人。",
+    "content_tr": "旱莲生竭镬，嫩菊养秋邻。\n满池留浴鸟，分桥上戏人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

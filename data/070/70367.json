@@ -1,0 +1,18 @@
+{
+  "work_id": 70367,
+  "work": {
+    "id": 70367,
+    "title": "读邵尧夫诗",
+    "title_tr": "讀邵堯夫詩",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饮酒已输陶靖节，作诗犹爱邵尧夫。\n若论老子胸中事，除却溪山一事无。",
+    "content_tr": "飲酒已輸陶靖節，作詩猶愛邵堯夫。\n若論老子胸中事，除却溪山一事無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

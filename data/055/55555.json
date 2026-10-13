@@ -1,0 +1,18 @@
+{
+  "work_id": 55555,
+  "work": {
+    "id": 55555,
+    "title": "严陵钓台",
+    "title_tr": "嚴陵釣臺",
+    "author": "齐己",
+    "author_tr": "齊己",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夫子垂竿处，空江照古台。\n无人更如此，白浪自成堆。\n鹤静寻僧去，鱼狂入海回。\n登临秋值晚，树石尽多苔。",
+    "content_tr": "夫子垂竿處，空江照古臺。\n無人更如此，白浪自成堆。\n鶴靜尋僧去，魚狂入海回。\n登臨秋值晚，樹石盡多苔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 73456,
+  "work": {
+    "id": 73456,
+    "title": "和刘仪同臻诗",
+    "title_tr": "和劉儀同臻詩",
+    "author": "庾信",
+    "author_tr": "庾信",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "南登广陵岸，回首落星城。\n不言临旧浦，烽火照江明。",
+    "content_tr": "南登廣陵岸，回首落星城。\n不言臨舊浦，烽火照江明。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 56700,
+  "work": {
+    "id": 56700,
+    "title": "泽宫诗",
+    "title_tr": "澤宮詩",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秩秩泽宫，有的维鹄。\n祁祁庶士，于以干禄。",
+    "content_tr": "秩秩澤宮，有的維鵠。\n祁祁庶士，於以幹祿。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

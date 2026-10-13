@@ -1,0 +1,18 @@
+{
+  "work_id": 61234,
+  "work": {
+    "id": 61234,
+    "title": "秋日郊寺访客酌谈",
+    "title_tr": "秋日郊寺訪客酌談",
+    "author": "尹台",
+    "author_tr": "尹臺",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "细雨城南寺，开尊对落晖。\n青山依幔入，黄叶映杯飞。\n野迥尘沙净，烟深草树微。\n林㘭驻安马，取醉欲忘归。",
+    "content_tr": "細雨城南寺，開尊對落暉。\n青山依幔入，黃葉映杯飛。\n野迥塵沙淨，煙深草樹微。\n林㘭駐安馬，取醉欲忘歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

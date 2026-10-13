@@ -1,0 +1,18 @@
+{
+  "work_id": 69025,
+  "work": {
+    "id": 69025,
+    "title": "秋思寄子由",
+    "title_tr": "秋思寄子由",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄叶山川知晚秋，小虫催女献功裘。\n老松阅世卧云壑，挽著苍江无万牛。",
+    "content_tr": "黃葉山川知晚秋，小蟲催女獻功裘。\n老鬆閱世臥雲壑，挽著蒼江無萬牛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

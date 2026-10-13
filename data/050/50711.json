@@ -1,0 +1,18 @@
+{
+  "work_id": 50711,
+  "work": {
+    "id": 50711,
+    "title": "相和歌辞莫愁乐",
+    "title_tr": "相和歌辭莫愁樂",
+    "author": "张祜",
+    "author_tr": "張祜",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "侬居石城下，郎到石城游。\n自郎石城出，长在石城头。",
+    "content_tr": "儂居石城下，郎到石城遊。\n自郎石城出，長在石城頭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

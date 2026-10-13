@@ -1,0 +1,18 @@
+{
+  "work_id": 55343,
+  "work": {
+    "id": 55343,
+    "title": "赠丘先生",
+    "title_tr": "贈丘先生",
+    "author": "郑巢",
+    "author_tr": "鄭巢",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云泉心不爽，垂日坐柴关。\n砚取檐前雨，图开异国山。\n原僧招过宿，沙鸟伴长闲。\n地与中峰近，残阳独不还。",
+    "content_tr": "雲泉心不爽，垂日坐柴關。\n硯取檐前雨，圖開異國山。\n原僧招過宿，沙鳥伴長閒。\n地與中峯近，殘陽獨不還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

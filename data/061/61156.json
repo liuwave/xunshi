@@ -1,0 +1,18 @@
+{
+  "work_id": 61156,
+  "work": {
+    "id": 61156,
+    "title": "题孟浩然踏雪寻梅",
+    "title_tr": "題孟浩然踏雪尋梅",
+    "author": "于谦",
+    "author_tr": "于謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "满头风雪路欹斜，杖屦行寻卖酒家。\n万里溪山同一色，不知何处是梅花。",
+    "content_tr": "滿頭風雪路欹斜，杖屨行尋賣酒家。\n萬里溪山同一色，不知何處是梅花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 56451,
+  "work": {
+    "id": 56451,
+    "title": "逢王十二学士入翰林因以诗赠",
+    "title_tr": "逢王十二學士入翰林因以詩贈",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "厩马翩翩禁外逢，星槎上汉杳难从。\n定知欲报淮南诏，促召王褒入九重。",
+    "content_tr": "廄馬翩翩禁外逢，星槎上漢杳難從。\n定知欲報淮南詔，促召王褒入九重。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

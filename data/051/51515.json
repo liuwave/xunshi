@@ -1,0 +1,18 @@
+{
+  "work_id": 51515,
+  "work": {
+    "id": 51515,
+    "title": "古树",
+    "title_tr": "古樹",
+    "author": "崔道融",
+    "author_tr": "崔道融",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "古树春风入，阳和力太迟。\n莫言生意尽，更引万年枝。",
+    "content_tr": "古樹春風入，陽和力太遲。\n莫言生意盡，更引萬年枝。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 70333,
+  "work": {
+    "id": 70333,
+    "title": "醉书其壁",
+    "title_tr": "醉書其壁",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "颇觉参禅近有功，因空成色色成空。\n色空静处如何说，且坐清凉境界中。",
+    "content_tr": "頗覺參禪近有功，因空成色色成空。\n色空靜處如何說，且坐清涼境界中。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

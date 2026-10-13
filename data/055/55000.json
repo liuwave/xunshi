@@ -1,0 +1,18 @@
+{
+  "work_id": 55000,
+  "work": {
+    "id": 55000,
+    "title": "代寄边人",
+    "title_tr": "代寄邊人",
+    "author": "郑准",
+    "author_tr": "鄭準",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "君去不来久，悠悠昏又明。\n片心因卜解，残梦过桥惊。\n圣泽如垂饵，沙场会息兵。\n凉风当为我，一一送砧声。",
+    "content_tr": "君去不來久，悠悠昏又明。\n片心因卜解，殘夢過橋驚。\n聖澤如垂餌，沙場會息兵。\n涼風當爲我，一一送砧聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

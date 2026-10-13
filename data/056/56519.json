@@ -1,0 +1,18 @@
+{
+  "work_id": 56519,
+  "work": {
+    "id": 56519,
+    "title": "登清晖",
+    "title_tr": "登清暉",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "浔阳江色潮添满，彭蠡秋声雁送来。\n南望庐山千万仞，共夸新出栋梁材。",
+    "content_tr": "潯陽江色潮添滿，彭蠡秋聲雁送來。\n南望廬山千萬仞，共誇新出棟樑材。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

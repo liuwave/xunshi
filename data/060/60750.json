@@ -1,0 +1,18 @@
+{
+  "work_id": 60750,
+  "work": {
+    "id": 60750,
+    "title": "昼",
+    "title_tr": "晝",
+    "author": "权德舆",
+    "author_tr": "權德輿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "孤舟漾暧景，独鹤下秋空。\n安流日正昼，净绿天无风。",
+    "content_tr": "孤舟漾曖景，獨鶴下秋空。\n安流日正晝，淨綠天無風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

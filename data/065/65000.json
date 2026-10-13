@@ -1,0 +1,18 @@
+{
+  "work_id": 65000,
+  "work": {
+    "id": 65000,
+    "title": "寄赠吴大倕倩",
+    "title_tr": "寄贈吳大倕倩",
+    "author": "王世贞",
+    "author_tr": "王世貞",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "十载吴郎已大名，青山依旧楚诸生。\n似闻老蚌蹉跎意，欲遣双珠入帝城。",
+    "content_tr": "十載吳郎已大名，青山依舊楚諸生。\n似聞老蚌蹉跎意，欲遣雙珠入帝城。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

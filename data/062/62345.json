@@ -1,0 +1,18 @@
+{
+  "work_id": 62345,
+  "work": {
+    "id": 62345,
+    "title": "赠张西屏",
+    "title_tr": "贈張西屏",
+    "author": "尹耕",
+    "author_tr": "尹耕",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "月明熊耳照滹沱，千里思君可奈何。\n棋局拟从清梦着，诗篇遥向白云歌。\n时危身世风霜苦，日短江湖感慨多。\n莫道塞翁常失马，后车还许载渔蓑。",
+    "content_tr": "月明熊耳照滹沱，千里思君可奈何。\n棋局擬從清夢著，詩篇遙向白雲歌。\n時危身世風霜苦，日短江湖感慨多。\n莫道塞翁常失馬，後車還許載漁蓑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

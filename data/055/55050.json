@@ -1,0 +1,18 @@
+{
+  "work_id": 55050,
+  "work": {
+    "id": 55050,
+    "title": "赠樊夫人诗",
+    "title_tr": "贈樊夫人詩",
+    "author": "裴航",
+    "author_tr": "裴航",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "向为胡越犹怀想，况遇天仙隔锦屏。\n傥若玉京朝会去，愿随鸾鹤入青冥。",
+    "content_tr": "向爲胡越猶懷想，況遇天仙隔錦屏。\n儻若玉京朝會去，願隨鸞鶴入青冥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

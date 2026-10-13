@@ -1,0 +1,18 @@
+{
+  "work_id": 70101,
+  "work": {
+    "id": 70101,
+    "title": "上阳台帖",
+    "title_tr": "上陽臺帖",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山高水长，物象千万。\n非有老笔，清壮可穷。\n十八日，上阳台书，太白。",
+    "content_tr": "山高水長，物象千萬。\n非有老筆，清壯可窮。\n十八日，上陽臺書，太白。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 69011,
+  "work": {
+    "id": 69011,
+    "title": "绝句一首",
+    "title_tr": "絕句一首",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "蒙蒙春雨湿邗沟，篷底安眠昼拥裘。\n知有故人家在此，速将诗卷洗闲愁。",
+    "content_tr": "濛濛春雨溼邗溝，篷底安眠晝擁裘。\n知有故人家在此，速將詩卷洗閒愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

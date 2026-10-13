@@ -1,0 +1,18 @@
+{
+  "work_id": 60540,
+  "work": {
+    "id": 60540,
+    "title": "弹琴谷",
+    "title_tr": "彈琴谷",
+    "author": "顾况",
+    "author_tr": "顧況",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谷中谁弹琴，琴响谷冥寂。\n因君扣商调，草虫惊暗壁。",
+    "content_tr": "谷中誰彈琴，琴響谷冥寂。\n因君扣商調，草蟲驚暗壁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

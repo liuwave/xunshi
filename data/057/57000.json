@@ -1,0 +1,18 @@
+{
+  "work_id": 57000,
+  "work": {
+    "id": 57000,
+    "title": "爱碣山石",
+    "title_tr": "愛碣山石",
+    "author": "刘叉",
+    "author_tr": "劉叉",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "碣石何青青，挽我双眼睛。\n爱尔多古峭，不到人间行。",
+    "content_tr": "碣石何青青，挽我雙眼睛。\n愛爾多古峭，不到人間行。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

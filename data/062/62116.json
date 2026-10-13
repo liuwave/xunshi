@@ -1,0 +1,18 @@
+{
+  "work_id": 62116,
+  "work": {
+    "id": 62116,
+    "title": "艳歌行四首",
+    "title_tr": "豔歌行四首",
+    "author": "于慎行",
+    "author_tr": "于慎行",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜色迢迢五凤城，斜窗宿雾月微明。\n含啼小妇调春管，吹入梅花调不成。",
+    "content_tr": "夜色迢迢五鳳城，斜窗宿霧月微明。\n含啼小婦調春管，吹入梅花調不成。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

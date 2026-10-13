@@ -1,0 +1,18 @@
+{
+  "work_id": 54574,
+  "work": {
+    "id": 54574,
+    "title": "枕上吟",
+    "title_tr": "枕上吟",
+    "author": "贾岛",
+    "author_tr": "賈島",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜长忆白日，枕上吟千诗。\n何当苦寒气，忽被东风吹。\n冰开鱼龙别，天波殊路岐。",
+    "content_tr": "夜長憶白日，枕上吟千詩。\n何當苦寒氣，忽被東風吹。\n冰開魚龍別，天波殊路岐。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

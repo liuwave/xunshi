@@ -1,0 +1,18 @@
+{
+  "work_id": 70109,
+  "work": {
+    "id": 70109,
+    "title": "紫藤树",
+    "title_tr": "紫藤樹",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "紫藤挂云木，花蔓宜阳春。\n密叶隐歌鸟，香风留美人。",
+    "content_tr": "紫藤挂雲木，花蔓宜陽春。\n密葉隱歌鳥，香風留美人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 60000,
+  "work": {
+    "id": 60000,
+    "title": "奉和裴相公东征途经女几山下作",
+    "title_tr": "奉和裴相公東征途經女幾山下作",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "旗穿晓日云霞杂，山倚秋空剑戟明。\n敢请相公平贼后，暂携诸吏上峥嵘。",
+    "content_tr": "旗穿曉日雲霞雜，山倚秋空劍戟明。\n敢請相公平賊後，暫攜諸吏上崢嶸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

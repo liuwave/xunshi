@@ -1,0 +1,18 @@
+{
+  "work_id": 70279,
+  "work": {
+    "id": 70279,
+    "title": "芙蓉池诗",
+    "title_tr": "芙蓉池詩",
+    "author": "曹植",
+    "author_tr": "曹植",
+    "dynasty": "三国",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "逍遥芙蓉池，翩翩戏轻舟。\n南阳栖双鹄，北柳有鸣鸠。",
+    "content_tr": "逍遙芙蓉池，翩翩戲輕舟。\n南陽棲雙鵠，北柳有鳴鳩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

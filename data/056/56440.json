@@ -1,0 +1,18 @@
+{
+  "work_id": 56440,
+  "work": {
+    "id": 56440,
+    "title": "古词二首",
+    "title_tr": "古詞二首",
+    "author": "刘禹锡",
+    "author_tr": "劉禹錫",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "轩后初冠冕，前旒为蔽明。\n安知从复道，然后见人情。",
+    "content_tr": "軒後初冠冕，前旒爲蔽明。\n安知從複道，然後見人情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

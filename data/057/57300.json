@@ -1,0 +1,18 @@
+{
+  "work_id": 57300,
+  "work": {
+    "id": 57300,
+    "title": "龙门八咏福公塔",
+    "title_tr": "龍門八詠福公塔",
+    "author": "刘长卿",
+    "author_tr": "劉長卿",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "寂寞对伊水，经行长未还。\n东流自朝暮，千载空云山。\n谁见白鸥鸟，无心洲渚间。",
+    "content_tr": "寂寞對伊水，經行長未還。\n東流自朝暮，千載空雲山。\n誰見白鷗鳥，無心洲渚間。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

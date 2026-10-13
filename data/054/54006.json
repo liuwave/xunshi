@@ -1,0 +1,18 @@
+{
+  "work_id": 54006,
+  "work": {
+    "id": 54006,
+    "title": "僧院听琴",
+    "title_tr": "僧院聽琴",
+    "author": "杨巨源",
+    "author_tr": "楊巨源",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "禅思何妨在玉琴，真僧不见听时心。\n离声怨调秋堂夕，云向苍梧湘水深。",
+    "content_tr": "禪思何妨在玉琴，真僧不見聽時心。\n離聲怨調秋堂夕，雲向蒼梧湘水深。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

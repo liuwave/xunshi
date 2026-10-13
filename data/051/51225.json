@@ -1,0 +1,18 @@
+{
+  "work_id": 51225,
+  "work": {
+    "id": 51225,
+    "title": "忆远曲",
+    "title_tr": "憶遠曲",
+    "author": "张籍",
+    "author_tr": "張籍",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "水上山沈沈，征途复绕林。\n途荒人行少，马迹犹可寻。\n雪中独立树，海口失侣禽。\n离忧如长线，千里萦我心。",
+    "content_tr": "水上山沈沈，征途復繞林。\n途荒人行少，馬跡猶可尋。\n雪中獨立樹，海口失侶禽。\n離憂如長線，千里縈我心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 59999,
+  "work": {
+    "id": 59999,
+    "title": "赠刑部马侍郎",
+    "title_tr": "贈刑部馬侍郎",
+    "author": "韩愈",
+    "author_tr": "韓愈",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "红旗照海压南荒，徵入中台作侍郎。\n暂从相公平小寇，便归天阙致时康。",
+    "content_tr": "紅旗照海壓南荒，徵入中臺作侍郎。\n暫從相公平小寇，便歸天闕致時康。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

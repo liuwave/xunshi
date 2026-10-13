@@ -1,0 +1,18 @@
+{
+  "work_id": 51223,
+  "work": {
+    "id": 51223,
+    "title": "云童行",
+    "title_tr": "雲童行",
+    "author": "张籍",
+    "author_tr": "張籍",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云童童，白龙之尾垂江中。今年天旱不作雨，水足墙上有禾黍。",
+    "content_tr": "雲童童，白龍之尾垂江中。今年天旱不作雨，水足牆上有禾黍。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

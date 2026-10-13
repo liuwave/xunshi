@@ -1,0 +1,18 @@
+{
+  "work_id": 68819,
+  "work": {
+    "id": 68819,
+    "title": "书《龙马图》",
+    "title_tr": "書《龍馬圖》",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "先皇御马三千匹，仗下曾骑玉骆骢。\n金鼎丹成龙亦化，圉人空栈泣西风。",
+    "content_tr": "先皇御馬三千匹，仗下曾騎玉駱驄。\n金鼎丹成龍亦化，圉人空棧泣西風。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

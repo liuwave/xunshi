@@ -1,0 +1,18 @@
+{
+  "work_id": 70001,
+  "work": {
+    "id": 70001,
+    "title": "春日独酌二首",
+    "title_tr": "春日獨酌二首",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "我有紫霞想，缅怀沧洲间。\n思对一壶酒，澹然万事闲。\n横琴倚高松，把酒望远山。\n长空去鸟没，落日孤云还。\n但恐光景晚，宿昔成秋颜。",
+    "content_tr": "我有紫霞想，緬懷滄洲間。\n思對一壺酒，澹然萬事閒。\n橫琴倚高鬆，把酒望遠山。\n長空去鳥沒，落日孤雲還。\n但恐光景晚，宿昔成秋顏。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
