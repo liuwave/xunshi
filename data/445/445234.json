@@ -1,0 +1,18 @@
+{
+  "work_id": 445234,
+  "work": {
+    "id": 445234,
+    "title": "又两绝",
+    "title_tr": "又兩絕",
+    "author": "苏颂",
+    "author_tr": "蘇頌",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江天惨淡物华新，四望漫漫起玉尘。\n但怪长衢已盈尺，岂知闭户有高人。",
+    "content_tr": "江天慘淡物華新，四望漫漫起玉塵。\n但怪長衢已盈尺，豈知閉戶有高人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 432456,
+  "work": {
+    "id": 432456,
+    "title": "冬郊",
+    "title_tr": "冬郊",
+    "author": "邓深",
+    "author_tr": "鄧深",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "荒草冈头牧笛，急舂屋角吹烟。\n短景做催冬日，微暖号小春天。",
+    "content_tr": "荒草岡頭牧笛，急舂屋角吹煙。\n短景做催冬日，微暖號小春天。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

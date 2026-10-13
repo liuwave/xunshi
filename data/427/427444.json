@@ -1,0 +1,24 @@
+{
+  "work_id": 427444,
+  "work": {
+    "id": 427444,
+    "title": "了了堂",
+    "title_tr": "了了堂",
+    "author": "满执中",
+    "author_tr": "滿執中",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "虚堂跨云巅，白云在林杪。\n绝顶不可穷，了了非了了。",
+    "content_tr": "虛堂跨雲巔，白雲在林杪。\n絕頂不可窮，了了非了了。"
+  },
+  "anthologies": [],
+  "annotation": {
+    "translation": "空堂横跨在云巅之上，白云飘在林梢。绝顶不可穷尽，所谓了了并非真的了了。",
+    "annotation": "林杪（miǎo）：林梢。\n了了：分明清楚；末句之「了了」兼指佛家悟境。",
+    "appreciation": "此篇以二十字写登堂之悟。前两句实写，虚堂跨云、白云在梢，境界已高；后两句翻进一层，谓绝顶不可穷、了了非真了了。「了了」二字双关，既指目之所见分明，亦指心之所悟。语近禅家公案，将登览之景与悟道之思绾合，短章中饶有理趣，言近而旨远。",
+    "confidence": "high",
+    "ai_generated": true
+  },
+  "strains_aligned": true
+}

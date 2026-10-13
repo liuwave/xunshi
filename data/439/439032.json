@@ -1,0 +1,18 @@
+{
+  "work_id": 439032,
+  "work": {
+    "id": 439032,
+    "title": "咏沙",
+    "title_tr": "詠沙",
+    "author": "龙太初",
+    "author_tr": "龍太初",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "茫茫黄出寒，漠漠白铺汀。\n鸟去风平篆，潮回日射星。",
+    "content_tr": "茫茫黃出寒，漠漠白鋪汀。\n鳥去風平篆，潮回日射星。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

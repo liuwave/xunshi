@@ -1,0 +1,18 @@
+{
+  "work_id": 430123,
+  "work": {
+    "id": 430123,
+    "title": "叶梦麟往惟扬",
+    "title_tr": "葉夢麟往惟揚",
+    "author": "蒋廷玉",
+    "author_tr": "蔣廷玉",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一马扬州路，桃开几树花。\n春光无拣择，淮地亦繁华。\n日惨长江水，风昏古战沙。\n争雄旧时事，君去莫思家。",
+    "content_tr": "一馬揚州路，桃開幾樹花。\n春光無揀擇，淮地亦繁華。\n日慘長江水，風昏古戰沙。\n爭雄舊時事，君去莫思家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

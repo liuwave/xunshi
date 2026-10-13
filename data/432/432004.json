@@ -1,0 +1,18 @@
+{
+  "work_id": 432004,
+  "work": {
+    "id": 432004,
+    "title": "咏吕步舒诗",
+    "title_tr": "咏呂步舒詩",
+    "author": "刘跂",
+    "author_tr": "劉跂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "先生卵翼计平生，针芥相睽祸欲成。\n自是挥斤非妙手，郢人为质却无情。",
+    "content_tr": "先生卵翼計平生，針芥相睽禍欲成。\n自是揮斤非妙手，郢人爲質却無情。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

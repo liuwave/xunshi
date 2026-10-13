@@ -1,0 +1,18 @@
+{
+  "work_id": 433005,
+  "work": {
+    "id": 433005,
+    "title": "遣思",
+    "title_tr": "遣思",
+    "author": "刘敞",
+    "author_tr": "劉敞",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "淮上秋光凝客恨，城头暮色滞斜晖。\n独醒未必能胜醉，远望山来可当归。",
+    "content_tr": "淮上秋光凝客恨，城頭暮色滯斜暉。\n獨醒未必能勝醉，遠望山來可當歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

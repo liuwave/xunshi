@@ -1,0 +1,18 @@
+{
+  "work_id": 432100,
+  "work": {
+    "id": 432100,
+    "title": "贡麟",
+    "title_tr": "貢麟",
+    "author": "郑獬",
+    "author_tr": "鄭獬",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "麟本出中国，无闻贡海滨。\n岂将远方兽，烦我太平民。\n烹割罗牲饩，奔趋扫路尘。\n汉高尝聘士，此礼属蛮人。",
+    "content_tr": "麟本出中國，無聞貢海濱。\n豈將遠方獸，煩我太平民。\n烹割羅牲餼，奔趨掃路塵。\n漢高嘗聘士，此禮屬蠻人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

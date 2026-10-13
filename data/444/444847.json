@@ -1,0 +1,18 @@
+{
+  "work_id": 444847,
+  "work": {
+    "id": 444847,
+    "title": "塞下绝句",
+    "title_tr": "塞下絕句",
+    "author": "严羽",
+    "author_tr": "嚴羽",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "莫被封侯误，封侯似汉家。\n君看城下骨，万古一黄沙。",
+    "content_tr": "莫被封侯誤，封侯似漢家。\n君看城下骨，萬古一黃沙。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

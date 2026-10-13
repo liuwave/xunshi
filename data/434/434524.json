@@ -1,0 +1,18 @@
+{
+  "work_id": 434524,
+  "work": {
+    "id": 434524,
+    "title": "梅氏梅楼",
+    "title_tr": "梅氏梅樓",
+    "author": "郑上村",
+    "author_tr": "鄭上村",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山云楼头彻夜明，天风吹下读书声。\n劝君莫把离骚读，见说梅花恨未平。",
+    "content_tr": "山雲樓頭徹夜明，天風吹下讀書聲。\n勸君莫把離騷讀，見說梅花恨未平。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

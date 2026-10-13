@@ -1,0 +1,18 @@
+{
+  "work_id": 444236,
+  "work": {
+    "id": 444236,
+    "title": "会景堂",
+    "title_tr": "會景堂",
+    "author": "鲜于侁",
+    "author_tr": "鮮于侁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金城环雉堞，云屋瞰阛阓。\n双林耸江右，九陇觇天外。",
+    "content_tr": "金城環雉堞，雲屋瞰闤闠。\n雙林聳江右，九隴覘天外。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
