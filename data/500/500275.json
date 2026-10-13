@@ -1,0 +1,18 @@
+{
+  "work_id": 500275,
+  "work": {
+    "id": 500275,
+    "title": "南游绝句",
+    "title_tr": "南游絕句",
+    "author": "王松",
+    "author_tr": "王松",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡黍家家饯酒徒，情深怕我入迷途；\n须知狂客南游意，祗采奇诗不采珠。",
+    "content_tr": "雞黍家家餞酒徒，情深怕我入迷途；\n須知狂客南游意，祗採奇詩不採珠。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

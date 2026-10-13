@@ -1,0 +1,18 @@
+{
+  "work_id": 500005,
+  "work": {
+    "id": 500005,
+    "title": "陶然亭题壁二首 其一",
+    "title_tr": "陶然亭题壁二首 其一",
+    "author": "王日杏",
+    "author_tr": "王日杏",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "西山晚翠上孤筇，斜照神州殿阁重。\n芦苇萧萧浑似雨，数行啼雁隔城钟。",
+    "content_tr": "西山晚翠上孤筇，斜照神州殿阁重。\n芦苇萧萧浑似雨，数行啼雁隔城钟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

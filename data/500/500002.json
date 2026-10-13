@@ -1,0 +1,18 @@
+{
+  "work_id": 500002,
+  "work": {
+    "id": 500002,
+    "title": "蟠龙山望江",
+    "title_tr": "蟠龍山望江",
+    "author": "王时霖",
+    "author_tr": "王時霖",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夭矫蟠龙入画图，青林红树两模糊。\n晚来岸帻江天望，几点云帆淡欲无。",
+    "content_tr": "夭矯蟠龍入畫圖，靑林紅樹兩模糊。\n晚來岸幘江天望，幾點雲帆淡欲無。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

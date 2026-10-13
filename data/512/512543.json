@@ -1,0 +1,18 @@
+{
+  "work_id": 512543,
+  "work": {
+    "id": 512543,
+    "title": "戏题自鸣钟",
+    "title_tr": "戲題自鳴鐘",
+    "author": "玄烨",
+    "author_tr": "玄燁",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "昼夜循环胜刻漏，绸缪宛转报时全。\n阴晴不改衷肠性，万里遥来二百年。",
+    "content_tr": "晝夜循環勝刻漏，綢繆宛轉報時全。\n隂晴不改衷腸性，萬里遥来二百年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

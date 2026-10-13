@@ -1,0 +1,18 @@
+{
+  "work_id": 500402,
+  "work": {
+    "id": 500402,
+    "title": "台湾吟 其四",
+    "title_tr": "臺灣吟 其四",
+    "author": "王礼",
+    "author_tr": "王禮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "短靷方箱缚始成，车中裍载策牛行。\n辗来不尽粼粼响，夜静如闻画角声。",
+    "content_tr": "短靷方箱縛始成，車中綑載策牛行。\n輾來不盡粼粼響，夜靜如聞畫角聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

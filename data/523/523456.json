@@ -1,0 +1,18 @@
+{
+  "work_id": 523456,
+  "work": {
+    "id": 523456,
+    "title": "盛京文溯阁春联",
+    "title_tr": "盛京文溯阁春联",
+    "author": "待考",
+    "author_tr": "待考",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "天作溯前光，玉券十华征锡极；\n人文观大备，瑶签四照见逢原。",
+    "content_tr": "天作溯前光，玉券十华征锡极；\n人文观大备，瑶签四照见逢原。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

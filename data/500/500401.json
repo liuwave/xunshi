@@ -1,0 +1,18 @@
+{
+  "work_id": 500401,
+  "work": {
+    "id": 500401,
+    "title": "台湾吟 其二",
+    "title_tr": "臺灣吟 其二",
+    "author": "王礼",
+    "author_tr": "王禮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "相逢坐定问来航，礼意殷勤话一场。\n急唤侍儿街上去，捧盘款客买槟榔。",
+    "content_tr": "相逢坐定問來航，禮意殷勤話一場。\n急喚侍兒街上去，捧盤款客買檳榔。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

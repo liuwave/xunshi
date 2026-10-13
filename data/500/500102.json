@@ -1,0 +1,18 @@
+{
+  "work_id": 500102,
+  "work": {
+    "id": 500102,
+    "title": "哭凌日旦",
+    "title_tr": "哭凌日旦",
+    "author": "王睿（圣若）",
+    "author_tr": "王睿（聖若）",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老骥盐车双耳垂，英流天绝更堪悲。\n却将冀北穷途泪，并向山阳笛里吹。",
+    "content_tr": "老驥鹽車雙耳垂，英流天絶更堪悲。\n却将冀北窮途淚，併向山陽笛裏吹。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

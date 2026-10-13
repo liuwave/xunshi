@@ -1,0 +1,18 @@
+{
+  "work_id": 500010,
+  "work": {
+    "id": 500010,
+    "title": "阿克苏",
+    "title_tr": "阿克苏",
+    "author": "王曾翼",
+    "author_tr": "王曾翼",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "锁钥两城连，佳哉望郁然。\n岩疆望乌什，间道走和田。\n地扼襟喉要，人夸贸易便。\n商多三晋客，货溢百间廛。",
+    "content_tr": "锁钥两城连，佳哉望郁然。\n岩疆望乌什，间道走和田。\n地扼襟喉要，人夸贸易便。\n商多三晋客，货溢百间廛。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

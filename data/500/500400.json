@@ -1,0 +1,18 @@
+{
+  "work_id": 500400,
+  "work": {
+    "id": 500400,
+    "title": "台湾吟 其一",
+    "title_tr": "臺灣吟 其一",
+    "author": "王礼",
+    "author_tr": "王禮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "东土浓浓夜露零，更阑短枕值初醒。\n全无雨意当空霭，晓起惊看湿满庭。",
+    "content_tr": "東土濃濃夜露零，更闌短枕值初醒。\n全無雨意當空靄，曉起驚看濕滿庭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

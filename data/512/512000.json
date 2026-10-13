@@ -1,0 +1,18 @@
+{
+  "work_id": 512000,
+  "work": {
+    "id": 512000,
+    "title": "故宫览章奏",
+    "title_tr": "故宫覽章奏",
+    "author": "弘历",
+    "author_tr": "弘歷",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "黄扉章奏至，秉烛览移时。\n为敕几康故，难辞往复披。\n有秋方慰意，望雪更寻思。\n却想艰辛日，纷纷羽檄驰。",
+    "content_tr": "黄扉章奏至，秉燭覽移時。\n為勅㡬康故，難辭徃復披。\n有秋方慰意，望雪更尋思。\n却想艱辛日，紛紛羽檄馳。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

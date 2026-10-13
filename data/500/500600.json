@@ -1,0 +1,18 @@
+{
+  "work_id": 500600,
+  "work": {
+    "id": 500600,
+    "title": "喜晴口号",
+    "title_tr": "喜晴口號",
+    "author": "弘历",
+    "author_tr": "弘歷",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "彻夜密云不雨，侵晨快霁而风。\n近臣岂足知喜，良农却可与同。",
+    "content_tr": "徹夜宻雲不雨，侵晨快霽而風。\n近臣豈足知喜，良農却可與同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

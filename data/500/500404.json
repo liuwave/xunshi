@@ -1,0 +1,18 @@
+{
+  "work_id": 500404,
+  "work": {
+    "id": 500404,
+    "title": "台湾吟 其五",
+    "title_tr": "臺灣吟 其五",
+    "author": "王礼",
+    "author_tr": "王禮",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "唐人鼓楫涉风潮，坊里杂居欣共招。\n虽是姓名编户籍，算来土著正寥寥。",
+    "content_tr": "唐人鼓檝涉風潮，坊里雜居欣共招。\n雖是姓名編戶籍，算來土著正寥寥。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

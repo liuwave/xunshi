@@ -1,0 +1,18 @@
+{
+  "work_id": 512345,
+  "work": {
+    "id": 512345,
+    "title": "蒙古老稚来迎咸劳遣之",
+    "title_tr": "䝉古老穉来迎咸勞遣之",
+    "author": "玄烨",
+    "author_tr": "玄燁",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "塞阅鸡延建羽旄，常因国计不辞劳。\n苍头黄口纷然至，天地为心示覆帱。",
+    "content_tr": "塞閱雞延建羽旄，常因國計不辭勞。\n蒼頭黄口紛然至，天地為心示覆幬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

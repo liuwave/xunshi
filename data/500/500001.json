@@ -1,0 +1,18 @@
+{
+  "work_id": 500001,
+  "work": {
+    "id": 500001,
+    "title": "忆洛",
+    "title_tr": "忆洛",
+    "author": "王无咎",
+    "author_tr": "王無咎",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苍苍云树满关河，百战中原涕泪多。\n伊阙时通春草梦，平湖乍听采菱歌。\n天心厌乱亡荧惑，人意还家眷薜萝。\n八月潮来江海动，孤舟高卧有渔蓑。",
+    "content_tr": "苍苍云树满关河，百战中原涕泪多。\n伊阙时通春草梦，平湖乍听采菱歌。\n天心厌乱亡荧惑，人意还家眷薜萝。\n八月潮来江海动，孤舟高卧有渔蓑。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
