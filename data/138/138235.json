@@ -1,0 +1,18 @@
+{
+  "work_id": 138235,
+  "work": {
+    "id": 138235,
+    "title": "咏降龙画一首",
+    "title_tr": "詠降龍畫一首",
+    "author": "徐渭",
+    "author_tr": "徐渭",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "首下居高来自东，不偕箕帚独飞雄。\n物情自古浑宜假，莫向人间恼叶公。",
+    "content_tr": "首下居高來自東，不偕箕帚獨飛雄。\n物情自古渾宜假，莫向人間惱葉公。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

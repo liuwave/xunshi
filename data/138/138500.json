@@ -1,0 +1,18 @@
+{
+  "work_id": 138500,
+  "work": {
+    "id": 138500,
+    "title": "牡丹画",
+    "title_tr": "牡丹畵",
+    "author": "徐渭",
+    "author_tr": "徐渭",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "牡丹开欲歇，燕子在高楼。\n墨作花王影，胭脂付莫愁。",
+    "content_tr": "牡丹開欲歇，燕子在高樓。\n墨作花王影，胭脂付莫愁。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

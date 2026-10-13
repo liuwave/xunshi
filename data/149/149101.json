@@ -1,0 +1,18 @@
+{
+  "work_id": 149101,
+  "work": {
+    "id": 149101,
+    "title": "鹤归亭",
+    "title_tr": "鶴歸亭",
+    "author": "赵孟頫",
+    "author_tr": "趙孟頫",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙去人间有故亭，四山林竹郁青青。\n隐居真诰传千古，玉局丹文役万灵。\n白鹤归来人换世，黄云翔集夜充庭。\n步虚声转松风响，思掬岩泉洗耳听。",
+    "content_tr": "仙去人間有故亭，四山林竹欝青青。\n隱居真誥傳千古，玉局丹文伇萬灵。\n白鶴歸来人換世，黄雲翔集夜充庭。\n歩虗聲轉松風響，思掬巖泉洗耳聴。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

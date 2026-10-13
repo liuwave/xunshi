@@ -1,0 +1,18 @@
+{
+  "work_id": 147200,
+  "work": {
+    "id": 147200,
+    "title": "咏史 孟浩然",
+    "title_tr": "詠史 孟浩然",
+    "author": "张玉娘",
+    "author_tr": "張玉娘",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风剪银潢雪满天，蹇驴骑过灞桥边。\n诗愁万斛应难载，非为驰驱老不便。",
+    "content_tr": "風剪銀潢雪滿天，蹇馿騎過灞橋邊。\n詩愁萬斛應難載，非爲馳驅老不便。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

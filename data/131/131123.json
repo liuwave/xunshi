@@ -1,0 +1,18 @@
+{
+  "work_id": 131123,
+  "work": {
+    "id": 131123,
+    "title": "春居杂兴 其一",
+    "title_tr": "春居雜興 其一",
+    "author": "王禹偁",
+    "author_tr": "王禹偁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "两株桃杏映篱斜，妆点商山副使家。\n何事春风容不得，和莺吹折数枝花。",
+    "content_tr": "兩株桃杏映籬斜，粧點商山副使家。\n何事春風容不得，和鶯吹折數枝花。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

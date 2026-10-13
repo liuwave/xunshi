@@ -1,0 +1,18 @@
+{
+  "work_id": 125722,
+  "work": {
+    "id": 125722,
+    "title": "湘南",
+    "title_tr": "湘南",
+    "author": "严仁",
+    "author_tr": "嚴仁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "斑竹萧萧水驿孤，落花吹雨赤沙湖。\n春风二月湘南路，何处青山无鹧鸪。",
+    "content_tr": "斑竹蕭蕭水驛孤，落花吹雨赤沙湖。\n春風二月湘南路，何處青山無鷓鴣。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

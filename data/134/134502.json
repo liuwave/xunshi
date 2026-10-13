@@ -1,0 +1,18 @@
+{
+  "work_id": 134502,
+  "work": {
+    "id": 134502,
+    "title": "古乐府诗",
+    "title_tr": "古樂府詩",
+    "author": "两汉乐府",
+    "author_tr": "兩漢樂府",
+    "dynasty": "汉",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "凿石见火能几时。",
+    "content_tr": "鑿石見火能幾時。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

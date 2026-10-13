@@ -1,0 +1,18 @@
+{
+  "work_id": 140010,
+  "work": {
+    "id": 140010,
+    "title": "江北谣",
+    "title_tr": "江北謡",
+    "author": "屠隆",
+    "author_tr": "屠隆",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "千钱与唱歌，百钱与卖酒。\n本是青州人，家住黄河口。",
+    "content_tr": "千錢與唱歌，百錢與賣酒。\n本是青州人，家住黄河口。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

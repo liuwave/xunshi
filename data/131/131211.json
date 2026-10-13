@@ -1,0 +1,18 @@
+{
+  "work_id": 131211,
+  "work": {
+    "id": 131211,
+    "title": "题胡月山吟屋",
+    "title_tr": "題胡月山吟屋",
+    "author": "陈允平",
+    "author_tr": "陳允平",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "苏公堤上路，日日课新吟。\n流水行花影，斜阳卧柳阴。\n断桥春听乐，矮屋夜鸣琴。\n皎皎山间月，如君一片心。",
+    "content_tr": "蘇公堤上路，日日課新吟。\n流水行花影，斜陽臥柳陰。\n斷橋春聽樂，矮屋夜鳴琴。\n皎皎山間月，如君一片心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

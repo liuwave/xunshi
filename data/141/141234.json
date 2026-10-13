@@ -1,0 +1,18 @@
+{
+  "work_id": 141234,
+  "work": {
+    "id": 141234,
+    "title": "虞坂",
+    "title_tr": "虞坂",
+    "author": "王恽",
+    "author_tr": "王惲",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸡声茅店月微茫，山远行人促晓装。\n良骥虺隤身自健，不须拭目认孙阳。",
+    "content_tr": "雞聲茅店月微茫，山遠行人促曉裝。\n良驥虺隤身自健，不須拭目認孫陽。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

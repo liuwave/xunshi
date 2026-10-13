@@ -1,0 +1,18 @@
+{
+  "work_id": 140700,
+  "work": {
+    "id": 140700,
+    "title": "画梅 其一",
+    "title_tr": "畫梅 其一",
+    "author": "丁鹤年",
+    "author_tr": "丁鶴年",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "松筠淹雨雪，桃李逐风尘。\n不有梅花树，谁回天地春。",
+    "content_tr": "松筠淹雨雪，桃李逐風塵。\n不有梅花樹，誰回天地春。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

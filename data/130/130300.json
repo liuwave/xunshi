@@ -1,0 +1,18 @@
+{
+  "work_id": 130300,
+  "work": {
+    "id": 130300,
+    "title": "圆明偈",
+    "title_tr": "圓明偈",
+    "author": "于谦",
+    "author_tr": "于謙",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "明月无挂碍，皎然在虚空。\n恒河沙世界，照耀一般同。",
+    "content_tr": "明月無罣礙，皎然在虛空。\n恒河沙世界，照耀一般同。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

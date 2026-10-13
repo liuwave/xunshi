@@ -1,0 +1,18 @@
+{
+  "work_id": 130430,
+  "work": {
+    "id": 130430,
+    "title": "文殊",
+    "title_tr": "文殊",
+    "author": "米芾",
+    "author_tr": "米芾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "见闻如梦幻，三界若空镜。\n复使翳根除，尘消觉圆净。",
+    "content_tr": "見聞如夢幻，三界若空鏡。\n復使翳根除，塵消覺圓淨。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

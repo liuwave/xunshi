@@ -1,0 +1,18 @@
+{
+  "work_id": 144321,
+  "work": {
+    "id": 144321,
+    "title": "王继学晚过舍下翌日惠诗两章用韵答贶",
+    "title_tr": "王繼學晚過舍下翌日惠詩兩章用韻答貺",
+    "author": "范梈",
+    "author_tr": "範梈",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "平生病太史，浅陋愧曹邦。\n自足封函谷，聊须垒受降。\n黄钟知和寡，白璧动成双。\n天外谁招得，清风满八窗。",
+    "content_tr": "平生病太史，淺陋愧曹邦。\n自足封函谷，聊須壘受降。\n黃鐘知和寡，白璧動成雙。\n天外誰招得，清風滿八窗。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

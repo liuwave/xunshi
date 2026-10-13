@@ -1,0 +1,18 @@
+{
+  "work_id": 136789,
+  "work": {
+    "id": 136789,
+    "title": "秋行四首",
+    "title_tr": "秋行四首",
+    "author": "陈恭尹",
+    "author_tr": "陳恭尹",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "酒醒已离孤店，灯残莫写乡书。\n晓月啼猿未已，秋山匹马归欤。",
+    "content_tr": "酒醒已離孤店，燈殘莫寫鄉書。\n曉月啼猿未已，秋山匹馬歸歟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

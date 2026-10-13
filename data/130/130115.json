@@ -1,0 +1,18 @@
+{
+  "work_id": 130115,
+  "work": {
+    "id": 130115,
+    "title": "四禽吟雁",
+    "title_tr": "四禽吟雁",
+    "author": "何梦桂",
+    "author_tr": "何夢桂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云水悠悠万里身，芦花明月落江城。\n从来不带苏郎信，莫与人间受浪名。",
+    "content_tr": "雲水悠悠萬里身，蘆花明月落江城。\n從來不帶蘇郎信，莫與人間受浪名。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

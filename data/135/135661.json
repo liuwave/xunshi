@@ -1,0 +1,18 @@
+{
+  "work_id": 135661,
+  "work": {
+    "id": 135661,
+    "title": "题诗紫极宫",
+    "title_tr": "題詩紫極宮",
+    "author": "吕岩",
+    "author_tr": "呂岩",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "宫门一闲入，临水凭栏立。\n无人知我来，朱顶鹤声急。",
+    "content_tr": "宮門一閑入，臨水憑欄立。\n無人知我來，朱頂鶴聲急。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

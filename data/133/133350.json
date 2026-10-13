@@ -1,0 +1,18 @@
+{
+  "work_id": 133350,
+  "work": {
+    "id": 133350,
+    "title": "鼓琴",
+    "title_tr": "鼓琴",
+    "author": "陈继儒",
+    "author_tr": "陳繼儒",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "老树槎牙匝涧生，弹琴树底月凄清。\n有时弦到真悲处，古战场中蟋蟀声。",
+    "content_tr": "老樹槎牙匝澗生，彈琴樹底月淒清。\n有時絃到真悲處，古戰場中蟋蟀聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

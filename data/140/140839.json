@@ -1,0 +1,18 @@
+{
+  "work_id": 140839,
+  "work": {
+    "id": 140839,
+    "title": "鹤仙诗",
+    "title_tr": "鶴仙詩",
+    "author": "王义山",
+    "author_tr": "王義山",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "饮马池边号浴仙，仙姿花鹤古今传。\n金经尤有延年诀，未数庄椿寿八千。",
+    "content_tr": "飲馬池邊號浴仙，仙姿花鶴古今傳。\n金經尤有延年訣，未數莊椿壽八千。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

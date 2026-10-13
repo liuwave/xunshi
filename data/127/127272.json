@@ -1,0 +1,18 @@
+{
+  "work_id": 127272,
+  "work": {
+    "id": 127272,
+    "title": "安徽会馆",
+    "title_tr": "安徽会馆",
+    "author": "李鸿章",
+    "author_tr": "李鴻章",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "安得广厦千万间，庇天下寒士；\n愿与吾党二三子，称乡里善人。",
+    "content_tr": "安得广厦千万间，庇天下寒士；\n愿与吾党二三子，称乡里善人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

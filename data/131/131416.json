@@ -1,0 +1,18 @@
+{
+  "work_id": 131416,
+  "work": {
+    "id": 131416,
+    "title": "古碑诗词",
+    "title_tr": "古碑詩詞",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "嘉树拂五云，大鹏垂万里。\n海门浪汹涌，春龙从此起。",
+    "content_tr": "嘉樹拂五雲，大鵬垂萬里。\n海門浪洶湧，春龍從此起。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

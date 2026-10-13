@@ -1,0 +1,18 @@
+{
+  "work_id": 133333,
+  "work": {
+    "id": 133333,
+    "title": "山中杂咏 其二",
+    "title_tr": "山中雜詠 其二",
+    "author": "陈继儒",
+    "author_tr": "陳繼儒",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "山中雪色猿，子母常连肘。\n挂臂饮丹泉，攀花酿仙酒。",
+    "content_tr": "山中雪色猿，子母常連肘。\n挂臂飲丹泉，攀花釀仙酒。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 130523,
+  "work": {
+    "id": 130523,
+    "title": "书法赞",
+    "title_tr": "書法贊",
+    "author": "米芾",
+    "author_tr": "米芾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "去颜肉，增褚骨。\n发天秀，助神物。\n敢窃议，增骨突。",
+    "content_tr": "去顔肉，增褚骨。\n發天秀，助神物。\n敢竊議，增骨突。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

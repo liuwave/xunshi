@@ -1,0 +1,18 @@
+{
+  "work_id": 145312,
+  "work": {
+    "id": 145312,
+    "title": "帛书诗",
+    "title_tr": "帛書詩",
+    "author": "郝经",
+    "author_tr": "郝經",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜落风高恣所如，归期回首是春初。\n上林天子援弓缴，穷海累臣有帛书。",
+    "content_tr": "霜落風高恣所如，歸期回首是春初。\n上林天子援弓繳，窮海纍臣有帛書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

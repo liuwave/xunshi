@@ -1,0 +1,18 @@
+{
+  "work_id": 130110,
+  "work": {
+    "id": 130110,
+    "title": "和何逢原南山八咏观颐堂",
+    "title_tr": "和何逢原南山八詠觀頤堂",
+    "author": "何梦桂",
+    "author_tr": "何夢桂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "白藕花飞上玉栏，菰漂黑黍浸云寒。\n鯈鱼自乐鸥忘我，背立西风尽日看。",
+    "content_tr": "白藕花飛上玉欄，菰漂黑黍浸雲寒。\n鯈魚自樂鷗忘我，背立西風盡日看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

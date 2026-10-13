@@ -1,0 +1,18 @@
+{
+  "work_id": 144444,
+  "work": {
+    "id": 144444,
+    "title": "壶天园歌",
+    "title_tr": "壺天園歌",
+    "author": "耶律铸",
+    "author_tr": "耶律鑄",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "三十六洞天，七十二福地。\n共春长在一壶中，尽可浮游与沉醉。",
+    "content_tr": "三十六洞天，七十二福地。\n共春長在一壺中，儘可浮遊與沈醉。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

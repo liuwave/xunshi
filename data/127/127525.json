@@ -1,0 +1,18 @@
+{
+  "work_id": 127525,
+  "work": {
+    "id": 127525,
+    "title": "酒后诗",
+    "title_tr": "酒后诗",
+    "author": "鲍照",
+    "author_tr": "鮑照",
+    "dynasty": "南北朝",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晨节无两淹，年意不俱处。\n自非羽酌欢，何用慰愁旅。",
+    "content_tr": "晨节无两淹，年意不俱处。\n自非羽酌欢，何用慰愁旅。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

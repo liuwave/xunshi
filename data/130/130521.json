@@ -1,0 +1,18 @@
+{
+  "work_id": 130521,
+  "work": {
+    "id": 130521,
+    "title": "万籁",
+    "title_tr": "萬籟",
+    "author": "米芾",
+    "author_tr": "米芾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万籁寒空响，群山隐映开。\n迟迟暮钟里，且唤竹舆来。",
+    "content_tr": "萬籟寒空響，羣山隠映開。\n遲遲暮鐘裏，且喚竹輿來。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 143200,
+  "work": {
+    "id": 143200,
+    "title": "客馆思归",
+    "title_tr": "客舘思歸",
+    "author": "吴存",
+    "author_tr": "吳存",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "阴阴野树鸣啼鴂，漠漠馀寒落楝花。\n十载送春浑是客，五更听雨忽思家。",
+    "content_tr": "隂隂野樹鳴啼鴂，漠漠餘寒落楝花。\n十載送春渾是客，五更聽雨忽思家。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

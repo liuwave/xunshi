@@ -1,0 +1,18 @@
+{
+  "work_id": 127001,
+  "work": {
+    "id": 127001,
+    "title": "庞才卿画长江图",
+    "title_tr": "龐才卿畫長江圖",
+    "author": "赵秉文",
+    "author_tr": "趙秉文",
+    "dynasty": "金",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "青山隐隐水悠悠，何处长江是尽头。\n欸乃一声人不见，忽从天际下归舟。",
+    "content_tr": "青山隱隱水悠悠，何處長江是盡頭。\n欸乃一聲人不見，忽從天際下歸舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

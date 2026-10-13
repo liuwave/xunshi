@@ -1,0 +1,18 @@
+{
+  "work_id": 147234,
+  "work": {
+    "id": 147234,
+    "title": "春联",
+    "title_tr": "春联",
+    "author": "张之翰",
+    "author_tr": "張之翰",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云间太守过三载；天下元贞第二年。",
+    "content_tr": "云间太守过三载；天下元贞第二年。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

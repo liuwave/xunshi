@@ -1,0 +1,18 @@
+{
+  "work_id": 130519,
+  "work": {
+    "id": 130519,
+    "title": "唐文皇手诏赞",
+    "title_tr": "唐文皇手詔賛",
+    "author": "米芾",
+    "author_tr": "米芾",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "龙彩凤英，天开日升。\n亟戡多难，力致太平。\n云章每发，目动神惊。",
+    "content_tr": "龍彩鳳英，天開日升。\n亟戡多難，力致太平。\n雲章每發，目動神驚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

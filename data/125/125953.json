@@ -1,0 +1,18 @@
+{
+  "work_id": 125953,
+  "work": {
+    "id": 125953,
+    "title": "天声馆",
+    "title_tr": "天聲館",
+    "author": "张镃",
+    "author_tr": "張鎡",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鸾鹤纷来下，天风驾月明。\n语言难道断，不堕世间声。",
+    "content_tr": "鸞鶴紛來下，天風駕月明。\n語言難道斷，不墮世間聲。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

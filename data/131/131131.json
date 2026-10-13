@@ -1,0 +1,18 @@
+{
+  "work_id": 131131,
+  "work": {
+    "id": 131131,
+    "title": "御书钱",
+    "title_tr": "御書錢",
+    "author": "王禹偁",
+    "author_tr": "王禹偁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "谪官无俸突无烟，惟拥琴书尽日眠。\n还有一般胜赵壹，囊中犹贮御书钱。",
+    "content_tr": "謫官無俸突無烟，惟擁琴書盡日眠。\n還有一般勝趙壹，囊中猶貯御書錢。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

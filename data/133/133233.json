@@ -1,0 +1,18 @@
+{
+  "work_id": 133233,
+  "work": {
+    "id": 133233,
+    "title": "渊明采菊",
+    "title_tr": "淵明采菊",
+    "author": "沈周",
+    "author_tr": "沈周",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "典午江山醉不攴，先生归去自嫌迟。\n寄奴蔓草无容地，悭剩黄花一雨篱。",
+    "content_tr": "典午江山醉不攴，先生歸去自嫌遲。\n寄奴蔓草無容地，慳剰黄花一雨籬。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 131000,
+  "work": {
+    "id": 131000,
+    "title": "芍药花开忆牡丹绝句",
+    "title_tr": "芍藥花開憶牡丹絕句",
+    "author": "王禹偁",
+    "author_tr": "王禹偁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风雨无情落牡丹，翻阶红药满朱栏。\n明皇幸蜀杨妃死，纵有嫔嫱不喜看。",
+    "content_tr": "風雨無情落牡丹，翻階紅藥滿朱欄。\n明皇幸蜀楊妃死，縱有嬪嬙不喜看。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

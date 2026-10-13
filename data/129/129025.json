@@ -1,0 +1,18 @@
+{
+  "work_id": 129025,
+  "work": {
+    "id": 129025,
+    "title": "老鹤",
+    "title_tr": "老鶴",
+    "author": "舒岳祥",
+    "author_tr": "舒嶽祥",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "霜翎沾泞衣难濯，朱顶多年色退鲜。\n曾向青云黄鹄举，如今羸损啄乌田。",
+    "content_tr": "霜翎沾濘衣難濯，朱頂多年色退鮮。\n曾向青雲黄鵠舉，如今羸損啄烏田。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

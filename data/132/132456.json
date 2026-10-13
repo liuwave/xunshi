@@ -1,0 +1,18 @@
+{
+  "work_id": 132456,
+  "work": {
+    "id": 132456,
+    "title": "祝雨",
+    "title_tr": "祝雨",
+    "author": "袁宏道",
+    "author_tr": "袁宏道",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云缕缕，山絮絮。\n寒欲来，暖先据。\n洗山山骨新，洗花花色故。\n寄言行雨儿，莫下山头去。",
+    "content_tr": "雲縷縷，山絮絮。\n寒欲來，暖先據。\n洗山山骨新，洗花花色故。\n寄言行雨兒，莫下山頭去。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

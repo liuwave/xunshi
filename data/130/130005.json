@@ -1,0 +1,18 @@
+{
+  "work_id": 130005,
+  "work": {
+    "id": 130005,
+    "title": "赤壁梦鹤",
+    "title_tr": "赤壁夢鶴",
+    "author": "何梦桂",
+    "author_tr": "何夢桂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "辽海千年约未寒，一樽还酹大江干。\n夜深睡熟忘身世，天阔归迟化羽翰。\n满界红尘飞不下，半船明月笑相看。\n起来开户无人迹，数尽枝乌吊老瞒。",
+    "content_tr": "遼海千年約未寒，一樽還酹大江干。\n夜深睡熟忘身世，天闊歸遲化羽翰。\n滿界紅塵飛不下，半船明月笑相看。\n起來開戶無人跡，數盡枝烏吊老瞞。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

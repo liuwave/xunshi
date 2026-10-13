@@ -1,0 +1,18 @@
+{
+  "work_id": 125000,
+  "work": {
+    "id": 125000,
+    "title": "馀兴",
+    "title_tr": "餘興",
+    "author": "刘辰翁",
+    "author_tr": "劉辰翁",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "江国迟归二十年，十年两系峡江船。\n身如梅子半晴雨，路入柳花相后先。\n堠短堠长春系马，江南江北夜闻鹃。\n人生老大空无用，寄语群儿早着鞭。",
+    "content_tr": "江國遲歸二十年，十年兩系峽江船。\n身如梅子半晴雨，路入柳花相後先。\n堠短堠長春繫馬，江南江北夜聞鵑。\n人生老大空無用，寄語羣兒早着鞭。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

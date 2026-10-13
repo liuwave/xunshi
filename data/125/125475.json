@@ -1,0 +1,18 @@
+{
+  "work_id": 125475,
+  "work": {
+    "id": 125475,
+    "title": "庐州三首其一",
+    "title_tr": "廬州三首其一",
+    "author": "朱服",
+    "author_tr": "朱服",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "晴湖列远岫，万叠来骏奔。\n横入小蜀冈，金友依玉昆。",
+    "content_tr": "晴湖列遠岫，萬疊來駿奔。\n橫入小蜀岡，金友依玉昆。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

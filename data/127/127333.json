@@ -1,0 +1,18 @@
+{
+  "work_id": 127333,
+  "work": {
+    "id": 127333,
+    "title": "吴下人诗",
+    "title_tr": "吴下人诗",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仆夫不识路，踌躇路傍久。\n寒风吹衣襟，落日照马首。",
+    "content_tr": "仆夫不识路，踌躇路傍久。\n寒风吹衣襟，落日照马首。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

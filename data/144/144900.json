@@ -1,0 +1,18 @@
+{
+  "work_id": 144900,
+  "work": {
+    "id": 144900,
+    "title": "游仙诗 其一",
+    "title_tr": "遊仙詩 其一",
+    "author": "胡布",
+    "author_tr": "胡布",
+    "dynasty": "元",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "眇躯天地寄蜉蝣，囊括虚丸位斗牛。\n流目紫霞三万里，泠风一息广寒游。",
+    "content_tr": "眇軀天地寄蜉蝣，囊括虚丸位斗牛。\n流目紫霞三萬里，泠風一息廣寒遊。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

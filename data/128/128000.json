@@ -1,0 +1,18 @@
+{
+  "work_id": 128000,
+  "work": {
+    "id": 128000,
+    "title": "紫极宫用吕宗卿韵",
+    "title_tr": "紫極宮用呂宗卿韻",
+    "author": "方岳",
+    "author_tr": "方岳",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "云湿棋枰不堪著，满壑松寒鸟声乐。\n向来石鼎老弥明，松下无人启玄钥。",
+    "content_tr": "雲溼棋枰不堪著，滿壑鬆寒鳥聲樂。\n向來石鼎老彌明，松下無人啓玄鑰。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
