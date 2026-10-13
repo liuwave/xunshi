@@ -1,0 +1,18 @@
+{
+  "work_id": 351101,
+  "work": {
+    "id": 351101,
+    "title": "鹳鹊楼",
+    "title_tr": "鸛鵲樓",
+    "author": "乔光烈",
+    "author_tr": "喬光烈",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "何处西风鹳鹊楼，烟沙萧瑟满汀洲。\n人间俯仰成千古，到海黄河日夜流。",
+    "content_tr": "何處西風鸛鵲樓，煙沙蕭瑟滿汀洲。\n人間俯仰成千古，到海黃河日夜流。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

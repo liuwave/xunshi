@@ -1,0 +1,18 @@
+{
+  "work_id": 371999,
+  "work": {
+    "id": 371999,
+    "title": "读武侯传",
+    "title_tr": "讀武侯傳",
+    "author": "王遂",
+    "author_tr": "王遂",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "马踏渭滨春草乱，鸟啼白帝夕阳深。\n汉家浑是皇天做，渠是通天一寸心。",
+    "content_tr": "馬踏渭濱春草亂，鳥啼白帝夕陽深。\n漢家渾是皇天做，渠是通天一寸心。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

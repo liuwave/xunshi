@@ -1,0 +1,18 @@
+{
+  "work_id": 371234,
+  "work": {
+    "id": 371234,
+    "title": "西山访隐",
+    "title_tr": "西山訪隱",
+    "author": "上鉴",
+    "author_tr": "上鑑",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "人远山深云景新，青溪石落画烟晴。\n飘残絮影遥知柳，啼遍桃花不见莺。\n沓嶂开天春一线，危岩飞瀑雪千层。\n野猿见客如相识，为叩松关鹤自迎。",
+    "content_tr": "人遠山深雲景新，青溪石落畫煙晴。\n飄殘絮影遙知柳，啼遍桃花不見鶯。\n沓嶂開天春一線，危巖飛瀑雪千層。\n野猿見客如相識，爲叩鬆關鶴自迎。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 352128,
+  "work": {
+    "id": 352128,
+    "title": "题公牍",
+    "title_tr": "題公牘",
+    "author": "曾国藩",
+    "author_tr": "曾國藩",
+    "dynasty": "清",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "官儿尽大有何荣，字数太多看不清。\n减去数行重刻过，留教他日作铭旌。",
+    "content_tr": "官兒盡大有何榮，字數太多看不清。\n減去數行重刻過，留教他日作銘旌。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}
