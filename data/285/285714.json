@@ -1,0 +1,18 @@
+{
+  "work_id": 285714,
+  "work": {
+    "id": 285714,
+    "title": "苏武城",
+    "title_tr": "蘇武城",
+    "author": "庞尚鹏",
+    "author_tr": "龐尚鵬",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "夜听胡笳鬓尽丝，暗看南雁忆归期。\n黄沙白草空明月，忍读河梁送别诗。",
+    "content_tr": "夜聽胡笳鬢盡絲，暗看南雁憶歸期。\n黃沙白草空明月，忍讀河梁送別詩。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 293364,
+  "work": {
+    "id": 293364,
+    "title": "兰亭记",
+    "title_tr": "蘭亭記",
+    "author": "王柏",
+    "author_tr": "王柏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "风流盛集数兰亭，刻石纷纷岂有真。\n嗟老感时何足慕，千年谁记浴沂人。",
+    "content_tr": "風流盛集數蘭亭，刻石紛紛豈有真。\n嗟老感時何足慕，千年誰記浴沂人。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

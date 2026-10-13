@@ -1,0 +1,18 @@
+{
+  "work_id": 288524,
+  "work": {
+    "id": 288524,
+    "title": "歌诗",
+    "title_tr": "歌诗",
+    "author": "侯瑾",
+    "author_tr": "侯瑾",
+    "dynasty": "汉",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "周公为司马，白鱼入王舟。",
+    "content_tr": "周公为司马，白鱼入王舟。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

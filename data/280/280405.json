@@ -1,0 +1,18 @@
+{
+  "work_id": 280405,
+  "work": {
+    "id": 280405,
+    "title": "咏双鹤",
+    "title_tr": "詠雙鶴",
+    "author": "罗应耳",
+    "author_tr": "羅應耳",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "仙姿雪色自相依，日月笼中影欲飞。\n同是云天双羽翼，长鸣不逐雁行归。",
+    "content_tr": "仙姿雪色自相依，日月籠中影欲飛。\n同是雲天雙羽翼，長鳴不逐雁行歸。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

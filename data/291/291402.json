@@ -1,0 +1,18 @@
+{
+  "work_id": 291402,
+  "work": {
+    "id": 291402,
+    "title": "周文王",
+    "title_tr": "周文王",
+    "author": "王十朋",
+    "author_tr": "王十朋",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "民疾商辛若寇雠，三分天下二归周。\n文王终世全臣节，不念前时羑里囚。",
+    "content_tr": "民疾商辛若寇讎，三分天下二歸周。\n文王終世全臣節，不念前時羑里囚。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

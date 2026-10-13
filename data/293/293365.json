@@ -1,0 +1,18 @@
+{
+  "work_id": 293365,
+  "work": {
+    "id": 293365,
+    "title": "题书目",
+    "title_tr": "題書目",
+    "author": "王柏",
+    "author_tr": "王柏",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "博而寡要岂通儒，三万牙签亦太虚。\n一编论语用不尽，世间何必许多书。",
+    "content_tr": "博而寡要豈通儒，三萬牙籤亦太虛。\n一編論語用不盡，世間何必許多書。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}

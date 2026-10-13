@@ -1,0 +1,18 @@
+{
+  "work_id": 288544,
+  "work": {
+    "id": 288544,
+    "title": "鲛",
+    "title_tr": "鮫",
+    "author": "杨孚",
+    "author_tr": "楊孚",
+    "dynasty": "汉",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "鲛之为鱼，其子既育。\n惊必归母，还入其腹。\n小则如之，大则不复。",
+    "content_tr": "鮫之爲魚，其子既育。\n驚必歸母，還入其腹。\n小則如之，大則不復。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -1,0 +1,18 @@
+{
+  "work_id": 275000,
+  "work": {
+    "id": 275000,
+    "title": "雪夜闻鸡和韵",
+    "title_tr": "雪夜聞雞和韻",
+    "author": "钟芳",
+    "author_tr": "鍾芳",
+    "dynasty": "明",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "窗外雪花如月明，隔墙远近闻鸡声。\n半疑半信五更梦，欲归未归游子情。\n事知定分闲愁少，心不藏机客虑平。\n每及曙光盘膝坐，细从嘘吸验生生。",
+    "content_tr": "窗外雪花如月明，隔牆遠近聞雞聲。\n半疑半信五更夢，欲歸未歸遊子情。\n事知定分閒愁少，心不藏機客慮平。\n每及曙光盤膝坐，細從噓吸驗生生。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

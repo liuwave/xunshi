@@ -1,0 +1,18 @@
+{
+  "work_id": 295794,
+  "work": {
+    "id": 295794,
+    "title": "六言一首",
+    "title_tr": "六言一首",
+    "author": "王阮",
+    "author_tr": "王阮",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "秋色染成碧水，夜凉瘦落青山。\n树头宿鸟归尽，天外行人未还。",
+    "content_tr": "秋色染成碧水，夜涼瘦落青山。\n樹頭宿鳥歸盡，天外行人未還。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": true
+}
