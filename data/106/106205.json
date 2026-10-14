@@ -4,13 +4,14 @@
     "id": 106205,
     "title": "茉莉",
     "title_tr": "茉莉",
+    "sub_title": null,
     "author": "卢梅坡",
     "author_tr": "盧梅坡",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "京尘湫隘■蚊多，彼美繁英玉雪窠。\n见谓娇柔能特立，肯凭他物学藤萝。",
-    "content_tr": "京塵湫隘■蚊多，彼美繁英玉雪窠。\n見謂嬌柔能特立，肯憑他物學藤蘿。"
+    "content": "京尘湫隘蠓蚊多，彼美繁英玉雪窠。n见谓娇柔能特立，肯凭他物学藤萝。",
+    "content_tr": "京塵湫隘蠓蚊多，彼美繁英玉雪窠。n見謂嬌柔能特立，肯憑他物學藤蘿。"
   },
   "anthologies": [],
   "annotation": null,
