@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 liuwave
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+适用范围说明（本段为说明文字，不修改上列许可条款）
+--------------------------------------------------------------------------
+
+本许可覆盖本仓库中的**脚本、工作流与文档**，以及构建产物中属于本仓库原创的
+编排与加工部分。
+
+本许可**不覆盖** `data/` 目录下的 JSON 数据本体——那部分是对上游公开数据集
+的聚合加工产物，其许可状态尚未整体明确，**另行声明，见 `DATA-LICENSE.md`**。
+
+理由：自动化许可识别管线读到的是一个 MIT 文件，它不会区分"哪些文件适用"。
+若让一个 MIT 文件覆盖整个目录树，就会对其中一路**尚未取得可核验许可声明的
+上游来源**作出许可主张。撤掉无依据的主张，比先占了方便更重要。
+
+附注：仓库内字体文件的许可见各自目录下的 OFL 文本，不受本文件调整。
