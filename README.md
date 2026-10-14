@@ -128,6 +128,26 @@ Actions → 「纠错 Issue → 自动 PR」→ Run workflow，填 Issue 号。
 
 解说若被人工修正，站点会把它标成「经人工校正」，不再标记为纯 AI 生成。
 
+### 合并前会自动跑一次校验
+
+任何改动 `data/` 的 PR，CI 都会跑 [校验闸门](.github/workflows/validate-corrections.yml)
+（脚本：`.github/scripts/validate-corrections.mjs`）。红灯不给合并，本地可以先自查：
+
+```bash
+BASE_SHA=$(git merge-base origin/main HEAD) HEAD_SHA=HEAD \
+  node .github/scripts/validate-corrections.mjs
+```
+
+它拦的是确定的错误：**JSON 语法非法**、**路径与 `work_id` 不一致**、**不变量字段被改**、
+**繁简两列行数不一致**、**改了却没给 `_fix_note`**，以及最容易踩的一条——
+**换行转义损坏**：`content` 里本该写 `\n`，退化成字面 `n` 会让整首诗糊成一段。
+
+2026-10-14 就真实发生过一次：某次网页端直接编辑把 `\n` 写成了 `n`，坏数据进了公开仓库。
+闸门不拦谁的入口（网页端照改），但出来的一定要过一遍。
+
+只 **WARN** 不拦的两类：解说缺 `ai_generated`，以及 `ai_generated: true` 却没有 `model`
+（标识有了但溯源断了）。这两条往往确实不知道答案，硬拦只会让人绕过去，所以留给你判断。
+
 ## 相关
 
 - 寻诗站：https://xunshi.oldmen.cn
