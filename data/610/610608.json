@@ -17,7 +17,7 @@
     "translation": "东家近来新富，满地生有苔钱。",
     "annotation": "苔钱：苔斑点如钱。",
     "appreciation": "此为残句，似戏咏邻里。上句“东家近新富”点东邻新富；下句“满地有苔钱”以苔钱为戏——新富之家当满地金钱，而反以苔钱当之，语含诙诡。东坡残句往往以小物作戏，亦庄亦谐，读之令人解颐。以苔钱当富，诙谐之中自有薄施富儿之意。以苔钱为戏，其诙谐中自有感慨，非仅嘲咄邻家也。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

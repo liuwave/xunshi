@@ -17,7 +17,7 @@
     "translation": "若不是燕子穿帘幕飞去，春去春来又何从得知。",
     "annotation": "（无生僻字可注）",
     "appreciation": "此为残句，写闺中惜春。上句“不缘燕子穿帘幕”作假设；下句“春去春来那得知”作反问。十字之中，以燕子穿帘为春去春来之信，语似浅而意深——闺中岁月，唯赖燕子穿帘以验春秋。残联短而有风致，是宋人闺怨绝句佳联。燕子穿帘，是闺中验春之信，语浅意深。不缘二字、那得知三字，最得闺中神理。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

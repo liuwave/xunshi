@@ -17,7 +17,7 @@
     "translation": "柳絮飞入正在前行的船中，卧看菱花任随碧绿的江流。听说风光已满扬子江，天晴时我们一同登上望乡楼。",
     "annotation": "信：任随。\n扬子：扬子江，即长江。",
     "appreciation": "此小诗写行舟江上的闲适与乡思。柳花入舟、卧引菱花信碧流，前两句全是卧游之趣，信二字尤见任随江流的自在。后两句忽由「闻道风光满扬子」引出望乡之楼，于满目春光中转起乡心。四句由物及人、由逸到思，轻倩而含远意。",
-    "confidence": "high",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

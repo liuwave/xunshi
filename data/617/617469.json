@@ -17,7 +17,7 @@
     "translation": "官署清闲没有一件公事，蝴蝶飞上了门前台阶。",
     "annotation": "无一事：没有公事可处理。\n上阶：飞上门前台阶。",
     "appreciation": "此为残句，仅存五言两句。上句写官闲，下句写境寂。“无一事”是直陈，“蝴蝶飞上阶”是以动衬静——蝴蝶本是无事之人所见，阶前蝶飞，愈见官署之清闲冷落。二十字中不见诗人，而诗人闲逸之态已在蝶影之外。残句短韵，风神自远，正是宋人所谓“句中有眼”的写法。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

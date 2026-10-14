@@ -17,7 +17,7 @@
     "translation": "一句诗于坐席之中得来，一片心意从天外飞来。",
     "annotation": "片心：一片心神。",
     "appreciation": "此为断句十字，写得诗之乐。上句「坐中得」言其不期而至，下句「天外来」言其神思高远。十字之中，一实一虚、一近一远，把灵感忽至、心与天接的状态作了极简的捕捉。不事雕琢，正见得句时的惊喜与超然，于短幅中涵不尽之远意。",
-    "confidence": "high",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

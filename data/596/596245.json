@@ -17,7 +17,7 @@
     "translation": "万枝黄叶凋落，风势如射；它们犹自传出声响，仿佛要噬人一般。",
     "annotation": "黄落：黄叶凋落。\n噬（shì）：咬。",
     "appreciation": "十字写秋风之厉。上句「风如射」以箭喻风，已见其劲；下句忽然把落叶之「传声」写成「欲噬人」，把一片秋声转化为带攻击性的意象。笔锋由景入怖，于寻常落叶中写出肃杀逼人之气，是断句中偏于险怪的一路，造语新奇，力量全在末三字的拟人。",
-    "confidence": "high",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

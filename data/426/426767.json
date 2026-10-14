@@ -17,7 +17,7 @@
     "translation": "肉白头红、颈项杂青，头粗脚壮、牙齿如针。这样的虫子不容易得，九次交锋十次赢。",
     "annotation": "掺青：杂有青色。\n齿如针：牙齿尖锐如针。",
     "appreciation": "此篇咏淡黄色蟋蟀。首两句由肉、头、项写到头、脚、齿，一笔不遗，色相如绘；第三句以「非容易」三字折出难得；末句「九遍交锋十次赢」以夸张语断定其百战之姿。通体以形写神，末句收得斩截，是虫经中典型的赞咏笔法，朴野而有生气。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

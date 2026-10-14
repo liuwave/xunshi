@@ -17,7 +17,7 @@
     "translation": "眼前虽有回乡的路，在马背上却从未有放我归去的心情。",
     "annotation": "放我：放我归去。",
     "appreciation": "此联以眼前路与马上情对跌：还乡之路分明在目，而征骑倥偬，从未有放我归去的一刻。上句是客观之近，下句是主观之远；上句虽有作让步，下句曾无作重笔。十四字中把行役牵身、归梦难成的愁苦写得克制而沉痛。女流之笔，不作啼号，只以路与情的对照见意，愈见其沉。",
-    "confidence": "high",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

@@ -17,7 +17,7 @@
     "translation": "膏药堆积而不皱，松短阔长都相同。金紫翅必须长翅，其余只取中等。",
     "annotation": "膏药：指蟋蟀翅上的光泽质理。\n绉（zhòu）：皱纹。\n金紫：指金色或紫色的翅色。",
     "appreciation": "此篇论蟋蟀翅相。首两句写翅质宜厚而匀、宜松而平，不尚皱缩；后两句以色分等，金紫之翅以长为贵，余色则取适中。通体是养虫口诀，以韵语出之，简洁斩截，便于记诵。虽属虫经，却见作者于此物辨形察色之细，是宋人小品中别调，语虽短而法已备。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true

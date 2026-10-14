@@ -17,7 +17,7 @@
     "translation": "不知阄物藏在哪个人手中，却在酒樽之前猜拳斗胜。",
     "annotation": "藏：指藏阄猜物之戏。\n尊：酒樽。\n斗弄拳：指猜拳拇战。",
     "appreciation": "此联承藏阄之戏而来。物不知藏于谁手，众人便在酒尊前猜拳决胜负。前一句写悬念之悬，后一句写喧笑之闹，把宴饮中猜拳行令、热闹哄堂的场面传神写出。语极浅俗而生动如画，虽是残句，酒边人物的兴致与情态宛然在目：探手揣度、挥拳呼喝之状，都随这十四个字浮现眼前。",
-    "confidence": "medium",
+    "model": "seedream-5.0-flash",
     "ai_generated": true
   },
   "strains_aligned": true
