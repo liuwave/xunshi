@@ -1,0 +1,46 @@
+name: 校验 data/ 变更
+
+# PR 侧的机器闸门。起因见 .github/scripts/validate-corrections.mjs 头部注释：
+# 2026-10-14 PR #5 从 GitHub 网页端直接编辑（分支 liuwave-patch-2），绕开了
+# correction-pr.mjs 的白名单，把 `\n` 改成了字面 `n`，坏数据直接进了公开数据仓。
+#
+# 取向：**不堵塞任何入口**。网页端编辑照样能用 —— 但出来的一定要过这道闸门。
+# 机器人那条路（fix/issue-{n}-{id}）本身就有白名单，让它再过一遍是双保险，成本很低。
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+  # 手动补跑 / 本地自查后想在 CI 里复现时使用
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      # fetch-depth 必须为 0：要拿到真实的 merge-base 才能 diff 出改动文件，
+      # 默认浅克隆只有 HEAD，diff 会出错或直接空。
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 求 merge-base
+        id: base
+        run: |
+          git fetch --no-tags origin "${{ github.event.pull_request.base.ref }}" || true
+          base="${{ github.event.pull_request.base.sha || github.event.repository.default_branch }}"
+          echo "sha=${base}" >> "$GITHUB_OUTPUT"
+
+      - name: 校验改动的 data 文件
+        env:
+          BASE_SHA: ${{ steps.base.outputs.sha || github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: node .github/scripts/validate-corrections.mjs
