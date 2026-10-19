@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "偶然香饵得长鱏，鱼大船轻力不任。\n随远近，共浮沉，事事从轻不要深。\n（《金奁集》）。",
-    "content_tr": "偶然香餌得長鱏，魚大船輕力不任。\n隨遠近，共浮沉，事事從輕不要深。\n（《金奩集》）。"
+    "content": "偶然香饵得长鱏，鱼大船轻力不任。\n随远近，共浮沉，事事从轻不要深。",
+    "content_tr": "偶然香餌得長鱏，魚大船輕力不任。\n隨遠近，共浮沉，事事從輕不要深。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -1,0 +1,20 @@
+{
+  "work_id": 756099,
+  "work": {
+    "id": 756099,
+    "title": "采桑子",
+    "title_tr": "采桑子",
+    "author": "欧阳修",
+    "author_tr": "欧阳修",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "采桑子",
+    "content": "群芳过后西湖好，狼籍残红。\n飞絮蒙蒙。\n垂柳阑干尽日风。\n笙歌散尽游人去，始觉春空。\n垂下帘栊。\n双燕归来细雨中。",
+    "content_tr": "群芳过后西湖好，狼籍残红。\n飞絮濛濛。\n垂柳阑干尽日风。\n笙歌散尽游人去，始觉春空。\n垂下帘栊。\n双燕归来细雨中。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

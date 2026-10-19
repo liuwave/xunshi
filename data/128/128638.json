@@ -3,16 +3,16 @@
   "work": {
     "id": 128638,
     "title": "次韵酬正仲见和并贻用之",
-    "title_tr": "次韻酬正仲見和並貽用之",
+    "title_tr": "次韻酬正仲見和并貽用之",
     "author": "舒岳祥",
-    "author_tr": "舒嶽祥",
+    "author_tr": "舒岳祥",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "世事多眉皱，綀衣觉鼻酸。\n老怀呼子写，瘦影引孙看。\n尔健心无事，吾贫骨带寒。\n一樽江上别，露气夜来漙。",
-    "content_tr": "世事多眉皺，綀衣覺鼻酸。\n老懷呼子寫，瘦影引孫看。\n爾健心無事，吾貧骨帶寒。\n一樽江上別，露氣夜來漙。"
+    "content": "世事多眉皱，𦈌衣觉鼻酸。\n老怀呼子写，瘦影引孙看。\n尔健心无事，吾贫骨带寒。\n一樽江上别，露气夜来漙。",
+    "content_tr": "世事多眉皺，綀衣覺鼻酸。\n老懷呼子寫，瘦影引孫看。\n爾健心無事，吾貧骨带寒。\n一樽江上別，露氣夜來漙。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,15 +2,15 @@
   "work_id": 39094,
   "work": {
     "id": 39094,
-    "title": "杂曲歌辞浪淘沙",
-    "title_tr": "雜曲歌辭浪淘沙",
+    "title": "杂曲歌辞 浪淘沙 一",
+    "title_tr": "雜曲歌辭 浪淘沙 一",
     "author": "白居易",
     "author_tr": "白居易",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞浪淘沙",
-    "content": "一泊沙来一泊去，一重浪灭一重生。相搅相淘无歇日，会交山海一时平。",
-    "content_tr": "一泊沙來一泊去，一重浪滅一重生。相攪相淘無歇日，會交山海一時平。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一泊沙来一泊去，一重浪灭一重生。\n相搅相淘无歇日，会交山海一时平。",
+    "content_tr": "一泊沙來一泊去，一重浪滅一重生。\n相攪相淘無歇日，會交山海一時平。"
   },
   "anthologies": [],
   "annotation": null,

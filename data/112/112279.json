@@ -2,8 +2,8 @@
   "work_id": 112279,
   "work": {
     "id": 112279,
-    "title": "四时田园杂兴六十首 · 其三十一 · 夏日十二绝",
-    "title_tr": "四時田園雜興六十首 · 其三十一 · 夏日十二絶 ",
+    "title": "四时田园杂兴六十首 夏日田园杂兴十二绝 其七",
+    "title_tr": "四時田園雜興六十首 夏日田園雜興十二絕 其七",
     "author": "范成大",
     "author_tr": "范成大",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "昼出耘田夜绩麻，村庄儿女各当家。\n童孙未解供耕织，也傍桑阴学种瓜。",
     "content_tr": "晝出耘田夜績麻，村莊兒女各當家。\n童孫未解供耕織，也傍桑陰學種瓜。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

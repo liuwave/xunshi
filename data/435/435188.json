@@ -2,8 +2,8 @@
   "work_id": 435188,
   "work": {
     "id": 435188,
-    "title": "新晴（其二）",
-    "title_tr": "新晴（其二）",
+    "title": "新晴  其二",
+    "title_tr": "新晴  其二",
     "author": "刘攽",
     "author_tr": "劉攽",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "朝阳升空天气新，荒郊落叶寒纷纷。\n溪源流潦不可渡，知是蜀山前日云。",
     "content_tr": "朝陽升空天氣新，荒郊落葉寒紛紛。\n溪源流潦不可渡，知是蜀山前日雲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

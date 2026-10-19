@@ -6,7 +6,7 @@
     "title_tr": "獵戶歎",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江南冬前虫未蛰，猎师篝火熏穴急。\n山中玉面何处藏，供奉期程如束湿。\n茅簷十日无炊米，蓬鬓鹑衣瘠如鬼。\n但教得狸何顾尔，易牙奉君尚烹子。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

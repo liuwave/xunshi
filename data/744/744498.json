@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "徘徊四顾望，怅悢独心愁。\n（句首叠韵）。",
-    "content_tr": "徘徊四顧望，悵悢獨心愁。\n（句首疊韻）。"
+    "content": "徘徊四顾望，怅悢独心愁。",
+    "content_tr": "徘徊四顧望，悵悢獨心愁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

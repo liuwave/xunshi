@@ -6,7 +6,7 @@
     "title_tr": "送同年潘昌朝",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "客路秋深又送迎，狂歌烂饮慰飘零。\n风前数发茎茎白，马上看山段段青。\n古穴无丹生洞气，高林有鹤避潮腥。\n明年更欲三茅去，拟借新牋道德经。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

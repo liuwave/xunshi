@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "墙角数枝梅，凌寒独自开。\n遥知不是雪，为有暗香来。",
-    "content_tr": "牆角數枝梅，凌寒獨自開。\n遙知不是雪，爲有暗香來。"
+    "content_tr": "牆角數枝梅，凌寒獨自開。\n遥知不是雪，爲有暗香來。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "墙角几枝梅花，冒着严寒独自开放。远远望去知道不是雪，因为有隐隐的暗香飘来。",
     "annotation": "凌寒：冒着严寒。\n暗香：指梅花清幽的香气。",

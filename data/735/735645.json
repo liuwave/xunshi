@@ -6,7 +6,7 @@
     "title_tr": "送姚洎拾遺自江陵幕赴京",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "捧诏动征轮，分飞楚水滨。\n由来真庙器，多作伏蒲人。\n舍鲁知非愿，朝天不话贫。\n沙头千骑送，岛上一蝉新。\n莫使身侵贵，无矜贵逼身。\n玉阶凝正色，兰苑涨芳尘。\n銮辂方离华，车书渐似秦。\n流年飘儵忽，书札莫因循。\n凉雨鸣红叶，非烟闭紫宸。\n凭将西社意，一说向荀陈。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

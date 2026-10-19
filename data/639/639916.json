@@ -2,17 +2,17 @@
   "work_id": 639916,
   "work": {
     "id": 639916,
-    "title": "句  其一○一",
-    "title_tr": "句  其一○一",
+    "title": "句  其一一",
+    "title_tr": "句  其一一",
     "author": "释晓莹",
     "author_tr": "釋曉瑩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "秋色偏宜晚望中。",
-    "content_tr": "秋色偏宜晚望中。"
+    "content": "未厌长为客。",
+    "content_tr": "未厭長爲客。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

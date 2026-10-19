@@ -6,7 +6,7 @@
     "title_tr": "班婕妤題扇圖",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "时情任销歇，闺思转慇懃。\n也胜山阴媪，挥毫托右军。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

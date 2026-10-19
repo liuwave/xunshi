@@ -9,7 +9,7 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "游山恨不远，读书恨不博。\n天下多名山，何处无芒屩。\n束书饱蠹鱼，于汝宁不怍。\n日月如过烧，老病将何若。\n眼犹急开卷，足尚供寻壑。\n少劳君勿辞，是中有真乐。",
+    "content": "游山恨不远，读书恨不博。\n天下多名山，何处无芒𪨗。\n束书饱蠹鱼，于汝宁不怍。\n日月如过烧，老病将何若。\n眼犹急开卷，足尚供寻壑。\n少劳君勿辞，是中有真乐。",
     "content_tr": "遊山恨不遠，讀書恨不博。\n天下多名山，何處無芒屩。\n束書飽蠹魚，於汝寧不怍。\n日月如過燒，老病將何若。\n眼猶急開卷，足尚供尋壑。\n少勞君勿辭，是中有真樂。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

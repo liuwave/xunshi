@@ -2,15 +2,15 @@
   "work_id": 36234,
   "work": {
     "id": 36234,
-    "title": "杂曲歌辞江南三台四首（其一）",
-    "title_tr": "雜曲歌辭江南三臺四首（其一）",
+    "title": "江南三台词四首 一",
+    "title_tr": "江南三臺詞四首 一",
     "author": "王建",
     "author_tr": "王建",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞江南三台四首（其一）",
-    "content": "扬州桥边少妇，长安城里商人。二年不得消息，各自拜鬼求神。",
-    "content_tr": "揚州橋邊少婦，長安城裏商人。二年不得消息，各自拜鬼求神。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "扬州桥边少妇，长安城里商人。\n二年不得消息，各自拜鬼求神。",
+    "content_tr": "揚州橋邊少婦，長安城裏商人。\n二年不得消息，各自拜鬼求神。"
   },
   "anthologies": [],
   "annotation": null,

@@ -6,7 +6,7 @@
     "title_tr": "牡丹平",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "长平山上紫云封，蜀老相传隠者宫。\n高树蔽天三十里，开花十丈舞春风。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

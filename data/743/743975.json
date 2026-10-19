@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "白犬御书至，青猿洗钵回。\n（同前）。",
-    "content_tr": "白犬御書至，青猿洗鉢回。\n（同前）。"
+    "content": "白犬御书至，青猿洗钵回。",
+    "content_tr": "白犬御書至，青猿洗鉢回。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

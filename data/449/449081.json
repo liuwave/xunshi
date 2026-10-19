@@ -2,17 +2,17 @@
   "work_id": 449081,
   "work": {
     "id": 449081,
-    "title": "五祖演和尚赞二首 其一",
-    "title_tr": "五祖演和尚讚二首 其一",
+    "title": "五祖演和尚赞二首  其一",
+    "title_tr": "五祖演和尚讚二首  其一",
     "author": "释宗杲",
     "author_tr": "釋宗杲",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "赤骨力地，有?无裤。\n敢与海神，争先斗富。",
-    "content_tr": "赤骨力地，有?無袴。\n敢與海神，爭先鬬富。"
+    "content": "赤骨力地，有𪛌无袴。\n敢与海神，争先鬬富。",
+    "content_tr": "赤骨力地，有𪛌無袴。\n敢與海神，爭先鬬富。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "送柯以善自杭遊鄂",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江汉天风日夜清，君游何处濯尘缨。\n云从鹦鹉洲前出，月在凤皇山上明。\n已羡经籝吴士艳，行看词笔楚人惊。\n残荪賸芷将何用，归日分张与后生。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

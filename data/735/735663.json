@@ -6,7 +6,7 @@
     "title_tr": "寄杭州靈隱寺宋震使君",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "罢郡归侵夏，仍闻灵隐居。\n僧房谢朓语，寺额葛洪书。\n月树狝猴睡，山池菡萏疎。\n吾皇爱清静，莫便结吾庐。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

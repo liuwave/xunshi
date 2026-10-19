@@ -6,7 +6,7 @@
     "title_tr": "次韻王景晹寄軒",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江湖犹觉气横行，羽褐藤冠学养生。\n掣肘累轻天与福，欺心戒重鬼司盟。\n行收耕稼间勋业，别有吟哦好性情。\n祗恐蹊成似桃李，人来先识隠居名。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

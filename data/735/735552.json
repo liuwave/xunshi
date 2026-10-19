@@ -6,7 +6,7 @@
     "title_tr": "懷白閣道侶",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "寒思白阁层，石屋两三僧。\n斜雪扫不尽，饥猨唤得应。\n香然一字火，磬过数潭冰。\n终必相寻去，孤怀久不胜。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

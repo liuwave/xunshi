@@ -6,10 +6,10 @@
     "title_tr": "與李孔言上舍談星命",
     "author": "仇远",
     "author_tr": "仇遠",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "辟雍人物已无多，奈此江湖落拓何。\n鹤表只宜归井邑，雁程不必度关河。\n诗书志气存司马，言语功名付祝鮀。\n炙輠谈天非我事，雨灯聊和醉时歌。",
+    "content": "辟雍人物已无多，奈此江湖落拓何。\n鹤表只宜归井邑，雁程不必度关河。\n诗书志气存司马，言语功名付祝𬶍。\n炙輠谈天非我事，雨灯聊和醉时歌。",
     "content_tr": "辟雍人物已無多，奈此江湖落拓何。\n鶴表只宜歸井邑，雁程不必度關河。\n詩書志氣存司馬，言語功名付祝鮀。\n炙輠談天非我事，雨燈聊和醉時歌。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,20 @@
   "work_id": 899,
   "work": {
     "id": 899,
-    "title": "宫中词",
-    "title_tr": "宮中詞",
-    "author": "朱庆馀",
+    "title": "宫词",
+    "title_tr": "宮詞",
+    "author": "朱庆余",
     "author_tr": "朱慶餘",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "寂寂花时闭院门，美人相并立琼轩。\n含情欲说宫中事，鹦鹉前头不敢言。",
-    "content_tr": "寂寂花時閉院門，美人相併立瓊軒。\n含情慾說宮中事，鸚鵡前頭不敢言。"
+    "content_tr": "寂寂花時閉院門，美人相並立瓊軒。\n含情欲說宮中事，鸚鵡前頭不敢言。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "花开时节却寂静地关闭着院门，两位美人并肩站在华美的廊轩前。含着情意想说说宫中的事，在鹦鹉面前却不敢开口。",
     "annotation": "琼轩：装饰华美的廊台。\n含情：含着情意。",

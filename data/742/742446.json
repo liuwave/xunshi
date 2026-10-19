@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "鎗旗戟，无故倒交加。\n象主病灾如卧草，四门宰犬沥田沙，子候（京本作「后」）设施佳。\n（子时以犬血沥四门地上。\n）。",
-    "content_tr": "鎗旗戟，無故倒交加。\n象主病災如臥草，四門宰犬瀝田沙，子候（京本作「後」）設施佳。\n（子時以犬血瀝四門地上。\n）。"
+    "content": "鎗旗戟，无故倒交加。\n象主病灾如卧草，四门宰犬沥田沙，子候设施佳。",
+    "content_tr": "鎗旗戟，無故倒交加。\n象主病災如臥草，四門宰犬瀝田沙，子候設施佳。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

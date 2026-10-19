@@ -9,8 +9,8 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "偪侧苍苔地，?邪白石池。\n数枝红菡萏，几尺碧涟漪。\n鱼鳖争香饵，儿童簇钓丝。\n爱来芳荫下，每日日西时。",
-    "content_tr": "偪側蒼苔地，?邪白石池。\n數枝紅菡萏，幾尺碧漣漪。\n魚鱉爭香餌，兒童簇釣絲。\n愛來芳蔭下，每日日西時。"
+    "content": "偪侧苍苔地，𠇗邪白石池。\n数枝红菡萏，几尺碧涟漪。\n鱼鳖争香饵，儿童簇钓丝。\n爱来芳荫下，每日日西时。",
+    "content_tr": "偪側蒼苔地，𠇗邪白石池。\n數枝紅菡萏，幾尺碧漣漪。\n魚鱉爭香餌，兒童簇釣絲。\n愛來芳蔭下，每日日西時。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

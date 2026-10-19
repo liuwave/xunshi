@@ -2,17 +2,17 @@
   "work_id": 112776,
   "work": {
     "id": 112776,
-    "title": "久病或劝勉强游适吟四绝答之 其一",
-    "title_tr": "久病或勸勉强遊適吟四絕答之 其一",
+    "title": "久病或劝勉强游适吟四绝答之  其一",
+    "title_tr": "久病或勸勉强遊適吟四絕答之  其一",
     "author": "范成大",
     "author_tr": "范成大",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "风月个中老子，江湖之上散人。\n化炉苦靳清福，环堵闲抛好春。",
+    "content": "风月个中老子，江湖之上散人。\n化𬬻苦靳清福，环堵闲抛好春。",
     "content_tr": "風月箇中老子，江湖之上散人。\n化鑪苦靳清福，環堵閒拋好春。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -3,14 +3,14 @@
   "work": {
     "id": 97912,
     "title": "闲来",
-    "title_tr": "閒來",
+    "title_tr": "閑来",
     "author": "司马光",
     "author_tr": "司馬光",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "闲来观万物，在处可逍遥。\n鱼为贪钩得，蛾因赴火焦。\n碧梧饥鸑鷟，白粒饱鹪鹩。\n带索谁家子，行歌复采樵。",
-    "content_tr": "閒來觀萬物，在處可逍遙。\n魚爲貪鉤得，蛾因赴火焦。\n碧梧飢鸑鷟，白粒飽鷦鷯。\n帶索誰家子，行歌復採樵。"
+    "content": "闲来观万物，在处可逍遥。\n鱼为贪钩得，蛾因赴火焦。\n碧梧饥𬸚𬸦，白粒饱鹪鹩。\n带索谁家子，行歌复采樵。",
+    "content_tr": "閑來觀萬物，在處可逍遙。\n魚爲貪鈎得，蛾因赴火焦。\n碧梧饑鸑鷟，白粒飽鷦鷯。\n带索誰家子，行歌復採樵。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

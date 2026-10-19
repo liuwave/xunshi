@@ -2,15 +2,15 @@
   "work_id": 714899,
   "work": {
     "id": 714899,
-    "title": "杂曲歌辞 杨柳枝 一",
-    "title_tr": "雜曲歌辭 楊柳枝 一",
+    "title": "杨柳枝·春入行宫映翠微",
+    "title_tr": "楊柳枝·春入行宮映翠微",
     "author": "皇甫松",
     "author_tr": "皇甫松",
-    "dynasty": "唐",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "dynasty": "五代十国",
+    "kind_cn": "词",
+    "rhythmic": "杨柳枝",
     "content": "春入行宫映翠微，玄宗侍女舞烟丝。\n如今柳向空城绿，玉笛何人更把吹。",
-    "content_tr": "春入行宮映翠微，玄宗侍女舞烟絲。\n如今柳向空城綠，玉笛何人更把吹。"
+    "content_tr": "春入行宮映翠微，玄宗侍女舞菸絲。\n如今柳向空城綠，玉笛何人更把吹。"
   },
   "anthologies": [],
   "annotation": null,

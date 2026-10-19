@@ -6,7 +6,7 @@
     "title_tr": "積雪峰訪梁道士",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "惊羽穿林看细碎，健舆绕石听欹斜。\n道人住近茅峰北，一簇楼台五色霞。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

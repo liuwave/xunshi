@@ -2,17 +2,17 @@
   "work_id": 113849,
   "work": {
     "id": 113849,
-    "title": "次韵蔡天任十首 其五",
-    "title_tr": "次韻蔡天任十首 其五",
+    "title": "次韵蔡天任十首  其五",
+    "title_tr": "次韻蔡天任十首  其五",
     "author": "汪藻",
     "author_tr": "汪藻",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "君家食指如堵墙，不著斗酒求西凉。\n门前䆉稏三百亩，胜我笔耕无寸秧。",
+    "content": "君家食指如堵墙，不著斗酒求西凉。\n门前𫁂䅉三百亩，胜我笔耕无寸秧。",
     "content_tr": "君家食指如堵牆，不著斗酒求西涼。\n門前䆉稏三百畝，勝我筆耕無寸秧。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

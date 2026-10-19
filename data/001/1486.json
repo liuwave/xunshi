@@ -2,16 +2,15 @@
   "work_id": 1486,
   "work": {
     "id": 1486,
-    "title": "调笑令 · 河汉",
-    "title_tr": "調笑令 · 河漢",
+    "title": "调笑令 二",
+    "title_tr": "調笑令 二",
     "author": "韦应物",
     "author_tr": "韋應物",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "调笑令",
-    "content": "河汉，河汉，晓挂秋城漫漫。愁人起望相思，塞北江南别离。离别，离别，河汉虽同路绝。",
-    "content_tr": "河漢，河漢，曉掛秋城漫漫。愁人起望相思，塞北江南別離。離別，離別，河漢雖同路絕。",
-    "sub_title": "河汉"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "河汉，河汉，晓挂秋城漫漫。\n愁人起望相思，塞北江南别离。\n离别，离别，河汉虽同路绝。",
+    "content_tr": "河漢，河漢，曉挂秋城漫漫。\n愁人起望相思，塞北江南別離。\n離別，離別，河漢雖同路絕。"
   },
   "anthologies": [],
   "annotation": {

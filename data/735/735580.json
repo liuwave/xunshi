@@ -6,7 +6,7 @@
     "title_tr": "秋夜翫月懷玉霄道士",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "光异磨砻出，轮非雕斵成。\n今宵刚道别，举世勿人争。\n征妇砧添怨，诗人哭到明。\n惟宜华顶叟，笙磬有余声。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 398596,
   "work": {
     "id": 398596,
-    "title": "海陵岁暮 其二",
-    "title_tr": "海陵歲暮 其二",
+    "title": "海陵岁暮  其二",
+    "title_tr": "海陵歲暮  其二",
     "author": "孙应时",
     "author_tr": "孫應時",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "猎骑呼鹰地，胡笳落雁边。\n梅花非故里，草色近新年。\n莫苦登楼望，聊须殢酒眠。\n江南多贵将，歌舞怅垂毡。",
+    "content": "猎骑呼鹰地，胡笳落雁边。\n梅花非故里，草色近新年。\n莫苦登楼望，聊须𣨼酒眠。\n江南多贵将，歌舞怅垂毡。",
     "content_tr": "獵騎呼鷹地，胡笳落雁邊。\n梅花非故里，草色近新年。\n莫苦登樓望，聊須殢酒眠。\n江南多貴將，歌舞悵垂氈。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

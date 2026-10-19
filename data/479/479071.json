@@ -2,17 +2,17 @@
   "work_id": 479071,
   "work": {
     "id": 479071,
-    "title": "反禽言二首 其一",
-    "title_tr": "反禽言二首 其一",
+    "title": "反禽言二首  其一",
+    "title_tr": "反禽言二首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "雨后翛然欲变秋，意捐絺绤揽衣裘。\n林间脱裤催人急，时有炎凉底过忧。",
+    "content": "雨后翛然欲变秋，意捐𫄨绤揽衣裘。\n林间脱袴催人急，时有炎凉底过忧。",
     "content_tr": "雨後翛然欲變秋，意捐絺綌攬衣裘。\n林間脫袴催人急，時有炎凉底過憂。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

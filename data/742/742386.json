@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "燕雀闹，隣境动（京本作「有」）兵争。\n更有黑头黄鸟至，腹黄身黑不知名，彼已出精兵。",
-    "content_tr": "燕雀鬧，隣境動（京本作「有」）兵爭。\n更有黑頭黃鳥至，腹黃身黑不知名，彼已出精兵。"
+    "content": "燕雀闹，隣境动兵争。\n更有黑头黄鸟至，腹黄身黑不知名，彼已出精兵。",
+    "content_tr": "燕雀鬧，隣境動兵爭。\n更有黑頭黃鳥至，腹黃身黑不知名，彼已出精兵。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

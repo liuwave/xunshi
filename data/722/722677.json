@@ -12,7 +12,10 @@
     "content": "千山鸟飞绝，万迳人踪灭。\n孤舟蓑笠翁，独钓寒江雪。",
     "content_tr": "千山鳥飛絕，萬逕人蹤滅。\n孤舟蓑笠翁，獨釣寒江雪。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "千座山岭间，飞鸟的踪影已经绝迹；万条小路上，行人的足迹全都消失。孤舟上一个披蓑戴笠的老翁，独自在寒冷飘雪的江面上垂钓。",
     "annotation": "迳：同「径」，小路。\n蓑笠（suō lì）：蓑衣和斗笠，用草或棕制成的雨具。",
@@ -20,5 +23,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

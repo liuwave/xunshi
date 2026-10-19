@@ -2,13 +2,13 @@
   "work_id": 40588,
   "work": {
     "id": 40588,
-    "title": "拜新月",
-    "title_tr": "拜新月",
+    "title": "杂曲歌辞 拜新月",
+    "title_tr": "雜曲歌辭 拜新月",
     "author": "李端",
     "author_tr": "李端",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "拜新月",
+    "kind_cn": "诗",
+    "rhythmic": null,
     "content": "开帘见新月，便即下阶拜。\n细语人不闻，北风吹裙带。",
     "content_tr": "開簾見新月，便即下階拜。\n細語人不聞，北風吹裙帶。"
   },

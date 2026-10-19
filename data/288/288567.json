@@ -2,15 +2,15 @@
   "work_id": 288567,
   "work": {
     "id": 288567,
-    "title": "鱼其二",
-    "title_tr": "魚其二",
+    "title": "鱼  其二",
+    "title_tr": "魚  其二",
     "author": "丁谓",
     "author_tr": "丁謂",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "江湖各相忘，鱼虾同一波，乐哉乐哉。莫贪钓上饵，去□鼎中羹，戎哉戎哉。",
-    "content_tr": "江湖各相忘，魚蝦同一波，樂哉樂哉。莫貪釣上餌，去□鼎中羹，戎哉戎哉。"
+    "content": "江湖各相忘，鱼虾同一波，乐哉乐哉。\n莫贪钓上饵，去作鼎中羹，戎哉戎哉。",
+    "content_tr": "江湖各相忘，魚蝦同一波，樂哉樂哉。\n莫貪釣上餌，去作鼎中羹，戎哉戎哉。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

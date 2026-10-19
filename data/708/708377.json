@@ -6,7 +6,7 @@
     "title_tr": "題王敬仲野亭",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "王家野亭苍翠边，秋山万叠相钩连。\n披衣晓霁伴云坐，散发夜凉须月眠。\n主人清豪亦好客，常有车盖来翩翩。\n门闲无烦鹤通谒，酒散有时风扫筵。\n问君生涯几何许，笑指渺漠沧洲烟。\n朱门千础扃婵娟，豪弦急管争喧妍。\n何曾一日能免俗，稍来对谈心爽然。\n古人去远吾不识，今日汩没难为贤。\n长公高谈少公和，鲁山伯鸾相后先。\n名成但恐累隠趣，莫遣妙语人间传。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

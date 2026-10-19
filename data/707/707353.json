@@ -6,7 +6,7 @@
     "title_tr": "入分宜界",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "上岭或如兴，下岭复如拜。\n是程多泥涂，拄杖端足頼。\n脱屦去泥淖，停车观水械。\n偶然得一笑，更以苦为快。\n田水终夜鸣，江浪怒澎湃。\n听之不能睡，摩足了诗债。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

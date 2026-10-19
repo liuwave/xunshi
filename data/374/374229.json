@@ -2,15 +2,15 @@
   "work_id": 374229,
   "work": {
     "id": 374229,
-    "title": "失调名 其三",
-    "title_tr": "失调名 其三",
+    "title": "失调名",
+    "title_tr": "失調名",
     "author": "仲殊",
     "author_tr": "仲殊",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "失调名",
     "content": "遥想天孙离别后，一宵欢会，暂停机杼。",
-    "content_tr": "遥想天孙离别後，一宵欢会，暂停机杼。"
+    "content_tr": "遙想天孫離別後，一宵歡會，暫停機杼。"
   },
   "anthologies": [],
   "annotation": null,

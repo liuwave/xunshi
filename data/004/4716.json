@@ -6,11 +6,11 @@
     "title_tr": "壽崇節致語口號",
     "author": "王义山",
     "author_tr": "王義山",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "东极承颜肃紫宸，恩醲湛露燕群臣。\n香传禁柳鸣球瑟，影颤宫花蔼缙绅。\n璀璨祥光三殿晓，怡愉和气万年春。\n明朝又纪流虹瑞，更效封人祝圣人。",
-    "content_tr": "東極承顏肅紫宸，恩醲湛露燕羣臣。\n香傳禁柳鳴球瑟，影顫宮花藹縉紳。\n璀璨祥光三殿曉，怡愉和氣萬年春。\n明朝又紀流虹瑞，更效封人祝聖人。"
+    "content": "东极承颜肃紫宸，恩𬪩湛露燕群臣。\n香传禁柳鸣球瑟，影颤宫花蔼缙绅。\n璀璨祥光三殿晓，怡愉和气万年春。\n明朝又纪流虹瑞，更效封人祝圣人。",
+    "content_tr": "東極承顔肅紫宸，恩醲湛露燕羣臣。\n香傳禁柳鳴球瑟，影顫宮花藹縉紳。\n璀璨祥光三殿曉，怡愉和氣萬年春。\n明朝又紀流虹瑞，更效封人祝聖人。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

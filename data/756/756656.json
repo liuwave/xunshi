@@ -1,0 +1,20 @@
+{
+  "work_id": 756656,
+  "work": {
+    "id": 756656,
+    "title": "生查子",
+    "title_tr": "生查子",
+    "author": "王观",
+    "author_tr": "王觀",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "生查子",
+    "content": "关山魂梦长，塞雁音书少。\n两鬓可怜青，一夜相思老。\n归傍碧纱窗，说与人人道。\n真个别离难，不似相逢好。",
+    "content_tr": "關山魂夢長，塞雁音書少。\n兩鬢可憐青，一夜相思老。\n歸傍碧紗窗，說與人人道。\n真個別離難，不似相逢好。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

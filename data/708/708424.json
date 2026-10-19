@@ -6,7 +6,7 @@
     "title_tr": "四明山中逢晴",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "一冈一涧一萦隈，新岁新晴始此回。\n莎坂南风寅蛤出，茅簷西日一禽来。\n人迷白路羊群石，水卷青天雪里雷。\n犹是深山有寒食，梨花无数绕岩开。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

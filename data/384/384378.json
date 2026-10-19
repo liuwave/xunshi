@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "春霰霁征涂，离人向蜀初。\n还抛博士蕝，贪佐使君旟。\n藻思夸名阁，忠怀慕叱车。\n布刀多计吏，行矣数通书。",
-    "content_tr": "春霰霽徵塗，離人向蜀初。\n還拋博士蕝，貪佐使君旟。\n藻思誇名閣，忠懷慕叱車。\n布刀多計吏，行矣數通書。"
+    "content": "春霰霁征涂，离人向蜀初。\n还抛博士𫈵，贪佐使君旟。\n藻思夸名阁，忠怀慕叱车。\n布刀多计吏，行矣数通书。",
+    "content_tr": "春霰霽征塗，離人向蜀初。\n還拋博士蕝，貪佐使君旟。\n藻思夸名閣，忠懷慕叱車。\n布刀多計吏，行矣數通書。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

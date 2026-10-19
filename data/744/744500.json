@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "疏云雨滴沥，薄雾树朦胧。\n（句尾叠韵）。",
-    "content_tr": "疏雲雨滴瀝，薄霧樹朦朧。\n（句尾疊韻）。"
+    "content": "疏云雨滴沥，薄雾树朦胧。",
+    "content_tr": "疏雲雨滴瀝，薄霧樹朦朧。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

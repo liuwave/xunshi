@@ -1,0 +1,20 @@
+{
+  "work_id": 747635,
+  "work": {
+    "id": 747635,
+    "title": "夜直",
+    "title_tr": "夜直",
+    "author": "王安石",
+    "author_tr": "王安石",
+    "dynasty": "宋",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "金炉香尽漏声残，翦翦轻风阵阵寒。\n春色恼人眠不得，月移花影上栏干。",
+    "content_tr": "金爐香盡漏聲殘，翦翦輕風陣陣寒。\n春色惱人眠不得，月移花影上欄干。"
+  },
+  "anthologies": [
+    "古诗三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

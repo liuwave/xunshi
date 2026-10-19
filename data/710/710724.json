@@ -6,7 +6,7 @@
     "title_tr": "效後村體",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "十载村居学养恬，未忘习气有人嫌。\n课僮薙草心先快，助仆移梅力尚兼。\n不分乌鸦啼锦树，绝怜紫燕傍茅簷。\n路逢野老闲相问，新岁凶穰可豫占。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

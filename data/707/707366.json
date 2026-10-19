@@ -6,7 +6,7 @@
     "title_tr": "麥熟",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "今年麦熟亦可喜，紫石霏霏落钟乳。\n我从田家惯餠饵，梦想风味今未已。\n箬叶浮浮卷牛舌，甆瓯泛泛割龙耳。\n一丸萝卜吾岂无，悲歌不怕红娘子。\n诗成不满贵公笑，书生岂识餠十字。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

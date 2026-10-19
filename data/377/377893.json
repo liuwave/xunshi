@@ -2,17 +2,17 @@
   "work_id": 377893,
   "work": {
     "id": 377893,
-    "title": "春日杂言 其一",
-    "title_tr": "春日雜言 其一",
+    "title": "春日杂言  其一",
+    "title_tr": "春日雜言  其一",
     "author": "李新",
     "author_tr": "李新",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "燕麦讵可食，兔丝那为衣。\n重絺不禦寒，野葛难疗饥。\n绨袍脱有意，岂得全身归。\n一饭责相酬，北山宁采薇。",
+    "content": "燕麦讵可食，兔丝那为衣。\n重𫄨不御寒，野葛难疗饥。\n绨袍脱有意，岂得全身归。\n一饭责相酬，北山宁采薇。",
     "content_tr": "燕麥詎可食，兔絲那爲衣。\n重絺不禦寒，野葛難療饑。\n綈袍脫有意，豈得全身歸。\n一飯責相酬，北山寧採薇。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

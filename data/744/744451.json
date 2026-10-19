@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "金风晨泛菊，玉露宵沾兰（一作「悬珠」）。",
-    "content_tr": "金風晨泛菊，玉露宵沾蘭（一作「懸珠」）。"
+    "content": "金风晨泛菊，玉露宵沾兰。",
+    "content_tr": "金風晨泛菊，玉露宵沾蘭。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

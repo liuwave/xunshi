@@ -2,8 +2,8 @@
   "work_id": 83748,
   "work": {
     "id": 83748,
-    "title": "元 日",
-    "title_tr": "元 日",
+    "title": "元日",
+    "title_tr": "元日",
     "author": "王安石",
     "author_tr": "王安石",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "爆竹声中一岁除，东风送暖入屠苏。\n千门万户曈曈日，争插新桃换旧符。",
     "content_tr": "爆竹聲中一歲除，東風送暖入屠蘇。\n千門萬戶曈曈日，爭插新桃換舊符。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "爆竹声中，一年过去了，东风送来暖意，融入屠苏酒中。千门万户迎着曈曈的太阳，争着插上新桃符，换下旧桃符。",
     "annotation": "一岁除：一年过去。\n屠苏：古代元日饮的一种药酒，用以避疫。\n曈曈（tóng）：日出时光亮的样子。\n桃符：旧俗元日以桃木板写神名挂于门旁，后演为春联。",
@@ -20,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

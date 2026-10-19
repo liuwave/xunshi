@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "六仪刑，谋事总难成。\n遇着此时遭失陷，奇门虽有也难生（川本作「禁」），大忌用兵行。",
-    "content_tr": "六儀刑，謀事總難成。\n遇着此時遭失陷，奇門雖有也難生（川本作「禁」），大忌用兵行。"
+    "content": "六仪刑，谋事总难成。\n遇着此时遭失陷，奇门虽有也难生，大忌用兵行。",
+    "content_tr": "六儀刑，謀事總難成。\n遇着此時遭失陷，奇門雖有也難生，大忌用兵行。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

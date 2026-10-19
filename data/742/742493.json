@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "秋干位，申酉喜逢临（辛本、川本作「相逢」）。\n三冬亥子坎宫卦，土旺用事艮和坤，丑未辰戌冲（辛本、川本作「辰中」）。",
-    "content_tr": "秋乾位，申酉喜逢臨（辛本、川本作「相逢」）。\n三冬亥子坎宮卦，土旺用事艮和坤，丑未辰戌冲（辛本、川本作「辰中」）。"
+    "content": "秋干位，申酉喜逢临。\n三冬亥子坎宫卦，土旺用事艮和坤，丑未辰戌冲。",
+    "content_tr": "秋乾位，申酉喜逢臨。\n三冬亥子坎宮卦，土旺用事艮和坤，丑未辰戌冲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

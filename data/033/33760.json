@@ -2,8 +2,8 @@
   "work_id": 33760,
   "work": {
     "id": 33760,
-    "title": "寄窦泽处士二首",
-    "title_tr": "寄竇澤處士二首",
+    "title": "寄窦泽处士二首 一",
+    "title_tr": "寄竇澤處士二首 一",
     "author": "罗隐",
     "author_tr": "羅隱",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

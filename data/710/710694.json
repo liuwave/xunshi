@@ -6,7 +6,7 @@
     "title_tr": "挽貢仲章學士",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "才优如贡禹，经行复精纯。\n海内多知己，江东尚有人。\n林泉隠君子，台阁古名臣。\n九转丹成去，青山宰木春。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

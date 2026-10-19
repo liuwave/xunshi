@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "月边气，其象若群猪。\n羽姓将军兵大吉，宫商角徴不占拘（京本作「推」），把捉顾方隅。",
-    "content_tr": "月邊氣，其象若羣猪。\n羽姓將軍兵大吉，宮商角徴不占拘（京本作「推」），把捉顧方隅。"
+    "content": "月边气，其象若群猪。\n羽姓将军兵大吉，宫商角徴不占拘，把捉顾方隅。",
+    "content_tr": "月邊氣，其象若羣猪。\n羽姓將軍兵大吉，宮商角徴不占拘，把捉顧方隅。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

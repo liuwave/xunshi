@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "君游园苑百花新，花下红妆采白苹。\n竞将颜色比花色，花色无情不及人。\n（均见伯三八一二卷。\n）。",
-    "content_tr": "君遊園苑百花新，花下紅妝採白蘋。\n競將顏色比花色，花色無情不及人。\n（均見伯三八一二卷。\n）。"
+    "content": "君游园苑百花新，花下红妆采白苹。\n竞将颜色比花色，花色无情不及人。",
+    "content_tr": "君遊園苑百花新，花下紅妝採白蘋。\n競將顏色比花色，花色無情不及人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

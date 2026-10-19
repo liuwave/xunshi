@@ -2,8 +2,8 @@
   "work_id": 49290,
   "work": {
     "id": 49290,
-    "title": "玉真公主歌",
-    "title_tr": "玉真公主歌",
+    "title": "玉真公主歌 一",
+    "title_tr": "玉真公主歌 一",
     "author": "高适",
     "author_tr": "高適",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

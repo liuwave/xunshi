@@ -6,7 +6,7 @@
     "title_tr": "歲除",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "亲情邻里喜归来，依旧柴门僻处开。\n纵是桃符无可笔，未妨菜餠亦堪杯。\n著宽毛褐观残雪，洗古铜壶浸老梅。\n贺客明朝有诗客，踏青同与眺春台。",
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

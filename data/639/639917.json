@@ -2,17 +2,17 @@
   "work_id": 639917,
   "work": {
     "id": 639917,
-    "title": "句  其一○二",
-    "title_tr": "句  其一○二",
+    "title": "句  其一二",
+    "title_tr": "句  其一二",
     "author": "释晓莹",
     "author_tr": "釋曉瑩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "不记登临日几回。",
-    "content_tr": "不記登臨日幾迴。"
+    "content": "断岭云归白。",
+    "content_tr": "斷嶺雲歸白。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

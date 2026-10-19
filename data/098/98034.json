@@ -3,16 +3,16 @@
   "work": {
     "id": 98034,
     "title": "致政邵少卿挽词",
-    "title_tr": "致政邵少卿輓詞",
+    "title_tr": "致政邵少卿挽詞",
     "author": "司马光",
     "author_tr": "司馬光",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "北固启佳城，东吴霣德星。\n穗帷长寂寞，羽扇遂飘零。\n泉烛千年碧，霜松数寸青。\n馀庆知有在，玉树满阶庭。",
-    "content_tr": "北固啓佳城，東吳霣德星。\n繐帷長寂寞，羽扇遂飄零。\n泉燭千年碧，霜鬆數寸青。\n餘慶知有在，玉樹滿階庭。"
+    "content": "北固启佳城，东吴𫕥德星。\n𰬸帷长寂寞，羽扇遂飘零。\n泉烛千年碧，霜松数寸青。\n余庆知有在，玉树满阶庭。",
+    "content_tr": "北固啟佳城，東吳霣德星。\n繐帷長寂寞，羽扇遂飄零。\n泉燭千年碧，霜松數寸青。\n餘慶知有在，玉樹滿階庭。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

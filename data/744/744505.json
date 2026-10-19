@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "花承滴滴露，风垂褭褭衣。\n（腹）。",
-    "content_tr": "花承滴滴露，風垂褭褭衣。\n（腹）。"
+    "content": "花承滴滴露，风垂褭褭衣。",
+    "content_tr": "花承滴滴露，風垂褭褭衣。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

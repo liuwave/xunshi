@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "天山雪后海风寒，横笛偏吹行路难。\n碛里征人三十万，一时回向月明看。",
-    "content_tr": "天山雪後海風寒，橫笛偏吹行路難。\n磧裏徵人三十萬，一時迴向月明看。"
+    "content_tr": "天山雪後海風寒，橫笛偏吹行路難。\n磧裏征人三十萬，一時回向月明看。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

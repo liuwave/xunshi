@@ -2,17 +2,17 @@
   "work_id": 399775,
   "work": {
     "id": 399775,
-    "title": "出朝赋归来好 其六",
-    "title_tr": "出朝賦歸來好 其六",
+    "title": "出朝赋归来好  其六",
+    "title_tr": "出朝賦歸來好  其六",
     "author": "徐经孙",
     "author_tr": "徐經孫",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "归来好，从此五更无起早。\n虽然?亩瓣香心，天子万年多寿考。",
-    "content_tr": "歸來好，從此五更無起早。\n雖然?畝瓣香心，天子萬年多壽考。"
+    "content": "归来好，从此五更无起早。\n虽然𤱶亩瓣香心，天子万年多寿考。",
+    "content_tr": "歸來好，從此五更無起早。\n雖然𤱶畝瓣香心，天子萬年多壽考。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

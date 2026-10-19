@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "笔工近岁说吴、俞，李、葛虚名总不如。\n虽是玉堂挥翰手，自怜白首尚抄书。",
-    "content_tr": "筆工近歲說吳、俞，李、葛虛名總不如。\n雖是玉堂揮翰手，自憐白首尚抄書。"
+    "content": "笔工近岁说吴俞，李葛虚名总不如。\n虽是玉堂挥翰手，自怜白首尚抄书。",
+    "content_tr": "筆工近歲說吳俞，李葛虛名總不如。\n雖是玉堂揮翰手，自憐白首尚抄書。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

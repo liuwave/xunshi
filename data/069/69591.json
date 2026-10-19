@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "拆却相公庵，泥却驸马竹。天下人总知，流入《传灯录》。",
-    "content_tr": "拆卻相公庵，泥卻駙馬竹。天下人總知，流入《傳燈錄》。"
+    "content": "拆却相公庵，泥却驸马竹。\n天下人总知，流入传灯录。",
+    "content_tr": "拆却相公庵，泥却駙馬竹。\n天下人總知，流入傳燈錄。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

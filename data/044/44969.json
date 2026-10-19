@@ -2,16 +2,15 @@
   "work_id": 44969,
   "work": {
     "id": 44969,
-    "title": "解红 · 歌",
-    "title_tr": "解紅 · 歌",
+    "title": "解红歌",
+    "title_tr": "解紅歌",
     "author": "和凝",
     "author_tr": "和凝",
-    "dynasty": "五代十国",
-    "kind_cn": "词",
-    "rhythmic": "解红",
-    "content": "百戏罢，五音清，解红一曲新教成。两个瑶池小仙子，此时夺却柘枝名。",
-    "content_tr": "百戲罷，五音清，解紅一曲新教成。兩個瑤池小仙子，此時奪卻柘枝名。",
-    "sub_title": "歌"
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "百戏罢，五音清，解红一曲新教成。\n两个瑶池小仙子，此时夺却柘枝名。",
+    "content_tr": "百戲罷，五音清，解紅一曲新教成。\n兩個瑤池小仙子，此時奪却柘枝名。"
   },
   "anthologies": [],
   "annotation": null,

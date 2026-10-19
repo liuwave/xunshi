@@ -2,15 +2,15 @@
   "work_id": 473810,
   "work": {
     "id": 473810,
-    "title": "失调名 立春",
-    "title_tr": "失调名 立春",
-    "author": "吴氏",
-    "author_tr": "吳氏",
+    "title": "失调名",
+    "title_tr": "失調名",
+    "author": "吴氏3",
+    "author_tr": "吳氏3",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "失调名",
     "content": "剪新幡儿，斜插真珠髻。",
-    "content_tr": "剪新幡儿，斜插真珠髻。"
+    "content_tr": "剪新幡兒，斜插真珠髻。"
   },
   "anthologies": [],
   "annotation": null,

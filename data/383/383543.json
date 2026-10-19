@@ -2,17 +2,17 @@
   "work_id": 383543,
   "work": {
     "id": 383543,
-    "title": "春晚呈节斋赵大资二首 其二",
-    "title_tr": "春晚呈節齋趙大資二首 其二",
+    "title": "春晚呈节斋赵大资二首  其二",
+    "title_tr": "春晚呈節齋趙大資二首  其二",
     "author": "李龏",
     "author_tr": "李龏",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "宿云惹雨腻如尘，湿尽蔷薇一片春。\n鶗鴂恰鸣胡蝶懒，轸香惟恼扈芳人。",
+    "content": "宿云惹雨腻如尘，湿尽蔷薇一片春。\n𫛸鴂恰鸣胡蝶嬾，轸香惟恼扈芳人。",
     "content_tr": "宿雲惹雨膩如塵，濕盡薔薇一片春。\n鶗鴂恰鳴胡蝶嬾，軫香惟惱扈芳人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

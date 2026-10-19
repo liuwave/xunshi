@@ -6,7 +6,7 @@
     "title_tr": "入杭苦雪二首  其一",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "雪天无晨昏，尤难辨西东。\n高低赋万象，偶尔一色同。\n会臯日与月，终愁雨兼风。\n居人掩关卧，况乃逆旅中。\n买薪呼斗酒，黧颊生微红。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

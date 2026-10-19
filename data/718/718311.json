@@ -12,7 +12,9 @@
     "content": "江汉曾为客，相逢每醉还。\n浮云一别后，流水十年间。\n欢笑情如旧，萧疎鬓已斑。\n何因北归去，淮上对秋山。",
     "content_tr": "江漢曾爲客，相逢每醉還。\n浮雲一別後，流水十年間。\n歡笑情如舊，蕭疎鬢已斑。\n何因北歸去，淮上對秋山。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

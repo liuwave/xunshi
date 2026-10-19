@@ -2,17 +2,19 @@
   "work_id": 518,
   "work": {
     "id": 518,
-    "title": "寄人",
-    "title_tr": "寄人",
+    "title": "寄人 一",
+    "title_tr": "寄人 一",
     "author": "张泌",
     "author_tr": "張泌",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "别梦依依到谢家，小廊回合曲阑斜。\n多情只有春庭月，犹为离人照落花。",
-    "content_tr": "別夢依依到謝家，小廊回合曲闌斜。\n多情只有春庭月，猶爲離人照落花。"
+    "content_tr": "別夢依依到謝家，小廊迴合曲闌斜。\n多情只有春庭月，猶爲離人照落花。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "离别之后梦魂依依，来到你家；小廊四面环绕，曲栏横斜。\n多情的只有春庭的明月，还为离人照着庭中落花。",
     "annotation": "谢家：以「谢娘」代指所恋女子居所。\n回合：四面环绕。",

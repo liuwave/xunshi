@@ -2,17 +2,17 @@
   "work_id": 639922,
   "work": {
     "id": 639922,
-    "title": "句  其一○七",
-    "title_tr": "句  其一○七",
+    "title": "句  其一七",
+    "title_tr": "句  其一七",
     "author": "释晓莹",
     "author_tr": "釋曉瑩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "随宜领览到斜晖。",
-    "content_tr": "隨宜領覽到斜暉。"
+    "content": "徘徊幽兴熟。",
+    "content_tr": "徘徊幽興熟。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

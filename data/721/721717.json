@@ -12,7 +12,9 @@
     "content": "西塞山前白鹭飞，桃花流水鳜鱼肥。\n青篛笠，绿蓑衣，斜风细雨不须归。",
     "content_tr": "西塞山前白鷺飛，桃花流水鱖魚肥。\n青篛笠，綠簑衣，斜風細雨不須歸。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

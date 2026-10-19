@@ -2,17 +2,17 @@
   "work_id": 135686,
   "work": {
     "id": 135686,
-    "title": "大圆山",
-    "title_tr": "大圆山",
+    "title": "大圆山（大圆山有光尘子墨迹云云。傍书宋乾道壬辰年，相传以为吕仙作矣。）",
+    "title_tr": "大圓山（大圓山有光塵子墨迹云云。傍書宋乾道壬辰年，相傳以爲呂仙作矣。）",
     "author": "吕岩",
-    "author_tr": "呂岩",
+    "author_tr": "呂巖",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "三山相接欲飞腾，高下来为半日登。\n合向中间著夫子，大员道士小员僧。",
-    "content_tr": "三山相接欲飞腾，高下来为半日登。\n合向中间著夫子，大员道士小员僧。"
+    "content_tr": "三山相接欲飛騰，高下來爲半日登。\n合向中間著夫子，大員道士小員僧。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

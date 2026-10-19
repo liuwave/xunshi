@@ -6,7 +6,7 @@
     "title_tr": "鄞城火後見光遠",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "火后丘墟市，兵前风雨春。\n那知携手地，俱是皱眉人。\n海柳吟犹弱，山鶑听未真。\n明朝各分路，何处避风尘。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

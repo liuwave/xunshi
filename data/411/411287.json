@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "二江明月九峰云，云月堂中希静人。\n芙蕖池浅蛙迎雨，钴鉧潭空草送春。",
-    "content_tr": "二江明月九峯雲，雲月堂中希靜人。\n芙蕖池淺蛙迎雨，鈷鉧潭空草送春。"
+    "content": "二江明月九峰云，云月堂中希静人。\n芙蕖池浅蛙迎雨，钴𬭁潭空草送春。",
+    "content_tr": "二江明月九峰雲，雲月堂中希靜人。\n芙蕖池淺蛙迎雨，鈷鉧潭空草送春。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

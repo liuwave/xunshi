@@ -12,7 +12,9 @@
     "content": "亭亭画舸系春潭，直待行人酒半酣。\n不管烟波与风雨，载将离恨过江南。",
     "content_tr": "亭亭畫舸繫春潭，直待行人酒半酣。\n不管烟波與風雨，載將離恨過江南。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

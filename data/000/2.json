@@ -2,15 +2,15 @@
   "work_id": 2,
   "work": {
     "id": 2,
-    "title": "辛夷坞",
-    "title_tr": "辛夷塢",
+    "title": "辋川集 辛夷坞",
+    "title_tr": "輞川集 辛夷塢",
     "author": "王维",
     "author_tr": "王維",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "木末芙蓉花，山中发红萼。\n涧户寂无人，纷纷开且落。",
-    "content_tr": "木末芙蓉花，山中發紅萼。\n澗戸寂無人，紛紛開且落。"
+    "content_tr": "木末芙蓉花，山中發紅萼。\n澗戶寂無人，紛紛開且落。"
   },
   "anthologies": [],
   "annotation": {

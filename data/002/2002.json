@@ -2,15 +2,15 @@
   "work_id": 2002,
   "work": {
     "id": 2002,
-    "title": "周颂 · 维清",
-    "title_tr": "周頌 · 維清",
-    "author": "无名氏",
-    "author_tr": "無名氏",
-    "dynasty": "周",
+    "title": "维清",
+    "title_tr": "維清",
+    "author": "佚名·先秦",
+    "author_tr": "佚名·先秦",
+    "dynasty": "先秦",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "维清缉熙，文王之典。\n肇禋，迄用有成，维周之祯。",
-    "content_tr": "維清緝熙，文王之典。\n肇禋，迄用有成，維周之禎。"
+    "content": "维清缉熙，文王之典。肇禋，迄用有成，维周之祯。",
+    "content_tr": "維清緝熙，文王之典。肇禋，迄用有成，維周之禎。"
   },
   "anthologies": [],
   "annotation": {

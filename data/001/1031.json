@@ -2,17 +2,19 @@
   "work_id": 1031,
   "work": {
     "id": 1031,
-    "title": "乡村四月",
-    "title_tr": "鄉村四月",
-    "author": "翁卷",
-    "author_tr": "翁卷",
+    "title": "村居即景",
+    "title_tr": "村居即景",
+    "author": "范成大",
+    "author_tr": "范成大",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "绿遍山原白满川，子规声里雨如烟。\n乡村四月闲人少，才了蚕桑又插田。",
-    "content_tr": "綠遍山原白滿川，子規聲裏雨如煙。\n鄉村四月閒人少，才了蠶桑又插田。"
+    "content_tr": "綠遍山原白滿川，子規聲裏雨如烟。\n鄉村四月閑人少，纔了蠶桑又插田。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "绿色铺满山原，白色涨满河川，子规声里细雨如烟。乡村四月闲人很少，才忙完蚕桑又去插秧。",
     "annotation": "白满川：指稻田水色映光发白，川指平野上的水田河渠。\n子规：杜鹃鸟，鸣声急促。\n才了：刚刚做完。\n插田：插秧。",

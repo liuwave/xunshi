@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "布施生生富，（「富」，斯三三九三卷作「福」。\n）悭贪世世贫。\n若人苦悭惜，却却受辛懃。\n（「却却」，戴密微、项楚校作「劫劫」。\n）。",
-    "content_tr": "布施生生富，（「富」，斯三三九三卷作「福」。\n）慳貪世世貧。\n若人苦慳惜，却却受辛懃。\n（「却却」，戴密微、項楚校作「劫劫」。\n）。"
+    "content": "布施生生富，（「富」，斯三三九三卷作「福」。\n）悭贪世世贫。\n若人苦悭惜，却却受辛懃。",
+    "content_tr": "布施生生富，（「富」，斯三三九三卷作「福」。\n）慳貪世世貧。\n若人苦慳惜，却却受辛懃。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

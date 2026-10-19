@@ -2,17 +2,17 @@
   "work_id": 472703,
   "work": {
     "id": 472703,
-    "title": "郡圃观白莲 其一",
-    "title_tr": "郡圃觀白蓮 其一",
+    "title": "郡圃观白莲  其一",
+    "title_tr": "郡圃觀白蓮  其一",
     "author": "王同祖",
     "author_tr": "王同祖",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "翠盖亭亭映玉裳，临风?彴暗飘香。\n六郎正被繁华困，不爱浓妆爱淡妆。",
-    "content_tr": "翠蓋亭亭映玉裳，臨風?彴暗飄香。\n六郎正被繁華困，不愛濃妝愛淡妝。"
+    "content": "翠盖亭亭映玉裳，临风𢔄彴暗飘香。\n六郎正被繁华困，不爱浓妆爱淡妆。",
+    "content_tr": "翠蓋亭亭映玉裳，臨風𢔄彴暗飄香。\n六郎正被繁華困，不愛濃妝愛淡妝。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "泠泠七丝上，静听松风寒。\n古调虽自爱，今人多不弹。",
     "content_tr": "泠泠七絲上，靜聽松風寒。\n古調雖自愛，今人多不彈。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "李寅之招飲同登九江城  其五",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "覆却罔攸测，理乱非所任。\n兀兀兔株意，哀哀鶑谷音。\n识骥伯乐眼，放麑西巴心。\n怀惠在夙昔，观过匪斯今。\n頼公极忠厚，良用开我襟。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

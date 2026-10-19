@@ -2,15 +2,15 @@
   "work_id": 44868,
   "work": {
     "id": 44868,
-    "title": "回波乐",
-    "title_tr": "回波樂",
+    "title": "回波词",
+    "title_tr": "回波詞",
     "author": "沈佺期",
     "author_tr": "沈佺期",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "回波乐",
-    "content": "回波尔时佺期，流向岭外生归。身名已蒙齿录，袍笏未复牙绯。",
-    "content_tr": "回波爾時佺期，流向嶺外生歸。身名已蒙齒錄，袍笏未復牙緋。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "回波尔时佺期，流向岭外生归。\n身名已蒙齿录，袍笏未复牙绯。",
+    "content_tr": "回波爾時佺期，流向嶺外生歸。\n身名已蒙齒錄，袍笏未復牙緋。"
   },
   "anthologies": [],
   "annotation": null,

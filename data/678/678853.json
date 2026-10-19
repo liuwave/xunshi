@@ -12,7 +12,9 @@
     "content": "乳鸭池塘水浅深，熟梅天气半阴晴。\n东园载酒西园醉，摘尽枇杷一树金。",
     "content_tr": "乳鴨池塘水淺深，熟梅天氣半陰晴。\n東園載酒西園醉，摘盡枇杷一樹金。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

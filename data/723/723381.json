@@ -12,7 +12,9 @@
     "content": "老农家贫在山住，耕种山田三四亩。\n苗疎税多不得食，输入官仓化为土。\n岁暮锄犂傍空室，呼儿登山收橡实。\n西江贾客珠百斛，船中养犬长食肉。",
     "content_tr": "老農家貧在山住，耕種山田三四畝。\n苗疎稅多不得食，輸入官倉化爲土。\n歲暮鋤犂傍空室，呼兒登山收橡實。\n西江賈客珠百斛，船中養犬長食肉。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

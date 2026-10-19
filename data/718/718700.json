@@ -12,7 +12,9 @@
     "content": "野寺荒台晚，寒天古木悲。\n空堦有鸟迹，犹似造书时。",
     "content_tr": "野寺荒臺晚，寒天古木悲。\n空堦有鳥跡，猶似造書時。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

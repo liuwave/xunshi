@@ -6,7 +6,7 @@
     "title_tr": "十二月二十三日華亭小泊",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "一一歌游处，今年又寂寥。\n鸡声生坞树，蜃气杂江潮。\n斑白寻遗老，丹青诧丽谯。\n衰怀缘子女，不惮往来游。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "晚投韓采岩",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "冬日寒难暝，岩溪浅易冰。\n猨飞红果嶂，人度白云层。\n望屋多依竹，逢樵半采藤。\n艰难吾甚厌，何处学孙登。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

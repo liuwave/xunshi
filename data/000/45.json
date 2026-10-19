@@ -2,16 +2,15 @@
   "work_id": 45,
   "work": {
     "id": 45,
-    "title": "越调 · 天净沙 · 秋思",
-    "title_tr": "天淨沙 · 秋思",
+    "title": "越调・天净沙秋思",
+    "title_tr": "越調・天淨沙秋思",
     "author": "马致远",
     "author_tr": "馬致遠",
     "dynasty": "元",
     "kind_cn": "曲",
-    "rhythmic": "天净沙",
-    "content": "枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。",
-    "content_tr": "枯藤老樹昏鴉，小橋流水人家，古道西風瘦馬。夕陽西下，斷腸人在天涯。",
-    "sub_title": "秋思"
+    "rhythmic": null,
+    "content": "枯藤老树昏鸦，小桥流水人家，古道西风瘦马。\n夕阳西下，断肠人在天涯。",
+    "content_tr": "枯藤老樹昏鴉，小橋流水人家，古道西風瘦馬。\n夕陽西下，斷腸人在天涯。"
   },
   "anthologies": [],
   "annotation": {

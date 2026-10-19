@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "罗川带郭古南州，陵水环城小庾州。\n云淡青山无过雁，雨涵丹荔集鸣鸠。\n（同前卷十五。\n云「郡守不知名氏」。\n）。",
-    "content_tr": "羅川帶郭古南州，陵水環城小庾州。\n雲淡青山無過雁，雨涵丹荔集鳴鳩。\n（同前卷十五。\n云「郡守不知名氏」。\n）。"
+    "content": "罗川带郭古南州，陵水环城小庾州。\n云淡青山无过雁，雨涵丹荔集鸣鸠。",
+    "content_tr": "羅川帶郭古南州，陵水環城小庾州。\n雲淡青山無過雁，雨涵丹荔集鳴鳩。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

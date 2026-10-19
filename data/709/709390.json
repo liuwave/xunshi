@@ -6,7 +6,7 @@
     "title_tr": "錢塘歌",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "钱塘江上龙光死，钱王宫阙今如此。\n白髪宫娃作远游，漠漠平沙千万里。\n西北高楼白云齐，欲落未落日已低。\n古人不见今人去，江水东流乌夜啼。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

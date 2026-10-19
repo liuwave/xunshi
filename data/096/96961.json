@@ -9,8 +9,8 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "病眼每至午，其视何??。\n安得张中书，就欲求古方。",
-    "content_tr": "病眼每至午，其視何??。\n安得張中書，就欲求古方。"
+    "content": "病眼每至午，其视何𥉂𥉂。\n安得张中书，就欲求古方。",
+    "content_tr": "病眼每至午，其視何𥉂𥉂。\n安得張中書，就欲求古方。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

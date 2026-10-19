@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "山水路悠悠，逢滩即殢留。\n西江风未便，何日到荆州。",
-    "content_tr": "山水路悠悠，逢灘即殢留。\n西江風未便，何日到荊州。"
+    "content": "山水路悠悠，逢滩即𣨼留。\n西江风未便，何日到荆州。",
+    "content_tr": "山水路悠悠，逢灘即殢留。\n西江風未便，何日到荆州。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

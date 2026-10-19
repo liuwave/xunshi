@@ -6,7 +6,7 @@
     "title_tr": "題寒山拾得畫像",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "我读寒山拾得诗，唐初武德贞观时。\n此必前朝老进士，开皇大业不仕隋。\n长歌短舞芙蓉句，开元元和尚无之。\n一箒天台国清寺，扫灭人世贪嗔痴。\n文殊师利复现世，僧俗未妨疑传疑。\n或题松下读黄老，臆辨二叟果为谁。\n谚云橘皮错认皮，九方臯马遗黄骊。\n呜呼甚矣吾衰矣，郁郁都都焉雄雌。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

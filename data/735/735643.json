@@ -6,7 +6,7 @@
     "title_tr": "送盧舍人朝覲",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "膻行无为日，垂衣帝道亨。\n圣真千载圣，明必万年明。\n重德须朝觐，流年不可轻。\n洪才传出世，清甲得高名。\n罕玉藏无映，嵇松画不成。\n起衔轩后勅，醉别亚夫营。\n烧阔荆州熟，霞新岘首晴。\n重重尧雨露，去去汉公卿。\n白发应从白，清贫但更清。\n梦缘丹陛险，春傍彩衣生。\n既握钟繇笔，须调傅说羹。\n倘因星使出，一望问支铿。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

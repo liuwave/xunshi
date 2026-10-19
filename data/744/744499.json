@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "君赴燕然戍，妾坐逍遥楼。\n（句腹叠韵）。",
-    "content_tr": "君赴燕然戍，妾坐逍遙樓。\n（句腹疊韻）。"
+    "content": "君赴燕然戍，妾坐逍遥楼。",
+    "content_tr": "君赴燕然戍，妾坐逍遙樓。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

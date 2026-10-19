@@ -6,7 +6,7 @@
     "title_tr": "花石綱",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "假山虽假总非真，未必中间可隠身。\n若使此山身可隠，上皇不作远行人。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

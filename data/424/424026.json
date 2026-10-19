@@ -2,17 +2,17 @@
   "work_id": 424026,
   "work": {
     "id": 424026,
-    "title": "偶得二首 其一",
-    "title_tr": "偶得二首 其一",
+    "title": "偶得二首  其一",
+    "title_tr": "偶得二首  其一",
     "author": "项安世",
     "author_tr": "項安世",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "水边杨柳秃?沙，路上寒梅噤未花。\n欲识乾坤生物意，桑根麦子已含芽。",
-    "content_tr": "水邊楊柳禿?沙，路上寒梅噤未花。\n欲識乾坤生物意，桑根麥子已含芽。"
+    "content": "水边杨柳秃𧤺沙，路上寒梅噤未花。\n欲识乾坤生物意，桑根麦子已含芽。",
+    "content_tr": "水邊楊柳禿𧤺沙，路上寒梅噤未花。\n欲識乾坤生物意，桑根麥子已含芽。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

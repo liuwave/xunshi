@@ -3,16 +3,16 @@
   "work": {
     "id": 57467,
     "title": "袁德师求画松",
-    "title_tr": "袁德師求畫鬆",
+    "title_tr": "袁德師求畫松",
     "author": "刘商",
     "author_tr": "劉商",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "柏偃松?势自分，森梢古意出浮云。\n如今眼暗画不得，旧有三株持赠君。",
-    "content_tr": "柏偃松?勢自分，森梢古意出浮雲。\n如今眼暗畫不得，舊有三株持贈君。"
+    "content": "柏偃松𢼮势自分，森梢古意出浮云。\n如今眼暗画不得，旧有三株持赠君。",
+    "content_tr": "柏偃松𢼮勢自分，森梢古意出浮雲。\n如今眼暗畫不得，舊有三株持贈君。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

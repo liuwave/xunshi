@@ -2,16 +2,15 @@
   "work_id": 560835,
   "work": {
     "id": 560835,
-    "title": "如梦令 · 属纩遗语",
-    "title_tr": "如夢令 · 屬纊遺語",
-    "author": "汪晫",
-    "author_tr": "汪晫",
+    "title": "如梦令",
+    "title_tr": "如夢令",
+    "author": "汪",
+    "author_tr": "汪",
     "dynasty": "宋",
     "kind_cn": "词",
     "rhythmic": "如梦令",
-    "content": "一只船儿没赛。七十六年装载。把柁更须牢，风饱蒲帆轻快。\n无碍。无碍。匹似子猷访戴。",
-    "content_tr": "一隻船兒沒賽。七十六年裝載。把柁更須牢，風飽蒲帆輕快。\n無礙。無礙。匹似子猷訪戴。",
-    "sub_title": "属纩遗语"
+    "content": "一只船儿没赛。\n七十六年装载。\n把柁更须牢，风饱蒲帆轻快。\n无碍。\n无碍。\n匹似子猷访戴。",
+    "content_tr": "一隻船兒沒賽。\n七十六年裝載。\n把柁更須牢，風飽蒲帆輕快。\n無礙。\n無礙。\n匹似子猷訪戴。"
   },
   "anthologies": [],
   "annotation": null,

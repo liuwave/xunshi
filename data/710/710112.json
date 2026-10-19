@@ -6,7 +6,7 @@
     "title_tr": "題蘇東坡書楚頌並菩薩蠻滿庭芳詞卷後",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "南荒九死幸生还，种树书成手自删。\n赤壁梦难同楚颂，洞庭乐不减商山。\n人生堕地少如意，老子对天无愧颜。\n千古菟裘有遗恨，断珪残璧自人间。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,11 +6,11 @@
     "title_tr": "癸巳元日年六十七",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "生平矻矻短檠窗，晚节灰心殢酒缸。\n百岁三分新过二，十行一目旧无双。\n又惊客枕听春雨，即合归舟上浙江。\n未必樊迟劣颜子，故应学稼胜为邦。",
-    "content_tr": "生平矻矻短檠窗，晚節灰心殢酒缸。\n百歲三分新過二，十行一目舊無雙。\n又驚客枕聽春雨，即合歸舟上浙江。\n未必樊遲劣顏子，故應學稼勝爲邦。"
+    "content": "生平矻矻短檠窗，晚节灰心𣨼酒缸。\n百岁三分新过二，十行一目旧无双。\n又惊客枕听春雨，即合归舟上浙江。\n未必樊迟劣颜子，故应学稼胜为邦。",
+    "content_tr": "生平矻矻短檠窗，晚節灰心殢酒缸。\n百歲三分新過二，十行一目舊無雙。\n又驚客枕聽春雨，即合歸舟上浙江。\n未必樊遲劣顔子，故應學稼勝爲邦。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

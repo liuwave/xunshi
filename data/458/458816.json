@@ -2,17 +2,17 @@
   "work_id": 458816,
   "work": {
     "id": 458816,
-    "title": "和钝庵见留 其一",
-    "title_tr": "和鈍庵見留 其一",
+    "title": "和钝庵见留  其一",
+    "title_tr": "和鈍庵見留  其一",
     "author": "释慧空",
     "author_tr": "釋慧空",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "我来临汝问黄龙，君已空中定鸟踪。\n从此和君不唧?，至令同饭五华峰。",
-    "content_tr": "我來臨汝問黄龍，君已空中定鳥蹤。\n從此和君不唧?，至令同飯五華峰。"
+    "content": "我来临汝问黄龙，君已空中定鸟踪。\n从此和君不唧𠺕，至令同饭五华峰。",
+    "content_tr": "我來臨汝問黄龍，君已空中定鳥蹤。\n從此和君不唧𠺕，至令同飯五華峰。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

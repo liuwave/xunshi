@@ -2,17 +2,19 @@
   "work_id": 26,
   "work": {
     "id": 26,
-    "title": "登鹳雀楼",
-    "title_tr": "登鸛雀樓",
-    "author": "王之涣",
-    "author_tr": "王之渙",
+    "title": "登楼",
+    "title_tr": "登樓",
+    "author": "朱斌",
+    "author_tr": "朱斌",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
     "content_tr": "白日依山盡，黃河入海流。\n欲窮千里目，更上一層樓。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "白日依傍着山峦沉没，黄河向着大海奔流。要想看尽千里风光，就要再登上一层楼。",
     "annotation": "穷：尽，看尽。\n千里目：看到千里之外的视野。",

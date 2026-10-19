@@ -1,0 +1,18 @@
+{
+  "work_id": 755888,
+  "work": {
+    "id": 755888,
+    "title": "失调名",
+    "title_tr": "失調名",
+    "author": "柳永",
+    "author_tr": "柳永",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "失调名",
+    "content": "多情到了多病。",
+    "content_tr": "多情到了多病。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

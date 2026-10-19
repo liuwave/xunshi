@@ -6,13 +6,13 @@
     "title_tr": "寄山中高逸人",
     "author": "孟贯",
     "author_tr": "孟貫",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "烟霞多放旷，吟啸是寻常。\n猿共摘山果，僧邻住石房。\n蹑云双屐冷，采药一身香。\n我忆相逢夜，松潭月色凉。",
+    "content": "烟霞多放旷，吟啸是寻常。\n猨共摘山果，僧邻住石房。\n蹑云双屐冷，采药一身香。\n我忆相逢夜，松潭月色凉。",
     "content_tr": "煙霞多放曠，吟嘯是尋常。\n猨共摘山果，僧鄰住石房。\n躡雲雙屐冷，採藥一身香。\n我憶相逢夜，松潭月色涼。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

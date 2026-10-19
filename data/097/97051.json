@@ -3,16 +3,16 @@
   "work": {
     "id": 97051,
     "title": "毛老斗牛",
-    "title_tr": "毛老斗牛",
+    "title_tr": "毛老鬥牛",
     "author": "文同",
     "author_tr": "文同",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "牛牛尔何争，于此辄斗怒。\n长鞭闹儿童，大炬走翁妪。\n苍■八九子，骇立各四顾。\n何时解角归，茅舍江村暮。",
-    "content_tr": "牛牛爾何爭，於此輒鬥怒。\n長鞭鬧兒童，大炬走翁嫗。\n蒼■八九子，駭立各四顧。\n何時解角歸，茅舍江村暮。"
+    "content": "牛牛尔何争，于此辄斗怒。\n长鞭闹儿童，大炬走翁妪。\n苍𤠋八九子，骇立各四顾。\n何时解角归，茅舍江村暮。",
+    "content_tr": "牛牛爾何爭，於此輒鬥怒。\n長鞭鬧兒童，大炬走翁嫗。\n蒼㺏八九子，駭立各四顧。\n何時解角歸，茅舍江村暮。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "马蹄踏水乱明霞，醉袖迎风受落花。\n怪见溪童出门望，鹊声先我到山家。",
     "content_tr": "馬蹄踏水亂明霞，醉袖迎風受落花。\n怪見溪童出門望，鵲聲先我到山家。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "題子昂照夜白",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "风前新解锦鞍鞯，雪色糢糊雾色寒。\n此物人间无处著，千金祗得画图看。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

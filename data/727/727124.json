@@ -12,7 +12,9 @@
     "content": "娉娉褭褭十三余，豆蔻梢头二月初。\n春风十里扬州路，卷上珠帘总不如。",
     "content_tr": "娉娉褭褭十三餘，豆蔻梢頭二月初。\n春風十里揚州路，卷上珠簾總不如。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -2,8 +2,8 @@
   "work_id": 586280,
   "work": {
     "id": 586280,
-    "title": "古筑城曲（二首）",
-    "title_tr": "古築城曲（二首）",
+    "title": "乐府古题序 古筑城曲五解 二",
+    "title_tr": "樂府古題序 古築城曲五解 二",
     "author": "元稹",
     "author_tr": "元稹",
     "dynasty": "唐",
@@ -12,7 +12,9 @@
     "content": "筑城须努力，城高遮得贼。\n但恐贼路多，有城遮不得。",
     "content_tr": "築城須努力，城高遮得賊。\n但恐賊路多，有城遮不得。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

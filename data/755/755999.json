@@ -1,0 +1,20 @@
+{
+  "work_id": 755999,
+  "work": {
+    "id": 755999,
+    "title": "浣溪沙",
+    "title_tr": "浣溪沙",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "浣溪沙",
+    "content": "一向年光有限身。\n等闲离别易消魂。\n酒筵歌席莫辞频。\n满目山河空念远，落花风雨更伤春。\n不如怜取眼前人。",
+    "content_tr": "一向年光有限身。\n等閒離別易消魂。\n酒筵歌席莫辭頻。\n滿目山河空念遠，落花風雨更傷春。\n不如憐取眼前人。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -6,13 +6,13 @@
     "title_tr": "句 二",
     "author": "李昪",
     "author_tr": "李昪",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "朱扉尽日镇长扃。\n（同前。\n）。",
-    "content_tr": "朱扉盡日鎮長扃。\n（同前。\n）。"
+    "content": "朱扉尽日镇长扃。",
+    "content_tr": "朱扉盡日鎮長扃。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

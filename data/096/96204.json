@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "百根高树挂凌霄，鶗鴂飞来深处巢。\n心喜它年有归著，白衣居士此诛茅。",
-    "content_tr": "百根高樹掛凌霄，鶗鴂飛來深處巢。\n心喜它年有歸著，白衣居士此誅茅。"
+    "content": "百根高树挂凌霄，𫛸鴂飞来深处巢。\n心喜它年有归著，白衣居士此诛茅。",
+    "content_tr": "百根高樹挂凌霄，鶗鴂飛來深處巢。\n心喜它年有歸著，白衣居士此誅茅。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "邔无东。\n（同前）。",
-    "content_tr": "邔無東。\n（同前）。"
+    "content": "邔无东。",
+    "content_tr": "邔無東。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

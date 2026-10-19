@@ -6,7 +6,7 @@
     "title_tr": "題陳宗魯東山書塾",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "芳草谓发颠，美石谓发狂。\n自贤与自智，岂必草石尝。\n勿以夫子庙，而欺赐也墙。\n勿以圣人室，而鄙由也堂。\n楛庭有远孙，美玉深匵藏。\n姓名似元龙，家无上下床。\n收敛河海气，遁逃声利场。\n众谓陟泰岳，六合视茫茫。\n我之鲁东山，亦可小灵光。\n不患见不穹，但患行不强。\n十驾日不已，突过骐骥良。\n美酒无深巷，苦李遗道傍。\n四益视乃叛，苏合殊粪蜣。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

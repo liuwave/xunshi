@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "洛阳陌上多离别，蓬莱山下足波潮。\n碧海桑田何处在？\n笙歌一听一遥遥。",
-    "content_tr": "洛陽陌上多離別，蓬萊山下足波潮。\n碧海桑田何處在？\n笙歌一聽一遙遙。"
+    "content": "洛阳陌上多离别，蓬莱山下足波潮。\n碧海桑田何处在？笙歌一听一遥遥。",
+    "content_tr": "洛陽陌上多離別，蓬萊山下足波潮。\n碧海桑田何處在？笙歌一聽一遙遙。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "金谷園花發懷古",
     "author": "王质",
     "author_tr": "王質",
-    "dynasty": "宋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "寂寥金谷涧，花发旧时园。\n人事空怀古，烟霞此独存。\n管弦非上客，歌舞少王孙。\n繁蘂风惊散，轻红鸟乍翻。\n山川终不改，桃李自无言。\n今日经尘路，凄凉讵可论。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

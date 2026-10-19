@@ -2,15 +2,15 @@
   "work_id": 723062,
   "work": {
     "id": 723062,
-    "title": "杨柳枝词二首 一",
-    "title_tr": "楊柳枝詞二首 一",
+    "title": "杨柳枝·烂漫春归水国时",
+    "title_tr": "楊柳枝·爛漫春歸水國時",
     "author": "皇甫松",
     "author_tr": "皇甫松",
-    "dynasty": "唐",
-    "kind_cn": "诗",
-    "rhythmic": null,
-    "content": "烂漫春归水国时。\n吴王宫殿柳丝垂，黄莺长叫空闺畔。\n西子无因更得知。",
-    "content_tr": "爛漫春歸水國時。\n吳王宮殿柳絲垂，黃鶯長叫空閨畔。\n西子無因更得知。"
+    "dynasty": "五代十国",
+    "kind_cn": "词",
+    "rhythmic": "杨柳枝",
+    "content": "烂漫春归水国时，吴王宫殿柳丝垂。\n黄莺长叫空闺畔，西子无因更得知。",
+    "content_tr": "爛漫春歸水國時，吳王宮殿柳絲垂。\n黃鶯長叫空閨畔，西子無因更得知。"
   },
   "anthologies": [],
   "annotation": null,

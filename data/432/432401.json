@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "商馆非闲地，闲人偶在旁。\n无端声利役，有许去来忙。\n受雨芭蕉响，怀风䆉稏香。\n江郊秋易盛，早献十分凉。",
-    "content_tr": "商館非閒地，閒人偶在旁。\n無端聲利役，有許去來忙。\n受雨芭蕉響，懷風䆉稏香。\n江郊秋易盛，早獻十分涼。"
+    "content": "商馆非闲地，闲人偶在旁。\n无端声利役，有许去来忙。\n受雨芭蕉响，怀风𫁂䅉香。\n江郊秋易盛，早献十分凉。",
+    "content_tr": "商館非閑地，閑人偶在旁。\n無端聲利役，有許去來忙。\n受雨芭蕉響，懷風䆉䅉香。\n江郊秋易盛，早獻十分凉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

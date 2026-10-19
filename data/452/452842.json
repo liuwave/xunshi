@@ -9,7 +9,7 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "不见古君子，因循又隔秋。\n浮生多自掷，好事更谁留。\n碧巘高沉月，寒云静锁楼。\n宗雷何处是，白鸟下汀洲。",
+    "content": "不见古君子，因循又隔秋。\n浮生多自掷，好事更谁留。\n碧𪩘高沉月，寒云静锁楼。\n宗雷何处是，白鸟下汀洲。",
     "content_tr": "不見古君子，因循又隔秋。\n浮生多自擲，好事更誰留。\n碧巘高沉月，寒雲靜鎖樓。\n宗雷何處是，白鳥下汀洲。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

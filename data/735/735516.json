@@ -6,7 +6,7 @@
     "title_tr": "和楊使君遊赤松山",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "为郡三星无一事，龚黄意外扳乔松。\n日边扬历不争路，云外苔藓须留踪。\n溪月未落漏滴滴，隼旟已入山重重。\n扪萝盖输山屐伴，驻斾不见朝霞浓。\n乳猨剧黠挂险树，露木翠脆生诸峰。\n初平谢公道非远，黯然物外心相逢。\n石羊依稀龁瑶草，桃花仿佛开仙宫。\n终当归补吾君衮，好山好水那相容。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

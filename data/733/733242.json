@@ -6,7 +6,7 @@
     "title_tr": "過平戎谷弔胡翽",
     "author": "王仁裕",
     "author_tr": "王仁裕",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "立马荒郊满目愁，伊人何罪死林丘。\n风号古木悲长在，雨湿寒莎泪暗流。\n莫道文章为众嫉，只应轻薄是身讐。\n不缘魂寄孤山下，此地堪名鹦鹉洲。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

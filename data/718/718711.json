@@ -12,7 +12,9 @@
     "content": "梁园日暮乱飞鸦，极目萧条三两家。\n庭树不知人死尽，春来还发旧时花。",
     "content_tr": "梁園日暮亂飛鴉，極目蕭條三兩家。\n庭樹不知人死盡，春來還發舊時花。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

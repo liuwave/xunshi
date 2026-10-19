@@ -6,7 +6,7 @@
     "title_tr": "孟子 存心養性",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "心体能存无走作，油然义理自中生。\n更无物欲相攻伐，萌蘗欣欣竞向荣。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

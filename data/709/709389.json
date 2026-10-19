@@ -6,7 +6,7 @@
     "title_tr": "吳山曉望",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "城南城北草芊芊，满地干戈已惘然。\n燕燕鶑鶑随战马，风风雨雨渡江船。\n小儒愁剧吟如哭，老子歌阑醉欲眠。\n一夜春寒花命薄，乱飘红紫下平川。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

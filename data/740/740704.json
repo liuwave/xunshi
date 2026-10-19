@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "上潮吞海日。\n（同前）。",
-    "content_tr": "上潮吞海日。\n（同前）。"
+    "content": "上潮吞海日。",
+    "content_tr": "上潮吞海日。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

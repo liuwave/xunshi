@@ -12,7 +12,9 @@
     "content": "陶尽门前土，屋上无片瓦。\n寸指不沾泥，鳞鳞居大厦。",
     "content_tr": "陶盡門前土，屋上無片瓦。\n寸指不霑泥，鱗鱗居大厦。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "烧瓦工人用尽了门前的泥土，自己屋上却没有一片瓦。那些手指不沾一点泥的人，却住在瓦片如鳞的大厦里。",
     "annotation": "陶：作瓦器，此处指烧瓦。\n鳞鳞：瓦片层层如鱼鳞。",
@@ -20,5 +22,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

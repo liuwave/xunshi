@@ -1,0 +1,20 @@
+{
+  "work_id": 761671,
+  "work": {
+    "id": 761671,
+    "title": "卜算子",
+    "title_tr": "卜算子",
+    "author": "陆游",
+    "author_tr": "陸游",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "卜算子",
+    "content": "驿外断桥边，寂寞开无主。\n已是黄昏独自愁，更著风和雨。\n无意苦争春，一任群芳妒。\n零落成泥碾作尘，只有香如故。",
+    "content_tr": "驛外斷橋邊，寂寞開無主。\n已是黃昏獨自愁，更著風和雨。\n無意苦爭春，一任羣芳妒。\n零落成泥碾作塵，只有香如故。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

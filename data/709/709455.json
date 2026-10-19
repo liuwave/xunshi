@@ -6,7 +6,7 @@
     "title_tr": "蘇武洲氈房夜坐",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "明发启帐房，冷气迸将入。\n饥鹰傍人飞，瘦马对人立。\n御寒挟貂裘，蒙头帽毡笠。\n凄然绝火烟，阴云压身湿。\n頼有葡萄醅，借煖敌风急。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

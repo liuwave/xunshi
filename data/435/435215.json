@@ -2,17 +2,19 @@
   "work_id": 435215,
   "work": {
     "id": 435215,
-    "title": "新晴（其一）",
-    "title_tr": "新晴（其一）",
+    "title": "新晴  其一",
+    "title_tr": "新晴  其一",
     "author": "刘攽",
     "author_tr": "劉攽",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "青苔满地初晴后，绿树无人昼梦馀。\n唯有南风旧相熟，径开门户又翻书。",
+    "content": "青苔满地初晴后，绿树无人昼梦余。\n唯有南风旧相熟，径开门户又翻书。",
     "content_tr": "青苔滿地初晴後，綠樹無人晝夢餘。\n唯有南風舊相熟，徑開門戶又翻書。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

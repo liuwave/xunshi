@@ -2,17 +2,17 @@
   "work_id": 445481,
   "work": {
     "id": 445481,
-    "title": "九日言 怀",
-    "title_tr": "九日言 懷",
+    "title": "九日言怀",
+    "title_tr": "九日言懷",
     "author": "罗公升",
     "author_tr": "羅公升",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "木落湖山万叶黄，乱愁深处见重阳。\n絺衣只惯诗人体，酒盏全乖病客肠。\n只道事随人意改，如何花作旧时香。\n孤楼不作还家梦，卧听松风响夜长。",
+    "content": "木落湖山万叶黄，乱愁深处见重阳。\n𫄨衣只惯诗人体，酒盏全乖病客肠。\n只道事随人意改，如何花作旧时香。\n孤楼不作还家梦，卧听松风响夜长。",
     "content_tr": "木落湖山萬葉黄，亂愁深處見重陽。\n絺衣只慣詩人體，酒盞全乖病客腸。\n只道事隨人意改，如何花作舊時香。\n孤樓不作還家夢，卧聽松風響夜長。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

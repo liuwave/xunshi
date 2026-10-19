@@ -2,17 +2,17 @@
   "work_id": 446207,
   "work": {
     "id": 446207,
-    "title": "颂古十七首 其一",
-    "title_tr": "頌古十七首 其一",
+    "title": "颂古十七首  其一",
+    "title_tr": "頌古十七首  其一",
     "author": "释鼎需",
     "author_tr": "釋鼎需",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "鸟窠佛法无多子，只在褴襂一布毛。\n一气吹来何处去，至今天下有譊讹。",
+    "content": "鸟窠佛法无多子，只在褴襂一布毛。\n一气吹来何处去，至今天下有𫍢讹。",
     "content_tr": "鳥窠佛法無多子，只在襤襂一布毛。\n一氣吹來何處去，至今天下有譊訛。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

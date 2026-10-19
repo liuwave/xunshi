@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "双眉学新绿，二脸例轻红。\n言模（一作摸）出浪鸟，字写入花虫。",
-    "content_tr": "雙眉學新綠，二臉例輕紅。\n言模（一作摸）出浪鳥，字寫入花蟲。"
+    "content": "双眉学新绿，二脸例轻红。\n言模出浪鸟，字写入花虫。",
+    "content_tr": "雙眉學新綠，二臉例輕紅。\n言模出浪鳥，字寫入花蟲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

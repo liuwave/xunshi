@@ -12,7 +12,9 @@
     "content": "月黑见渔灯，孤光一点萤。\n微微风簇浪，散作满河星。",
     "content_tr": "月黑見漁燈，孤光一點螢。\n微微風簇浪，散作滿河星。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

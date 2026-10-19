@@ -2,15 +2,15 @@
   "work_id": 56696,
   "work": {
     "id": 56696,
-    "title": "竹枝词（其二）",
-    "title_tr": "竹枝詞（其二）",
+    "title": "杂曲歌辞 竹枝 二",
+    "title_tr": "雜曲歌辭 竹枝 二",
     "author": "刘禹锡",
     "author_tr": "劉禹錫",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "竹枝词（其二）",
+    "kind_cn": "诗",
+    "rhythmic": null,
     "content": "楚水巴山江雨多，巴人能唱本乡歌。\n今朝北客思归去，回入纥那披绿罗。",
-    "content_tr": "楚水巴山江雨多，巴人能唱本鄉歌。\n今朝北客思歸去，回入紇那披綠羅。"
+    "content_tr": "楚水巴山江雨多，巴人能唱本鄉歌。\n今朝北客思歸去，迴入紇那披綠羅。"
   },
   "anthologies": [],
   "annotation": null,

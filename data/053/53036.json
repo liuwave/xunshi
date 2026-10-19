@@ -2,15 +2,15 @@
   "work_id": 53036,
   "work": {
     "id": 53036,
-    "title": "春野作五首",
-    "title_tr": "春野作五首",
+    "title": "春野作五首 一",
+    "title_tr": "春野作五首 一",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "闲步浅青平绿，流水征车自逐。谁家挟弹少年，拟打红衣啄木。",
-    "content_tr": "閒步淺青平綠，流水徵車自逐。誰家挾彈少年，擬打紅衣啄木。"
+    "content": "闲步浅青平绿，流水征车自逐。\n谁家挟弹少年，拟打红衣[啄]木。",
+    "content_tr": "閑步淺青平綠，流水征車自逐。\n誰家挾彈少年，擬打紅衣[啄]木。"
   },
   "anthologies": [],
   "annotation": null,

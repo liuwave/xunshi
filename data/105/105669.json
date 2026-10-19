@@ -2,17 +2,17 @@
   "work_id": 105669,
   "work": {
     "id": 105669,
-    "title": "别关景晖二首 其一",
-    "title_tr": "別關景暉二首 其一",
+    "title": "别关景晖二首  其一",
+    "title_tr": "別關景暉二首  其一",
     "author": "晁补之",
     "author_tr": "晁補之",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "邺王台上几追陪，台上鸦鸣古甓摧。\n每对灯前青玉笛，不辞花下白银杯。\n九重幽梦骊驹近，百卉佳时鷤䳏催。\n更约欢呼须继日，从教河汉卷星回。",
+    "content": "邺王台上几追陪，台上鸦鸣古甓摧。\n每对灯前青玉笛，不辞花下白银杯。\n九重幽梦骊驹近，百卉佳时𫛴䳏催。\n更约欢呼须继日，从教河汉卷星回。",
     "content_tr": "鄴王臺上幾追陪，臺上鴉鳴古甓摧。\n每對燈前青玉笛，不辭花下白銀杯。\n九重幽夢驪駒近，百卉佳時鷤䳏催。\n更約歡呼須繼日，從教河漢卷星迴。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

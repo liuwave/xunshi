@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "怨心千过绝，啼眼百回垂。\n（二联为火灭病）。",
-    "content_tr": "怨心千過絕，啼眼百迴垂。\n（二聯爲火滅病）。"
+    "content": "怨心千过绝，啼眼百回垂。",
+    "content_tr": "怨心千過絕，啼眼百迴垂。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

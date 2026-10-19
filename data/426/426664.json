@@ -3,14 +3,14 @@
   "work": {
     "id": 426664,
     "title": "深黄",
-    "title_tr": "深黃",
+    "title_tr": "深黄",
     "author": "贾似道",
     "author_tr": "賈似道",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "黄者生来金箔黄，腿脚班黄腰■长。\n若生一付乌牙齿，三秋饶大莫商量。",
-    "content_tr": "黃者生來金箔黃，腿腳班黃腰■長。\n若生一付烏牙齒，三秋饒大莫商量。"
+    "content": "黄者生来金箔黄，腿脚班黄腰𪢬长。\n若生一付乌牙齿，三秋饶大莫商量。",
+    "content_tr": "黄者生來金箔黄，腿脚班黄腰𪢬長。\n若生一付烏牙齒，三秋饒大莫商量。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

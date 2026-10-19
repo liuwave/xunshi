@@ -3,16 +3,16 @@
   "work": {
     "id": 108852,
     "title": "游水帘岩",
-    "title_tr": "游水簾巖",
+    "title_tr": "遊水簾巖",
     "author": "梅尧臣",
     "author_tr": "梅堯臣",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "春山时独往，榛秽旋芟斸。\n飞泉蔽幽岩，杳蔼疏朝旭。\n光垂白龙髯，鸣漱寒潭玉。\n半壁生昼寒，阴草润秋绿。\n穿藤出溪口，流沫萦山足。\n莫遣吏人来，方歌白云曲。",
+    "content": "春山时独往，榛秽旋芟𣃁。\n飞泉蔽幽岩，杳蔼疏朝旭。\n光垂白龙髯，鸣漱寒潭玉。\n半壁生昼寒，阴草润秋绿。\n穿藤出溪口，流沫萦山足。\n莫遣吏人来，方歌白云曲。",
     "content_tr": "春山時獨往，榛穢旋芟斸。\n飛泉蔽幽巖，杳藹疏朝旭。\n光垂白龍髯，鳴漱寒潭玉。\n半壁生晝寒，陰草潤秋綠。\n穿藤出溪口，流沫縈山足。\n莫遣吏人來，方歌白雲曲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "城营内，灵鹊（京本作「雀」）件巢窝。\n不去营空兼火起，速当移寨祸消磨，久住杀伤多。",
-    "content_tr": "城營內，靈鵲（京本作「雀」）件巢窩。\n不去營空兼火起，速當移寨禍消磨，久住殺傷多。"
+    "content": "城营内，灵鹊件巢窝。\n不去营空兼火起，速当移寨祸消磨，久住杀伤多。",
+    "content_tr": "城營內，靈鵲件巢窩。\n不去營空兼火起，速當移寨禍消磨，久住殺傷多。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

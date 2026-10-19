@@ -12,7 +12,9 @@
     "content": "远看山有色，近听水无声。\n春去花还在，人来鸟不惊。",
     "content_tr": "遠看山有色，近聽水無聲。\n春去花還在，人來鳥不驚。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "远远看去山色青翠分明，走近去听水却没有声音。春天过去了花还在，人来了鸟却不惊飞。",
     "annotation": "",

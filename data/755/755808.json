@@ -1,0 +1,20 @@
+{
+  "work_id": 755808,
+  "work": {
+    "id": 755808,
+    "title": "少年游",
+    "title_tr": "少年遊",
+    "author": "柳永",
+    "author_tr": "柳永",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "少年游",
+    "content": "长安古道马迟迟。\n高柳乱蝉栖。\n夕阳岛外，秋风原上，目断四天垂。\n归云一去无踪迹，何处是前期。\n狎兴生疏，酒徒萧索，不似去年时。",
+    "content_tr": "長安古道馬遲遲。\n高柳亂蟬棲。\n夕陽島外，秋風原上，目斷四天垂。\n歸雲一去無蹤跡，何處是前期。\n狎興生疏，酒徒蕭索，不似去年時。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

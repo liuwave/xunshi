@@ -2,17 +2,17 @@
   "work_id": 377430,
   "work": {
     "id": 377430,
-    "title": "和李端叔大夫从参寥子游许昌 西湖十绝 其一",
-    "title_tr": "和李端叔大夫從參寥子游許昌 西湖十絕 其一",
+    "title": "和李端叔大夫从参寥子游许昌西湖十绝  其一",
+    "title_tr": "和李端叔大夫從參寥子游許昌西湖十絕  其一",
     "author": "李廌",
     "author_tr": "李廌",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "几处秋千愁日暮，一声鶗鴂唤春归。\n红稀绿尽寻常事，不用长绳系落晖。",
+    "content": "几处秋千愁日暮，一声𫛸鴂唤春归。\n红稀绿尽寻常事，不用长绳系落晖。",
     "content_tr": "幾處鞦韆愁日暮，一聲鶗鴂喚春歸。\n紅稀綠盡尋常事，不用長繩繫落暉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

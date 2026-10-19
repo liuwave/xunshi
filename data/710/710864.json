@@ -6,7 +6,7 @@
     "title_tr": "贈曹德玉子達卿父子同赴錫山館",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "故籯无黄金，子弟政欲佳。\n芬芳闻数里，譬若兰当阶。\n念昔登高门，始见玉在怀。\n顾余齿髪尽，叹子头角乖。\n妙龄探学海，浩博无津涯。\n翁季遥相望，灯雪分一斋。\n翳翳山阳木，春风几时回。\n袅袅北堂萱，日暮意悠哉。\n游方非远道，心动数归来。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

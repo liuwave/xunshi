@@ -6,7 +6,7 @@
     "title_tr": "次韻如晦木犀因寄其從父性之老同舍",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "诗力如弓不易张，烦襟且觉对花凉。\n玲珑南雪晴秋树，淅窣西风夜月香。\n消得玉人歌古淡，许谁金屋鬬清狂。\n风流更忆同袍老，一坞闲云傍水乡。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

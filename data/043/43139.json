@@ -2,8 +2,8 @@
   "work_id": 43139,
   "work": {
     "id": 43139,
-    "title": "碧城三首 · 其一",
-    "title_tr": "碧城三首 · 其一",
+    "title": "碧城三首 一",
+    "title_tr": "碧城三首 一",
     "author": "李商隐",
     "author_tr": "李商隱",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

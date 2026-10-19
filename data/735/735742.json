@@ -6,7 +6,7 @@
     "title_tr": "送新羅人及第歸",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "捧桂香和紫禁烟，远乡程彻巨鼇边。\n莫言挂席飞连夜，见说无风即数年。\n衣上日光真是火，岛旁鱼骨大于船。\n到乡必遇来王使，与作唐书寄一篇。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

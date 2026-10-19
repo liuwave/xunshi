@@ -2,8 +2,8 @@
   "work_id": 891,
   "work": {
     "id": 891,
-    "title": "马诗二十三首（其五）",
-    "title_tr": "馬詩二十三首（其五）",
+    "title": "马诗二十三首 五",
+    "title_tr": "馬詩二十三首 五",
     "author": "李贺",
     "author_tr": "李賀",
     "dynasty": "唐",
@@ -12,7 +12,9 @@
     "content": "大漠沙如雪，燕山月似钩。\n何当金络脑，快走踏清秋。",
     "content_tr": "大漠沙如雪，燕山月似鉤。\n何當金絡腦，快走踏清秋。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "广阔的沙漠沙白如雪，燕山的月牙弯如弯钩。什么时候能戴上金饰的马笼头，在清秋时节轻快地飞驰？",
     "annotation": "燕山：山名，在今河北北部。\n何当：何时能够。\n金络脑：以黄金装饰的马笼头，喻受重用。",
@@ -20,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

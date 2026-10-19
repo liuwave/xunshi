@@ -6,7 +6,7 @@
     "title_tr": "送丁道士歸南中",
     "author": "谭用之",
     "author_tr": "譚用之",
-    "dynasty": "宋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "孤云无定鹤辞巢，自负焦桐不说劳。\n服药几年期碧落，验符何处呪丹毫。\n子陵山晓红云密，青草湖平雪浪高。\n从此人稀见踪迹，还应选地种仙桃。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

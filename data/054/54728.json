@@ -2,17 +2,17 @@
   "work_id": 54728,
   "work": {
     "id": 54728,
-    "title": "辋川集二十首辛夷坞",
-    "title_tr": "輞川集二十首辛夷塢",
+    "title": "辋川集二十首 辛夷坞",
+    "title_tr": "輞川集二十首 辛夷塢",
     "author": "裴迪",
     "author_tr": "裴迪",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "绿堤春草合，王孙自留玩。\n况有辛夷花，色与芙蓉乱。",
-    "content_tr": "綠堤春草合，王孫自留玩。\n況有辛夷花，色與芙蓉亂。"
+    "content": "绿堤春草合，王孙自留玩/。\n况有辛夷花，色与芙蓉乱。",
+    "content_tr": "綠堤春草合，王孫自留玩/。\n況有辛夷花，色與芙蓉亂。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

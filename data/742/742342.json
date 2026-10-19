@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "城营内，龟蟹入其（京本作「营」）中。\n更有聚蝇亿万数，军兵溃散（京本作「败」）败不从容，看即弃（辛本、川本作「旋」）营空。",
-    "content_tr": "城營內，龜蟹入其（京本作「營」）中。\n更有聚蠅億萬數，軍兵潰散（京本作「敗」）敗不從容，看即棄（辛本、川本作「旋」）營空。"
+    "content": "城营内，龟蟹入其中。\n更有聚蝇亿万数，军兵溃散败不从容，看即弃营空。",
+    "content_tr": "城營內，龜蟹入其中。\n更有聚蠅億萬數，軍兵潰散敗不從容，看即棄營空。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,10 @@
     "content": "古台摇落后，秋日望乡心。\n野寺人来少，云峰水隔深。\n夕阳依旧垒，寒磬满空林。\n惆怅南朝事，长江独至今。",
     "content_tr": "古臺搖落後，秋日望鄉心。\n野寺人來少，雲峰水隔深。\n夕陽依舊壘，寒磬滿空林。\n惆悵南朝事，長江獨至今。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "題桃源手卷",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "种柳栽桃总是春，兴亡千古一沾巾。\n只评隠者非仙者，莫悟秦人即晋人。\n年号记曾题甲子，儿孙肯使识君臣。\n南阳高士空遐想，不向柴桑去问津。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

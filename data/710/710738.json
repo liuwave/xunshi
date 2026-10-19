@@ -6,7 +6,7 @@
     "title_tr": "留別王伯洪平章高顯卿左丞",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "幼从翰墨场中出，晚见车书宇内同。\n四十年前沾雨露，三千里外犯霜风。\n蛾眉共妬婵娟女，鹤髪谁怜矍铄翁。\n回首束书归旧隠，江南笋蕨满山中。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

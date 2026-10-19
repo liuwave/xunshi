@@ -6,7 +6,7 @@
     "title_tr": "風雨遊小大浦",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "海坞秋风里，无悰眼亦开。\n潮冲乌屿长，雨过象山来。\n畬父收牛种，渔丁拾蠯胎。\n乘桴吾岂敢，人说近蓬莱。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

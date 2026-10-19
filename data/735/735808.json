@@ -6,7 +6,7 @@
     "title_tr": "獻錢尚父",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "贵逼人来不自由，龙骧凤翥势难收。\n满堂花醉三千客，一劒霜寒十四州。\n鼓角揭天嘉气冷，风涛动地海山秋。\n东南永作金天柱，谁羡当时万户侯。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

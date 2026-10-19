@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "桃李深酣日，池塘浅试春。\n霁晖摇远水，新暖软游人。\n生酒清无色，青梅脆有仁。\n烟钟能底急，催我入城闉。",
-    "content_tr": "桃李深酣日，池塘淺試春。\n霽暉搖遠水，新暖軟遊人。\n生酒清無色，青梅脆有仁。\n煙鍾能底急，催我入城闉。"
+    "content": "桃李深酣日，池塘浅试春。\n霁晖摇远水，新暖软游人。\n生酒清无色，青梅脆有仁。\n烟钟能底急，催我入城𬮱。",
+    "content_tr": "桃李深酣日，池塘淺試春。\n霽暉摇遠水，新暖軟遊人。\n生酒清無色，青梅脆有仁。\n煙鐘能底急，催我入城闉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -3,16 +3,16 @@
   "work": {
     "id": 290635,
     "title": "别余壁",
-    "title_tr": "別餘壁",
+    "title_tr": "別余壁",
     "author": "王十朋",
     "author_tr": "王十朋",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "之子有家学，妙龄殊众儿。\n参乎宜语孝，鲤也早闻诗。\n谩习雕虫技，终絺吐凤词。\n五车书读尽，定有起家期。",
+    "content": "之子有家学，妙龄殊众儿。\n参乎宜语孝，鲤也早闻诗。\n谩习雕虫技，终𫄨吐凤词。\n五车书读尽，定有起家期。",
     "content_tr": "之子有家學，妙齡殊衆兒。\n參乎宜語孝，鯉也早聞詩。\n謾習雕蟲技，終絺吐鳳詞。\n五車書讀盡，定有起家期。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

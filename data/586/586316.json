@@ -2,17 +2,19 @@
   "work_id": 586316,
   "work": {
     "id": 586316,
-    "title": "池上",
-    "title_tr": "池上",
+    "title": "池上二绝 二",
+    "title_tr": "池上二絕 二",
     "author": "白居易",
     "author_tr": "白居易",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "小娃撑小艇，偷采白莲回。\n不解藏踪迹，浮萍一道开。",
-    "content_tr": "小娃撐小艇，偷採白蓮回。\n不解藏蹤跡，浮萍一道開。"
+    "content_tr": "小娃撐小艇，偷採白蓮迴。\n不解藏踪跡，浮萍一道開。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "一个小孩撑着小船，偷偷采了白莲回来。他不懂得掩藏踪迹，水面的浮萍被船划开一道痕迹。",
     "annotation": "艇：轻便的小船。\n白莲：白色的莲花，此指莲蓬。\n浮萍：浮生水面的植物。",

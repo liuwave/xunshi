@@ -12,7 +12,9 @@
     "content": "城雪初消荠菜生，角门深巷少人行。\n柳梢听得黄鹂语，此是春来第一声。",
     "content_tr": "城雪初消薺菜生，角門深巷少人行。\n柳梢聽得黃鸝語，此是春來第一聲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

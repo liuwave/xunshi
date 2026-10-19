@@ -12,7 +12,9 @@
     "content": "去岁曾经此县城，县民无口不冤声。\n今来县宰加朱绂，便是生灵血染成。",
     "content_tr": "去歲曾經此縣城，縣民無口不冤聲。\n今來縣宰加朱紱，便是生靈血染成。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "聞知聞赴成都辟請",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "文翁还化蜀，帟幕列鹓鸾。\n饮水临人易，烧山觅士难。\n锦机花正合，椶蕈火初干。\n知己相思否，如何借羽翰。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

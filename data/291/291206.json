@@ -2,17 +2,17 @@
   "work_id": 291206,
   "work": {
     "id": 291206,
-    "title": "夔路十贤屈大夫",
-    "title_tr": "夔路十賢屈大夫",
+    "title": "夔路十贤 屈大夫",
+    "title_tr": "夔路十賢 屈大夫",
     "author": "王十朋",
     "author_tr": "王十朋",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "大夫楚忠臣，哀哉以谗逐。\n遗庙大江濆，醒清今古独。",
+    "content": "大夫楚忠臣，哀哉以谗逐。\n遗庙大江𣸣，醒清今古独。",
     "content_tr": "大夫楚忠臣，哀哉以讒逐。\n遺廟大江濆，醒清今古獨。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "草地",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "龌龊复龌龊，昔闻今始见。\n一月不梳头，一月不洗面。\n饥则嚼干粮，渴则啖雪片。\n困来卧毡房，重裘颇相恋。\n故衣连百结，虮虱似珠串。\n平明猎阴山，鹰犬逐人转。\n呱呱冻欲僵，老娃泪如霰。\n忽有使臣来，宣赐尚方饍。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

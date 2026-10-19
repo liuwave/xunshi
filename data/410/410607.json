@@ -2,17 +2,17 @@
   "work_id": 410607,
   "work": {
     "id": 410607,
-    "title": "挽许秋浦 其一",
-    "title_tr": "挽許秋浦 其一",
+    "title": "挽许秋浦  其一",
+    "title_tr": "挽許秋浦  其一",
     "author": "马廷鸾",
     "author_tr": "馬廷鸞",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "纷纷顶板尽圈红，伯仲高鶱槐市风。\n一第不酬攀桂客，千年祇泣感麟翁。",
+    "content": "纷纷顶板尽圈红，伯仲高𬸣槐市风。\n一第不酬攀桂客，千年祇泣感麟翁。",
     "content_tr": "紛紛頂板盡圈紅，伯仲高鶱槐市風。\n一第不酬攀桂客，千年祇泣感麟翁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

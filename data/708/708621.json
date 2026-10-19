@@ -6,7 +6,7 @@
     "title_tr": "孟子 過化存神",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "德既能明效自充，黎民皥皥变时雍。\n神功妙用浑无迹，只在纯而不已中。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

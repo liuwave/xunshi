@@ -3,16 +3,16 @@
   "work": {
     "id": 80838,
     "title": "次韵莘老初至汤泉",
-    "title_tr": "次韻莘老初至湯泉",
+    "title_tr": "次韵莘老初至湯泉",
     "author": "秦观",
     "author_tr": "秦觀",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "夹路山重复，参天树老苍。\n一区成小市，数埒引温汤。\n洗沐同幽客，餔餐就梵坊。\n未输朝市子，斗酒得西凉。",
-    "content_tr": "夾路山重複，參天樹老蒼。\n一區成小市，數埒引溫湯。\n洗沐同幽客，餔餐就梵坊。\n未輸朝市子，斗酒得西涼。"
+    "content": "夹路山重复，参天树老苍。\n一区成小市，数埒引温汤。\n洗沐同幽客，𫗦餐就梵坊。\n未输朝市子，斗酒得西凉。",
+    "content_tr": "夾路山重複，參天樹老蒼。\n一區成小市，數埒引溫湯。\n洗沐同幽客，餔餐就梵坊。\n未輸朝市子，斗酒得西凉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,16 +2,15 @@
   "work_id": 528180,
   "work": {
     "id": 528180,
-    "title": "潇湘神 · 贺灵鼍",
-    "title_tr": "競渡棹歌",
+    "title": "竞渡櫂歌  其四",
+    "title_tr": "競渡櫂歌  其四",
     "author": "黄公绍",
-    "author_tr": "黃公紹",
+    "author_tr": "黄公紹",
     "dynasty": "宋",
-    "kind_cn": "词",
-    "rhythmic": "潇湘神",
-    "content": "驾灵鼍，驾灵鼍，几年翠舞与珠歌。看到日斜犹未足，涌金门外涌金波。",
-    "content_tr": "駕靈鼉，駕靈鼉，幾年翠舞與珠歌。看到日斜猶未足，涌金門外涌金波。",
-    "sub_title": "贺灵鼍"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "驾灵鼍，驾灵鼍，几年翠舞与珠歌。\n看到日斜犹未足，涌金门外涌金波。",
+    "content_tr": "駕靈鼉，駕靈鼉，幾年翠舞與珠歌。\n看到日斜猶未足，湧金門外湧金波。"
   },
   "anthologies": [],
   "annotation": null,

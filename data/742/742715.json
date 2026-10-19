@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "圣朝初出赤志翁，丑杖旁扶赤志翁。\n（同前。\n）。",
-    "content_tr": "聖朝初出赤誌翁，醜杖旁扶赤誌翁。\n（同前。\n）。"
+    "content": "圣朝初出赤志翁，丑杖旁扶赤志翁。",
+    "content_tr": "聖朝初出赤誌翁，醜杖旁扶赤誌翁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

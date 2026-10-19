@@ -6,7 +6,7 @@
     "title_tr": "送李鉶赴舉",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "诗业务经纶，新皆意外新。\n因知登第牓，不著不平人。\n句得孤舟月，心飞九陌尘。\n明年相贺日，应到曲江滨。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

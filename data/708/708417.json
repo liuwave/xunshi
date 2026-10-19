@@ -6,7 +6,7 @@
     "title_tr": "己卯歲初葺剡居",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "休言声迹转沉沦，百折江湖乱后身。\n穷未卖书留教子，饥宁食粥省求人。\n坐来齿避樵苏长，往处踪迷木石邻。\n翻笑古来逃世者，标名先制隠衣巾。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

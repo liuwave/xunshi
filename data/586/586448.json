@@ -2,17 +2,19 @@
   "work_id": 586448,
   "work": {
     "id": 586448,
-    "title": "采莲",
-    "title_tr": "採蓮",
-    "author": "孙光宪",
-    "author_tr": "孫光憲",
-    "dynasty": "宋",
+    "title": "采莲子二首 一",
+    "title_tr": "採蓮子二首 一",
+    "author": "皇甫松",
+    "author_tr": "皇甫松",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "菡萏香连十顷陂，小姑贪戏采莲迟。\n晚来弄水船头湿，更脱红裙裹鸭儿。",
-    "content_tr": "菡萏香連十頃陂，小姑貪戲採蓮遲。\n晚來弄水船頭溼，更脫紅裙裹鴨兒。"
+    "content_tr": "菡萏香連十頃陂，小姑貪戲採蓮遲。\n晚來弄水船頭濕，更脫紅裙裹鴨兒。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

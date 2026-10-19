@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "耆老遮归路，壶浆满别筵。\n甘棠无一树，那得泪潸然。\n税重多贫户，农饥足旱田。\n唯留一湖水，与汝救凶年。",
-    "content_tr": "耆老遮歸路，壺漿滿別筵。\n甘棠無一樹，那得淚潸然。\n稅重多貧戶，農飢足旱田。\n唯留一湖水，與汝救凶年。"
+    "content_tr": "耆老遮歸路，壺漿滿別筵。\n甘棠無一樹，那得淚潸然。\n稅重多貧戶，農饑足旱田。\n唯留一湖水，與汝救凶年。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

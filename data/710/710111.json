@@ -6,7 +6,7 @@
     "title_tr": "竹陰",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "占断人间潇洒地，全身水墨画筼筜。\n非烟非雾一林碧，似雨似晴三径凉。\n翠袖佳人黯空谷，白髭道士隠南塘。\n数竿醉日君须记，移向西窗补夕阳。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

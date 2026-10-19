@@ -6,7 +6,7 @@
     "title_tr": "送道友歸天台",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "藓浓苔湿冷层层，珍重先生独去登。\n气养三田传未得，药非八石许还曾。\n云根应狎玉斧子，月迳多寻银地僧。\n太守苦留终不住，可怜江上去腾腾。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

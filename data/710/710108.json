@@ -6,7 +6,7 @@
     "title_tr": "清和",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "白苎渐相便，因知物候迁。\n空山一雨后，小槛绿阴前。\n鶑在留春思，人幽减昼眠。\n此时风日好，元不似梅天。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

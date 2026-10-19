@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "山风晚习习，水浪鱼淫淫。\n（尾）。",
-    "content_tr": "山風晚習習，水浪魚淫淫。\n（尾）。"
+    "content": "山风晚习习，水浪鱼淫淫。",
+    "content_tr": "山風晚習習，水浪魚淫淫。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

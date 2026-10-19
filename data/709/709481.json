@@ -6,7 +6,7 @@
     "title_tr": "浙江亭和徐雪江",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "朱甍突兀倚云寒，潮打孤城寂寞还。\n荒草断烟新驿路，夕阳古木旧江山。\n英雄聚散阑干外，今古兴亡欸乃间。\n一曲尊前空击剑，西风白髪泪斑斑。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

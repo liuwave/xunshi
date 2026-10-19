@@ -3,16 +3,16 @@
   "work": {
     "id": 412987,
     "title": "再游浯溪",
-    "title_tr": "再遊浯溪",
+    "title_tr": "再游浯溪",
     "author": "张仲",
     "author_tr": "張仲",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "一年两檄过浯溪，□上?亭□□□。\n笑□兴亡千古□，□□崖石与天齐。",
-    "content_tr": "一年兩檄過浯溪，□上?亭□□□。\n笑□興亡千古□，□□崖石與天齊。"
+    "content": "一年两檄过浯溪，□上𢈪亭□□□。\n笑□兴亡千古□，□□崖石与天齐。",
+    "content_tr": "一年兩檄過浯溪，□上𢈪亭□□□。\n笑□興亡千古□，□□崖石與天齊。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

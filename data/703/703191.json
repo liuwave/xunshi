@@ -6,7 +6,7 @@
     "title_tr": "題趙繼孫拙齋",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "曾颜得圣传，何谓鲁与愚。\n外察若不足，内朗实有余。\n择树鹊巢高，罥虫蛛网虚。\n曲士挟小智，岂不雄里闾。\n之子息机心，抱瓮灌园蔬。\n晚食足当肉，贲趾宁舍车。\n九卿彼四至，恶名垂简书。\n天孙夜乞灵，悔不伾文疏。\n众人笑我拙，囊萤披蠹鱼。\n我亦笑尔巧，技止黔之馿。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

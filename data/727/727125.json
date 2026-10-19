@@ -12,7 +12,9 @@
     "content": "多情却似总无情，唯觉尊前笑不成。\n蜡烛有心还惜别，替人垂泪到天明。",
     "content_tr": "多情却似總無情，唯覺尊前笑不成。\n蠟燭有心還惜別，替人垂淚到天明。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

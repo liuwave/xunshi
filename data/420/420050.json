@@ -3,16 +3,18 @@
   "work": {
     "id": 420050,
     "title": "宿甘露僧舍",
-    "title_tr": "宿甘露寺",
+    "title_tr": "宿甘露僧舍",
     "author": "曾公亮",
     "author_tr": "曾公亮",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "枕中云气千峰近，床底松声万壑哀。\n要看银山拍天浪，开窗放入大江来。",
-    "content_tr": "枕中雲氣千峯近，牀底鬆聲萬壑哀。\n要看銀山拍天浪，開窗放入大江來。"
+    "content_tr": "枕中雲氣千峰近，牀底松聲萬壑哀。\n要看銀山拍天浪，開窗放入大江來。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

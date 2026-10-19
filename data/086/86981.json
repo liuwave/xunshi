@@ -12,7 +12,9 @@
     "content": "相送临高台，川原杳何极。\n日暮飞鸟还，行人去不息。",
     "content_tr": "相送臨高臺，川原杳何極。\n日暮飛鳥還，行人去不息。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

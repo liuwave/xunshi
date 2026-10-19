@@ -3,16 +3,16 @@
   "work": {
     "id": 38665,
     "title": "赠卖松者",
-    "title_tr": "贈賣鬆者",
+    "title_tr": "贈賣松者",
     "author": "白居易",
     "author_tr": "白居易",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "一束苍苍色，知从涧底来。\n斸掘经几日，枝叶满尘埃。\n不买非他意，城中无地栽。",
+    "content": "一束苍苍色，知从涧底来。\n𣃁掘经几日，枝叶满尘埃。\n不买非他意，城中无地栽。",
     "content_tr": "一束蒼蒼色，知從澗底來。\n斸掘經幾日，枝葉滿塵埃。\n不買非他意，城中無地栽。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

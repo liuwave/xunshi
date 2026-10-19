@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "江畔长沙驿，相逢缆客船。\n大名诗独步，小郡海西偏。\n地湿愁飞鵩，天炎畏跕鸢。\n去留俱失意，把臂共潸然。",
-    "content_tr": "江畔長沙驛，相逢纜客船。\n大名詩獨步，小郡海西偏。\n地溼愁飛鵩，天炎畏跕鳶。\n去留俱失意，把臂共潸然。"
+    "content": "江畔长沙驿，相逢缆客船。\n大名诗独步，小郡海西偏。\n地湿愁飞𫛳，天炎畏跕鸢。\n去留俱失意，把臂共潸然。",
+    "content_tr": "江畔長沙驛，相逢纜客船。\n大名詩獨步，小郡海西偏。\n地濕愁飛鵩，天炎畏跕鳶。\n去留俱失意，把臂共潸然。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

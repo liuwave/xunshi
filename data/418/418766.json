@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "只道无南雁，书今数往还。\n一窗江表地，数朵广东山。\n奇甚君风骨，苍然我面颜。\n归时要船重，更为斸岩间。",
-    "content_tr": "只道無南雁，書今數往還。\n一窗江表地，數朵廣東山。\n奇甚君風骨，蒼然我面顏。\n歸時要船重，更爲斸巖間。"
+    "content": "只道无南雁，书今数往还。\n一窗江表地，数朵广东山。\n奇甚君风骨，苍然我面颜。\n归时要船重，更为𣃁岩间。",
+    "content_tr": "只道無南雁，書今數往還。\n一窗江表地，數朵廣東山。\n奇甚君風骨，蒼然我面顔。\n歸時要船重，更爲斸岩間。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

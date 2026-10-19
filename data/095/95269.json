@@ -2,17 +2,17 @@
   "work_id": 95269,
   "work": {
     "id": 95269,
-    "title": "杂咏四绝 其四",
-    "title_tr": "雜詠四絕 其四",
+    "title": "杂咏四绝  其四",
+    "title_tr": "雜詠四絕  其四",
     "author": "李之仪",
     "author_tr": "李之儀",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "平生粥饭寄伽蓝，老日田园强自添。\n岂自着靴踏泥客，如何不许暂深潜。",
+    "content": "平生粥饭寄伽蓝，老日田园强自添。\n岂自着靴踏泥客，如何不许𫏐深潜。",
     "content_tr": "平生粥飯寄伽藍，老日田園强自添。\n豈自着靴踏泥客，如何不許蹔深潛。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

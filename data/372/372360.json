@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "松篁一径曲通桥，直上危亭十里遥。\n但觉群生俱頫首，不知身已在云霄。",
-    "content_tr": "鬆篁一徑曲通橋，直上危亭十里遙。\n但覺羣生俱頫首，不知身已在雲霄。"
+    "content": "松篁一径曲通桥，直上危亭十里遥。\n但觉群生俱𫖯首，不知身已在云霄。",
+    "content_tr": "松篁一徑曲通橋，直上危亭十里遥。\n但覺羣生俱頫首，不知身已在雲霄。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

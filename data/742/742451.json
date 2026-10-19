@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "军行日，春正及春分。\n须用长鎗前列（京本作「作」）胜，次排弓弩在中军，决胜定须闻。",
-    "content_tr": "軍行日，春正及春分。\n須用長鎗前列（京本作「作」）勝，次排弓弩在中軍，決勝定須聞。"
+    "content": "军行日，春正及春分。\n须用长鎗前列胜，次排弓弩在中军，决胜定须闻。",
+    "content_tr": "軍行日，春正及春分。\n須用長鎗前列勝，次排弓弩在中軍，決勝定須聞。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

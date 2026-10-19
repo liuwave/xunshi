@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "花光浓烂柳轻明，酌酒花前送我行。\n我亦且如常日醉，莫教弦管作离声。",
-    "content_tr": "花光濃爛柳輕明，酌酒花前送我行。\n我亦且如常日醉，莫教弦管作離聲。"
+    "content_tr": "花光濃爛柳輕明，酌酒花前送我行。\n我亦且如常日醉，莫教絃管作離聲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

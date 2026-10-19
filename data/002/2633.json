@@ -2,16 +2,15 @@
   "work_id": 2633,
   "work": {
     "id": 2633,
-    "title": "杂曲歌辞 · 杨柳枝",
-    "title_tr": "雜曲歌辭 · 楊柳枝",
+    "title": "杨柳枝词",
+    "title_tr": "楊柳枝詞",
     "author": "白居易",
     "author_tr": "白居易",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞",
-    "content": "一树春风千万枝，嫩于金色软于丝。永丰西角荒园里，尽日无人属阿谁。",
-    "content_tr": "一樹春風千萬枝，嫩於金色軟於絲。永豐西角荒園裏，盡日無人屬阿誰。",
-    "sub_title": "杨柳枝"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "一树春风千万枝，嫩于金色软于丝。\n永丰西角荒园里，尽日无人属阿谁。",
+    "content_tr": "一樹春風千萬枝，嫩於金色軟於絲。\n永豐西角荒園裏，盡日無人屬阿誰。"
   },
   "anthologies": [],
   "annotation": {

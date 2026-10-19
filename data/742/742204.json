@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "两月鬬，侯景犯梁朝。\n倘或遭逢如此兆，外藩（京本作「番」）雄略（京本作「客」）有谋韬，俱废若（京本作「永」）冰消。",
-    "content_tr": "兩月鬬，侯景犯梁朝。\n倘或遭逢如此兆，外藩（京本作「番」）雄略（京本作「客」）有謀韜，俱廢若（京本作「永」）冰消。"
+    "content": "两月鬬，侯景犯梁朝。\n倘或遭逢如此兆，外藩雄略有谋韬，俱废若冰消。",
+    "content_tr": "兩月鬬，侯景犯梁朝。\n倘或遭逢如此兆，外藩雄略有謀韜，俱廢若冰消。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

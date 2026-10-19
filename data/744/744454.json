@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "狐裘朝除冷，亵褥夜排寒。\n（二联为金缺病）。",
-    "content_tr": "狐裘朝除冷，褻褥夜排寒。\n（二聯爲金缺病）。"
+    "content": "狐裘朝除冷，亵褥夜排寒。",
+    "content_tr": "狐裘朝除冷，褻褥夜排寒。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "寄天台舒閬風先生",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "岭云尽处是台州，有个诗翁住下头。\n不寄一书春又晚，相思百里水空流。\n新踪冻合鶑雏谷，旧梦花迷燕子楼。\n闻说道旁烽燧急，定应重作峡中游。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

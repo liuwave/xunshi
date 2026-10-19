@@ -2,11 +2,11 @@
   "work_id": 3229,
   "work": {
     "id": 3229,
-    "title": "登楼望月二首",
-    "title_tr": "登樓望月二首",
+    "title": "登楼望月二首 一",
+    "title_tr": "登樓望月二首 一",
     "author": "刘斌",
     "author_tr": "劉斌",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "圆月当新霁，高楼见最明。\n素波流粉壁，丹桂拂飞甍。\n下瞰千门静，旁观万象生。\n梧桐窗下影，乌鹊槛前声。\n啸逸刘琨兴，吟资庾亮情。\n游人莫登眺，迢递故乡程。",
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

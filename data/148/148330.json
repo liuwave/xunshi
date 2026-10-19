@@ -2,17 +2,17 @@
   "work_id": 148330,
   "work": {
     "id": 148330,
-    "title": "次余静庵寒夜诗思 其一",
-    "title_tr": "次余靜庵寒夜詩思 其一",
+    "title": "次余静庵寒夜诗思  其一",
+    "title_tr": "次余靜庵寒夜詩思  其一",
     "author": "杨公远",
     "author_tr": "楊公遠",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "地炉煨芋栗，兀坐数寒更。\n香篆消重爇，银釭剔复明。\n月穿窗隙过，风拂树梢鸣。\n唤醒吟边兴，敲推睡不成。",
+    "content": "地炉煨芋栗，兀坐数寒更。\n香篆消重𦶟，银釭剔复明。\n月穿窗隙过，风拂树梢鸣。\n唤醒吟边兴，敲推睡不成。",
     "content_tr": "地爐煨芋栗，兀坐數寒更。\n香篆消重爇，銀釭剔復明。\n月穿窗隙過，風拂樹梢鳴。\n喚醒吟邊興，敲推睡不成。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

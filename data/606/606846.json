@@ -12,7 +12,9 @@
     "content": "三月残花落更开，小簷日日燕飞来。\n子规夜半犹啼血，不信东风唤不回。",
     "content_tr": "三月殘花落更開，小簷日日燕飛來。\n子規夜半猶啼血，不信東風喚不回。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

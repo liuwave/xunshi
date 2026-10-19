@@ -6,7 +6,7 @@
     "title_tr": "藕池阻風寄同行撫牧裘駕",
     "author": "王周",
     "author_tr": "王周",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "船樯相望荆江中，岸芦汀树烟蒙蒙。\n路间隄缺水如箭，未知何日生南风。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "丈夫怀慷慨，胆（一作瞻）上涌波奔。\n只将三尺剑，决搆一朱门。",
-    "content_tr": "丈夫懷慷慨，膽（一作瞻）上湧波奔。\n只將三尺劍，決搆一朱門。"
+    "content": "丈夫怀慷慨，胆上涌波奔。\n只将三尺剑，决搆一朱门。",
+    "content_tr": "丈夫懷慷慨，膽上湧波奔。\n只將三尺劍，決搆一朱門。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,19 @@
   "work_id": 586295,
   "work": {
     "id": 586295,
-    "title": "江畔独步寻花",
-    "title_tr": "江畔獨步尋花",
+    "title": "江畔独步寻花七绝句 六",
+    "title_tr": "江畔獨步尋花七絕句 六",
     "author": "杜甫",
     "author_tr": "杜甫",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "黄四娘家花满蹊，千朵万朵压枝低。\n留连戏蝶时时舞，自在娇莺恰恰啼。",
-    "content_tr": "黃四孃家花滿蹊，千朵萬朵壓枝低。\n留連戲蝶時時舞，自在嬌鶯恰恰啼。"
+    "content_tr": "黃四娘家花滿蹊，千朵萬朵壓枝低。\n留連戲蝶時時舞，自在嬌鶯恰恰啼。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

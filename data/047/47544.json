@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "萧萧垂白发，默默讵知情。独放寒林烧，多寻虎迹行。\n暮归何处宿？来此空山耕。",
-    "content_tr": "蕭蕭垂白髮，默默詎知情。獨放寒林燒，多尋虎跡行。\n暮歸何處宿？來此空山耕。"
+    "content": "萧萧垂白发，默默讵知情。\n独放寒林烧，多寻虎迹行。\n暮归何处宿？来此空山耕。",
+    "content_tr": "蕭蕭垂白髮，默默詎知情。\n獨放寒林燒，多尋虎跡行。\n暮歸何處宿？來此空山耕。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

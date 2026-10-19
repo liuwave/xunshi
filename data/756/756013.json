@@ -1,0 +1,20 @@
+{
+  "work_id": 756013,
+  "work": {
+    "id": 756013,
+    "title": "清平乐",
+    "title_tr": "清平樂",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "清平乐",
+    "content": "红笺小字。\n说尽平生意。\n鸿雁在云鱼在水。\n惆怅此情难寄。\n斜阳独倚西楼。\n遥山恰对帘钩。\n人面不知何处，绿波依旧东流。",
+    "content_tr": "紅箋小字。\n說盡平生意。\n鴻雁在雲魚在水。\n惆悵此情難寄。\n斜陽獨倚西樓。\n遙山恰對簾鉤。\n人面不知何處，綠波依舊東流。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

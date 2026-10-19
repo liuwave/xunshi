@@ -2,16 +2,15 @@
   "work_id": 2161,
   "work": {
     "id": 2161,
-    "title": "喜迁莺 · 残蟾落",
-    "title_tr": "喜遷鶯 · 殘蟾落",
+    "title": "喜迁莺·残蟾落",
+    "title_tr": "喜遷鶯·殘蟾落",
     "author": "薛昭蕴",
     "author_tr": "薛昭蘊",
-    "dynasty": "唐",
+    "dynasty": "五代十国",
     "kind_cn": "词",
     "rhythmic": "喜迁莺",
-    "content": "残蟾落，晓钟鸣，羽化觉身轻。乍无春睡有馀酲，杏苑雪初晴。\n紫陌长，襟袖冷，不是人间风景。回看尘土似前生，休羡谷中莺。",
-    "content_tr": "殘蟾落，曉鐘鳴，羽化覺身輕。乍無春睡有餘酲，杏苑雪初晴。\n紫陌長，襟袖冷，不是人間風景。回看塵土似前生，休羨谷中鶯。",
-    "sub_title": "残蟾落"
+    "content": "残蟾落，晓钟鸣，羽化觉身轻。\n乍无春睡有余酲，杏苑雪初晴。\n紫陌长，襟袖冷，不是人间风景。\n回看尘土似前生，休羡谷中莺。",
+    "content_tr": "殘蟾落，曉鐘鳴，羽化覺身輕。\n乍無春睡有餘酲，杏苑雪初晴。\n紫陌長，襟袖冷，不是人間風景。\n回看塵土似前生，休羨谷中鶯。"
   },
   "anthologies": [],
   "annotation": {
@@ -21,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "賀王溥入相",
     "author": "王仁裕",
     "author_tr": "王仁裕",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "一战文场拔赵旗，便调金鼎佐无为。\n白麻骤降恩何极，黄发初闻喜可知。\n跋勅案前人到少，筑沙堤上马归迟。\n立班始得遥相见，亲洽争如未贵时。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

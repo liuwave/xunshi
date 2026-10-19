@@ -12,7 +12,9 @@
     "content": "黄砂直上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。",
     "content_tr": "黃砂直上白雲間，一片孤城萬仞山。\n羌笛何須怨楊柳，春風不度玉門關。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

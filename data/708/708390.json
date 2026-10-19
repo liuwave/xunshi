@@ -6,7 +6,7 @@
     "title_tr": "宿永固寺",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "小寺如山艇，坐来风雨宵。\n榻分椶树影，馔带菊花苗。\n亲近谈难亵，狐驯听不妖。\n许由浑欠达，嫌到野中瓢。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

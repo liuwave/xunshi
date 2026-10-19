@@ -6,7 +6,7 @@
     "title_tr": "和唐人閑字韻詩卷",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "鼎鼎百年内，何由一日闲。\n冲冠无怒髪，揽镜已苍颜。\n未易桴浮海，应难屐上山。\n春逢甲子雨，愁听溜潺潺。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

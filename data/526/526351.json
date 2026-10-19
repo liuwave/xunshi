@@ -2,16 +2,15 @@
   "work_id": 526351,
   "work": {
     "id": 526351,
-    "title": "失调名 · 端五词",
-    "title_tr": "失調名 · 端五詞",
+    "title": "失调名",
+    "title_tr": "失調名",
     "author": "秦观",
     "author_tr": "秦觀",
     "dynasty": "宋",
     "kind_cn": "词",
     "rhythmic": "失调名",
-    "content": "粽团桃柳，盈门共垒，把菖蒲旋刻个人人。",
-    "content_tr": "糉團桃柳，盈門共壘，把菖蒲旋刻個人人。",
-    "sub_title": "端五词"
+    "content": "粽团桃柳，盈门共垒，把菖蒲、旋刻个人人。",
+    "content_tr": "糉團桃柳，盈門共壘，把菖蒲、旋刻個人人。"
   },
   "anthologies": [],
   "annotation": null,

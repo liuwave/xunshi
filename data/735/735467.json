@@ -6,7 +6,7 @@
     "title_tr": "經古戰場",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "茫茫凶荒，迥如天设。\n驻马四顾，气候迂结。\n秋空峥嵘，黄日将没。\n多少行人，白日见物。\n莫道路高低，尽是战骨。\n莫见地赤碧，尽是征血。\n昔人昔人既能忠尽于力，身糜戈戟。\n脂其风，膏其域。\n今人何不绳其塍？\n植其食。\n而使空旷年年，常贮愁烟。\n使我至此，不能无言。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

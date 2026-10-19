@@ -2,18 +2,19 @@
   "work_id": 41795,
   "work": {
     "id": 41795,
-    "title": "南乡子 · 乘彩舫",
-    "title_tr": "南鄉子",
+    "title": "南乡子·乘彩舫",
+    "title_tr": "南鄉子·乘彩舫",
     "author": "李珣",
     "author_tr": "李珣",
-    "dynasty": "唐",
+    "dynasty": "五代十国",
     "kind_cn": "词",
     "rhythmic": "南乡子",
-    "content": "乘彩舫，过莲塘，棹歌惊起睡鸳鸯。游女带香偎伴笑，争窈窕，竞折团荷遮晚照。",
-    "content_tr": "乘綵舫，過蓮塘，棹歌驚起睡鴛鴦。遊女帶香偎伴笑，爭窈窕，競折團荷遮晚照。",
-    "sub_title": "乘彩舫"
+    "content": "乘彩舫，过莲塘，棹歌惊起睡鸳鸯。\n游女带香偎伴笑，争窈窕，竞折团荷遮晚照。",
+    "content_tr": "乘彩舫，過蓮塘，棹歌驚起睡鴛鴦。\n遊女帶香偎伴笑，爭窈窕，競折團荷遮晚照。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

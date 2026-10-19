@@ -6,7 +6,7 @@
     "title_tr": "贄王容溪",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "劲竹持高节，余花表晚香。\n一瓢颜子巷，六籍郑公乡。\n后学师珪行，先天发宝藏。\n空携经世具，独立暮山苍。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

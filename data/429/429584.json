@@ -2,17 +2,17 @@
   "work_id": 429584,
   "work": {
     "id": 429584,
-    "title": "张公洞 其一",
-    "title_tr": "張公洞 其一",
+    "title": "张公洞  其一",
+    "title_tr": "張公洞  其一",
     "author": "蔡肇",
     "author_tr": "蔡肇",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "髯仙御气已超升，岩洞千秋冷不扃。\n若许残铅除白发，敢辞长镵斸青冥。\n坛场岁为民祈福，蒿艾时因鬼乞灵。\n他日重来寻石髓，绛云深坐读黄庭。",
+    "content": "髯仙御气已超升，岩洞千秋冷不扃。\n若许残铅除白发，敢辞长镵𣃁青冥。\n坛场岁为民祈福，蒿艾时因鬼乞灵。\n他日重来寻石髓，绛云深坐读黄庭。",
     "content_tr": "髯仙御氣已超昇，巖洞千秋冷不扃。\n若許殘鉛除白髮，敢辭長鑱斸青冥。\n壇場歲爲民祈福，蒿艾時因鬼乞靈。\n他日重來尋石髓，絳雲深坐讀黄庭。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

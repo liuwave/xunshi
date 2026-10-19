@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "城营内，鼓角自然鸣。\n必有敌（京本作「外」）军来撃我，急须整备待来兵，着意与交征。",
-    "content_tr": "城營內，鼓角自然鳴。\n必有敵（京本作「外」）軍來撃我，急須整備待來兵，着意與交征。"
+    "content": "城营内，鼓角自然鸣。\n必有敌军来撃我，急须整备待来兵，着意与交征。",
+    "content_tr": "城營內，鼓角自然鳴。\n必有敵軍來撃我，急須整備待來兵，着意與交征。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

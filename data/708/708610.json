@@ -6,7 +6,7 @@
     "title_tr": "戲呈友人",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "年来学道未知方，羞逐鶑花燕蝶忙。\n三五年加心死尽，有如鱼鸟见毛嫱。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

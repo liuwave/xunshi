@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "水国芒种后，梅天风雨凉。\n露蚕开晚簇，江燕绕危樯。 \n山趾北来固，潮头西去长。\n年年此登眺，人事几销亡。",
-    "content_tr": "水國芒種後，梅天風雨涼。\n露蠶開晚簇，江燕繞危檣。 \n山趾北來固，潮頭西去長。\n年年此登眺，人事幾銷亡。"
+    "content": "水国芒种后，梅天风雨凉。\n露蚕开晚簇，江燕绕危樯。\n山趾北来固，潮头西去长。\n年年此登眺，人事几销亡。",
+    "content_tr": "水國芒種後，梅天風雨涼。\n露蠶開晚簇，江燕繞危檣。\n山趾北來固，潮頭西去長。\n年年此登眺，人事幾銷亡。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

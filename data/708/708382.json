@@ -6,7 +6,7 @@
     "title_tr": "送鄉同舍黄君賞謁陳提學",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "六馆赋声在，五陵游伴稀。\n如何趋仕版，犹自著儒衣。\n春晚鶑羞语，城寒花慢飞。\n江湖陈仲举，相见肯空归。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

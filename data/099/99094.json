@@ -2,15 +2,15 @@
   "work_id": 99094,
   "work": {
     "id": 99094,
-    "title": "望江南 其八",
-    "title_tr": "望江南 其八",
+    "title": "望江南・忆江南",
+    "title_tr": "望江南・忆江南",
     "author": "黄公绍",
-    "author_tr": "黃公紹",
+    "author_tr": "黄公绍",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "望江南・忆江南",
     "content": "思晴好，松路翠光寒。\n夜夜竹窠常梦到，天天后土几时干。\n极目雾漫漫。",
-    "content_tr": "思晴好，松路翠光寒。\n夜夜竹窠常梦到，天天后土几时干。\n极目雾漫漫。"
+    "content_tr": "思晴好，松路翠光寒。\n夜夜竹窠常梦到，天天后土几时乾。\n极目雾漫漫。"
   },
   "anthologies": [],
   "annotation": null,

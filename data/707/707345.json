@@ -6,7 +6,7 @@
     "title_tr": "前有一尊酒",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "前有一尊酒，有酒即无愁。\n吾评仪狄功，端与神禹侔。\n微禹吾其鱼，微狄吾其囚。\n人生十九不如意，一醉之外安所求。\n古来何国非亡社，古来何人不荒丘。\n沉思痛至骨，頼尔可销忧。\n尊中有酒，无酒乃休。\n饮多作病，酒不可雠。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

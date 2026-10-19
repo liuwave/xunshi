@@ -12,7 +12,9 @@
     "content": "城阙辅三秦，风烟望五津。\n与君离别意，同是宦游人。\n海内存知己，天涯若比隣。\n无为在岐路，儿女共沾巾。",
     "content_tr": "城闕輔三秦，風煙望五津。\n與君離別意，同是宦遊人。\n海內存知己，天涯若比隣。\n無爲在岐路，兒女共霑巾。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

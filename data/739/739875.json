@@ -6,7 +6,7 @@
     "title_tr": "五言後池侍宴迴文詩一首應詔",
     "author": "许敬宗",
     "author_tr": "許敬宗",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "凉气澄佳序，碧沚澹遥空。\n篁林下仪凤，彩鹢间宾鸿。\n苍山带落日，丽苑扇薰风。\n长筵列广醼，庆洽载恩隆。\n（同前）（按：本诗原署与前诗同。\n）。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

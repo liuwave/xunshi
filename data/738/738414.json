@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "相交莫嫉妬，相劝莫蛆儜。\n一日无常去，王前罢手行。\n（「罢」，项楚校作「摆」。\n）。",
-    "content_tr": "相交莫嫉妬，相勸莫蛆儜。\n一日無常去，王前罷手行。\n（「罷」，項楚校作「擺」。\n）。"
+    "content": "相交莫嫉妬，相劝莫蛆儜。\n一日无常去，王前罢手行。",
+    "content_tr": "相交莫嫉妬，相勸莫蛆儜。\n一日無常去，王前罷手行。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

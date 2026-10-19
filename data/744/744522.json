@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "命礼遣舟车，伫望谈言志。\n若值信来符（一作府），共子同琴瑟。",
-    "content_tr": "命禮遣舟車，佇望談言志。\n若值信來符（一作府），共子同琴瑟。"
+    "content": "命礼遣舟车，伫望谈言志。\n若值信来符，共子同琴瑟。",
+    "content_tr": "命禮遣舟車，佇望談言志。\n若值信來符，共子同琴瑟。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

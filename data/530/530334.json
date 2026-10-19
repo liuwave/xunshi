@@ -2,18 +2,19 @@
   "work_id": 530334,
   "work": {
     "id": 530334,
-    "title": "相见欢 · 金陵城上西楼",
-    "title_tr": "相見歡 · 金陵城上西樓",
+    "title": "相见欢",
+    "title_tr": "相見歡",
     "author": "朱敦儒",
     "author_tr": "朱敦儒",
     "dynasty": "宋",
     "kind_cn": "词",
     "rhythmic": "相见欢",
-    "content": "金陵城上西楼，倚清秋。万里夕阳垂地大江流。\n中原乱，簪缨散，几时收？试倩悲风吹泪过扬州。",
-    "content_tr": "金陵城上西樓，倚清秋。萬里夕陽垂地大江流。\n中原亂，簪纓散，幾時收？試倩悲風吹淚過揚州。",
-    "sub_title": "金陵城上西楼"
+    "content": "金陵城上西楼。\n倚清秋。\n万里夕阳垂地、大江流。\n中原乱。\n簪缨散。\n几时收。\n试倩悲风吹泪、过扬州。",
+    "content_tr": "金陵城上西樓。\n倚清秋。\n萬里夕陽垂地、大江流。\n中原亂。\n簪纓散。\n幾時收。\n試倩悲風吹淚、過揚州。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

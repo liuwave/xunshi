@@ -2,17 +2,17 @@
   "work_id": 88941,
   "work": {
     "id": 88941,
-    "title": "中峰行乐 却望北山因而成咏",
-    "title_tr": "中峰行樂 却望北山因而成詠",
+    "title": "中峰行乐却望北山因而成咏",
+    "title_tr": "中峰行樂却望北山因而成詠",
     "author": "林逋",
     "author_tr": "林逋",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "拂石玩林壑，旷然空色秋。\n归云带层巘，疏苇际沧洲。\n固自堪长往，何为难久留。\n庶将濠上想，聊作剡中游。",
+    "content": "拂石玩林壑，旷然空色秋。\n归云带层𪩘，疏苇际沧洲。\n固自堪长往，何为难久留。\n庶将濠上想，聊作剡中游。",
     "content_tr": "拂石玩林壑，曠然空色秋。\n歸雲带層巘，疏葦際滄洲。\n固自堪長往，何爲難久留。\n庶將濠上想，聊作剡中遊。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

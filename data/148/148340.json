@@ -12,7 +12,9 @@
     "content": "何处它年寄此生，山中江上总关情。\n无端绕屋长松树，尽把风声作雨声。",
     "content_tr": "何處它年寄此生，山中江上總關情。\n無端繞屋長松樹，盡把風聲作雨聲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

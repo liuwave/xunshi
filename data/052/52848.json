@@ -6,13 +6,13 @@
     "title_tr": "故林偶作",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "朗吟无一事，孤坐瀔江濆。\n媚世非吾道，良图有白云。\n蠹鱼开卷落，啄木隔花闻。\n唯寄壶中客，金丹许共分。",
+    "content": "朗吟无一事，孤坐瀔江𣸣。\n媚世非吾道，良图有白云。\n蠹鱼开卷落，啄木隔花闻。\n唯寄壶中客，金丹许共分。",
     "content_tr": "朗吟無一事，孤坐瀔江濆。\n媚世非吾道，良圖有白雲。\n蠹魚開卷落，啄木隔花聞。\n唯寄壺中客，金丹許共分。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -1,0 +1,20 @@
+{
+  "work_id": 744659,
+  "work": {
+    "id": 744659,
+    "title": "杂曲歌辞 清平调 三",
+    "title_tr": "雜曲歌辭 清平調 三",
+    "author": "李白",
+    "author_tr": "李白",
+    "dynasty": "唐",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "名花倾国两相欢，长得君王带笑看。\n解释春风无限恨，沈香亭北倚阑干。",
+    "content_tr": "名花傾國兩相歡，長得君王帶笑看。\n解釋春風無限恨，沈香亭北倚闌干。"
+  },
+  "anthologies": [
+    "唐诗三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

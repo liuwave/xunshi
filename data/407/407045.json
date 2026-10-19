@@ -3,16 +3,16 @@
   "work": {
     "id": 407045,
     "title": "用幽字韵戏简谢倅",
-    "title_tr": "用幽字韻戲簡謝倅",
+    "title_tr": "用幽字韵戲簡謝倅",
     "author": "陈傅良",
     "author_tr": "陳傅良",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "当户排危翠，循除漾浅流。\n此生从稼圃，谁与伴深幽。\n韩子痴凭桉，庞公倦入州。\n青篘与白饭，却待为君筹。",
-    "content_tr": "當戶排危翠，循除漾淺流。\n此生從稼圃，誰與伴深幽。\n韓子癡憑桉，龐公倦入州。\n青篘與白飯，卻待爲君籌。"
+    "content": "当户排危翠，循除漾浅流。\n此生从稼圃，谁与伴深幽。\n韩子痴凭桉，庞公倦入州。\n青𥬠与白饭，却待为君筹。",
+    "content_tr": "當戶排危翠，循除漾淺流。\n此生從稼圃，誰與伴深幽。\n韓子癡凭桉，龐公倦入州。\n青篘與白飯，却待爲君籌。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,11 +6,11 @@
     "title_tr": "春眺",
     "author": "李百药",
     "author_tr": "李百藥",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "疲疴荷拙患，沦踬合幽襟。\n栖息在何处？\n丘中鸣素琴。",
-    "content_tr": "疲痾荷拙患，淪躓合幽襟。\n棲息在何處？\n丘中鳴素琴。"
+    "content": "疲疴荷拙患，沦踬合幽襟。\n栖息在何处？丘中鸣素琴。",
+    "content_tr": "疲痾荷拙患，淪躓合幽襟。\n栖息在何處？丘中鳴素琴。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

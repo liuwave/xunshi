@@ -6,7 +6,7 @@
     "title_tr": "幽州會飲",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "客路相逢在异乡，佐尊先得杜韦娘。\n舞回锦臂花争艳，醉吸金波月鬬光。\n他日未忘今日乐，老年须记少年狂。\n五陵游侠休相笑，归去奚奴有锦囊。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

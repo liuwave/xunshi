@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "曾被儒冠误，谋生事事疏。\n洲无千树橘，家有五车书。\n叠石和苔斸，移梅带雪锄。\n好非人所好，习气未能除。",
-    "content_tr": "曾被儒冠誤，謀生事事疏。\n洲無千樹橘，家有五車書。\n疊石和苔斸，移梅帶雪鋤。\n好非人所好，習氣未能除。"
+    "content": "曾被儒冠误，谋生事事疏。\n洲无千树橘，家有五车书。\n叠石和苔𣃁，移梅带雪锄。\n好非人所好，习气未能除。",
+    "content_tr": "曾被儒冠誤，謀生事事疏。\n洲無千樹橘，家有五車書。\n疊石和苔斸，移梅带雪鋤。\n好非人所好，習氣未能除。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "其色光辉耀日月，无穷改变不思议。\n但住铅砂成宝后，歇头一任丙丁吹。\n（同前）。",
-    "content_tr": "其色光輝耀日月，無窮改變不思議。\n但住鉛砂成寶後，歇頭一任丙丁吹。\n（同前）。"
+    "content": "其色光辉耀日月，无穷改变不思议。\n但住铅砂成宝后，歇头一任丙丁吹。",
+    "content_tr": "其色光輝耀日月，無窮改變不思議。\n但住鉛砂成寶後，歇頭一任丙丁吹。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

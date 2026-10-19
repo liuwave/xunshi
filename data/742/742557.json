@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "金伤处，伤脑及天苍（辛本作「仓」）。\n臂中脉跳幷心内，鸠尾五脏小腹胱。\n医者不能当。",
-    "content_tr": "金傷處，傷腦及天蒼（辛本作「倉」）。\n臂中脈跳幷心內，鳩尾五臟小腹胱。\n醫者不能當。"
+    "content": "金伤处，伤脑及天苍。\n臂中脉跳幷心内，鸠尾五脏小腹胱。\n医者不能当。",
+    "content_tr": "金傷處，傷腦及天蒼。\n臂中脈跳幷心內，鳩尾五臟小腹胱。\n醫者不能當。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

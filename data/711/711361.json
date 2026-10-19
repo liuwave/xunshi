@@ -6,7 +6,7 @@
     "title_tr": "客歸二首  其一",
     "author": "汪炎昶",
     "author_tr": "汪炎昶",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "绕墙烟树色茏葱，燕入鶑过路不通。\n客子归来误惊喜，移家别住绿阴中。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,15 +2,15 @@
   "work_id": 585788,
   "work": {
     "id": 585788,
-    "title": "千家诗 · 七言绝句 · 归雁",
-    "title_tr": "千家詩 · 七言絕句 · 歸雁",
+    "title": "归雁",
+    "title_tr": "歸雁",
     "author": "钱起",
-    "author_tr": "（唐）錢起",
+    "author_tr": "錢起",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "潇湘何事等闲回，水碧沙明两岸苔。\n二十五弦弹夜月，不胜清怨却飞来。",
-    "content_tr": "瀟湘何事等閒回，水碧沙明兩岸苔。\n二十五絃彈夜月，不勝清怨卻飛來。"
+    "content_tr": "瀟湘何事等閑回，水碧沙明兩岸苔。\n二十五弦彈夜月，不勝清怨却飛來。"
   },
   "anthologies": [
     "千家诗"

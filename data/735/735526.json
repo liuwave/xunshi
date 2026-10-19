@@ -6,7 +6,7 @@
     "title_tr": "送楊秀才",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "北山峨峨香拂拂，翠涨青奔势巉崪。\n赤松君宅在其中，紫金为墙珠作室。\n玻璃门外仙獓睡，幢节森森绛烟密。\n水精帘卷桃花开，文锦娉婷众非一。\n抚长离，坎答鼓。\n花姑吹箫，弄玉起舞。\n三万八千为半日，海涸鼇枯等闲覩。\n爱共安期碁，苦识彭祖祖。\n有时朝玉京，红云拥金虎。\n石桥亦是神仙住，白凤飞来又飞去。\n五云缥缈羽翼高，世人仰望心空劳。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "岐雍三秦地，登临实壮哉！\n客心关外断，秋气陇头来。\n归目浮云蔽，寒衣早雁催。\n他乡有时菊，留赏故人杯。",
-    "content_tr": "岐雍三秦地，登臨實壯哉！\n客心關外斷，秋氣隴頭來。\n歸目浮雲蔽，寒衣早雁催。\n他鄉有時菊，留賞故人杯。"
+    "content": "岐雍三秦地，登临实壮哉！客心关外断，秋气陇头来。\n归目浮云蔽，寒衣早雁催。\n他乡有时菊，留赏故人杯。",
+    "content_tr": "岐雍三秦地，登臨實壯哉！客心關外斷，秋氣隴頭來。\n歸目浮雲蔽，寒衣早雁催。\n他鄉有時菊，留賞故人盃。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

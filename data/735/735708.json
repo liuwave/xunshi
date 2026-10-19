@@ -6,7 +6,7 @@
     "title_tr": "別馮使君",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "瓦砾文章岂有媒，两三年祗在金台。\n本师头白须归去，太守门清愿再来。\n皓皓玉霜孤鴈远，萧萧松岛片帆开。\n从兹林下终无事，唯祗焚香祝上台。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

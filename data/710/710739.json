@@ -6,7 +6,7 @@
     "title_tr": "送劉侯之官吉州",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "暨州美政不三年，江右遗民借二天。\n皂盖朱旙新牧守，青原白鹭旧山川。\n邦衡奏疏云中有，永叔诗章洛下传。\n故里诸孙无恙否，下车第一表先贤。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

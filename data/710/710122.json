@@ -6,7 +6,7 @@
     "title_tr": "湖居雜興八首  其一",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "御舟初出赏春霏，传是诸王与后妃。\n香雾渐深帘幙暗，日斜微见淡黄衣。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

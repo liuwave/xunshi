@@ -2,17 +2,17 @@
   "work_id": 113885,
   "work": {
     "id": 113885,
-    "title": "次韵董禹川二首 其一",
-    "title_tr": "次韻董禹川二首 其一",
+    "title": "次韵董禹川二首  其一",
+    "title_tr": "次韻董禹川二首  其一",
     "author": "汪藻",
     "author_tr": "汪藻",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "江山怪我数能来，政坐刀斤赦不才。\n生理喜于鱼得计，交情羞似鸩为媒。\n烟尘回首烽三月，花柳关情酒一杯。\n日夜故园归梦好，忆冲细雨斸蒿莱。",
+    "content": "江山怪我数能来，政坐刀斤赦不才。\n生理喜于鱼得计，交情羞似鸩为媒。\n烟尘回首烽三月，花柳关情酒一杯。\n日夜故园归梦好，忆冲细雨𣃁蒿莱。",
     "content_tr": "江山怪我數能來，政坐刀斤赦不才。\n生理喜于魚得計，交情羞似鴆爲媒。\n烟塵回首烽三月，花柳關情酒一杯。\n日夜故園歸夢好，憶衝細雨斸蒿萊。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

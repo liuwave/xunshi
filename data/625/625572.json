@@ -12,7 +12,9 @@
     "content": "枕中云气千峰近，床底松声万壑哀。\n要看银山拍天浪，开窻放入大江来。",
     "content_tr": "枕中雲氣千峰近，牀底松聲萬壑哀。\n要看銀山拍天浪，開窻放入大江來。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

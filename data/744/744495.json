@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "皎皎夜蝉鸣，晒晒晓光发。\n（二联为句首重字）。",
-    "content_tr": "皎皎夜蟬鳴，曬曬曉光發。\n（二聯爲句首重字）。"
+    "content": "皎皎夜蝉鸣，晒晒晓光发。",
+    "content_tr": "皎皎夜蟬鳴，曬曬曉光發。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

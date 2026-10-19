@@ -2,15 +2,15 @@
   "work_id": 374231,
   "work": {
     "id": 374231,
-    "title": "失调名 其五",
-    "title_tr": "失调名 其五",
+    "title": "失调名",
+    "title_tr": "失調名",
     "author": "仲殊",
     "author_tr": "仲殊",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "失调名",
     "content": "玉线金针，千般声笑，月下人家。",
-    "content_tr": "玉线金针，千般声笑，月下人家。"
+    "content_tr": "玉線金針，千般聲笑，月下人家。"
   },
   "anthologies": [],
   "annotation": null,

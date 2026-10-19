@@ -2,17 +2,17 @@
   "work_id": 425588,
   "work": {
     "id": 425588,
-    "title": "晚泊遇雪其二",
-    "title_tr": "晚泊遇雪其二",
+    "title": "晚泊遇雪  其二",
+    "title_tr": "晚泊遇雪  其二",
     "author": "杨时",
     "author_tr": "楊時",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "寒逼归鸿急，悲鸣声更哀。\n舞风斜翳日，带月暗欺梅。\n平野光初合，阴云冻不开。\n无聊还殢酒，颠倒尽馀杯。",
-    "content_tr": "寒逼歸鴻急，悲鳴聲更哀。\n舞風斜翳日，帶月暗欺梅。\n平野光初合，陰雲凍不開。\n無聊還殢酒，顛倒盡餘杯。"
+    "content": "寒逼归鸿急，悲鸣声更哀。\n舞风斜翳日，带月暗欺梅。\n平野光初合，阴云冻不开。\n无聊还𣨼酒，颠倒尽余杯。",
+    "content_tr": "寒逼歸鴻急，悲鳴聲更哀。\n舞風斜翳日，带月暗欺梅。\n平野光初合，陰雲凍不開。\n無聊還殢酒，顛倒盡餘盃。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

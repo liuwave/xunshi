@@ -2,17 +2,17 @@
   "work_id": 377441,
   "work": {
     "id": 377441,
-    "title": "秋日杂兴 其三",
-    "title_tr": "秋日雜興 其三",
+    "title": "秋日杂兴  其三",
+    "title_tr": "秋日雜興  其三",
     "author": "李廌",
     "author_tr": "李廌",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "昔喜马少游，我马仍款段。\n古云末路难，百里九十半。\n与尔皆调饥，欲速辄愈缓。\n长鸣徒劳尔，终愧籋云汗。",
+    "content": "昔喜马少游，我马仍款段。\n古云末路难，百里九十半。\n与尔皆调饥，欲速辄愈缓。\n长鸣徒劳尔，终愧𥬞云汗。",
     "content_tr": "昔喜馬少游，我馬仍款段。\n古云末路難，百里九十半。\n與爾皆調饑，欲速輒愈緩。\n長鳴徒勞爾，終愧籋雲汗。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

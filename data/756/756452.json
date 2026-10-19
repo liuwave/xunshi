@@ -1,0 +1,20 @@
+{
+  "work_id": 756452,
+  "work": {
+    "id": 756452,
+    "title": "清平乐",
+    "title_tr": "清平樂",
+    "author": "王安国",
+    "author_tr": "王安國",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "清平乐",
+    "content": "留春不住。\n费尽莺儿语。\n满地残红宫锦污。\n昨夜南园风雨。\n小怜初上琵琶。\n晓来思绕天涯。\n不肯画堂朱户，春风自在梨花。",
+    "content_tr": "留春不住。\n費盡鶯兒語。\n滿地殘紅宮錦污。\n昨夜南園風雨。\n小憐初上琵琶。\n曉來思繞天涯。\n不肯畫堂朱戶，春風自在梨花。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

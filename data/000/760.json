@@ -2,17 +2,19 @@
   "work_id": 760,
   "work": {
     "id": 760,
-    "title": "金缕衣",
-    "title_tr": "金縷衣",
-    "author": "杜秋娘",
-    "author_tr": "杜秋娘",
+    "title": "杂曲歌辞 金缕衣",
+    "title_tr": "雜曲歌辭 金縷衣",
+    "author": "不详",
+    "author_tr": "不詳",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "劝君莫惜金缕衣，劝君惜取少年时。\n花开堪折直须折，莫待无花空折枝。",
     "content_tr": "勸君莫惜金縷衣，勸君惜取少年時。\n花開堪折直須折，莫待無花空折枝。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "劝你不必珍惜那金缕衣，劝你要珍惜少年的时光。花开可以折取的时候就应当去折，不要等到无花时节去空折花枝。",
     "annotation": "金缕衣：缀有金线花纹的华贵衣服。\n堪：可以，能够。\n直须：就应当。",

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "营与邑，井沸闻其（京本作「鼎沸忽闻」）声。\n或溢水泉皆是败，更还（京本作「逢」）龙见也同情，覩此便移营。",
-    "content_tr": "營與邑，井沸聞其（京本作「鼎沸忽聞」）聲。\n或溢水泉皆是敗，更還（京本作「逢」）龍見也同情，覩此便移營。"
+    "content": "营与邑，井沸闻其声。\n或溢水泉皆是败，更还龙见也同情，覩此便移营。",
+    "content_tr": "營與邑，井沸聞其聲。\n或溢水泉皆是敗，更還龍見也同情，覩此便移營。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

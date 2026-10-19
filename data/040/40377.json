@@ -2,17 +2,17 @@
   "work_id": 40377,
   "work": {
     "id": 40377,
-    "title": "让皇帝庙乐章送神",
-    "title_tr": "讓皇帝廟樂章送神",
+    "title": "让皇帝庙乐章 送神",
+    "title_tr": "讓皇帝廟樂章 送神",
     "author": "李纾",
     "author_tr": "李紓",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "奠献已事，昏昕载分。\n风摇雨散，灵卫絪缊。\n龙驾帝服，已腾五云。\n泮宫复閟，寂寞无闻。",
-    "content_tr": "奠獻已事，昏昕載分。\n風搖雨散，靈衛絪縕。\n龍駕帝服，已騰五雲。\n泮宮復閟，寂寞無聞。"
+    "content": "奠献已事，昏昕载分。\n风摇雨散，灵卫𬘡缊。\n龙驾帝服，已腾五云。\n泮宫复閟，寂寞无闻。",
+    "content_tr": "奠獻已事，昏昕載分。\n風搖雨散，靈衛絪緼。\n龍駕帝服，已騰五雲。\n泮宮復閟，寂寞無聞。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

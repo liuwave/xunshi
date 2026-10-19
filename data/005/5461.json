@@ -6,11 +6,11 @@
     "title_tr": "舟出東新橋",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "市声巷语哭还歌，客舍喧啾奈汝何。\n才出城闉愁眼豁，适逢秋霁病身和。\n力行古道于时背，心感皇天所相多。\n鸿雁稻粱焉用足，政须寥廓谢虞罗。",
-    "content_tr": "市聲巷語哭還歌，客舍喧啾奈汝何。\n纔出城闉愁眼豁，適逢秋霽病身和。\n力行古道於時背，心感皇天所相多。\n鴻雁稻粱焉用足，政須寥廓謝虞羅。"
+    "content": "市声巷语哭还歌，客舍喧啾奈汝何。\n才出城𬮱愁眼豁，适逢秋霁病身和。\n力行古道于时背，心感皇天所相多。\n鸿雁稻粱焉用足，政须寥廓谢虞罗。",
+    "content_tr": "市聲巷語哭還歌，客舍喧啾奈汝何。\n才出城闉愁眼豁，適逢秋霽病身和。\n力行古道於時背，心感皇天所相多。\n鴻雁稻粱焉用足，政須寥廓謝虞羅。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,15 +2,15 @@
   "work_id": 50921,
   "work": {
     "id": 50921,
-    "title": "杂曲歌辞舞马词",
-    "title_tr": "雜曲歌辭舞馬詞",
+    "title": "杂曲歌辞 舞马词 一",
+    "title_tr": "雜曲歌辭 舞馬詞 一",
     "author": "张说",
     "author_tr": "張說",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞舞马词",
-    "content": "万玉朝宗凤扆，千金率领龙媒。眄鼓凝骄躞蹀，听歌弄影徘徊。",
-    "content_tr": "萬玉朝宗鳳扆，千金率領龍媒。眄鼓凝驕躞蹀，聽歌弄影徘徊。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "万玉朝宗凤扆，千金率领龙媒。\n眄鼓凝骄躞蹀，听歌弄影徘徊。",
+    "content_tr": "萬玉朝宗鳳扆，千金率領龍媒。\n眄鼓凝驕躞蹀，聽歌弄影徘徊。"
   },
   "anthologies": [],
   "annotation": null,

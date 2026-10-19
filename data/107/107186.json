@@ -2,17 +2,17 @@
   "work_id": 107186,
   "work": {
     "id": 107186,
-    "title": "百年 其二",
-    "title_tr": "百年 其二",
+    "title": "百年  其二",
+    "title_tr": "百年  其二",
     "author": "释文珦",
     "author_tr": "釋文珦",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "百年亦何为，终岁常壈坎。\n玄裘不掩胫，素发自垂颔。\n吾亲归夜台，益重霜露感。\n仰视天一方，星河同惨澹。",
+    "content": "百年亦何为，终岁常𡒄坎。\n玄裘不掩胫，素发自垂颔。\n吾亲归夜台，益重霜露感。\n仰视天一方，星河同惨澹。",
     "content_tr": "百年亦何爲，終歲常壈坎。\n玄裘不掩脛，素髮自垂頷。\n吾親歸夜臺，益重霜露感。\n仰視天一方，星河同慘澹。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

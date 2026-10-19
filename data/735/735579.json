@@ -6,7 +6,7 @@
     "title_tr": "避寇上唐臺山",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "苍黄缘鸟道，峰脋见楼台。\n柽桂香皆滴，烟霞湿不开。\n僧高眉半白，山老石多摧。\n莫问尘中事，如今正可哀。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,15 +2,15 @@
   "work_id": 2015,
   "work": {
     "id": 2015,
-    "title": "周颂 · 赉",
-    "title_tr": "周頌 · 賚",
-    "author": "无名氏",
-    "author_tr": "無名氏",
-    "dynasty": "周",
+    "title": "赉",
+    "title_tr": "賚",
+    "author": "佚名·先秦",
+    "author_tr": "佚名·先秦",
+    "dynasty": "先秦",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "文王既勤止，我应受之。\n敷时绎思，我徂维求定。\n时周之命，于绎思。",
-    "content_tr": "文王既勤止，我應受之。\n敷時繹思，我徂維求定。\n時周之命，於繹思。"
+    "content": "文王既勤止，我应受之。敷时绎思，我徂维求定。时周之命，于绎思。",
+    "content_tr": "文王既勤止，我應受之。敷時繹思，我徂維求定。時周之命，於繹思。"
   },
   "anthologies": [],
   "annotation": {

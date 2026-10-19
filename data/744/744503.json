@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "妾意逐行云，君身入暮门。\n（句尾双声）。",
-    "content_tr": "妾意逐行雲，君身入暮門。\n（句尾雙聲）。"
+    "content": "妾意逐行云，君身入暮门。",
+    "content_tr": "妾意逐行雲，君身入暮門。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

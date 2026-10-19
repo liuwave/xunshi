@@ -6,7 +6,7 @@
     "title_tr": "詠松",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "老松如枯骸，短松覆儿髪。\n城中薪价高，斤斧不时伐。\n难长虬龙姿，免藏虎豹穴。\n樵童出山暮，步担挑新月。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -3,16 +3,16 @@
   "work": {
     "id": 110675,
     "title": "邵阳赵节斋史君同黄季玉以合江亭三字分韵",
-    "title_tr": "邵陽趙節齋史君同黃季玉以合江亭三字分韻",
+    "title_tr": "邵陽趙節齋史君同黄季玉以合江亭三字分韵",
     "author": "戴复古",
     "author_tr": "戴復古",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "万里清秋景，都归乎此亭。\n光阴几今古，天地一宫廷。\n澬水东西白，梅山表里青。\n登临生酒兴，欲醉又还醒。",
+    "content": "万里清秋景，都归乎此亭。\n光阴几今古，天地一宫廷。\n𫞚水东西白，梅山表里青。\n登临生酒兴，欲醉又还醒。",
     "content_tr": "萬里清秋景，都歸乎此亭。\n光陰幾今古，天地一宮廷。\n澬水東西白，梅山表裏青。\n登臨生酒興，欲醉又還醒。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

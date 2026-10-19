@@ -2,17 +2,17 @@
   "work_id": 50713,
   "work": {
     "id": 50713,
-    "title": "相和歌辞拔蒲歌",
-    "title_tr": "相和歌辭拔蒲歌",
+    "title": "拔蒲歌",
+    "title_tr": "拔蒲歌",
     "author": "张祜",
     "author_tr": "張祜",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "拔蒲来，领郎镜湖边。郎心在何处？莫趁新莲去。拔得无心蒲，问郎看好无。",
-    "content_tr": "拔蒲來，領郎鏡湖邊。郎心在何處？莫趁新蓮去。拔得無心蒲，問郎看好無。"
+    "content": "拔蒲来，领郎镜湖边。\n郎心在何处，莫趁新莲去。\n拔得无心蒲，问郎看好无。",
+    "content_tr": "拔蒲來，領郎鏡湖邊。\n郎心在何處，莫趁新蓮去。\n拔得無心蒲，問郎看好無。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

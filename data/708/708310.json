@@ -6,7 +6,7 @@
     "title_tr": "題陳高士所藏冬青枝上白頭翁畫",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "飞高得珍丛，青子饥可食。\n不知何忧愁，二鸟头亦白。\n道人天机深，清斋意相许。\n頼汝不能鸣，一鸣嫌杀汝。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

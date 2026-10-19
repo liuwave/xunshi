@@ -2,8 +2,8 @@
   "work_id": 458666,
   "work": {
     "id": 458666,
-    "title": "颂古三十二首 其二十三",
-    "title_tr": "頌古三十二首 其二十三",
+    "title": "颂古三十二首  其二三",
+    "title_tr": "頌古三十二首  其二三",
     "author": "释明辩",
     "author_tr": "釋明辯",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "打起黄莺儿，莫教枝上啼。\n几回惊妾梦，不得到辽西。",
     "content_tr": "打起黄鶯兒，莫教枝上啼。\n幾回驚妾夢，不得到遼西。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

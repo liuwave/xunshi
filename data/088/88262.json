@@ -2,17 +2,17 @@
   "work_id": 88262,
   "work": {
     "id": 88262,
-    "title": "温成皇后挽词二首 其一",
-    "title_tr": "溫成皇后挽詞二首 其一",
+    "title": "温成皇后挽词二首  其一",
+    "title_tr": "溫成皇后挽詞二首  其一",
     "author": "蔡襄",
     "author_tr": "蔡襄",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "紫极腾轩曜，青春委蕣颜。\n云軿何处去，金殿几时还。\n仗下编箫咽，陵中夜烛闲。\n六宫哀送返，疑是梦魂间。",
+    "content": "紫极腾轩曜，青春委蕣颜。\n云𫐌何处去，金殿几时还。\n仗下编箫咽，陵中夜烛闲。\n六宫哀送返，疑是梦魂间。",
     "content_tr": "紫極騰軒曜，青春委蕣顔。\n雲軿何處去，金殿幾時還。\n仗下編簫咽，陵中夜燭閒。\n六宮哀送返，疑是夢魂間。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

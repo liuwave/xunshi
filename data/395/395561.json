@@ -9,7 +9,7 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "三十一仙科，同时升大罗。\n轩翔几人去，沦谪独君何。\n淮桂牵吟数，湘兰寄恨多。\n且欣弹頍弁，荣路未蹉跎。",
+    "content": "三十一仙科，同时升大罗。\n轩翔几人去，沦谪独君何。\n淮桂牵吟数，湘兰寄恨多。\n且欣弹𫠆弁，荣路未蹉跎。",
     "content_tr": "三十一仙科，同時升大羅。\n軒翔幾人去，淪謫獨君何。\n淮桂牽吟數，湘蘭寄恨多。\n且欣彈頍弁，榮路未蹉跎。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

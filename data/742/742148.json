@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "日生晕，上下两重交。\n必有彼疆亡将过（京本作「军亡将帅」），中谋独霸不成韬，终是举（京本作「起」）鎗刀。",
-    "content_tr": "日生暈，上下兩重交。\n必有彼疆亡將過（京本作「軍亡將帥」），中謀獨霸不成韜，終是舉（京本作「起」）鎗刀。"
+    "content": "日生晕，上下两重交。\n必有彼疆亡将过，中谋独霸不成韬，终是举鎗刀。",
+    "content_tr": "日生暈，上下兩重交。\n必有彼疆亡將過，中謀獨霸不成韜，終是舉鎗刀。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

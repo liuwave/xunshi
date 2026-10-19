@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "画桥南北水西东，高下花枝绿间红。\n殢得春风人尽醉，独醒谁似白头翁？",
-    "content_tr": "畫橋南北水西東，高下花枝緑間紅。\n殢得春風人盡醉，獨醒誰似白頭翁？"
+    "content": "画桥南北水西东，高下花枝绿间红。\n𣨼得春风人尽醉，独醒谁似白头翁。",
+    "content_tr": "畫橋南北水西東，高下花枝綠間紅。\n殢得春風人盡醉，獨醒誰似白頭翁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

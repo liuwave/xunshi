@@ -6,7 +6,7 @@
     "title_tr": "法善院",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "野火烟云窟，春溪风日朝。\n花迟年有闰，树密地无徭。\n山鼓通荒戍，庭碑认往朝。\n客言僧可隠，胜似隠农樵。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

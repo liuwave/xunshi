@@ -12,7 +12,9 @@
     "content": "游子春衫已试单，桃花飞尽野梅酸。\n怪来一夜蛙声歇，又作东风十日寒。",
     "content_tr": "遊子春衫已試單，桃花飛盡野梅酸。\n怪來一夜蛙聲歇，又作東風十日寒。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

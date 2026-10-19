@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "何处觅消愁？春园可暂游。\n菊黄堪泛酒，梅红可插头。\n（以上二首为落节诗）。",
-    "content_tr": "何處覓消愁？春園可暫遊。\n菊黃堪泛酒，梅紅可插頭。\n（以上二首爲落節詩）。"
+    "content": "何处觅消愁？春园可暂游。\n菊黄堪泛酒，梅红可插头。",
+    "content_tr": "何處覓消愁？春園可暫遊。\n菊黃堪泛酒，梅紅可插頭。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,14 +2,14 @@
   "work_id": 3247,
   "work": {
     "id": 3247,
-    "title": "祭方丘乐章舒和",
-    "title_tr": "祭方丘樂章舒和",
+    "title": "祭方丘乐章 舒和",
+    "title_tr": "祭方丘樂章 舒和",
     "author": "褚亮",
     "author_tr": "褚亮",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "玉币牲牷分荐享，羽旄干戚遰成容。\n一德惟宁两仪泰，三材保合四时邕。",
+    "content": "玉币牲牷分荐享，羽旄干𬭭遰成容。\n一德惟宁两仪泰，三材保合四时邕。",
     "content_tr": "玉幣牲牷分薦享，羽旄干鏚遰成容。\n一德惟寧兩儀泰，三材保合四時邕。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

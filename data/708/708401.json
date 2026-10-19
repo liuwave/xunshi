@@ -6,7 +6,7 @@
     "title_tr": "梅山",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "梅尉功成后，安知不此来。\n路逢耕者问，山寺化人开。\n樵陇低通海，茶村暖待雷。\n谈玄亦可隠，不用垦蒿莱。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

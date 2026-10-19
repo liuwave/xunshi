@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "朝从紫禁归，暮出青门去。\n勿言城东陌，便是江南路。 \n扬鞭簇车马，挥手辞亲故。\n我生本无乡，心安是归处。",
-    "content_tr": "朝從紫禁歸，暮出青門去。\n勿言城東陌，便是江南路。 \n揚鞭簇車馬，揮手辭親故。\n我生本無鄉，心安是歸處。"
+    "content": "朝从紫禁归，暮出青门去。\n勿言城东陌，便是江南路。\n扬鞭簇车马，挥手辞亲故。\n我生本无乡，心安是归处。",
+    "content_tr": "朝從紫禁歸，暮出青門去。\n勿言城東陌，便是江南路。\n揚鞭簇車馬，揮手辭親故。\n我生本無鄉，心安是歸處。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

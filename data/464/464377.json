@@ -2,17 +2,17 @@
   "work_id": 464377,
   "work": {
     "id": 464377,
-    "title": "宁宗郊祀二十九首 尚书彻豆用《熙安》",
-    "title_tr": "寧宗郊祀二十九首 尚書徹豆用《熙安》",
+    "title": "宁宗郊祀二十九首 尚书彻豆用《熙安》。",
+    "title_tr": "寧宗郊祀二十九首 尚書徹豆用《熙安》。",
     "author": "郊庙朝会歌辞",
     "author_tr": "郊廟朝會歌辭",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "兰豆既升，簠簋既登。\n礼备俎实，飨贵牲?。\n时乃告彻，器用毕兴。\n祚我皇基，介福是膺。",
-    "content_tr": "蘭豆既升，簠簋既登。\n禮備俎實，饗貴牲?。\n時乃告徹，器用畢興。\n祚我皇基，介福是膺。"
+    "content": "兰豆既升，簠簋既登。\n礼备俎实，飨贵牲𦞪。\n时乃告彻，器用毕兴。\n祚我皇基，介福是膺。",
+    "content_tr": "蘭豆既升，簠簋既登。\n禮備俎實，饗貴牲𦞪。\n時乃告徹，器用畢興。\n祚我皇基，介福是膺。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

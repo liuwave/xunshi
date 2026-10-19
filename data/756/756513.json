@@ -1,0 +1,20 @@
+{
+  "work_id": 756513,
+  "work": {
+    "id": 756513,
+    "title": "清平乐",
+    "title_tr": "清平樂",
+    "author": "晏几道",
+    "author_tr": "晏幾道",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "清平乐",
+    "content": "留人不住。\n醉解兰舟去。\n一棹碧涛春水路。\n过尽晓莺啼处。\n渡头杨柳青青。\n枝枝叶叶离情。\n此后锦书休寄，画楼云雨无凭。",
+    "content_tr": "留人不住。\n醉解蘭舟去。\n一棹碧濤春水路。\n過盡曉鶯啼處。\n渡頭楊柳青青。\n枝枝葉葉離情。\n此後錦書休寄，畫樓雲雨無憑。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "彗星见，出在（京本作「自」）月旁边。\n必有弑君幷杀父，国中纷扰祸相连，更主易桑田。",
-    "content_tr": "彗星見，出在（京本作「自」）月旁邊。\n必有弒君幷殺父，國中紛擾禍相連，更主易桑田。"
+    "content": "彗星见，出在月旁边。\n必有弑君幷杀父，国中纷扰祸相连，更主易桑田。",
+    "content_tr": "彗星見，出在月旁邊。\n必有弒君幷殺父，國中紛擾禍相連，更主易桑田。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,8 +2,8 @@
   "work_id": 448,
   "work": {
     "id": 448,
-    "title": "鹿柴",
-    "title_tr": "鹿柴",
+    "title": "辋川集 鹿柴",
+    "title_tr": "輞川集 鹿柴",
     "author": "王维",
     "author_tr": "王維",
     "dynasty": "唐",
@@ -12,7 +12,10 @@
     "content": "空山不见人，但闻人语响。\n返景入深林，复照青苔上。",
     "content_tr": "空山不見人，但聞人語響。\n返景入深林，復照青苔上。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "空寂的山中看不见人，只听到有人说话的声音。\n夕阳返照的光进入深林，重新照在青苔上。",
     "annotation": "返景（yǐng）：夕阳返照之光。\n景：同「影」，日光。",

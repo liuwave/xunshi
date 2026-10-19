@@ -2,15 +2,15 @@
   "work_id": 99721,
   "work": {
     "id": 99721,
-    "title": "游城南十六首 · 其十三 · 把酒",
-    "title_tr": "遊城南十六首 · 其十三 · 把酒",
+    "title": "游城南十六首 把酒",
+    "title_tr": "遊城南十六首 把酒",
     "author": "韩愈",
     "author_tr": "韓愈",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "扰扰驰名者，谁能一日闲。\n我来无伴侣，把酒对南山。",
-    "content_tr": "擾擾馳名者，誰能一日閒。\n我來無伴侶，把酒對南山。"
+    "content_tr": "擾擾馳名者，誰能一日閑。\n我來無伴侶，把酒對南山。"
   },
   "anthologies": [],
   "annotation": null,

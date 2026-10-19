@@ -12,7 +12,10 @@
     "content": "回乐峰前沙似雪，受降城下月如霜。\n不知何处吹芦管，一夜征人尽望乡。",
     "content_tr": "回樂峰前沙似雪，受降城下月如霜。\n不知何處吹蘆管，一夜征人盡望鄉。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

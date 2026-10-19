@@ -6,11 +6,11 @@
     "title_tr": "賦得蜀都",
     "author": "褚亮",
     "author_tr": "褚亮",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "列宿光参井，分芒跨梁岷。\n沈犀对江浦，驷马入城闉。\n英图多霸迹，历选有名臣。\n连骑簪缨满，含章词赋新。\n得上仙槎路，无待访严遵。",
-    "content_tr": "列宿光參井，分芒跨樑岷。\n沈犀對江浦，駟馬入城闉。\n英圖多霸跡，歷選有名臣。\n連騎簪纓滿，含章詞賦新。\n得上仙槎路，無待訪嚴遵。"
+    "content": "列宿光参井，分芒跨梁岷。\n沈犀对江浦，驷马入城𬮱。\n英图多霸迹，历选有名臣。\n连骑簪缨满，含章词赋新。\n得上仙槎路，无待访严遵。",
+    "content_tr": "列宿光參井，分芒跨梁岷。\n沈犀對江浦，駟馬入城闉。\n英圖多霸跡，歷選有名臣。\n連騎簪纓滿，含章詞賦新。\n得上仙槎路，無待訪嚴遵。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

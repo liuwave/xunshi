@@ -2,17 +2,17 @@
   "work_id": 454126,
   "work": {
     "id": 454126,
-    "title": "遣怀 其三",
-    "title_tr": "遣懷 其三",
+    "title": "遣怀  其三",
+    "title_tr": "遣懷  其三",
     "author": "释绍嵩",
     "author_tr": "釋紹嵩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "学懒真成懒，龙钟志未酬。\n此生多轗轲，何处不迟留。\n勋业频看镜，寒盟得问鸥。\n羁愁难尽遣，愁尽自无愁。",
+    "content": "学懒真成懒，龙钟志未酬。\n此生多𫐘轲，何处不迟留。\n勋业频看镜，寒盟得问鸥。\n羁愁难尽遣，愁尽自无愁。",
     "content_tr": "學懶真成懶，龍鍾志未酬。\n此生多轗軻，何處不遲留。\n勳業頻看鏡，寒盟得問鷗。\n羈愁難盡遣，愁盡自無愁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

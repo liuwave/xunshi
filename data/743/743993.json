@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "膴膴原田，自今发始，岁其丰年。\n（野人诵）。",
-    "content_tr": "膴膴原田，自今發始，歲其豐年。\n（野人誦）。"
+    "content": "膴膴原田，自今发始，岁其丰年。",
+    "content_tr": "膴膴原田，自今發始，歲其豐年。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

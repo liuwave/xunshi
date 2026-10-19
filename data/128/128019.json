@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "一梢两梢晓滩月，三花五花暮江雪。\n春风到手眼生寒，烟水村深有茅蕝。",
-    "content_tr": "一梢兩梢曉灘月，三花五花暮江雪。\n春風到手眼生寒，煙水村深有茅蕝。"
+    "content": "一梢两梢晓滩月，三花五花暮江雪。\n春风到手眼生寒，烟水村深有茅𫈵。",
+    "content_tr": "一梢兩梢曉灘月，三花五花暮江雪。\n春風到手眼生寒，烟水村深有茅蕝。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

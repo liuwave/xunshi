@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "自昔闻铜柱，行来向一年。\n不知林邑地，犹隔道明天。\n雨露何时及？\n京华若个边。\n思君无限泪，堪作日南泉。",
-    "content_tr": "自昔聞銅柱，行來向一年。\n不知林邑地，猶隔道明天。\n雨露何時及？\n京華若個邊。\n思君無限淚，堪作日南泉。"
+    "content": "自昔闻铜柱，行来向一年。\n不知林邑地，犹隔道明天。\n雨露何时及？京华若个边。\n思君无限泪，堪作日南泉。",
+    "content_tr": "自昔聞銅柱，行來向一年。\n不知林邑地，猶隔道明天。\n雨露何時及？京華若個邊。\n思君無限淚，堪作日南泉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

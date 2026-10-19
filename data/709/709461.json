@@ -6,7 +6,7 @@
     "title_tr": "太華峰",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "华山山木乱纷纷，铁锁垂垂袅袅猿。\n石齿齿前光烁烁，壁岩岩后势奔奔。\n奇奇怪怪云根耸，鬰鬰葱葱雾气昏。\n上上上头仍上上，最高高处有乾坤。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "金钱买得牡丹栽，何处辞丛别主来？\n红芳堪惜还堪恨，百处移将百处开。",
-    "content_tr": "金錢買得牡丹栽，何處辭叢別主來？\n紅芳堪惜還堪恨，百處移將百處開。"
+    "content": "金钱买得牡丹栽，何处辞丛别主来？红芳堪惜还堪恨，百处移将百处开。",
+    "content_tr": "金錢買得牡丹栽，何處辭叢別主來？紅芳堪惜還堪恨，百處移將百處開。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "壬午六月八日書懷",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "怀人故国鳞鸿绝，避地春园草树长。\n四壁空存医俗具，千金难售卖呆方。\n共儿坐诵修吴语，有客行歌衒楚装。\n昨夜见花摇作梦，南风吹海白茫茫。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

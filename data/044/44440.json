@@ -2,16 +2,15 @@
   "work_id": 44440,
   "work": {
     "id": 44440,
-    "title": "渔父词一十八首 · 自无忧",
-    "title_tr": "漁父詞一十八首自無憂",
+    "title": "渔父词一十八首 自无忧",
+    "title_tr": "漁父詞一十八首 自無憂",
     "author": "吕岩",
-    "author_tr": "呂岩",
+    "author_tr": "呂巖",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "渔父词一十八首",
-    "content": "学道初从此处修，断除贪爱别娇柔。长守静，处深幽，服气餐霞饱即休。",
-    "content_tr": "學道初從此處修，斷除貪愛別嬌柔。長守靜，處深幽，服氣餐霞飽即休。",
-    "sub_title": "自无忧"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "学道初从此处修，断除贪爱别娇柔。\n长守静，处深幽，服气餐霞饱即休。",
+    "content_tr": "學道初從此處修，斷除貪愛別嬌柔。\n長守靜，處深幽，服氣餐霞飽即休。"
   },
   "anthologies": [],
   "annotation": null,

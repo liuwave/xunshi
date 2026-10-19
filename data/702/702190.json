@@ -6,7 +6,7 @@
     "title_tr": "春日小園即事十首  其八",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "莳药移花撰石名，稍加心匠可经营。\n天真不假人为力，绿树啼鶑一两声。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

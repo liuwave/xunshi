@@ -6,7 +6,7 @@
     "title_tr": "雪後况湖歌",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "君不见明州城中日月湖，萦蓝缭白如画图。\n良时乐游古亦有，何人破雪浮官厨。\n金猊暖压红氍毹，紫貂醉拂青珊瑚。\n麈尾高悬前唾壶，使君霜髯双脸朱。\n同时僚客总豪秀，陆池阆苑罗仙儒。\n名谈锋凑初不恶，安得玉人歌缕珠。\n似闻州民喜公出，终日绕岸狂欢呼。\n淫弦浊管何足道，入耳得此成真娱。\n城尖数峰大糢糊，山郭何路通樵苏。\n年年腊前得三白，乐岁仍然多饿夫。\n定知新年稍安乐，风流使君江左无。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

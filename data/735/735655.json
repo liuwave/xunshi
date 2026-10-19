@@ -6,7 +6,7 @@
     "title_tr": "懷謬獨一",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "常忆兰陵子，瓌奇皴渴才。\n思还如我苦，时不为伊来。\n岳霞猱掷雪，湖月浪翻杯。\n未闻沾寸禄，此事亦堪哀。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 472155,
   "work": {
     "id": 472155,
-    "title": "颂三首 其三",
-    "title_tr": "颂三首 其三",
+    "title": "颂三首 三",
+    "title_tr": "頌三首 三",
     "author": "省澄",
     "author_tr": "省澄",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "吴坂当年塔未开，宋云葱岭见师回。\n手携只履分明个，后代如何密荐来。",
-    "content_tr": "吴坂当年塔未开，宋云葱岭见师回。\n手携只履分明个，后代如何密荐来。"
+    "content_tr": "吳坂當年塔未開，宋雲葱嶺見師迴。\n手攜隻履分明箇，後代如何密薦來。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

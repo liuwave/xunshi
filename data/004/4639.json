@@ -6,10 +6,10 @@
     "title_tr": "吳清翁石橋",
     "author": "方凤",
     "author_tr": "方鳳",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "金椎谁奋破山霆，趋石浑疑走六丁。\n间道便须横螮蝀，长竿先已竖蜻蜓。\n济川作略君堪纪，吟雪行藏我欲经。\n领取溪山好风月，更看高架翼然亭。",
+    "content": "金椎谁奋破山霆，趋石浑疑走六丁。\n间道便须横䗖𬟽，长竿先已竖蜻蜓。\n济川作略君堪纪，吟雪行藏我欲经。\n领取溪山好风月，更看高架翼然亭。",
     "content_tr": "金椎誰奮破山霆，趨石渾疑走六丁。\n間道便須橫螮蝀，長竿先已豎蜻蜓。\n濟川作略君堪紀，吟雪行藏我欲經。\n領取溪山好風月，更看高架翼然亭。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

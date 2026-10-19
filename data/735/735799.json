@@ -6,7 +6,7 @@
     "title_tr": "經吳宮",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "夫差昏暗霸图倾，千古凄凉地不灵。\n妖艳恩余宫露浊，忠臣心苦海山青。\n萧条陵陇侵寒水，仿佛楼台出杳冥。\n此是前车况非远，六朝何更不惺惺。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

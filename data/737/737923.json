@@ -6,13 +6,15 @@
     "title_tr": "清平樂 二",
     "author": "冯延巳",
     "author_tr": "馮延巳",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "雨晴烟晚，绿水新池满。\n双燕飞来垂柳院，小阁画帘高卷。\n黄昏独倚朱阑，西南新月眉弯。\n砌下落花风起，罗衣特地春寒。",
     "content_tr": "雨晴煙晚，綠水新池滿。\n雙燕飛來垂柳院，小閣畫簾高卷。\n黃昏獨倚朱闌，西南新月眉彎。\n砌下落花風起，羅衣特地春寒。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

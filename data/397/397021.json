@@ -2,17 +2,17 @@
   "work_id": 397021,
   "work": {
     "id": 397021,
-    "title": "治园二首 其一",
-    "title_tr": "治園二首 其一",
+    "title": "治园二首  其一",
+    "title_tr": "治園二首  其一",
     "author": "胡寅",
     "author_tr": "胡寅",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "涉圃亲锄草，分畦剩种蔬。\n润通邻沼近，色映野云虚。\n瘴重难求药，心闲易看书。\n但令羹有梜，那叹食无鱼。",
+    "content": "涉圃亲锄草，分畦賸种蔬。\n润通隣沼近，色映野云虚。\n瘴重难求药，心闲易看书。\n但令羹有𬂩，那叹食无鱼。",
     "content_tr": "涉圃親鋤草，分畦賸種蔬。\n潤通隣沼近，色映野雲虛。\n瘴重難求藥，心閒易看書。\n但令羹有梜，那嘆食無魚。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,15 +2,15 @@
   "work_id": 374230,
   "work": {
     "id": 374230,
-    "title": "失调名 其六",
-    "title_tr": "失调名 其六",
+    "title": "失调名",
+    "title_tr": "失調名",
     "author": "仲殊",
     "author_tr": "仲殊",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "失调名",
     "content": "戏马风流，佩茱萸时节。",
-    "content_tr": "戏马风流，佩茱萸时节。"
+    "content_tr": "戲馬風流，佩茱萸時節。"
   },
   "anthologies": [],
   "annotation": null,

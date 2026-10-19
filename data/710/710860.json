@@ -6,7 +6,7 @@
     "title_tr": "題牡丹梨花手卷",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "沉香宴罢索人扶，重向银屏臯雪肤。\n一笑不偿千古恨，玉环当日倚阑图。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

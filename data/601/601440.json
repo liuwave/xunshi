@@ -12,7 +12,9 @@
     "content": "青苔满地初晴后，绿树无人昼梦余。\n惟有南风旧相识，偷开门户又翻书。",
     "content_tr": "青苔滿地初晴後，綠樹無人晝夢餘。\n惟有南風舊相識，偷開門戶又翻書。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

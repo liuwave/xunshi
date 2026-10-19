@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "旧雨留烟饰短垣，浅沙催水撼衡门。\n旗帘动眼新迎客，䆉稏关心故弄孙。",
-    "content_tr": "舊雨留煙飾短垣，淺沙催水撼衡門。\n旗簾動眼新迎客，䆉稏關心故弄孫。"
+    "content": "旧雨留烟饰短垣，浅沙催水撼衡门。\n旗帘动眼新迎客，𫁂䅉关心故弄孙。",
+    "content_tr": "舊雨留煙飾短垣，淺沙催水撼衡門。\n旗帘動眼新迎客，䆉䅉關心故弄孫。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

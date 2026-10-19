@@ -6,7 +6,7 @@
     "title_tr": "襄陽行",
     "author": "张潮",
     "author_tr": "張潮",
-    "dynasty": "清",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "玉盘转明珠，君心无定准。\n昨见襄阳客，剩说襄阳好无尽。\n襄汉水，岘山垂，汉水东流风北吹。\n只言一世长娇宠，那悟今朝见别离。\n君渡清羗渚，知人独不语。\n妾见鸟栖林，忆君相思深。\n莫作云间鸿，离声顾俦侣。\n尚如匣中劒，分形会同处。\n是君妇，识君情，怨君恨君为此行。\n下床一宿不可保，况乃万里襄阳城。\n襄阳传近大堤北，君到襄阳莫回惑。\n大堤诸女儿，怜钱不怜德。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

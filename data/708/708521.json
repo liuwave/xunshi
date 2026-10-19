@@ -6,7 +6,7 @@
     "title_tr": "賀岩上張商翁新居",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "商岭高风动帝皇，商岩清梦到君王。\n故将琴剑诗书室，结向烟霞水石旁。\n紫气遥知穿户牖，青松应不隔垣墙。\n后堂且设彭宣席，未许鶑鶑燕燕忙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "天久旱，无雨水盆流。\n此是天时雨不润，不能下降令人忧（辛本、川本作「奔高流」）。",
-    "content_tr": "天久旱，無雨水盆流。\n此是天時雨不潤，不能下降令人憂（辛本、川本作「奔高流」）。"
+    "content": "天久旱，无雨水盆流。\n此是天时雨不润，不能下降令人忧。",
+    "content_tr": "天久旱，無雨水盆流。\n此是天時雨不潤，不能下降令人憂。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

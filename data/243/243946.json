@@ -12,7 +12,9 @@
     "content": "细雨茸茸湿楝花，南风树树熟枇杷。\n徐行不记山深浅，一路莺啼送到家。",
     "content_tr": "細雨茸茸溼楝花，南風樹樹熟枇杷。\n徐行不記山深淺，一路鶯啼送到家。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

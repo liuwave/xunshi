@@ -6,7 +6,7 @@
     "title_tr": "孟子 生之謂性",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "理气虽然不可无，形而上下有精粗。\n槩将动作名为性，天地同为牛马区。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

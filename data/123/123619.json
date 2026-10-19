@@ -2,15 +2,15 @@
   "work_id": 123619,
   "work": {
     "id": 123619,
-    "title": "蒲中杂咏赏心亭",
-    "title_tr": "蒲中雜詠賞心亭",
+    "title": "蒲中杂咏 赏心亭",
+    "title_tr": "蒲中雜詠 賞心亭",
     "author": "赵鼎",
     "author_tr": "趙鼎",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "玉山颓倒莫来扶，富贵功名不让渠。\n文举平生一樽酒，苦逢儿辈议才疏。",
-    "content_tr": "玉山頹倒莫來扶，富貴功名不讓渠。\n文舉平生一樽酒，苦逢兒輩議才疏。"
+    "content_tr": "玉山頽倒莫來扶，富貴功名不讓渠。\n文舉平生一樽酒，苦逢兒輩議才疏。"
   },
   "anthologies": [],
   "annotation": null,

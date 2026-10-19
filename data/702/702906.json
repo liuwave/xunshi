@@ -6,7 +6,7 @@
     "title_tr": "題前歙令楚君雪梅圖",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "洛雪一丈冻独鼾，谁其排闼惊袁安。\n千载神交两贤令，寄意爱此英姿寒。\n马缩龙埋万木折，胸次阳和骨立铁。\n纨袴儿曹东风花，不耐春寒能耐雪。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

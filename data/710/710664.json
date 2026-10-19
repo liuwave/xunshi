@@ -6,7 +6,7 @@
     "title_tr": "送黄子高如泰州謁朱南伯",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "采采江蓠步石磵，东望海堤青不断。\n故人泮上谁饮酒，尺素不来鱼尾短。\n黄子卓荦文更奇，命驾千里赴相思。\n长江凫雁不足数，旷野虎兕将何之。\n景德寺前读书阁，彦国九原不可作。\n寄声故人加餐食，昨夜秋风淮水恶。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

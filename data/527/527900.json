@@ -2,16 +2,15 @@
   "work_id": 527900,
   "work": {
     "id": 527900,
-    "title": "杨柳枝 · 词二首",
-    "title_tr": "楊柳枝 · 詞二首",
+    "title": "杨柳枝词二首  其一",
+    "title_tr": "楊柳枝詞二首  其一",
     "author": "贺铸",
     "author_tr": "賀鑄",
     "dynasty": "宋",
-    "kind_cn": "词",
-    "rhythmic": "杨柳枝",
-    "content": "方过清明雨后天，回塘照影弄跹跹。深情拟属风光主，爱惜长条待少年。",
-    "content_tr": "方過清明雨後天，回塘照影弄躚躚。深情擬屬風光主，愛惜長條待少年。",
-    "sub_title": "词二首"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "方过清明雨后天，回塘照影弄跹跹。\n深情拟属风光主，爱惜长条待少年。",
+    "content_tr": "方過清明雨後天，回塘照影弄躚躚。\n深情擬屬風光主，愛惜長條待少年。"
   },
   "anthologies": [],
   "annotation": null,

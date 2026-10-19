@@ -6,7 +6,7 @@
     "title_tr": "遇放猿再作",
     "author": "王仁裕",
     "author_tr": "王仁裕",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "嶓冢祠前汉水滨，饮猿连臂下嶙峋。\n渐来子细窥行客，认得依稀是野宾。\n月宿从劳羁絏梦，松餐非复稻粱身。\n数声肠断和云呌，识是前时旧主人。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

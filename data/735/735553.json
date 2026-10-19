@@ -6,7 +6,7 @@
     "title_tr": "秋末江行",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "四顾木落尽，扁舟增所思。\n云冲远烧出，帆转大荒迟。\n天际霜雪作，水边蒿艾衰。\n断猨不堪听，一听亦同悲。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

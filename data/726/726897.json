@@ -12,7 +12,9 @@
     "content": "洞房昨夜停红烛，待晓堂前拜舅姑。\n[妆]罢低声问夫壻，画眉深浅入时无。",
     "content_tr": "洞房昨夜停紅燭，待曉堂前拜舅姑。\n[妝]罷低聲問夫壻，畫眉深淺入時無。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

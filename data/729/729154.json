@@ -12,7 +12,10 @@
     "content": "岭外音书绝，经年复历春。\n近乡情更怯，不敢问来人。",
     "content_tr": "嶺外音書絕，經年復歷春。\n近鄉情更怯，不敢問來人。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

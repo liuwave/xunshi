@@ -3,16 +3,16 @@
   "work": {
     "id": 430587,
     "title": "游密庵致明有喜雨诗次原韵",
-    "title_tr": "遊密庵致明有喜雨詩次原韻",
+    "title_tr": "遊密菴致明有喜雨詩次原韵",
     "author": "刘子翚",
     "author_tr": "劉子翬",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "雨气经岩上，僧窗暗复明。\n溪流生急响，松吹助狂倾。\n䆉稏无边润，籧篨一味清。\n仁心乐同饱，拥鼻发吟声。",
-    "content_tr": "雨氣經巖上，僧窗暗復明。\n溪流生急響，鬆吹助狂傾。\n䆉稏無邊潤，籧篨一味清。\n仁心樂同飽，擁鼻發吟聲。"
+    "content": "雨气经岩上，僧窗暗复明。\n溪流生急响，松吹助狂倾。\n𫁂䅉无边润，籧篨一味清。\n仁心乐同饱，拥鼻发吟声。",
+    "content_tr": "雨氣經巖上，僧窗暗復明。\n溪流生急響，松吹助狂傾。\n䆉䅉無邊潤，籧篨一味清。\n仁心樂同飽，擁鼻發吟聲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

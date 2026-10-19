@@ -2,17 +2,17 @@
   "work_id": 411271,
   "work": {
     "id": 411271,
-    "title": "广州其二",
-    "title_tr": "廣州其二",
+    "title": "广州  其二",
+    "title_tr": "廣州  其二",
     "author": "陶弼",
     "author_tr": "陶弼",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "石门见月随潮早，洸口闻猿上峡迟。\n新酒满篘蛮妪店，古碑当道海神祠。",
+    "content": "石门见月随潮早，洸口闻猿上峡迟。\n新酒满𥬠蛮妪店，古碑当道海神祠。",
     "content_tr": "石門見月隨潮早，洸口聞猿上峽遲。\n新酒滿篘蠻嫗店，古碑當道海神祠。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

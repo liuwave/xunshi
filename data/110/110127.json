@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "春云浓淡日微光，双阙重门耸建章。\n不上楼来知几日，满城无算柳梢黄。",
-    "content_tr": "春雲濃淡日微光，雙闕重門聳建章。\n不上樓來知幾日，滿城無算柳梢黃。"
+    "content_tr": "春雲濃淡日微光，雙闕重門聳建章。\n不上樓來知幾日，滿城無算柳梢黄。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -12,7 +12,9 @@
     "content": "牧童骑黄牛，歌声振林樾。\n意欲捕鸣蝉，忽然闭口立。",
     "content_tr": "牧童騎黃牛，歌聲振林樾。\n意欲捕鳴蟬，忽然閉口立。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "牧童骑着黄牛，歌声振动了林荫。\n想要捕捉鸣叫的知了，忽然闭上嘴巴，站定不动。",
     "annotation": "樾（yuè）：树荫。",

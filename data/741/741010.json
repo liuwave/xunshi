@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "禅居一海间，乡路祖州东。\n到国宣周礼，朝天得僧风。\n山冥鱼梵远，日正蜃楼空。\n人至非徐福，何由寄信通。\n（同前）。",
-    "content_tr": "禪居一海間，鄉路祖州東。\n到國宣周禮，朝天得僧風。\n山冥魚梵遠，日正蜃樓空。\n人至非徐福，何由寄信通。\n（同前）。"
+    "content": "禅居一海间，乡路祖州东。\n到国宣周礼，朝天得僧风。\n山冥鱼梵远，日正蜃楼空。\n人至非徐福，何由寄信通。",
+    "content_tr": "禪居一海間，鄉路祖州東。\n到國宣周禮，朝天得僧風。\n山冥魚梵遠，日正蜃樓空。\n人至非徐福，何由寄信通。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

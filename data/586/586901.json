@@ -6,7 +6,7 @@
     "title_tr": "登郡樓書事",
     "author": "刘兼",
     "author_tr": "劉兼",
-    "dynasty": "宋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "偶奉纶书莅旭川，郡楼嘉致尽依然。\n松欹鸟道云藏寺，月满渔舟水浸天。\n望帝古祠花簇簇，锦城归路草芊芊。\n有时倚槛垂双袂，故国风光似眼前。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

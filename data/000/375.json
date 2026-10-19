@@ -2,8 +2,8 @@
   "work_id": 375,
   "work": {
     "id": 375,
-    "title": "江南春",
-    "title_tr": "江南春",
+    "title": "江南春绝句",
+    "title_tr": "江南春絕句",
     "author": "杜牧",
     "author_tr": "杜牧",
     "dynasty": "唐",
@@ -12,7 +12,9 @@
     "content": "千里莺啼绿映红，水村山郭酒旗风。\n南朝四百八十寺，多少楼台烟雨中。",
     "content_tr": "千里鶯啼綠映紅，水村山郭酒旗風。\n南朝四百八十寺，多少樓臺煙雨中。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "千里江南莺啼婉转，绿树映着红花；水边的村庄、依山的城郭，酒旗迎风招展。南朝留下的四百八十寺，多少楼台笼罩在烟雨之中。",
     "annotation": "山郭：依山的外城；郭，外城。\n酒旗：酒店的招子。\n四百八十寺：南朝帝王贵族多崇佛，大兴佛寺，此处举其约数。",
@@ -20,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

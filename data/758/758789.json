@@ -1,0 +1,18 @@
+{
+  "work_id": 758789,
+  "work": {
+    "id": 758789,
+    "title": "鹊桥仙",
+    "title_tr": "鵲橋仙",
+    "author": "毛滂",
+    "author_tr": "毛滂",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "鹊桥仙",
+    "content": "水精帘外，沈香阑畔，新下红油画幕。\n百花何处避芳尘，便独自、将春占却。\n月华淡淡，夜寒森森，犹把红灯照著。\n醉时从醉不归家，贤守定、不教冷落。",
+    "content_tr": "水精簾外，沈香闌畔，新下紅油畫幕。\n百花何處避芳塵，便獨自、將春佔卻。\n月華淡淡，夜寒森森，猶把紅燈照著。\n醉時從醉不歸家，賢守定、不教冷落。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

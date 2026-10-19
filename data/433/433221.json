@@ -2,15 +2,15 @@
   "work_id": 433221,
   "work": {
     "id": 433221,
-    "title": "彼山诗",
-    "title_tr": "彼山詩",
+    "title": "彼山诗  其一",
+    "title_tr": "彼山詩  其一",
     "author": "刘敞",
     "author_tr": "劉敞",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "彼山之阻兮，虎豹兟兟。我旋而归兮，虎来即人。",
-    "content_tr": "彼山之阻兮，虎豹兟兟。我旋而歸兮，虎來即人。"
+    "content": "彼山之阻兮，虎豹兟兟。\n我旋而归兮，虎来即人。",
+    "content_tr": "彼山之阻兮，虎豹兟兟。\n我旋而歸兮，虎來即人。"
   },
   "anthologies": [],
   "annotation": null,

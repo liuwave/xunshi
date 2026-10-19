@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "马踏红尘古塞平，出门谁不为功名。\n到头争似栖禅客，林下无言过一生。\n（同前书卷八）。",
-    "content_tr": "馬踏紅塵古塞平，出門誰不爲功名。\n到頭爭似棲禪客，林下無言過一生。\n（同前書卷八）。"
+    "content": "马踏红尘古塞平，出门谁不为功名。\n到头争似栖禅客，林下无言过一生。",
+    "content_tr": "馬踏紅塵古塞平，出門誰不爲功名。\n到頭爭似棲禪客，林下無言過一生。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

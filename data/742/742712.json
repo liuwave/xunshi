@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "撞来好个寄生囊。\n（同前。\n）。",
-    "content_tr": "撞來好箇寄生囊。\n（同前。\n）。"
+    "content": "撞来好个寄生囊。",
+    "content_tr": "撞來好箇寄生囊。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

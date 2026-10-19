@@ -1,0 +1,20 @@
+{
+  "work_id": 762476,
+  "work": {
+    "id": 762476,
+    "title": "菩萨蛮",
+    "title_tr": "菩薩蠻",
+    "author": "辛弃疾",
+    "author_tr": "辛棄疾",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "菩萨蛮",
+    "content": "郁孤台下清江水。\n中间多少行人泪。\n西北是长安。\n可怜无数山。\n青山遮不住。\n毕竟江流去。\n江晚正愁予。\n山深闻鹧鸪。",
+    "content_tr": "鬱孤臺下清江水。\n中間多少行人淚。\n西北是長安。\n可憐無數山。\n青山遮不住。\n畢竟江流去。\n江晚正愁予。\n山深聞鷓鴣。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

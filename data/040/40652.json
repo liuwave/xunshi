@@ -2,8 +2,8 @@
   "work_id": 40652,
   "work": {
     "id": 40652,
-    "title": "秦州杂诗二十首（其十八）",
-    "title_tr": "秦州雜詩二十首",
+    "title": "秦州杂诗二十首 十八",
+    "title_tr": "秦州雜詩二十首 十八",
     "author": "杜甫",
     "author_tr": "杜甫",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

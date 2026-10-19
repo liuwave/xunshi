@@ -12,7 +12,9 @@
     "content": "夜雨连明春水生，娇云浓暖弄阴晴。\n帘虚日薄花竹静，时有乳鸠相对鸣。",
     "content_tr": "夜雨連明春水生，嬌雲濃暖弄陰晴。\n簾虛日薄花竹靜，時有乳鳩相對鳴。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

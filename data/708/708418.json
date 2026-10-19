@@ -6,7 +6,7 @@
     "title_tr": "王丞自鄞城歸又許入剡",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江城醉别太匆匆，风雪家园一笑同。\n尽健不妨天予老，绝清那许鬼欺穷。\n简书异日关谁事，灯火寒乡頼此翁。\n几度丁宁鸡黍约，扫关拂榻误儿童。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

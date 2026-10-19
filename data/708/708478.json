@@ -6,7 +6,7 @@
     "title_tr": "擬古  其二",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "瑶池出甘泉，玉台荫梧桐。\n凤巢梧桐上，下浴甘泉中。\n美人室其左，荷衣裳芙蓉。\n素手把青枝，嘻嘻笑春风。\n性情如赤子，声气似黄钟。\n明珠媚深渊，鱼鼈游冲融。\n世事多参商，忧乐苦不同。\n荣枯与丑好，相待如駏蛩。\n深怀惕霜露，夙心常省躬。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

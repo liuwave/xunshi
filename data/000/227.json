@@ -4,15 +4,18 @@
     "id": 227,
     "title": "哥舒歌",
     "title_tr": "哥舒歌",
-    "author": "无名氏",
-    "author_tr": "無名氏",
+    "author": "西鄙人",
+    "author_tr": "西鄙人",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "北斗七星高，哥舒夜带刀。\n至今窥牧马，不敢过临洮。",
     "content_tr": "北斗七星高，哥舒夜帶刀。\n至今窺牧馬，不敢過臨洮。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "北斗七星高高地悬在夜空，哥舒翰夜里带着刀。至今那些窥伺进犯的胡人牧马，不敢越过临洮。",
     "annotation": "哥舒：哥舒翰，唐代名将，任陇右节度使时屡破吐蕃。\n窥牧马：指吐蕃伺机侵扰的牧马骑兵。\n临洮（táo）：地名，在今甘肃岷县一带，唐与吐蕃接界。",

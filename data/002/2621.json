@@ -12,7 +12,9 @@
     "content": "山中何所有，岭上多白云。\n只可自怡悦，不堪持赠君。",
     "content_tr": "山中何所有，嶺上多白雲。\n只可自怡悅，不堪持贈君。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "山中有什么，山岭上多有白云。\n只可以自己怡悦，不能拿来献给您。",
     "annotation": "不堪：此处置为不能、不足以。",

@@ -12,7 +12,9 @@
     "content": "门外无人问落花，绿阴冉冉遍天涯。\n林鶑啼到无声处，春草池边独听蛙。",
     "content_tr": "門外無人問落花，綠陰冉冉遍天涯。\n林鶑啼到無聲處，春草池邊獨聽蛙。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -2,18 +2,19 @@
   "work_id": 527822,
   "work": {
     "id": 527822,
-    "title": "昭君怨 · 赋松上鸥",
-    "title_tr": "昭君怨 · 賦鬆上鷗",
+    "title": "昭君怨",
+    "title_tr": "昭君怨",
     "author": "杨万里",
     "author_tr": "楊萬里",
     "dynasty": "宋",
     "kind_cn": "词",
     "rhythmic": "昭君怨",
-    "content": "偶听松梢扑鹿。知是沙鸥来宿。稚子莫喧哗。恐惊他。\n俄顷忽然飞去。飞去不知何处。我已乞归休。报沙鸥。",
-    "content_tr": "偶聽鬆梢撲鹿。知是沙鷗來宿。稚子莫喧譁。恐驚他。\n俄頃忽然飛去。飛去不知何處。我已乞歸休。報沙鷗。",
-    "sub_title": "赋松上鸥"
+    "content": "偶听松梢扑鹿。\n知是沙鸥来宿。\n稚子莫喧哗。\n恐惊他。\n俄顷忽然飞去。\n飞去不知何处。\n我已乞归休。\n报沙鸥。",
+    "content_tr": "偶聽松梢撲鹿。\n知是沙鷗來宿。\n稚子莫喧譁。\n恐驚他。\n俄頃忽然飛去。\n飛去不知何處。\n我已乞歸休。\n報沙鷗。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -2,15 +2,15 @@
   "work_id": 39297,
   "work": {
     "id": 39297,
-    "title": "采莲子",
-    "title_tr": "採蓮子",
-    "author": "朱庆馀",
+    "title": "采莲",
+    "title_tr": "采蓮",
+    "author": "朱庆余",
     "author_tr": "朱慶餘",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "采莲子",
-    "content": "隔烟花草远蒙蒙，恨个来时路不同。正是停桡相遇处，鸳鸯飞去急流中。",
-    "content_tr": "隔煙花草遠濛濛，恨個來時路不同。正是停橈相遇處，鴛鴦飛去急流中。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "隔烟花草远蒙蒙，恨个来时路不同。\n正是停桡相遇处，鸳鸯飞去急流中。",
+    "content_tr": "隔煙花草遠濛濛，恨箇來時路不同。\n正是停橈相遇處，鴛鴦飛去急流中。"
   },
   "anthologies": [],
   "annotation": null,

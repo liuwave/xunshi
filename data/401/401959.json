@@ -5,14 +5,14 @@
     "title": "城中见山",
     "title_tr": "城中見山",
     "author": "毕仲游",
-    "author_tr": "畢仲遊",
+    "author_tr": "畢仲游",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "尘埃埋马足，人事如鼎沸。\n朝餔尚不厌，何暇论身计。\n北山十里近，云色带阴翳。\n日日在目前，无由谢城市。",
-    "content_tr": "塵埃埋馬足，人事如鼎沸。\n朝餔尚不厭，何暇論身計。\n北山十里近，雲色帶陰翳。\n日日在目前，無由謝城市。"
+    "content": "尘埃埋马足，人事如鼎沸。\n朝𫗦尚不厌，何暇论身计。\n北山十里近，云色带阴翳。\n日日在目前，无由谢城市。",
+    "content_tr": "塵埃埋馬足，人事如鼎沸。\n朝餔尚不厭，何暇論身計。\n北山十里近，雲色带陰翳。\n日日在目前，無由謝城市。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

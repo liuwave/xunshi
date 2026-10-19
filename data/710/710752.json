@@ -6,7 +6,7 @@
     "title_tr": "弔李古巖",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "堂堂山立万人英，一夕霜风玉树倾。\n公去隠然关世道，客来何止哭交情。\n安知死不如生乐，但恨才难与命争。\n幸喜肯堂丹雘手，陇西依旧振家声。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,18 +2,17 @@
   "work_id": 60962,
   "work": {
     "id": 60962,
-    "title": "浣溪沙 · 露白蟾明又到秋",
-    "title_tr": "浣溪沙",
-    "author": "顾夐",
-    "author_tr": "顧夐",
+    "title": "浣溪沙·露白蟾明又到秋",
+    "title_tr": "浣溪沙·露白蟾明又到秋",
+    "author": "顾敻",
+    "author_tr": "顧敻",
     "dynasty": "五代十国",
     "kind_cn": "词",
     "rhythmic": "浣溪沙",
     "content": "露白蟾明又到秋，佳期幽会两悠悠，梦牵情役几时休。\n记得泥人微敛黛，无言斜倚小书楼，暗思前事不胜愁。",
-    "content_tr": "露白蟾明又到秋，佳期幽會兩悠悠，夢牽情役幾時休。\n記得泥人微斂黛，無言斜倚小書樓，暗思前事不勝愁。",
-    "sub_title": "露白蟾明又到秋"
+    "content_tr": "露白蟾明又到秋，佳期幽會兩悠悠，夢牽情役幾時休。\n記得泥人微斂黛，無言斜倚小書樓，暗思前事不勝愁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

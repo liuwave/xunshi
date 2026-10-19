@@ -12,7 +12,9 @@
     "content": "水绕陂田竹绕篱，榆钱落尽槿花稀。\n夕阳牛背无人卧，带得寒鸦两两归。",
     "content_tr": "水繞陂田竹繞籬，榆錢落盡槿花稀。\n夕陽牛背無人臥，带得寒鴉兩兩歸。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

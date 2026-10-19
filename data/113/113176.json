@@ -2,17 +2,19 @@
   "work_id": 113176,
   "work": {
     "id": 113176,
-    "title": "连州阳山归路三绝",
-    "title_tr": "連州陽山歸路三絕",
+    "title": "连州阳山归路三绝  其二",
+    "title_tr": "連州陽山歸路三絕  其二",
     "author": "吕本中",
     "author_tr": "呂本中",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "稍离烟瘴近湘潭，疾病衰颓已不堪。\n儿女不知来避地，强言风物胜江南。",
-    "content_tr": "稍離煙瘴近湘潭，疾病衰頹已不堪。\n兒女不知來避地，強言風物勝江南。"
+    "content_tr": "稍離烟瘴近湘潭，疾病衰頽已不堪。\n兒女不知來避地，强言風物勝江南。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

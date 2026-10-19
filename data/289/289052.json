@@ -2,17 +2,19 @@
   "work_id": 289052,
   "work": {
     "id": 289052,
-    "title": "禾熟三首",
-    "title_tr": "禾熟三首",
+    "title": "禾熟三首  其一",
+    "title_tr": "禾熟三首  其一",
     "author": "孔平仲",
     "author_tr": "孔平仲",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "百里西风禾黍香，鸣泉落窦谷登场。\n老牛粗了耕耘债，啮草坡头卧夕阳。",
-    "content_tr": "百里西風禾黍香，鳴泉落竇谷登場。\n老牛粗了耕耘債，齧草坡頭臥夕陽。"
+    "content_tr": "百里西風禾黍香，鳴泉落竇穀登場。\n老牛粗了耕耘債，齧草坡頭臥夕陽。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

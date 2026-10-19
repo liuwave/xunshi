@@ -5,14 +5,14 @@
     "title": "题郑谷江畔桐斋",
     "title_tr": "題鄭谷江畔桐齋",
     "author": "皎然",
-    "author_tr": "僧皎然",
+    "author_tr": "皎然",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "客斋开别住，坐占绿江濆。\n流水非外物，闲云长属君。\n浮荣未可累，旷达若为群。\n风起高梧下，清弦日日闻。",
-    "content_tr": "客齋開別住，坐佔綠江濆。\n流水非外物，閒雲長屬君。\n浮榮未可累，曠達若爲羣。\n風起高梧下，清弦日日聞。"
+    "content": "客斋开别住，坐占绿江𣸣。\n流水非外物，闲云长属君。\n浮荣未可累，旷达若为群。\n风起高梧下，清弦日日闻。",
+    "content_tr": "客齋開別住，坐占綠江濆。\n流水非外物，閑雲長屬君。\n浮榮未可累，曠達若爲羣。\n風起高梧下，清弦日日聞。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

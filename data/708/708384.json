@@ -6,7 +6,7 @@
     "title_tr": "桕坑",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "西去疑无路，谁知是剡津。\n行多收桕客，住有掘苓人。\n寺隠山前古，村经水后贫。\n时时百里外，来此祭田神。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

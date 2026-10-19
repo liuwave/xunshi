@@ -6,7 +6,7 @@
     "title_tr": "挽閑閑真人父司徒",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "堂堂遗一老，五福寿而康。\n系出安仁谱，身居荣禄乡。\n春山樵独隠，晚圃菊尤香。\n有子知何憾，骑龙下大荒。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

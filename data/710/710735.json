@@ -6,7 +6,7 @@
     "title_tr": "和鄧善之寄王一初并見柬韻",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "抱拙投闲计未疏，但看岁晏复何如。\n丹山碧水吟招隠，白髪苍颜赋遂初。\n逸少幽情谁与畅，元龙豪气未全除。\n柴门有客迂双屐，何不相逢许史庐。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

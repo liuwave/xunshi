@@ -6,7 +6,7 @@
     "title_tr": "松鶴詞",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "千桃李之秾华兮不如我之孤松，彼眩三春之朝露兮我专一丘壑之风，听此以洗耳兮又何有乎牛鬬之聪。\n百鶑啼兮万蝶舞，不如我独鹤兮褵褷其羽，顾月池之在地兮各以影而自侣。\n九转砂成兮鹤顶同丹，我鬓不凋兮松鬣长青，何十八公之为梦兮胎仙夜鸣醉魂醒。\n亦贞其心兮亦癯其形，与我作朋兮俱千龄。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

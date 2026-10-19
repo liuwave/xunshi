@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "世间尘事乱如毛，不向空门何处消。\n若待境缘除荡尽，古人那得喻芭蕉。\n（同前书卷四十引）。",
-    "content_tr": "世間塵事亂如毛，不向空門何處消。\n若待境緣除蕩盡，古人那得喻芭蕉。\n（同前書卷四十引）。"
+    "content": "世间尘事乱如毛，不向空门何处消。\n若待境缘除荡尽，古人那得喻芭蕉。",
+    "content_tr": "世間塵事亂如毛，不向空門何處消。\n若待境緣除蕩盡，古人那得喻芭蕉。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

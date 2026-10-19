@@ -2,17 +2,17 @@
   "work_id": 460587,
   "work": {
     "id": 460587,
-    "title": "颂石头和尚草庵歌 其三",
-    "title_tr": "頌石頭和尚草菴歌 其三",
+    "title": "颂石头和尚草庵歌  其三",
+    "title_tr": "頌石頭和尚草菴歌  其三",
     "author": "释印肃",
     "author_tr": "釋印肅",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "饭了从容图睡快，杲日丽天无可晒。\n薄?轻雾没虚空，饱塞虚空全不奈。",
-    "content_tr": "飯了從容圖睡快，杲日麗天無可曬。\n薄?輕霧沒虛空，飽塞虛空全不奈。"
+    "content": "饭了从容图睡快，杲日丽天无可晒。\n薄𠜱轻雾没虚空，饱塞虚空全不奈。",
+    "content_tr": "飯了從容圖睡快，杲日麗天無可曬。\n薄𠜱輕霧沒虛空，飽塞虛空全不奈。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

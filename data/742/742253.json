@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "金与水，二曜若侵凌。\n定主破军幷杀将，水居（首本作「君」，兹从辛本、川本）金上客军赢，在下主和平。",
-    "content_tr": "金與水，二曜若侵凌。\n定主破軍幷殺將，水居（首本作「君」，茲從辛本、川本）金上客軍贏，在下主和平。"
+    "content": "金与水，二曜若侵凌。\n定主破军幷杀将，水居金上客军赢，在下主和平。",
+    "content_tr": "金與水，二曜若侵凌。\n定主破軍幷殺將，水居金上客軍贏，在下主和平。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

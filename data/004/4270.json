@@ -6,11 +6,11 @@
     "title_tr": "次日歸舟和南仲",
     "author": "仇远",
     "author_tr": "仇遠",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "?山渺渺点青螺，古濑澄澄似绛河。\n尘世不知秋过半，水乡但觉月明多。\n轻舟傲兀鱼龙窟，夹岸横陈早晚禾。\n一笑跃身烟雾表，醉归何恤夜行诃。",
-    "content_tr": "?山渺渺點青螺，古瀨澄澄似絳河。\n塵世不知秋過半，水鄉但覺月明多。\n輕舟傲兀魚龍窟，夾岸橫陳早晚禾。\n一笑躍身煙霧表，醉歸何恤夜行訶。"
+    "content": "𠙶山渺渺点青螺，古濑澄澄似绛河。\n尘世不知秋过半，水乡但觉月明多。\n轻舟傲兀鱼龙窟，夹岸横陈早晚禾。\n一笑跃身烟雾表，醉归何恤夜行诃。",
+    "content_tr": "𠙶山渺渺點青螺，古瀨澄澄似絳河。\n塵世不知秋過半，水鄉但覺月明多。\n輕舟傲兀魚龍窟，夾岸橫陳早晚禾。\n一笑躍身煙霧表，醉歸何恤夜行訶。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

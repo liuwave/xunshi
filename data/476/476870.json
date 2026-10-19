@@ -2,17 +2,17 @@
   "work_id": 476870,
   "work": {
     "id": 476870,
-    "title": "寄赠汤司谏二首 其一",
-    "title_tr": "寄贈湯司諫二首 其一",
+    "title": "寄赠汤司谏二首  其一",
+    "title_tr": "寄贈湯司諫二首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "御史曾追庆历唐，有孙还是绍兴汤。\n绝知骥騄难羁绊，故遣松筠试雪霜。\n如许人才岂终弃，要之日月本何伤。\n郁孤台上苏仙句，多载寥寥无和章。",
+    "content": "御史曾追庆历唐，有孙还是绍兴汤。\n绝知骥𫘧难羁绊，故遣松筠试雪霜。\n如许人才岂终弃，要之日月本何伤。\n鬰孤台上苏仙句，多载寥寥无和章。",
     "content_tr": "御史曾追慶曆唐，有孫還是紹興湯。\n絕知驥騄難羈絆，故遣松筠試雪霜。\n如許人才豈終棄，要之日月本何傷。\n鬰孤臺上蘇仙句，多載寥寥無和章。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

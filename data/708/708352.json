@@ -6,7 +6,7 @@
     "title_tr": "赤泥嶺行",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "种桑三年寒得衣，养犊作牛堪挽犂。\n生男祇解恋乡土，五日溪船催父归。\n行前仓庚后杜宇，去家渐近闻剡语。\n恨身不作田舍儿，骑竹抟沙绕墙户。\n人生衣饭取裁足，阿奴碌碌犹类福。\n献书觅举真下策，年少奔驰头已白。\n君不见燕山万里客更难，赤泥岭上春风寒。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

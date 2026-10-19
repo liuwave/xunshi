@@ -2,13 +2,13 @@
   "work_id": 530024,
   "work": {
     "id": 530024,
-    "title": "杂曲歌辞 其一 大酺乐",
-    "title_tr": "雜曲歌辭 其一 大酺樂",
+    "title": "杂曲歌辞 大酺乐 一",
+    "title_tr": "雜曲歌辭 大酺樂 一",
     "author": "张祜",
     "author_tr": "張祜",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞 其一 大酺乐",
+    "kind_cn": "诗",
+    "rhythmic": null,
     "content": "车驾东来值太平，大酺三日洛阳城。\n小儿一伎竿头绝，天下传呼万岁声。",
     "content_tr": "車駕東來值太平，大酺三日洛陽城。\n小兒一伎竿頭絕，天下傳呼萬歲聲。"
   },

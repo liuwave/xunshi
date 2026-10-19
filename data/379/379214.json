@@ -2,17 +2,17 @@
   "work_id": 379214,
   "work": {
     "id": 379214,
-    "title": "次石迪功韵 其一",
-    "title_tr": "次石迪功韻 其一",
+    "title": "次石迪功韵  其一",
+    "title_tr": "次石迪功韻  其一",
     "author": "吕颐浩",
     "author_tr": "呂頤浩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "枫庭累岁玷朝班，老荷宸恩得退闲。\n枥马虺隤休入驭，陇禽衰倦合知还。\n莫辞敛迹归南亩，幸免移文向北山。\n恢复中原乖素愿，梦魂时得到乡关。",
+    "content": "枫庭累岁玷朝班，老荷宸恩得退闲。\n枥马虺𬯎休入驭，陇禽衰倦合知还。\n莫辞敛迹归南亩，幸免移文向北山。\n恢复中原乖素愿，梦魂时得到乡关。",
     "content_tr": "楓庭累歲玷朝班，老荷宸恩得退閑。\n櫪馬虺隤休入馭，隴禽衰倦合知還。\n莫辭斂跡歸南畝，幸免移文向北山。\n恢復中原乖素願，夢魂時得到鄉關。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

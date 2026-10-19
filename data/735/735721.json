@@ -6,7 +6,7 @@
     "title_tr": "陳情獻蜀皇帝",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "河北江东处处灾，唯闻全蜀勿尘埃。\n一缾一钵垂垂老，千水千山得得来。\n奈菀幽栖多胜景，巴歈陈贡媿非才。\n自慙林薮龙钟者，亦得亲登郭隗台。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

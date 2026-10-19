@@ -2,16 +2,15 @@
   "work_id": 56697,
   "work": {
     "id": 56697,
-    "title": "杂曲歌辞 · 杨柳枝 · 其一",
-    "title_tr": "雜曲歌辭 · 楊柳枝 · 其一",
+    "title": "杂曲歌辞 杨柳枝 一",
+    "title_tr": "雜曲歌辭 楊柳枝 一",
     "author": "刘禹锡",
     "author_tr": "劉禹錫",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞",
-    "content": "塞北梅花羌笛吹，淮南桂树小山词。请君莫奏前朝曲，听唱新翻杨柳枝。",
-    "content_tr": "塞北梅花羌笛吹，淮南桂樹小山詞。請君莫奏前朝曲，聽唱新翻楊柳枝。",
-    "sub_title": "杨柳枝 · 其一"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "塞北梅花羌笛吹，淮南桂树小山词。\n请君莫奏前朝曲，听唱新翻杨柳枝。",
+    "content_tr": "塞北梅花羌笛吹，淮南桂樹小山詞。\n請君莫奏前朝曲，聽唱新翻楊柳枝。"
   },
   "anthologies": [],
   "annotation": null,

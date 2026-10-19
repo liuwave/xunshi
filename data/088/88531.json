@@ -3,16 +3,18 @@
   "work": {
     "id": 88531,
     "title": "秋晚宿破山寺",
-    "title_tr": "秋晩宿破山寺",
+    "title_tr": "秋晚宿破山寺",
     "author": "皎然",
-    "author_tr": "僧皎然",
+    "author_tr": "皎然",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "秋风落叶满空山，古寺残灯石壁间。\n昔日经行人去尽，寒云夜夜自飞还。",
     "content_tr": "秋風落葉滿空山，古寺殘燈石壁間。\n昔日經行人去盡，寒雲夜夜自飛還。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

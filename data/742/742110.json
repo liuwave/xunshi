@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "虹赤白，尽是阻军行。\n若是（京本作「似」）虹桥栏着路，且须盘泊犒（京本作「靠」）军兵，不久却回程。",
-    "content_tr": "虹赤白，盡是阻軍行。\n若是（京本作「似」）虹橋欄着路，且須盤泊犒（京本作「靠」）軍兵，不久却回程。"
+    "content": "虹赤白，尽是阻军行。\n若是虹桥栏着路，且须盘泊犒军兵，不久却回程。",
+    "content_tr": "虹赤白，盡是阻軍行。\n若是虹橋欄着路，且須盤泊犒軍兵，不久却回程。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

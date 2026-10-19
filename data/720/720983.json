@@ -12,7 +12,9 @@
     "content": "月黑鴈飞高，单于夜遁逃。\n欲将轻骑逐，大雪满弓刀。",
     "content_tr": "月黑鴈飛高，單于夜遁逃。\n欲將輕騎逐，大雪滿弓刀。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

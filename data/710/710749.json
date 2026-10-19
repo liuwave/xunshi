@@ -6,7 +6,7 @@
     "title_tr": "挽唐可竹",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "穿杨折桂黄粱梦，庭下哦松白髪秋。\n兴废乃关千古事，荣枯肯为一身谋。\n江南有客朝金阙，天上无人记玉楼。\n丹旐西风范阳路，行人回首忆林丘。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

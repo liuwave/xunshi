@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "狼与虎，切忌入军（京本作「营」）中。\n队伍突冲幷截路，不过数日有危凶，警备勿交攻。",
-    "content_tr": "狼與虎，切忌入軍（京本作「營」）中。\n隊伍突衝幷截路，不過數日有危凶，警備勿交攻。"
+    "content": "狼与虎，切忌入军中。\n队伍突冲幷截路，不过数日有危凶，警备勿交攻。",
+    "content_tr": "狼與虎，切忌入軍中。\n隊伍突衝幷截路，不過數日有危凶，警備勿交攻。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

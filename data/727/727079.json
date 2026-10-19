@@ -12,7 +12,9 @@
     "content": "雪衣雪髪青玉觜，群捕鱼儿溪影中。\n惊飞远映碧山去，一树梨花落晚风。",
     "content_tr": "雪衣雪髪青玉觜，羣捕魚兒溪影中。\n驚飛遠映碧山去，一樹梨花落晚風。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

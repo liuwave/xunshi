@@ -6,7 +6,7 @@
     "title_tr": "登新嶺",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "荦荦确确白石溪，绵绵茫茫青草鞵。\n四山阴雪湿灰色，六月杜鹃深树啼。\n田庐经漂有高下，麻豆满坞无东西。\n隔岩飞流送人语，对面喧风吹马蹄。\n祗今莫辞楖栗杖，与子更上巑岏梯。\n登高意远会有极，回首烟海令人迷。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

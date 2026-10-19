@@ -2,15 +2,15 @@
   "work_id": 2003,
   "work": {
     "id": 2003,
-    "title": "周颂 · 天作",
-    "title_tr": "周頌 · 天作",
-    "author": "无名氏",
-    "author_tr": "無名氏",
-    "dynasty": "周",
+    "title": "天作",
+    "title_tr": "天作",
+    "author": "佚名·先秦",
+    "author_tr": "佚名·先秦",
+    "dynasty": "先秦",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "天作高山，大王荒之。\n彼作矣，文王康之。\n彼徂矣岐，有夷之行。\n子孙保之。",
-    "content_tr": "天作高山，大王荒之。\n彼作矣，文王康之。\n彼徂矣岐，有夷之行。\n子孫保之。"
+    "content": "天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孙保之。",
+    "content_tr": "天作高山，大王荒之。彼作矣，文王康之。彼徂矣，岐有夷之行。子孫保之。"
   },
   "anthologies": [],
   "annotation": {

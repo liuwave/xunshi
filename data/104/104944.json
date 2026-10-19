@@ -3,16 +3,16 @@
   "work": {
     "id": 104944,
     "title": "侯处士女挽词",
-    "title_tr": "侯處士女輓詞",
+    "title_tr": "侯處士女挽詞",
     "author": "陈与义",
     "author_tr": "陳與義",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "畴昔翁才比太师，固应生女作门楣。\n人间似梦风旌出，佛子何之宰树悲。\n五百裞金空穗帐，三千车乘忽荒陂。\n它年不共江流去，突兀张林妇德碑。",
+    "content": "畴昔翁才比太师，固应生女作门楣。\n人间似梦风旌出，佛子何之宰树悲。\n五百裞金空𰬸帐，三千车乘忽荒陂。\n它年不共江流去，突兀张林妇德碑。",
     "content_tr": "疇昔翁才比太師，固應生女作門楣。\n人間似夢風旌出，佛子何之宰樹悲。\n五百裞金空繐帳，三千車乘忽荒陂。\n它年不共江流去，突兀張林婦德碑。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

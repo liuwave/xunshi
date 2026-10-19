@@ -2,17 +2,17 @@
   "work_id": 476830,
   "work": {
     "id": 476830,
-    "title": "雪后三首 其一",
-    "title_tr": "雪後三首 其一",
+    "title": "雪后三首  其一",
+    "title_tr": "雪後三首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "松竹夜枕听，窗扉朝起看。\n虽成见睍喜，敢废履冰难。\n照映形知秽，嘘呵诗故寒。\n要能穷极览，安得振飞翰。",
+    "content": "松竹夜枕听，窗扉朝起看。\n虽成见𪾢喜，敢废履冰难。\n照映形知秽，嘘呵诗故寒。\n要能穷极览，安得振飞翰。",
     "content_tr": "松竹夜枕聽，窗扉朝起看。\n雖成見睍喜，敢廢履冰難。\n照映形知穢，噓呵詩故寒。\n要能窮極覽，安得振飛翰。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "呈汪主簿及茗源諸公",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "章甫公西愧点雩，断缨子路羡柴愚。\n天知人弃终多福，道屈身伸頼读书。\n有日官曹须忍耐，薰天声利尽欷歔。\n行藏谩似琅琊客，采药深山日不虚。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

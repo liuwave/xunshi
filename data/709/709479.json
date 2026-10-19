@@ -6,7 +6,7 @@
     "title_tr": "臨川水驛",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "羊角山高锁战尘，春风吹草绿孤城。\n鹊巢逊与鸠夫妇，燕幙能容雁弟兄。\n今古废兴棋一著，萍蓬聚散酒三行。\n悲歌曲尽故人去，笛响长江月正明。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

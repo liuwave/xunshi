@@ -6,7 +6,7 @@
     "title_tr": "贈游士艾介翁",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "三江怀故国，七泽吊孤臣。\n有客诗招隠，何心赋问钧。\n明时无弃士，晚节少全人。\n游子归何日，农工已及春。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

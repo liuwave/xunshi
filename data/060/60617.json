@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "送行人，歌一曲，何者为泥何者玉？\n年华已向秋草里，春梦犹传故山绿。",
-    "content_tr": "送行人，歌一曲，何者爲泥何者玉？\n年華已向秋草裏，春夢猶傳故山綠。"
+    "content": "送行人，歌一曲，何者为泥何者玉？年华已向秋草里，春梦犹传故山绿。",
+    "content_tr": "送行人，歌一曲，何者爲泥何者玉？年華已向秋草裏，春夢猶傳故山綠。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

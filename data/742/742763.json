@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "卷帘除却障，闭户生窒碍。\n祗这障与碍，古今无人会。\n会得是障碍，不会不自在。\n（同上。\n）。",
-    "content_tr": "卷簾除却障，閉戶生窒礙。\n祗這障與礙，古今無人會。\n會得是障礙，不會不自在。\n（同上。\n）。"
+    "content": "卷帘除却障，闭户生窒碍。\n祗这障与碍，古今无人会。\n会得是障碍，不会不自在。",
+    "content_tr": "卷簾除却障，閉戶生窒礙。\n祗這障與礙，古今無人會。\n會得是障礙，不會不自在。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

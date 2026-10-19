@@ -6,7 +6,7 @@
     "title_tr": "{巩/言}光大師草書歌",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "雪压千峰横枕上，穷困虽多还激壮。\n看师逸迹两相宜，高适歌行李白诗。\n海上惊驱山猛烧，吹断狂烟著沙草。\n江楼曾见落星石，几回试发将军砲。\n别有寒雕掠绝壁，提上玄猨更生力。\n又见吴中磨角来，舞槊盘刀初触击。\n好文天子挥宸翰，御制本多推玉案。\n晨开水殿教题壁，题罢紫衣亲宠锡。\n僧家爱诗自拘束，僧家爱画亦局促。\n唯师草圣艺偏高，一掬山泉心便足。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

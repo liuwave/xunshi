@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "彼云泛灵舆，倏忽适下土。\n崆峒灭玄云，至感不容冶。\n（同前卷三）。",
-    "content_tr": "彼雲泛靈輿，倏忽適下土。\n崆峒滅玄雲，至感不容冶。\n（同前卷三）。"
+    "content": "彼云泛灵舆，倏忽适下土。\n崆峒灭玄云，至感不容冶。",
+    "content_tr": "彼雲泛靈輿，倏忽適下土。\n崆峒滅玄雲，至感不容冶。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

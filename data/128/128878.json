@@ -5,14 +5,14 @@
     "title": "清明感旧",
     "title_tr": "清明感舊",
     "author": "舒岳祥",
-    "author_tr": "舒嶽祥",
+    "author_tr": "舒岳祥",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "杨柳家家去下湖，有歌有哭其闉阇。\n新孀少妇深深拜，却引新夫拜故夫。",
-    "content_tr": "楊柳家家去下湖，有歌有哭其闉闍。\n新孀少婦深深拜，卻引新夫拜故夫。"
+    "content": "杨柳家家去下湖，有歌有哭其𬮱阇。\n新孀少妇深深拜，却引新夫拜故夫。",
+    "content_tr": "楊柳家家去下湖，有歌有哭其闉闍。\n新孀少婦深深拜，却引新夫拜故夫。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

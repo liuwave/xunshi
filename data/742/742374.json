@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "城营内，水鸟忽啣鱼。\n将至门桥幷台屋（京本作「楼台屋上」），必应大水漫街衢，预办早防虞（京本作「危」）。",
-    "content_tr": "城營內，水鳥忽啣魚。\n將至門橋幷臺屋（京本作「樓臺屋上」），必應大水漫街衢，預辦早防虞（京本作「危」）。"
+    "content": "城营内，水鸟忽啣鱼。\n将至门桥幷台屋，必应大水漫街衢，预办早防虞。",
+    "content_tr": "城營內，水鳥忽啣魚。\n將至門橋幷臺屋，必應大水漫街衢，預辦早防虞。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

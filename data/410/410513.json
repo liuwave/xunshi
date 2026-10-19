@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "黄旗红帜走踆踆，晓出闉阇奔迓新。\n车盖如云骑如水，山头牛背有闲人。",
-    "content_tr": "黃旂紅幟走踆踆，曉出闉闍奔迓新。\n車蓋如雲騎如水，山頭牛背有閒人。"
+    "content": "黄旗红帜走踆踆，晓出𬮱阇奔迓新。\n车盖如云骑如水，山头牛背有闲人。",
+    "content_tr": "黄旂紅幟走踆踆，曉出闉闍奔迓新。\n車蓋如雲騎如水，山頭牛背有閒人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

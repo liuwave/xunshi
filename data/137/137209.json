@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "残芳?兰馥，照水何花红。",
-    "content_tr": "殘芳?蘭馥，照水何花紅。"
+    "content": "残芳𦶜兰馥，照水何花红。",
+    "content_tr": "殘芳𦶜蘭馥，照水何花紅。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

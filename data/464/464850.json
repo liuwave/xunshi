@@ -2,17 +2,17 @@
   "work_id": 464850,
   "work": {
     "id": 464850,
-    "title": "上册宝十三首 酌献用《明安》",
-    "title_tr": "上冊寶十三首 酌獻用《明安》",
+    "title": "上册宝十三首 酌献用《明安》。",
+    "title_tr": "上冊寶十三首 酌獻用《明安》。",
     "author": "郊庙朝会歌辞",
     "author_tr": "郊廟朝會歌辭",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "旨酒嘉栗，有飶其香。\n衎我淑灵，歆此令芳。\n德贻彤管，号正椒房。\n神具醉止，降福穰穰。",
+    "content": "旨酒嘉栗，有𫗣其香。\n衎我淑灵，歆此令芳。\n德贻彤管，号正椒房。\n神具醉止，降福穰穰。",
     "content_tr": "旨酒嘉栗，有飶其香。\n衎我淑靈，歆此令芳。\n德貽彤管，號正椒房。\n神具醉止，降福穰穰。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,17 @@
   "work_id": 442394,
   "work": {
     "id": 442394,
-    "title": "题三衢于 艮室",
-    "title_tr": "題三衢于 艮室",
+    "title": "题三衢于艮室",
+    "title_tr": "題三衢于艮室",
     "author": "魏了翁",
     "author_tr": "魏了翁",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "后前止字误笺题，只认连山终物时。\n雨霁云收青不改，悠然依旧看朝隮。",
+    "content": "后前止字误笺题，只认连山终物时。\n雨霁云收青不改，悠然依旧看朝𬯀。",
     "content_tr": "後前止字誤箋題，只認連山終物時。\n雨霽雲收青不改，悠然依舊看朝隮。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

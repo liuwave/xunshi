@@ -2,17 +2,17 @@
   "work_id": 385792,
   "work": {
     "id": 385792,
-    "title": "次韵避寇二首 其一",
-    "title_tr": "次韻避寇二首 其一",
+    "title": "次韵避寇二首  其一",
+    "title_tr": "次韻避寇二首  其一",
     "author": "沈与求",
     "author_tr": "沈與求",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "穷途厌迁次，岁晚惜分携。\n茅舍荒村北，柴门曲港西。\n鸡豚暂同社，桃李旧成蹊。\n那得干戈定，浮家著两溪。",
+    "content": "穷途厌迁次，岁晚惜分携。\n茅舍荒村北，柴门曲港西。\n鸡豚𫏐同社，桃李旧成蹊。\n那得干戈定，浮家著两溪。",
     "content_tr": "窮途厭遷次，歲晚惜分攜。\n茅舍荒村北，柴門曲港西。\n鷄豚蹔同社，桃李舊成蹊。\n那得干戈定，浮家著兩溪。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

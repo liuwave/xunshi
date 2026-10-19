@@ -6,7 +6,7 @@
     "title_tr": "送輔若晦南遊",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "天令中和春，锦花柳丝织。\n江山回淑气，车马有行色。\n问君今何之，白髪在高堂。\n韔弓箙两矢，出门志四方。\n丈夫信有志，游近不堪远。\n锡穴绠冷泉，馆娃吊荒畹。\n青青三吴道，急雨飘客衣。\n纵无讥小草，恐有遗当归。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

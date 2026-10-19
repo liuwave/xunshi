@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "留连千里宾，留待一年春。\n（句首双声）。",
-    "content_tr": "留連千里賓，留待一年春。\n（句首雙聲）。"
+    "content": "留连千里宾，留待一年春。",
+    "content_tr": "留連千里賓，留待一年春。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

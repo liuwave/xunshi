@@ -2,17 +2,17 @@
   "work_id": 127990,
   "work": {
     "id": 127990,
-    "title": "次韵宋尚书山居?然堂",
-    "title_tr": "次韻宋尚書山居?然堂",
+    "title": "次韵宋尚书山居 𪟷然堂",
+    "title_tr": "次韻宋尚書山居 𪟷然堂",
     "author": "方岳",
     "author_tr": "方岳",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "心亦元如止水渊，断无尘想到诸贤。\n左蜗不断追?梦，说与青山恐未然。",
-    "content_tr": "心亦元如止水淵，斷無塵想到諸賢。\n左蝸不斷追?夢，說與青山恐未然。"
+    "content": "心亦元如止水渊，断无尘想到诸贤。\n左蜗不断追𪟷梦，说与青山恐未然。",
+    "content_tr": "心亦元如止水淵，斷無塵想到諸賢。\n左蝸不斷追𪟷夢，說與青山恐未然。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

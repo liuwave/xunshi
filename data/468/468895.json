@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "我药务滋，我蔬务荣。\n闲卉闲花，任其死生。\n在我窝兮不可沈，铲欲平平锄欲深，?刀钩林多错薪。",
-    "content_tr": "我藥務滋，我蔬務榮。\n閑卉閑花，任其死生。\n在我窩兮不可沈，鏟欲平平鋤欲深，?刀鈎林多錯薪。"
+    "content": "我药务滋，我蔬务荣。\n闲卉闲花，任其死生。\n在我窝兮不可沈，铲欲平平锄欲深，𣟸刀钩林多错薪。",
+    "content_tr": "我藥務滋，我蔬務榮。\n閑卉閑花，任其死生。\n在我窩兮不可沈，鏟欲平平鋤欲深，𣟸刀鈎林多錯薪。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

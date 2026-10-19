@@ -6,7 +6,7 @@
     "title_tr": "孟子 杞柳",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "梓漆椅桐质本奇，用而为器始皆宜。\n倘令杞柳非柔顺，未必桮棬可得为。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

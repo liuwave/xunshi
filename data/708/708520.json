@@ -6,7 +6,7 @@
     "title_tr": "謝天爵惠詩和韻",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "男子须为颜孟徒，文章义理视公沽。\n不穷六籍不为学，未了三才未是儒。\n当作大鹏辞斥鷃，又如快鹘入群乌。\n泰山到顶无多路，不肯攀登直是愚。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 445285,
   "work": {
     "id": 445285,
-    "title": "侍读给事王公挽辞三首 其二",
-    "title_tr": "侍讀給事王公挽辭三首 其二",
+    "title": "侍读给事王公挽辞三首  其二",
+    "title_tr": "侍讀給事王公挽辭三首  其二",
     "author": "苏颂",
     "author_tr": "蘇頌",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "禁序方尊宠，雍容侍紫宸。\n忽惊畴昔梦，遂失老成人。\n史稿留天阁，铭旌去国闉。\n龙门宾友散，挥涕想遗尘。",
+    "content": "禁序方尊宠，雍容侍紫宸。\n忽惊畴昔梦，遂失老成人。\n史稿留天阁，铭旌去国𬮱。\n龙门宾友散，挥涕想遗尘。",
     "content_tr": "禁序方尊寵，雍容侍紫宸。\n忽驚疇昔夢，遂失老成人。\n史稿留天閣，銘旌去國闉。\n龍門賓友散，揮涕想遺塵。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

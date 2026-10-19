@@ -6,7 +6,7 @@
     "title_tr": "同善之仲實無逸遊飲夜歸分韻得星字",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "岁华摇落江头树，客子漂流海上萍。\n尽染缁衣无复素，空留白眼为谁青。\n对床便可供高卧，把酒何妨吊独醒。\n太息此心徒炯炯，奈何余髪已星星。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

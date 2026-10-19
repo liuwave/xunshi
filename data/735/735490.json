@@ -6,7 +6,7 @@
     "title_tr": "寄王滌",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "梅月多开户，衣裳润欲滴。\n寂寥虽无形，不是小讐敌。\n地虚草木壮，雨白桃李赤。\n永日无人来，庭花苦狼籍。\n吟高好鸟觑，风静茶烟直。\n唯思莱子来，衣拖五般色。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

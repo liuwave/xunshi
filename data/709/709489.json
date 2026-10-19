@@ -6,7 +6,7 @@
     "title_tr": "綿州",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "绵州八月秋气深，芙蓉溪上花阴阴。\n使君唤船复载酒，书生快意仍长吟。\n击鼓吹笙欢客饮，脱巾露髪看日沈。\n归来不知其所往，但见月高松树林。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

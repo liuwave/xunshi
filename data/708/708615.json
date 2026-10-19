@@ -6,7 +6,7 @@
     "title_tr": "孟子 枉尺直尋",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "计利无非患得心，谁能枉己直于人。\n既甘隠忍无羞恶，气馁如何更复伸。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

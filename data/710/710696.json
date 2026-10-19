@@ -6,7 +6,7 @@
     "title_tr": "挽趙石居",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "地望抡魁重，冰衔博士清。\n弃官为隠计，因谤得诗名。\n水竹方成趣，松楸忽怆情。\n乡中耆旧尽，老泪洒铭旌。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "道无心合人，人无心合道。\n欲知此（《五灯会元》作「个」）中意，一老一不老。\n（《祖堂集》卷二十、《五灯会元》卷十三）。",
-    "content_tr": "道無心合人，人無心合道。\n欲知此（《五燈會元》作「箇」）中意，一老一不老。\n（《祖堂集》卷二十、《五燈會元》卷十三）。"
+    "content": "道无心合人，人无心合道。\n欲知此（《五灯会元》作「个」）中意，一老一不老。",
+    "content_tr": "道無心合人，人無心合道。\n欲知此（《五燈會元》作「箇」）中意，一老一不老。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

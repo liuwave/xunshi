@@ -2,15 +2,15 @@
   "work_id": 5234,
   "work": {
     "id": 5234,
-    "title": "诗思十首",
-    "title_tr": "詩思十首",
+    "title": "诗思十首  其一",
+    "title_tr": "詩思十首  其一",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "大雅嗟麟笔，离骚叹凤弦。\n猗那谁与敌，羌蹇尚堪传。\n步仰曹刘独，名歆李杜专。\n无时吾不梦，携酒访斜川。",
-    "content_tr": "大雅嗟麟筆，離騷嘆鳳弦。\n猗那誰與敵，羌蹇尚堪傳。\n步仰曹劉獨，名歆李杜專。\n無時吾不夢，攜酒訪斜川。"
+    "content_tr": "大雅嗟麟筆，離騷嘆鳳弦。\n猗那誰與敵，羌蹇尚堪傳。\n步仰曹劉獨，名歆李杜專。\n無時吾不夢，携酒訪斜川。"
   },
   "anthologies": [],
   "annotation": {

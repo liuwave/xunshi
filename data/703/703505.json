@@ -6,7 +6,7 @@
     "title_tr": "題納甲圖",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "朝有读书客，过我携酒壶。\n问我参同契，汝亦尝读诸。\n虞翻纳甲法，即是先天图。\n伯阳窃其秘，静夜观蟾蜍。\n初八二十三，艮兑丙丁殊。\n上弦进火候，下弦退阴符。\n望盈仰干盖，晦灭俯坤舆。\n震巽庚辛对，坎离戊己俱。\n朔旦之日中，交媾水火炉。\n彭晓彼何人，哓哓争鲁鱼。\n可惜非易学，欲飞血肉躯。\n借易弄丹术，邹䜣曷不诛。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,8 +2,8 @@
   "work_id": 460032,
   "work": {
     "id": 460032,
-    "title": "拟寒山寺 其二十",
-    "title_tr": "擬寒山寺 其二十",
+    "title": "拟寒山寺  其二○",
+    "title_tr": "擬寒山寺  其二○",
     "author": "释怀深",
     "author_tr": "釋懷深",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

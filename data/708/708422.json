@@ -6,7 +6,7 @@
     "title_tr": "正仲今年鄞城之約不就因次韻慰悅之",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "莫怪诗翁不出山，诗多那得是山间。\n清溪欲暖鶑啼树，白日无人犬卧关。\n不惜野花簪素发，时凭春酒转朱颜。\n当年阮籍何曾达，直到途穷始哭还。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

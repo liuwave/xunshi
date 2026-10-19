@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "解散七玄祖，更法无中影。\n七化反自然，帝一同玄飨。\n（以上见同书卷三）。",
-    "content_tr": "解散七玄祖，更法無中影。\n七化反自然，帝一同玄饗。\n（以上見同書卷三）。"
+    "content": "解散七玄祖，更法无中影。\n七化反自然，帝一同玄飨。",
+    "content_tr": "解散七玄祖，更法無中影。\n七化反自然，帝一同玄饗。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

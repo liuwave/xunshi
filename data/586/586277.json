@@ -12,7 +12,9 @@
     "content": "风吹城上树，草没城边路。\n城里月明时，精灵自来去。",
     "content_tr": "風吹城上樹，草沒城邊路。\n城裏月明時，精靈自來去。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -5,14 +5,14 @@
     "title": "题明皇按乐图",
     "title_tr": "題明皇按樂圖",
     "author": "黄庚",
-    "author_tr": "黃庚",
+    "author_tr": "黄庚",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "五凤楼前沸管弦，春宵花暖月娟娟。\n纤腰舞到《霓裳曲》，惊起猪龙地上眠。",
-    "content_tr": "五鳳樓前沸管絃，春宵花暖月娟娟。\n纖腰舞到《霓裳曲》，驚起豬龍地上眠。"
+    "content": "五凤楼前沸管弦，春宵花暖月娟娟。\n纤腰舞到霓裳曲，惊起猪龙地上眠。",
+    "content_tr": "五鳳樓前沸管絃，春宵花暖月娟娟。\n纖腰舞到霓裳曲，驚起豬龍地上眠。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

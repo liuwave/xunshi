@@ -2,17 +2,17 @@
   "work_id": 478959,
   "work": {
     "id": 478959,
-    "title": "寄晦庵二首 其一",
-    "title_tr": "寄晦庵二首 其一",
+    "title": "寄晦庵二首  其一",
+    "title_tr": "寄晦庵二首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "道大谁能与，才难圣所叹。\n浮云虽暂掩，宝气不终蟠。\n走卒称司马，苍生起谢安。\n纵无临贺送，当有翰林观。",
+    "content": "道大谁能与，才难圣所叹。\n浮云虽𫏐掩，宝气不终蟠。\n走卒称司马，苍生起谢安。\n纵无临贺送，当有翰林观。",
     "content_tr": "道大誰能與，才難聖所歎。\n浮雲雖蹔掩，寶氣不終蟠。\n走卒稱司馬，蒼生起謝安。\n縱無臨賀送，當有翰林觀。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

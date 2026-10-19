@@ -12,7 +12,9 @@
     "content": "为有云屏无限娇，凤城寒尽怕春宵。\n无端嫁得金龟壻，辜负香衾事早朝。",
     "content_tr": "爲有雲屏無限嬌，鳳城寒盡怕春宵。\n無端嫁得金龜壻，辜負香衾事早朝。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "因为有云母屏风之内无限娇美的（妻子），京城寒意已尽，却怕误了春宵。\n无缘无故嫁得佩金龟袋的夫婿，他辜负了香暖的被衾，去上早朝。",
     "annotation": "云屏：云母屏风。\n凤城：京城，此指长安。\n金龟：唐代三品以上官员佩金龟袋，指身居高位的丈夫。\n壻：同「婿」。",
@@ -20,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

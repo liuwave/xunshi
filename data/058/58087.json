@@ -2,8 +2,8 @@
   "work_id": 58087,
   "work": {
     "id": 58087,
-    "title": "和张仆射塞下曲",
-    "title_tr": "和張僕射塞下曲",
+    "title": "和张仆射塞下曲 四",
+    "title_tr": "和張僕射塞下曲 四",
     "author": "卢纶",
     "author_tr": "盧綸",
     "dynasty": "唐",
@@ -12,7 +12,9 @@
     "content": "野幕敞琼筵，羌戎贺劳旋。\n醉和金甲舞，雷鼓动山川。",
     "content_tr": "野幕敞瓊筵，羌戎賀勞旋。\n醉和金甲舞，雷鼓動山川。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

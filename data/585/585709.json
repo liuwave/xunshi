@@ -2,10 +2,10 @@
   "work_id": 585709,
   "work": {
     "id": 585709,
-    "title": "千家诗 · 五言绝句 · 别卢秦卿",
-    "title_tr": "千家詩 · 五言絕句 · 別盧秦卿",
+    "title": "留卢秦卿",
+    "title_tr": "留盧秦卿",
     "author": "司空曙",
-    "author_tr": "（唐）司空曙",
+    "author_tr": "司空曙",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
@@ -13,7 +13,8 @@
     "content_tr": "知有前期在，難分此夜中。\n無將故人酒，不及石尤風。"
   },
   "anthologies": [
-    "千家诗"
+    "千家诗",
+    "水墨唐诗"
   ],
   "annotation": {
     "translation": "知道有约定的后期相会，却难分此夜。不要说故人的酒，不如那石尤风。",

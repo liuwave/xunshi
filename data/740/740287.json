@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "无端起知见，著相求菩提。\n情存一念悟，宁越昔时迷。\n自性觉源体，随照枉迁流。\n不入祖师室，茫然趣两头。\n（同前）。",
-    "content_tr": "無端起知見，著相求菩提。\n情存一念悟，寧越昔時迷。\n自性覺源體，隨照枉遷流。\n不入祖師室，茫然趣兩頭。\n（同前）。"
+    "content": "无端起知见，著相求菩提。\n情存一念悟，宁越昔时迷。\n自性觉源体，随照枉迁流。\n不入祖师室，茫然趣两头。",
+    "content_tr": "無端起知見，著相求菩提。\n情存一念悟，寧越昔時迷。\n自性覺源體，隨照枉遷流。\n不入祖師室，茫然趣兩頭。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,17 @@
   "work_id": 42874,
   "work": {
     "id": 42874,
-    "title": "郊庙歌辞让皇帝庙乐章奠币",
-    "title_tr": "郊廟歌辭讓皇帝廟樂章奠幣",
+    "title": "郊庙歌辞 让皇帝庙乐章 奠币",
+    "title_tr": "郊廟歌辭 讓皇帝廟樂章 奠幣",
     "author": "李舒",
     "author_tr": "李舒",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "惟帝时若，去而上仙。\n祀用商舞，乐备宫悬。\n白璧加荐，玄纁告虔。\n子孙拜后，承兹吉蠲。",
+    "content": "惟帝时若，去而上仙。\n祀用商舞，乐备宫悬。\n白璧加荐，玄𫄸告虔。\n子孙拜后，承兹吉蠲。",
     "content_tr": "惟帝時若，去而上仙。\n祀用商舞，樂備宮懸。\n白璧加薦，玄纁告虔。\n子孫拜後，承茲吉蠲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -3,16 +3,16 @@
   "work": {
     "id": 103657,
     "title": "次韵毛君见赠",
-    "title_tr": "次韻毛君見贈",
+    "title_tr": "次韵毛君見贈",
     "author": "苏辙",
     "author_tr": "蘇轍",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "江国骚人不耐秋，夜吟清句晓相投。\n锋藏岂愿囊中脱，尾断终非俎上羞。\n择地何年真得意，餔糟是处可同游。\n南迁尚有公知我，人事何须更预谋。",
+    "content": "江国骚人不耐秋，夜吟清句晓相投。\n锋藏岂愿囊中脱，尾断终非俎上羞。\n择地何年真得意，𫗦糟是处可同游。\n南迁尚有公知我，人事何须更预谋。",
     "content_tr": "江國騷人不耐秋，夜吟清句曉相投。\n鋒藏豈願囊中脫，尾斷終非俎上羞。\n擇地何年真得意，餔糟是處可同遊。\n南遷尚有公知我，人事何須更預謀。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

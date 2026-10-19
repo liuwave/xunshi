@@ -6,7 +6,7 @@
     "title_tr": "次韻蔚講師新春之贈",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "每见辄自失，春风双鬓斑。\n诗囊贫里富，药市閙中闲。\n甃路通湖寺，敞楼当郡山。\n清缘事事足，听此屡开颜。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

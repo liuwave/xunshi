@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "使君居处好，在郭却如村。\n屋带园林胜，门无市井喧。\n蛰龙将变化，雏凤亦腾鶱。\n客里苦无暇，相从听雅言。",
-    "content_tr": "使君居處好，在郭卻如村。\n屋帶園林勝，門無市井喧。\n蟄龍將變化，雛鳳亦騰鶱。\n客裏苦無暇，相從聽雅言。"
+    "content": "使君居处好，在郭却如村。\n屋带园林胜，门无市井喧。\n蛰龙将变化，雏凤亦腾𬸣。\n客里苦无暇，相从听雅言。",
+    "content_tr": "使君居處好，在郭却如村。\n屋带園林勝，門無市井喧。\n蟄龍將變化，雛鳳亦騰鶱。\n客裏苦無暇，相從聽雅言。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

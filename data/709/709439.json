@@ -6,7 +6,7 @@
     "title_tr": "淮安水驛",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "薄暮舟维杨柳隄，手攀杨柳立多时。\n汉儿快意歌荷叶，越女含愁舞柘枝。\n月湿江花和露泫，潮摇淮树带风悲。\n长亭一夜浑无寐，与客传杯更和诗。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

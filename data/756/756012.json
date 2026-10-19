@@ -1,0 +1,20 @@
+{
+  "work_id": 756012,
+  "work": {
+    "id": 756012,
+    "title": "清平乐",
+    "title_tr": "清平樂",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "清平乐",
+    "content": "金风细细。\n叶叶梧桐坠。\n绿酒初尝人易醉。\n一枕小窗浓睡。\n紫微朱槿花残。\n斜阳却照阑干。\n双燕欲归时节，银屏昨夜微寒。",
+    "content_tr": "金風細細。\n葉葉梧桐墜。\n綠酒初嘗人易醉。\n一枕小窗濃睡。\n紫微朱槿花殘。\n斜陽卻照闌干。\n雙燕欲歸時節，銀屏昨夜微寒。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

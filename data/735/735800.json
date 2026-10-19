@@ -6,7 +6,7 @@
     "title_tr": "送薛侍郎貶峽州司馬",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "得罪唯惊恩未酬，夷陵山谁称闲游。\n人知八凯须当国，猨到三声不用愁。\n花落扁舟香冉冉，草侵公署雨修修。\n因人好寄新诗好，不独江东有沃州。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

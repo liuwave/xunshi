@@ -6,7 +6,7 @@
     "title_tr": "東湖第三溪",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "日晏霜浓十二月，林疏石瘦第三溪。\n云沙有径萦寒烧，松屋无人鸣昼鸡。\n几聚衣冠块作土，当年歌舞醉如泥。\n早知涉世真成梦，不弃山田春雨犂。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

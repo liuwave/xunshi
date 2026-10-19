@@ -2,17 +2,17 @@
   "work_id": 113631,
   "work": {
     "id": 113631,
-    "title": "试院中作二首 其一",
-    "title_tr": "試院中作二首 其一",
+    "title": "试院中作二首  其一",
+    "title_tr": "試院中作二首  其一",
     "author": "吕本中",
     "author_tr": "呂本中",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "客梦断复续，角声寒更长。\n疏篱拥残月，老木犯新霜。\n斗絷身何恨，驰驱汝自忙。\n稍知诗有味，复恐道相妨。",
+    "content": "客梦断复续，角声寒更长。\n疏篱拥残月，老木犯新霜。\n𫔯絷身何恨，驰驱汝自忙。\n稍知诗有味，复恐道相妨。",
     "content_tr": "客夢斷復續，角聲寒更長。\n疏籬擁殘月，老木犯新霜。\n閗縶身何恨，馳驅汝自忙。\n稍知詩有味，復恐道相妨。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

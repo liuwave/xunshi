@@ -2,17 +2,17 @@
   "work_id": 148307,
   "work": {
     "id": 148307,
-    "title": "次宋省斋七夕雨 其三",
-    "title_tr": "次宋省齋七夕雨 其三",
+    "title": "次宋省斋七夕雨  其三",
+    "title_tr": "次宋省齋七夕雨  其三",
     "author": "杨公远",
     "author_tr": "楊公遠",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "人言此夕会双星，騃女痴儿竞乞灵。\n学织学耕非我事，何如牛角自横经。",
+    "content": "人言此夕会双星，𫘤女痴儿竞乞灵。\n学织学耕非我事，何如牛角自横经。",
     "content_tr": "人言此夕會雙星，騃女癡兒競乞靈。\n學織學耕非我事，何如牛角自橫經。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

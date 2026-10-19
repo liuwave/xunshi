@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "念尔兼辞国，缄愁欲渡河。\n到来河更阔，应为涕流多。",
-    "content_tr": "念爾兼辭國，緘愁欲渡河。\n到來河更闊，應爲涕流多。"
+    "content": "念尔兼辞国，缄愁欲渡河；到来河更阔，应为涕流多。",
+    "content_tr": "念爾兼辭國，緘愁欲渡河；到來河更闊，應爲涕流多。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

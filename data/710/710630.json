@@ -6,7 +6,7 @@
     "title_tr": "留別義塾諸公",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "婆娑七十翁，已矣将焉求。\n麋鹿违本性，一朝出林丘。\n故园在何许，驾言东南游。\n人才盛吴会，讲贯多儒流。\n内顾衰朽质，污渠映清沟。\n坐有歌骊驹，将贻识者羞。\n溽暑困朱夏，偃息时归休。\n南窗小容膝，卧对红葵榴。\n年华不我待，青镜照白头。\n祇今已后死，巨海吹浮沤。\n诸君幸少壮，勗学追前修。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "苦寒行",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "北风北风，职何严毒。\n摧壮士心，缩金乌足。\n冻云嚣嚣，碍雪一片下不得。\n声遶枯桑，根在沙塞。\n黄河彻底，顽直到海。\n一气抟束，万物无态。\n唯有吾庭前杉松树枝，枝枝健在。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 107759,
   "work": {
     "id": 107759,
-    "title": "次韵刘无言 山中五绝句敢请诸僚和之 其五",
-    "title_tr": "次韻劉無言 山中五絕句敢請諸僚和之 其五",
+    "title": "次韵刘无言山中五绝句敢请诸僚和之  其五",
+    "title_tr": "次韻劉無言山中五絕句敢請諸僚和之  其五",
     "author": "葛胜仲",
     "author_tr": "葛勝仲",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "荣槁如环浪自循，一筇双屐伴行春。\n溪翁野老来争席，不识蓬山第一人。",
+    "content": "荣槁如环浪自循，一笻双屐伴行春。\n溪翁野老来争席，不识蓬山第一人。",
     "content_tr": "榮槁如環浪自循，一笻雙屐伴行春。\n溪翁野老来爭席，不識蓬山第一人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

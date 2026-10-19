@@ -2,17 +2,17 @@
   "work_id": 479134,
   "work": {
     "id": 479134,
-    "title": "在伯沅陵俱和前诗复次韵五首 其二",
-    "title_tr": "在伯沅陵俱和前詩復次韵五首 其二",
+    "title": "在伯沅陵俱和前诗复次韵五首  其二",
+    "title_tr": "在伯沅陵俱和前詩復次韵五首  其二",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "梅兮何等花，意似幽人作。\n芳不待三熏，胜自专一壑。\n屈原语醉醒，孺子歌清浊。\n醉如糟可餔，清亦足可濯。",
+    "content": "梅兮何等花，意似幽人作。\n芳不待三熏，胜自专一壑。\n屈原语醉醒，孺子歌清浊。\n醉如糟可𫗦，清亦足可濯。",
     "content_tr": "梅兮何等花，意似幽人作。\n芳不待三熏，勝自專一壑。\n屈原語醉醒，孺子歌清濁。\n醉如糟可餔，清亦足可濯。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

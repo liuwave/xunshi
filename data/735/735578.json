@@ -6,7 +6,7 @@
     "title_tr": "春送禪師歸閩中",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "春色满三湘，送师还故乡。\n穿霞逢黑鴧，乞食得红姜。\n大化宗门辟，孤禅海树凉。\n傥为新句偈，寄我亦何妨。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

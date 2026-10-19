@@ -12,7 +12,9 @@
     "content": "晓带轻烟间杏花，晚凝深翠拂平沙。\n长条别有风流处，密映钱塘苏小家。",
     "content_tr": "曉带輕煙間杏花，晚凝深翠拂平沙。\n長條別有風流處，密映錢塘蘇小家。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

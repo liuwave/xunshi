@@ -2,17 +2,17 @@
   "work_id": 465066,
   "work": {
     "id": 465066,
-    "title": "天安殿册封五岳帝一首 神出入用《正安》",
-    "title_tr": "天安殿冊封五嶽帝一首 神出入用《正安》",
+    "title": "天安殿册封五岳帝一首 神出入用《正安》。",
+    "title_tr": "天安殿冊封五嶽帝一首 神出入用《正安》。",
     "author": "郊庙朝会歌辞",
     "author_tr": "郊廟朝會歌辭",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "名岳奠方，帝仪克举。\n吉日惟良，九宾咸旅。\n温玉镂文，纁裳正宁。\n礼备乐成，笃神之祜。",
+    "content": "名岳奠方，帝仪克举。\n吉日惟良，九宾咸旅。\n温玉镂文，𫄸裳正宁。\n礼备乐成，笃神之祜。",
     "content_tr": "名嶽奠方，帝儀克舉。\n吉日惟良，九賓咸旅。\n溫玉鏤文，纁裳正宁。\n禮備樂成，篤神之祜。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

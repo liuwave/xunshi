@@ -2,17 +2,17 @@
   "work_id": 475960,
   "work": {
     "id": 475960,
-    "title": "呈丘运使三首 其一",
-    "title_tr": "呈丘運使三首 其一",
+    "title": "呈丘运使三首  其一",
+    "title_tr": "呈丘運使三首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "海内求名辈，如公得未多。\n风流正始士，艺达孔门科。\n愿识亦已久，陈诗无见诃。\n蒿蓬虽培塿，松柏自嵯峨。",
+    "content": "海内求名辈，如公得未多。\n风流正始士，艺达孔门科。\n愿识亦已久，陈诗无见诃。\n蒿蓬虽培𪣻，松柏自嵯峨。",
     "content_tr": "海內求名輩，如公得未多。\n風流正始士，藝達孔門科。\n願識亦已久，陳詩無見訶。\n蒿蓬雖培塿，松柏自嵯峨。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

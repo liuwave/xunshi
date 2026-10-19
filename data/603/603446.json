@@ -12,7 +12,9 @@
     "content": "京口瓜洲一水间，钟山祇隔数重山。\n春风自绿江南岸，明月何时照我还。",
     "content_tr": "京口瓜洲一水間，鍾山祇隔數重山。\n春風自綠江南岸，明月何時照我還。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "京口与瓜洲只隔一水之间，钟山也只隔着几重山。春风自吹绿了江南岸，明月什么时候照着我回去。",
     "annotation": "京口：今江苏镇江。\n瓜洲：在今江苏扬州南，长江北岸。\n钟山：即紫金山，王安石金陵旧居。\n绿：作动词，吹绿。",
@@ -20,5 +22,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

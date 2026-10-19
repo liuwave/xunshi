@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "书窗灯火夜深明，窗外萧萧雨叶声。\n对榻不眠谈往事，紞如五鼓过严城。",
+    "content": "书窗灯火夜深明，窗外萧萧雨叶声。\n对榻不眠谈往事，𬘘如五鼓过严城。",
     "content_tr": "書窗燈火夜深明，窗外蕭蕭雨葉聲。\n對榻不眠談往事，紞如五鼓過嚴城。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

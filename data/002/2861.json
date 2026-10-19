@@ -6,13 +6,15 @@
     "title_tr": "侍宴詠石榴",
     "author": "孔绍安",
     "author_tr": "孔紹安",
-    "dynasty": "隋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "可惜庭中树，移根逐汉臣。\n只为来时晚，花开不及春。",
     "content_tr": "可惜庭中樹，移根逐漢臣。\n只爲來時晚，花開不及春。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "可惜庭院中的这棵树，连根移植随汉臣而去。只因来的时候晚了，花开不上春天。",
     "annotation": "侍宴：臣下奉陪尊长宴饮，奉命赋诗。\n汉臣：汉朝的使者，此处指奉命移植花木的人。\n不及春：赶不上春天的花期。",

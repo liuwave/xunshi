@@ -2,17 +2,17 @@
   "work_id": 96916,
   "work": {
     "id": 96916,
-    "title": "兴元府园亭杂咏山堂",
-    "title_tr": "興元府園亭雜詠山堂",
+    "title": "兴元府园亭杂咏 山堂",
+    "title_tr": "興元府園亭雜咏 山堂",
     "author": "文同",
     "author_tr": "文同",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "何以山名堂，层石作崖巘。\n余本岩穴士，每往不欲返。\n公吏呈俗书，还来愧冠冕。",
-    "content_tr": "何以山名堂，層石作崖巘。\n餘本巖穴士，每往不欲返。\n公吏呈俗書，還來愧冠冕。"
+    "content": "何以山名堂，层石作崖𪩘。\n余本岩穴士，每往不欲返。\n公吏呈俗书，还来愧冠冕。",
+    "content_tr": "何以山名堂，層石作崖巘。\n余本岩穴士，每往不欲返。\n公吏呈俗書，還來愧冠冕。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "玄廟二道士俱以酒死",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "张髯好客月千壶，余吃清贫逐斗沽。\n二子若逢仙䜩会，化成一对酒葫芦。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "白水初程",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "天公大恶处，妬我喜晴诗。\n当与妻子别，急雨纷交驰。\n小孙送我行，屡止不肯归。\n老夫骨肉情，能不酸且悲。\n日暮投历山，倦极不得栖。\n故人情义重，杯酒煦妪之。\n老友亦适至，良会非所期。\n人生孰非梦，此梦亦已奇。\n我倦欲先睡，径与主人辞。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "月蔽云晒晒，风惊树褭褭。\n（句尾重字）。",
-    "content_tr": "月蔽雲曬曬，風驚樹褭褭。\n（句尾重字）。"
+    "content": "月蔽云晒晒，风惊树褭褭。",
+    "content_tr": "月蔽雲曬曬，風驚樹褭褭。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

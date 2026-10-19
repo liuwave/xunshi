@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "马廐内，天火忽然烧。\n看即大兵将欲起，直须修德（辛本、川本作「福」）祸方消，勿使自身招。",
-    "content_tr": "馬廐內，天火忽然燒。\n看即大兵將欲起，直須修德（辛本、川本作「福」）禍方消，勿使自身招。"
+    "content": "马廐内，天火忽然烧。\n看即大兵将欲起，直须修德祸方消，勿使自身招。",
+    "content_tr": "馬廐內，天火忽然燒。\n看即大兵將欲起，直須修德禍方消，勿使自身招。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

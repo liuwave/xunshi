@@ -2,17 +2,17 @@
   "work_id": 421814,
   "work": {
     "id": 421814,
-    "title": "晚泊二绝 其二",
-    "title_tr": "晚泊二絕 其二",
+    "title": "晚泊二绝  其二",
+    "title_tr": "晚泊二絕  其二",
     "author": "葛立方",
     "author_tr": "葛立方",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "曲突无烟驿吏忙，匆匆弛担旋舂粮。\n紞如五鼓还应起，早趁南窗一枕凉。",
+    "content": "曲突无烟驿吏忙，匆匆弛担旋舂粮。\n𬘘如五鼓还应起，早趁南窗一枕凉。",
     "content_tr": "曲突無煙驛吏忙，匆匆弛擔旋舂糧。\n紞如五鼓還應起，早趁南窗一枕凉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

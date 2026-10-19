@@ -2,17 +2,19 @@
   "work_id": 1017,
   "work": {
     "id": 1017,
-    "title": "寻隐者不遇",
-    "title_tr": "尋隱者不遇",
-    "author": "贾岛",
-    "author_tr": "賈島",
+    "title": "访羊尊师",
+    "title_tr": "訪羊尊師",
+    "author": "孙革",
+    "author_tr": "孫革",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "松下问童子，言师采药去。\n只在此山中，云深不知处。",
     "content_tr": "松下問童子，言師採藥去。\n只在此山中，雲深不知處。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "松树下询问童子，童子说师父采药去了。只在这座山中，云深不知在何处。",
     "annotation": "隐者：隐居避世的人。",

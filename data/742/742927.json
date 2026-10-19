@@ -6,13 +6,13 @@
     "title_tr": "題羅昭諫新建小樓二絕 二",
     "author": "钱镠",
     "author_tr": "錢鏐",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "玳簪珠履愧菲材，时凭栏干首重回。\n只待淮妖剪除后，别倾巵酒贺行台。\n（清嘉庆刊本《诚应武肃王集》卷四。\n）。",
-    "content_tr": "玳簪珠履愧菲材，時凭欄干首重回。\n只待淮妖剪除後，別傾巵酒賀行臺。\n（清嘉慶刊本《誠應武肅王集》卷四。\n）。"
+    "content": "玳簪珠履愧菲材，时凭栏干首重回。\n只待淮妖剪除后，别倾巵酒贺行台。",
+    "content_tr": "玳簪珠履愧菲材，時凭欄干首重回。\n只待淮妖剪除後，別傾巵酒賀行臺。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

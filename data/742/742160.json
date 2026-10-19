@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "兵发日，日偶蚀幷亏。\n莫往前程寻大战，天垂威（辛本、川本作「戒」）象遣（京本作「上天垂象欲」）人知，去则将难归。",
-    "content_tr": "兵發日，日偶蝕幷虧。\n莫往前程尋大戰，天垂威（辛本、川本作「戒」）象遣（京本作「上天垂象欲」）人知，去則將難歸。"
+    "content": "兵发日，日偶蚀幷亏。\n莫往前程寻大战，天垂威象遣人知，去则将难归。",
+    "content_tr": "兵發日，日偶蝕幷虧。\n莫往前程尋大戰，天垂威象遣人知，去則將難歸。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

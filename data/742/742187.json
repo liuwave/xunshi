@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "日五色，或有气棱层（京本作「棱」）。\n其分国王权政失，躭迷酒色损生灵，修德灭奢矜。",
-    "content_tr": "日五色，或有氣稜層（京本作「稜」）。\n其分國王權政失，躭迷酒色損生靈，修德滅奢矜。"
+    "content": "日五色，或有气棱层。\n其分国王权政失，躭迷酒色损生灵，修德灭奢矜。",
+    "content_tr": "日五色，或有氣稜層。\n其分國王權政失，躭迷酒色損生靈，修德滅奢矜。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

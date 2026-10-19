@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "何以销烦暑，端居一院中。\n眼前无长物，窗下有清风。 \n热散由心静，凉生为室空。\n此时身自得，难更与人同。",
-    "content_tr": "何以銷煩暑，端居一院中。\n眼前無長物，窗下有清風。 \n熱散由心靜，涼生爲室空。\n此時身自得，難更與人同。"
+    "content": "何以销烦暑，端居一院中。\n眼前无长物，窗下有清风。\n热散由心静，凉生为室空。\n此时身自得，难更与人同。",
+    "content_tr": "何以銷煩暑，端居一院中。\n眼前無長物，窗下有清風。\n熱散由心靜，涼生爲室空。\n此時身自得，難更與人同。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

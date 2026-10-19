@@ -6,7 +6,7 @@
     "title_tr": "憶新淦觴池寄孟賓于員外",
     "author": "徐铉",
     "author_tr": "徐鉉",
-    "dynasty": "宋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "往年淦水驻行轩，引得清流似月圆。\n自有谿光还碧甃，不劳人力递金船。\n润滋苔藓欺茵席，声入杉松当管弦。\n珍重诗人频管领，莫教尘土咽潺潺。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

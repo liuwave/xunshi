@@ -6,7 +6,7 @@
     "title_tr": "邵武泰寧途間一路海棠",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "万骑连接出襄国，诸姨撩乱上骊山。\n道人不识红粧面，何事扶筇过此山。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

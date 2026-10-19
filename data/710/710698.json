@@ -6,7 +6,7 @@
     "title_tr": "挽謝竹所",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江左称群谢，青山几夕阳。\n田园遗一老，诗礼训诸郎。\n胜日携樽乐，清风隠几忘。\n灵輀无路送，东望涕沾裳。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

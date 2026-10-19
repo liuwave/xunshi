@@ -12,7 +12,9 @@
     "content": "云淡风轻近午天，望花随柳过前川。\n旁人不识予心乐，将谓偷闲学少年。",
     "content_tr": "雲淡風輕近午天，望花隨柳過前川。\n旁人不識予心樂，將謂偷閑學少年。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

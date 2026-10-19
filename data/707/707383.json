@@ -6,7 +6,7 @@
     "title_tr": "聽兒童歌船作竹枝助之",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "田舍儿童走似麞，踏歌椎鼓鬭颠狂。\n元宵乞汝闲几日，元宵过后种田忙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

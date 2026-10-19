@@ -6,7 +6,7 @@
     "title_tr": "瞻須菩提頌",
     "author": "文益",
     "author_tr": "文益",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "须菩提，貌古奇，说空法，法不离。\n信不及，又怀疑。\n信得及，复何之。\n倚笻杖，视东西。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

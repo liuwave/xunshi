@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "恶人相远离，善者近相知。\n纵使大无雨，阴云（一本作「云阴」。\n）自润衣。",
-    "content_tr": "惡人相遠離，善者近相知。\n縱使大無雨，陰雲（一本作「雲陰」。\n）自潤衣。"
+    "content": "恶人相远离，善者近相知。\n纵使大无雨，阴云自润衣。",
+    "content_tr": "惡人相遠離，善者近相知。\n縱使大無雨，陰雲自潤衣。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

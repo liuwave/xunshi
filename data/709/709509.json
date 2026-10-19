@@ -6,7 +6,7 @@
     "title_tr": "眉州借景亭",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "巍亭借景引壶觞，元祐诗人翰墨香。\n苍峡雷霆龙意气，碧崖烟雨豹文章。\n隔邻修竹娟娟静，夹道枯桑冉冉黄。\n水泛帘栊簷影倒，风吹城堞角声长。\n巴童结束歌仍俊，蜀女腰肢舞亦狂。\n千古相望翁季在，眉山草木有辉光。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

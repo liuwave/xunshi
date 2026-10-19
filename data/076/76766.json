@@ -2,8 +2,8 @@
   "work_id": 76766,
   "work": {
     "id": 76766,
-    "title": "秋夜将晓出篱门迎凉有感二首（其一）",
-    "title_tr": "秋夜將曉出籬門迎涼有感二首（其一）",
+    "title": "秋夜将晓出篱门迎凉有感二首  其一",
+    "title_tr": "秋夜将曉出籬門迎涼有感二首  其一",
     "author": "陆游",
     "author_tr": "陸游",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "迢迢天汉西南落，喔喔邻鸡一再鸣。\n壮志病来销欲尽，出门搔首怆平生。",
     "content_tr": "迢迢天漢西南落，喔喔鄰雞一再鳴。\n壯志病來銷欲盡，出門搔首愴平生。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

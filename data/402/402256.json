@@ -5,14 +5,14 @@
     "title": "宿灌头",
     "title_tr": "宿灌頭",
     "author": "华岳",
-    "author_tr": "華嶽",
+    "author_tr": "華岳",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "淡鱼才煮咸鱼熟，白酒新篘红酒香。\n莫讶杯盘成草草，一年忙处是蚕桑。",
-    "content_tr": "淡魚才煮鹹魚熟，白酒新篘紅酒香。\n莫訝杯盤成草草，一年忙處是蠶桑。"
+    "content": "淡鱼才煮咸鱼熟，白酒新𥬠红酒香。\n莫讶杯盘成草草，一年忙处是蚕桑。",
+    "content_tr": "淡魚纔煮鹹魚熟，白酒新篘紅酒香。\n莫訝盃盤成草草，一年忙處是蠶桑。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

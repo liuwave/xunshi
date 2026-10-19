@@ -6,7 +6,7 @@
     "title_tr": "謁梓潼張惡子廟",
     "author": "王铎",
     "author_tr": "王鐸",
-    "dynasty": "明",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "盛唐圣主解青萍，欲振新封济顺名。\n夜雨龙抛三尺匣，春云凤入九重城。\n劒门喜气随雷动，玉垒韶光待贼平。\n惟报关东诸将相，柱天功业赖阴兵。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

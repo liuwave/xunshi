@@ -3,16 +3,18 @@
   "work": {
     "id": 60627,
     "title": "欹松漪",
-    "title_tr": "欹鬆漪",
+    "title_tr": "欹松漪",
     "author": "顾况",
     "author_tr": "顧況",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "湛湛碧涟漪，老松欹侧卧。\n悠扬绿萝影，下拂波纹破。",
-    "content_tr": "湛湛碧漣漪，老鬆欹側臥。\n悠揚綠蘿影，下拂波紋破。"
+    "content_tr": "湛湛碧漣漪，老松欹側臥。\n悠揚綠蘿影，下拂波紋破。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

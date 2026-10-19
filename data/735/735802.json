@@ -6,7 +6,7 @@
     "title_tr": "送鄭侍郎騫赴闕",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "文章国器尽琅玕，朝骑骎骎岁欲残。\n彩笔祗宜天上用，绣衣偏称雪中看。\n休惊断鴈离三楚，渐入祥烟下七槃。\n翰苑旧知凭与说，紫金轮畔寄书难。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

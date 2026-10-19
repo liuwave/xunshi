@@ -2,8 +2,8 @@
   "work_id": 613,
   "work": {
     "id": 613,
-    "title": "竹里馆",
-    "title_tr": "竹裏館",
+    "title": "辋川集 竹里馆",
+    "title_tr": "輞川集 竹里館",
     "author": "王维",
     "author_tr": "王維",
     "dynasty": "唐",
@@ -12,7 +12,10 @@
     "content": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。",
     "content_tr": "獨坐幽篁裏，彈琴復長嘯。\n深林人不知，明月來相照。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "独自坐在幽深的竹林里，又弹琴，又长啸。深林之中没有人知道，只有明月前来相照。",
     "annotation": "幽篁（huáng）：幽深的竹林。\n长啸：撮口发出悠长清越的声音，古人以啸寄兴。",

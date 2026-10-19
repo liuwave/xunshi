@@ -12,7 +12,9 @@
     "content": "秋风起兮佳景时，吴江水兮鲈鱼肥。\n三千里兮安未归，恨难得兮仰天悲。",
     "content_tr": "秋風起兮佳景時，吳江水兮鱸魚肥。\n三千里兮安未歸，恨難得兮仰天悲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

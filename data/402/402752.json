@@ -2,17 +2,17 @@
   "work_id": 402752,
   "work": {
     "id": 402752,
-    "title": "思归二首 其二",
-    "title_tr": "思歸二首 其二",
+    "title": "思归二首  其二",
+    "title_tr": "思歸二首  其二",
     "author": "华镇",
     "author_tr": "華鎮",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "二顷何时有，乡园且结庐。\n凭轩见岩壑，闭户得琴书。\n雪幌冬炉暖，风窗夏簟虚。\n非才甘退缩，不是傲簪裾。",
+    "content": "二顷何时有，乡园且结庐。\n凭轩见岩壑，闭户得琴书。\n雪幌冬𬬻暖，风窗夏簟虚。\n非才甘退缩，不是傲簪裾。",
     "content_tr": "二頃何時有，鄉園且結廬。\n憑軒見巖壑，閉戶得琴書。\n雪幌冬鑪暖，風窗夏簟虛。\n非才甘退縮，不是傲簪裾。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,17 @@
   "work_id": 444421,
   "work": {
     "id": 444421,
-    "title": "和毋仲山雨后 其三",
-    "title_tr": "和毋仲山雨後 其三",
+    "title": "和毋仲山雨后  其三",
+    "title_tr": "和毋仲山雨後  其三",
     "author": "苏过",
     "author_tr": "蘇過",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "西湖跬可至，不畏城闉阻。\n芒鞋与竹杖，穿泥未为苦。\n清波暗萍藻，中无芙蕖吐。\n骤雨真可人，新荷亦掀舞。",
+    "content": "西湖跬可至，不畏城𬮱阻。\n芒鞋与竹杖，穿泥未为苦。\n清波暗萍藻，中无芙蕖吐。\n骤雨真可人，新荷亦掀舞。",
     "content_tr": "西湖跬可至，不畏城闉阻。\n芒鞋與竹杖，穿泥未爲苦。\n清波暗萍藻，中無芙蕖吐。\n驟雨真可人，新荷亦掀舞。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

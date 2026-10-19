@@ -2,17 +2,17 @@
   "work_id": 476504,
   "work": {
     "id": 476504,
-    "title": "雨中不出呈斯远兼示成父四首 其一",
-    "title_tr": "雨中不出呈斯遠兼示成父四首 其一",
+    "title": "雨中不出呈斯远兼示成父四首  其一",
+    "title_tr": "雨中不出呈斯遠兼示成父四首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "燠甚宜为雨，晴来又复阴。\n霜风吹不变，雪霰已相侵。\n寒且依炉密，泥防著屐深。\n未能从子去，何暇复梅寻。",
+    "content": "燠甚宜为雨，晴来又复阴。\n霜风吹不变，雪霰已相侵。\n寒且依𬬻密，泥防著屐深。\n未能从子去，何暇复梅寻。",
     "content_tr": "燠甚宜爲雨，晴來又復陰。\n霜風吹不變，雪霰已相侵。\n寒且依鑪密，泥防著屐深。\n未能從子去，何暇復梅尋。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,13 +6,13 @@
     "title_tr": "酒令 一",
     "author": "宋齐丘",
     "author_tr": "宋齊丘",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "先吃鳣鱼，又吃旁蟹，一似拈虵弄蝎。\n（使者。\n）。",
-    "content_tr": "先喫鱣魚，又喫旁蟹，一似拈虵弄蝎。\n（使者。\n）。"
+    "content": "先吃鳣鱼，又吃旁蟹，一似拈虵弄蝎。",
+    "content_tr": "先喫鱣魚，又喫旁蟹，一似拈虵弄蝎。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -1,0 +1,20 @@
+{
+  "work_id": 756567,
+  "work": {
+    "id": 756567,
+    "title": "阮郎归",
+    "title_tr": "阮郎歸",
+    "author": "晏几道",
+    "author_tr": "晏幾道",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "阮郎归",
+    "content": "旧香残粉似当初。\n人情恨不如。\n一春犹有数行书。\n秋来书更疏。\n衾凤冷，枕鸳孤。\n愁肠待酒舒。\n梦魂纵有也成虚。\n那堪和梦无。",
+    "content_tr": "舊香殘粉似當初。\n人情恨不如。\n一春猶有數行書。\n秋來書更疏。\n衾鳳冷，枕鴛孤。\n愁腸待酒舒。\n夢魂縱有也成虛。\n那堪和夢無。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -6,7 +6,7 @@
     "title_tr": "送羅學正赴歙",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "文公汤沐邑，子去作儒官。\n马首千峰秀，鶑声二月寒。\n山禽攒俸纳，溪友借书看。\n近日科名阔，青云上不难。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 391218,
   "work": {
     "id": 391218,
-    "title": "韩献肃公挽词三首 其三",
-    "title_tr": "韓獻肅公挽詞三首 其三",
+    "title": "韩献肃公挽词三首  其三",
+    "title_tr": "韓獻肅公挽詞三首  其三",
     "author": "范祖禹",
-    "author_tr": "範祖禹",
+    "author_tr": "范祖禹",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "东阁开无倦，西园宴不疲。\n苍生望安石，多士美当时。\n功业归青史，音容閟繐帷。\n乌衣门巷在，过客有馀悲。",
+    "content": "东阁开无倦，西园宴不疲。\n苍生望安石，多士美当时。\n功业归青史，音容閟𰬸帷。\n乌衣门巷在，过客有余悲。",
     "content_tr": "東閣開無倦，西園宴不疲。\n蒼生望安石，多士美當時。\n功業歸青史，音容閟繐帷。\n烏衣門巷在，過客有餘悲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "家临九江水，去来九江侧。\n同是长干人，生小不相识。",
     "content_tr": "家臨九江水，去來九江側。\n同是長干人，生小不相識。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "邑中滯雨示陳貴白",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "犹及相逢鬓未华，故乡春尽不须嗟。\n园林处处生新草，风雨年年送落花。\n高树昼寒归有鸟，小溪湍急走如蛇。\n方知傲世不在隠，高枕北窗闻打衙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

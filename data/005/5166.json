@@ -6,10 +6,10 @@
     "title_tr": "正月初三日水西寺",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "不到水西久，十年怀梦思。\n重行兵后路，暗觅壁间诗。\n僧出房俱鐍，人游榼自随。\n隔溪望城郭，未觉似春时。",
+    "content": "不到水西久，十年怀梦思。\n重行兵后路，暗觅壁间诗。\n僧出房俱𫔎，人游榼自随。\n隔溪望城郭，未觉似春时。",
     "content_tr": "不到水西久，十年懷夢思。\n重行兵後路，暗覓壁間詩。\n僧出房俱鐍，人遊榼自隨。\n隔溪望城郭，未覺似春時。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

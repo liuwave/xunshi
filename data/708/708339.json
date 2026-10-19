@@ -6,7 +6,7 @@
     "title_tr": "老樹",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "老树老且枯，数柯枝缀之。\n虫来食其叶，藤来缠其皮。\n幸然根本坚，未至甚离披。\n风霜既无损，雨露犹见私。\n如何乌鸟辈，同巢自倾危。\n鬭击翼似斧，啄伤嘴如锥。\n树色岁时减，树力日夜衰。\n回头试一顾，但可相扶持。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

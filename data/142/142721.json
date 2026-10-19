@@ -2,17 +2,17 @@
   "work_id": 142721,
   "work": {
     "id": 142721,
-    "title": "三用出郊韵三首 其一",
-    "title_tr": "三用出郊韻三首 其一",
+    "title": "三用出郊韵三首  其一",
+    "title_tr": "三用出郊韻三首  其一",
     "author": "吴潜",
     "author_tr": "吳潛",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "从来此地出高官，绮屋连云画里看。\n十里湖光多样好，百年人事几回残。\n菰蒲带露枝犹湿，䆉稏逢晴把便乾。\n乐岁何妨歌乐职，簿书缠缚敢辞难。",
+    "content": "从来此地出高官，绮屋连云画里看。\n十里湖光多样好，百年人事几回残。\n菰蒲带露枝犹湿，𫁂䅉逢晴把便干。\n乐岁何妨歌乐职，簿书缠缚敢辞难。",
     "content_tr": "從來此地出高官，綺屋連雲畫裏看。\n十里湖光多樣好，百年人事幾回殘。\n菰蒲带露枝猶溼，䆉稏逢晴把便乾。\n樂歲何妨歌樂職，簿書纏縛敢辭難。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

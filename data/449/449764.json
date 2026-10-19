@@ -2,8 +2,8 @@
   "work_id": 449764,
   "work": {
     "id": 449764,
-    "title": "颂古二十四首 其十",
-    "title_tr": "頌古二十四首 其十",
+    "title": "颂古二十四首  其一○",
+    "title_tr": "頌古二十四首  其一○",
     "author": "释胜",
     "author_tr": "釋勝",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

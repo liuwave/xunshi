@@ -6,7 +6,7 @@
     "title_tr": "追憶馮少常",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "盛德方清贵，旋闻逐逝波。\n令人翻不会，积善合如何。\n直道登朝晚，分忧及物多。\n至今新定郡，犹咏袴襦歌。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

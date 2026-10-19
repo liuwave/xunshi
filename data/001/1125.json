@@ -2,17 +2,19 @@
   "work_id": 1125,
   "work": {
     "id": 1125,
-    "title": "行宫",
-    "title_tr": "行宮",
-    "author": "元稹",
-    "author_tr": "元稹",
+    "title": "故行宫",
+    "title_tr": "故行宮",
+    "author": "王建",
+    "author_tr": "王建",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "寥落古行宫，宫花寂寞红。\n白头宫女在，闲坐说玄宗。",
-    "content_tr": "寥落古行宮，宮花寂寞紅。\n白頭宮女在，閒坐說玄宗。"
+    "content_tr": "寥落古行宮，宮花寂寞紅。\n白頭宮女在，閑坐說玄宗。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "冷落荒凉的古行宫，宫中的花寂寞地红着。白头宫女还在，闲坐着谈论玄宗。",
     "annotation": "行宫：皇帝出行时驻跸的宫殿。\n寥落：冷落萧条。",

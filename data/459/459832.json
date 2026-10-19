@@ -2,8 +2,8 @@
   "work_id": 459832,
   "work": {
     "id": 459832,
-    "title": "颂古三十九首 其三十",
-    "title_tr": "頌古三十九首 其三十",
+    "title": "颂古三十九首  其三○",
+    "title_tr": "頌古三十九首  其三○",
     "author": "释道枢",
     "author_tr": "釋道樞",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

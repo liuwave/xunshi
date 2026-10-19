@@ -2,15 +2,15 @@
   "work_id": 131,
   "work": {
     "id": 131,
-    "title": "相见欢",
-    "title_tr": "相見歡",
+    "title": "相见欢·无言独上西楼",
+    "title_tr": "相見歡·無言獨上西樓",
     "author": "李煜",
     "author_tr": "李煜",
     "dynasty": "五代十国",
     "kind_cn": "词",
     "rhythmic": "相见欢",
-    "content": "无言独上西楼，月如钩。寂寞梧桐深院锁清秋。\n剪不断，理还乱，是离愁。别是一般滋味在心头。",
-    "content_tr": "無言獨上西樓，月如鉤。寂寞梧桐深院鎖清秋。\n剪不斷，理還亂，是離愁。別是一般滋味在心頭。"
+    "content": "无言独上西楼，月如钩。\n寂寞梧桐深院，锁清秋。\n剪不断，理还乱，是离愁。\n别是一般滋味，在心头。",
+    "content_tr": "無言獨上西樓，月如鉤。\n寂寞梧桐深院，鎖清秋。\n剪不斷，理還亂，是離愁。\n別是一般滋味，在心頭。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "doubao-seed",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "送王安之無錫州判",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "龙峰邻吾州，赤子久失乳。\n或加手斵削，谁肯顶摩拊。\n有客来嘉禾，谈我读书坞。\n口称王侯贤，可配循吏古。\n廉不受私谒，公不畏强御。\n素秋下严霜，阳春沃膏雨。\n泽国鲈正肥，山泉茗尤苦。\n州县徒劳人，扬历安足数。\n莫思金带横，长学彩衣舞。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

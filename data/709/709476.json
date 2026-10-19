@@ -6,7 +6,7 @@
     "title_tr": "凌歊臺",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "百尺凌歊事已非，古碑岩畔上苔衣。\n禁园风暖草争发，废殿雨寒花乱飞。\n海北天高鹏得运，江南春尽雁知归。\n三千歌舞今何处，惟有姑溪遶翠微。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

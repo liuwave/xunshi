@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "君怀澹无营，潇潇渊明伍。\n筑台面乔岳，种竹环幽户。\n糠秕身后名，徽纆腰间组。\n高风激奔竞，救时非小补。",
-    "content_tr": "君懷澹無營，瀟瀟淵明伍。\n築檯面喬嶽，種竹環幽戶。\n糠秕身後名，徽纆腰間組。\n高風激奔競，救時非小補。"
+    "content": "君怀澹无营，潇潇渊明伍。\n筑台面乔岳，种竹环幽户。\n糠秕身后名，徽𬙊腰间组。\n高风激奔竞，救时非小补。",
+    "content_tr": "君懷澹無營，瀟瀟淵明伍。\n筑臺面喬嶽，種竹環幽戶。\n糠秕身後名，徽纆腰間組。\n高風激奔競，救時非小補。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

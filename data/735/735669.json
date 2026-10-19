@@ -6,7 +6,7 @@
     "title_tr": "偶作因懷大同道友",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "蛮木叶不落，微吟漳水滨。\n二毛空有雪，万事不如人。\n壍水平芳草，山花落净巾。\n天童好真伴，何日更相亲。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

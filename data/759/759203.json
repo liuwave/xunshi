@@ -1,0 +1,20 @@
+{
+  "work_id": 759203,
+  "work": {
+    "id": 759203,
+    "title": "菩萨蛮",
+    "title_tr": "菩薩蠻",
+    "author": "陈克",
+    "author_tr": "陳克",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "菩萨蛮",
+    "content": "赤阑桥尽香街直。\n笼街细柳娇无力。\n金碧上青空。\n花晴帘影红。\n黄衫飞白马。\n日日青楼下。\n醉眼不逢人。\n午香吹暗尘。",
+    "content_tr": "赤闌橋盡香街直。\n籠街細柳嬌無力。\n金碧上青空。\n花晴簾影紅。\n黃衫飛白馬。\n日日青樓下。\n醉眼不逢人。\n午香吹暗塵。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

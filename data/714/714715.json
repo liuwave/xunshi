@@ -12,7 +12,9 @@
     "content": "君家定何处？妾住在横塘。\n停舟暂借问，或恐是同乡。",
     "content_tr": "君家定何處？妾住在橫塘。\n停舟暫借問，或恐是同鄉。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 49479,
   "work": {
     "id": 49479,
-    "title": "四明山诗云南",
-    "title_tr": "四明山詩云南",
+    "title": "四明山诗 云南",
+    "title_tr": "四明山詩 雲南",
     "author": "陆龟蒙",
     "author_tr": "陸龜蒙",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "云南更有溪，丹砾尽无泥。\n药有巴賨卖，枝多越鸟啼。\n夜清先月午，秋近少岚迷。\n若得山颜住，芝?手自携。",
-    "content_tr": "雲南更有溪，丹礫盡無泥。\n藥有巴賨賣，枝多越鳥啼。\n夜清先月午，秋近少嵐迷。\n若得山顏住，芝?手自攜。"
+    "content": "云南更有溪，丹砾尽无泥。\n药有巴賨卖，枝多越鸟啼。\n夜清先月午，秋近少岚迷。\n若得山颜住，芝𥰭手自携。",
+    "content_tr": "雲南更有溪，丹礫盡無泥。\n藥有巴賨賣，枝多越鳥啼。\n夜清先月午，秋近少嵐迷。\n若得山顏住，芝𥰭手自攜。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

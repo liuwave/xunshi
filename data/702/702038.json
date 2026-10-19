@@ -6,7 +6,7 @@
     "title_tr": "長安",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "客从函谷过南州，略说长安旧日愁。\n仙隠有峰存紫阁，僧居无寺问红楼。\n兰亭古瘗藏狐貉，椒壁遗基牧马牛。\n万古不随人事改，独余清渭向东流。",
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

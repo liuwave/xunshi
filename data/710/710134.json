@@ -6,7 +6,7 @@
     "title_tr": "贈張知府周卿",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "人品中原说此翁，雄文直气耿心胸。\n几年天上张公子，今日云间陆士龙。\n来暮已闻歌五袴，平反何翅禄千钟。\n相从愧落诸公后，拭目西岩第一峰。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

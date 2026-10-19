@@ -6,7 +6,7 @@
     "title_tr": "上元再題",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "梅残万点路傍雪，桃露一班梢上红。\n惆怅六鼇山已去，了无情绪答春风。",
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

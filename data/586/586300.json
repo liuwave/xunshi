@@ -2,17 +2,19 @@
   "work_id": 586300,
   "work": {
     "id": 586300,
-    "title": "秋浦歌",
-    "title_tr": "秋浦歌",
+    "title": "秋浦歌十七首 十五",
+    "title_tr": "秋浦歌十七首 十五",
     "author": "李白",
     "author_tr": "李白",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "白发三千丈，缘愁似个长。\n不知明镜里，何处得秋霜？。",
-    "content_tr": "白髮三千丈，緣愁似個長。\n不知明鏡裏，何處得秋霜？。"
+    "content": "白发三千丈，缘愁似个长。\n不知明镜里，何处得秋霜。",
+    "content_tr": "白髮三千丈，緣愁似個長。\n不知明鏡裡，何處得秋霜。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

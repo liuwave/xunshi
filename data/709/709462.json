@@ -6,7 +6,7 @@
     "title_tr": "商山廟",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "蹇柏枯松枕庙门，独瞻遗像酹清尊。\n紫芝奕奕浮香气，碧草纤纤没烧痕。\n羽翼已成犹有说，腹心相视更何言。\n高歌一曲归来隠，静看山禽哺子孙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

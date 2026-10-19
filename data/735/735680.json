@@ -6,7 +6,7 @@
     "title_tr": "送僧歸山",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "眼青禅帔赤，气岸出尘埃。\n霞外终须去，人间作么来。\n崖香泉吐乳，坞燥烧□靁。\n他日终相觅，山门何处开。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "猛将气，龙虎两（京本作「气」）两连。\n挂翳蔽天兼掠地，蔓瓜盖路（京本作「地」）覆平川，坚守莫争先。",
-    "content_tr": "猛將氣，龍虎兩（京本作「氣」）兩連。\n掛翳蔽天兼掠地，蔓瓜蓋路（京本作「地」）覆平川，堅守莫爭先。"
+    "content": "猛将气，龙虎两两连。\n挂翳蔽天兼掠地，蔓瓜盖路覆平川，坚守莫争先。",
+    "content_tr": "猛將氣，龍虎兩兩連。\n掛翳蔽天兼掠地，蔓瓜蓋路覆平川，堅守莫爭先。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

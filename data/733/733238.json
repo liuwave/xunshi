@@ -6,7 +6,7 @@
     "title_tr": "題斗山觀",
     "author": "王仁裕",
     "author_tr": "王仁裕",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "霞衣欲举醉陶陶，不觉全家住绛霄。\n拔宅只知鸡犬在，上天谁信路岐遥。\n三清辽廊抛尘梦，八景云烟事早朝。\n为有故林苍柏健，露华凉叶锁金飙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

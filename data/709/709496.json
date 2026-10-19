@@ -6,7 +6,7 @@
     "title_tr": "西湖舊夢  其二",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "如此湖山正好嬉，游人船上醉如泥。\n黄鶑不入垂杨柳，却立海棠花上啼。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

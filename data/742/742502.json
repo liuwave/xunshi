@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "日休幷，九地上加临。\n龙遁祭龙宜水战，祈求雨泽（辛本、川本作「求」）奏天庭。\n掩敌有才能。",
-    "content_tr": "日休幷，九地上加臨。\n龍遁祭龍宜水戰，祈求雨澤（辛本、川本作「求」）奏天庭。\n掩敵有才能。"
+    "content": "日休幷，九地上加临。\n龙遁祭龙宜水战，祈求雨泽奏天庭。\n掩敌有才能。",
+    "content_tr": "日休幷，九地上加臨。\n龍遁祭龍宜水戰，祈求雨澤奏天庭。\n掩敵有才能。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

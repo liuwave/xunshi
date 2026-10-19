@@ -6,7 +6,7 @@
     "title_tr": "題萬戶府瑞麥圖",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "河中之野木连理，文人作颂何所美。\n鲤湖之水莲双葩，史臣纪异不足夸。\n木叶饥来岂堪食，莲花远观空有色。\n由来上瑞是丰年，芙蓉池外麦连天。\n一茎三穗攒秀颖，好事军中万口传。\n阅武堂成政多暇，刀剑不如牛犊价。\n老农噉饭看升平，奇祥异产从天下。\n香饵先收夏陇云，雪匙可卜秋田稼。\n绝怜西蜀杜参谋，困饥空怀当世忧。\n崆峒麦熟无人获，且问王师休未休。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 129078,
   "work": {
     "id": 129078,
-    "title": "夏日山居好十首 其九",
-    "title_tr": "夏日山居好十首 其九",
+    "title": "夏日山居好十首  其九",
+    "title_tr": "夏日山居好十首  其九",
     "author": "舒岳祥",
-    "author_tr": "舒嶽祥",
+    "author_tr": "舒岳祥",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "夏日山居好，日长宜学文。\n金门堪避世，?亩不忘君。\n林宿三冬雪，岩藏万里云。\n屈伸吾道在，何必杂人群。",
-    "content_tr": "夏日山居好，日長宜學文。\n金門堪避世，?畝不忘君。\n林宿三冬雪，巖藏萬里雲。\n屈伸吾道在，何必雜人羣。"
+    "content": "夏日山居好，日长宜学文。\n金门堪避世，𤱶亩不忘君。\n林宿三冬雪，岩藏万里云。\n屈伸吾道在，何必杂人群。",
+    "content_tr": "夏日山居好，日長宜學文。\n金門堪避世，𤱶畝不忘君。\n林宿三冬雪，巖藏萬里雲。\n屈伸吾道在，何必雜人羣。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

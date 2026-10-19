@@ -2,17 +2,17 @@
   "work_id": 414289,
   "work": {
     "id": 414289,
-    "title": "奉答雅均途中见寄二首 其一",
-    "title_tr": "奉答雅均途中見寄二首 其一",
+    "title": "奉答雅均途中见寄二首  其一",
+    "title_tr": "奉答雅均途中見寄二首  其一",
     "author": "强至",
-    "author_tr": "強至",
+    "author_tr": "强至",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "浊流非猛激，无以顿澄明。\n此邑先膏润，今予力洁清。\n人皆疑矫行，君独照真诚。\n一得途中什，譊譊众口平。",
+    "content": "浊流非猛激，无以顿澄明。\n此邑先膏润，今予力洁清。\n人皆疑矫行，君独照真诚。\n一得途中什，𫍢𫍢众口平。",
     "content_tr": "濁流非猛激，無以頓澄明。\n此邑先膏潤，今予力潔清。\n人皆疑矯行，君獨照真誠。\n一得途中什，譊譊衆口平。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

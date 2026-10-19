@@ -12,7 +12,9 @@
     "content": "花开红树乱鶑啼，草长平湖白鹭飞。\n风物晴和人意好，夕阳箫鼓几船归。",
     "content_tr": "花開紅樹亂鶑啼，草長平湖白鷺飛。\n風物晴和人意好，夕陽簫鼓幾船歸。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

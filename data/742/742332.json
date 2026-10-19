@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "狼奔走，直撞入吾军。\n不出三日（京本作「去三朝」）幷五日，敌来降我引朝君，彼我受皇恩。",
-    "content_tr": "狼奔走，直撞入吾軍。\n不出三日（京本作「去三朝」）幷五日，敵來降我引朝君，彼我受皇恩。"
+    "content": "狼奔走，直撞入吾军。\n不出三日幷五日，敌来降我引朝君，彼我受皇恩。",
+    "content_tr": "狼奔走，直撞入吾軍。\n不出三日幷五日，敵來降我引朝君，彼我受皇恩。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

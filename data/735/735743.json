@@ -6,7 +6,7 @@
     "title_tr": "送新羅衲僧",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "扶桑枝西真气奇，古人呼为师子儿。\n六环金锡轻摆撼，万仞雪峤空参差。\n枕上已无乡国梦，囊中犹挈石头碑。\n多慙不便随高步，正是风清无事时。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

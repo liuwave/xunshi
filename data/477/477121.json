@@ -2,17 +2,17 @@
   "work_id": 477121,
   "work": {
     "id": 477121,
-    "title": "呈辛卿二首 其一",
-    "title_tr": "呈辛卿二首 其一",
+    "title": "呈辛卿二首  其一",
+    "title_tr": "呈辛卿二首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "诗老当年聚此州，迩来零落尽山邱。\n公虽暂尔淹时用，天岂特令继夙游。\n幽事傥多尘事绝，灵山孰与博山优。\n林栖相去无百里，窈窕崎岖可后不。",
+    "content": "诗老当年聚此州，迩来零落尽山邱。\n公虽𫏐尔淹时用，天岂特令继夙游。\n幽事傥多尘事绝，灵山孰与博山优。\n林栖相去无百里，窈窕崎岖可后不。",
     "content_tr": "詩老當年聚此州，邇來零落盡山邱。\n公雖蹔爾淹時用，天豈特令繼夙游。\n幽事儻多塵事絕，靈山孰與博山優。\n林棲相去無百里，窈窕崎嶇可後不。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

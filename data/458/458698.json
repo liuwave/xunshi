@@ -2,17 +2,17 @@
   "work_id": 458698,
   "work": {
     "id": 458698,
-    "title": "和直指春日未众 其一",
-    "title_tr": "和直指春日未衆 其一",
+    "title": "和直指春日未众  其一",
+    "title_tr": "和直指春日未衆  其一",
     "author": "释慧空",
     "author_tr": "釋慧空",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "庵前乌龟久不见，一夜雷雨忽然出。\n东山老汉眼■痴，近前问讯定光佛。",
-    "content_tr": "庵前烏龜久不見，一夜雷雨忽然出。\n東山老漢眼■癡，近前問訊定光佛。"
+    "content": "庵前乌龟久不见，一夜雷雨忽然出。\n东山老汉眼𪾾痴，近前问讯定光佛。",
+    "content_tr": "庵前烏龜久不見，一夜雷雨忽然出。\n東山老漢眼𪾾癡，近前問訊定光佛。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

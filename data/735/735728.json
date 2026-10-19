@@ -6,7 +6,7 @@
     "title_tr": "讀吳越春秋",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "犹来吴越尽须慙，背德违盟又信谗。\n宰嚭一言终杀伍，大夫七事祗须三。\n功成献寿歌飘雪，谁爱扁舟水似蓝。\n今日雄图又何在，野花香径鸟喃喃。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

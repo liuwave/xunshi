@@ -6,7 +6,7 @@
     "title_tr": "凈慈禪寺",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "奎额昭回龙屈盘，入门已觉厌尘寰。\n何当白髪三千丈，来寄清风五百间。\n帝子釜摇金潋滟，家人卦剔翠孱颜。\n西湖日日船如织，半在南屏第一山。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

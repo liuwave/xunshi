@@ -6,7 +6,7 @@
     "title_tr": "送焦君實之采石學官",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "江水日以远，山花日又新。\n先吾不复少，后我皆成人。\n之子如良金，出矿以精纯。\n又如山中木，始遇雪发春。\n送子启长途，跋子升华津。\n青云题柱客，白髪倚闾亲。\n有志皆腾逸，非才独隠沦。\n山林双鬓古，井臼一生贫。\n宇宙无穷事，行藏各自身。\n因风传短句，望月吊词臣。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

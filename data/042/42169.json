@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "水槛桐庐馆，归舟系石根。\n笛吹孤戌月，犬吠隔溪村。\n十载违清裁，幽怀未一论。\n苏台菊花节，何处与开樽？",
-    "content_tr": "水檻桐廬館，歸舟系石根。\n笛吹孤戌月，犬吠隔溪村。\n十載違清裁，幽懷未一論。\n蘇臺菊花節，何處與開樽？"
+    "content": "水槛桐庐馆，归舟系石根。\n笛吹孤戍月，犬吠隔溪村。\n十载违清裁，幽怀未一论。",
+    "content_tr": "水檻桐廬館，歸舟繫石根。\n笛吹孤戍月，犬吠隔溪村。\n十載違清裁，幽懷未一論。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

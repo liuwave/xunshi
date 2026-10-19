@@ -2,17 +2,17 @@
   "work_id": 469146,
   "work": {
     "id": 469146,
-    "title": "题神霄宫 其一",
-    "title_tr": "題神霄宮 其一",
+    "title": "题神霄宫  其一",
+    "title_tr": "題神霄宮  其一",
     "author": "蔡京",
     "author_tr": "蔡京",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "下马神霄第一回，晴空宫殿九秋开。\n月中桂子看时落，云外仙軿特地来。",
+    "content": "下马神霄第一回，晴空宫殿九秋开。\n月中桂子看时落，云外仙𫐌特地来。",
     "content_tr": "下馬神霄第一回，晴空宮殿九秋開。\n月中桂子看時落，雲外仙軿特地來。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

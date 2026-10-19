@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "众军聚，驻札已经时。\n多有相蒸人（辛本、川本作「多」）气郁，使军疫瘴见灾危，一一与君知。",
-    "content_tr": "衆軍聚，駐札已經時。\n多有相蒸人（辛本、川本作「多」）氣鬱，使軍疫瘴見灾危，一一與君知。"
+    "content": "众军聚，驻札已经时。\n多有相蒸人气郁，使军疫瘴见灾危，一一与君知。",
+    "content_tr": "衆軍聚，駐札已經時。\n多有相蒸人氣鬱，使軍疫瘴見灾危，一一與君知。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "边草，边草，边草尽来共老。\n山南山北雪晴，千里万里月明。\n明月，明月，胡笳一声愁绝。",
     "content_tr": "邊草，邊草，邊草盡來共老。\n山南山北雪晴，千里萬里月明。\n明月，明月，胡笳一聲愁絕。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

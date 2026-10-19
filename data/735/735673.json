@@ -6,7 +6,7 @@
     "title_tr": "送僧入幽州",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "高士高无敌，腾腾话入燕。\n无人知尔意，向我道非禅。\n栗迳穿蕃冢，狼声隔远烟。\n槃山多道侣，应未有归年。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,8 +2,8 @@
   "work_id": 373,
   "work": {
     "id": 373,
-    "title": "山中送别",
-    "title_tr": "山中送別",
+    "title": "送别",
+    "title_tr": "送別",
     "author": "王维",
     "author_tr": "王維",
     "dynasty": "唐",
@@ -12,7 +12,10 @@
     "content": "山中相送罢，日暮掩柴扉。\n春草明年绿，王孙归不归。",
     "content_tr": "山中相送罷，日暮掩柴扉。\n春草明年綠，王孫歸不歸。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "在山中送别了友人，日暮时掩上柴门。春草明年又会绿，友人啊你归不归来？",
     "annotation": "王孙：贵族子弟的通称，此处用《楚辞·招隐士》王孙游兮不归语，指远行的友人。",

@@ -6,7 +6,7 @@
     "title_tr": "陳宮詞",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "缅想当时宫阙盛，荒宴椒房懱尧圣。\n玉树花歌百花里，珊瑚窗中海日迸。\n大臣来朝酒未醒，酒醒忠谏多不听。\n陈宫因此成野田，耕人犂破宫人镜。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

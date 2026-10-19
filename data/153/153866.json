@@ -2,11 +2,11 @@
   "work_id": 153866,
   "work": {
     "id": 153866,
-    "title": "拟齐梁体寄冯使君三首 其二",
-    "title_tr": "擬齊梁體寄馮使君三首 其二",
+    "title": "拟齐梁体寄冯使君三首 二",
+    "title_tr": "擬齊梁體寄馮使君三首 二",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "露益蝉声长，蕙兰垂紫带。\n清吟待明月，孤云忽为盖。\n伊余石林人，本是烧畬辈。\n频接谢公棋，输多未曾赛。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

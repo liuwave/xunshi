@@ -2,8 +2,8 @@
   "work_id": 43372,
   "work": {
     "id": 43372,
-    "title": "送臻师二首",
-    "title_tr": "送臻師二首",
+    "title": "送臻师二首 一",
+    "title_tr": "送臻師二首 一",
     "author": "李商隐",
     "author_tr": "李商隱",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

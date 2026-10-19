@@ -6,7 +6,7 @@
     "title_tr": "送崔尚書朝覲",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "至理契穹旻，方生甫与申。\n一麾歌政正，三相贺仁人。\n叵似卢怀慎，全如邵信臣。\n澄渟消宿蠹，煦爱剧阳春。\n对客烟花拆，焚香渥泽新。\n征黄还有自，挽邓住无因。\n峡水全输洁，巫娥却讶神。\n宋均颜未老，刘宠骨应贫。\n大醉辞王翦，含香望紫宸。\n三峰初有雪，万里正无尘。\n伊昔林中社，多招席上珍。\n终期仙掌下，香火一相亲。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

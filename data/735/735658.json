@@ -6,7 +6,7 @@
     "title_tr": "題弘式和尚院兼呈杜使君",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "二雅兼二密，愔愔祗自怡。\n腊高云屐朽，貌古画师疑。\n壍蚁缘金锡，罏烟惹雪眉。\n仍闻有新作，祗是寄相思。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

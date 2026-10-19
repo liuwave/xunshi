@@ -2,15 +2,15 @@
   "work_id": 34409,
   "work": {
     "id": 34409,
-    "title": "杂曲歌辞欸乃曲",
-    "title_tr": "雜曲歌辭欸乃曲",
+    "title": "杂曲歌辞 欸乃曲 一",
+    "title_tr": "雜曲歌辭 欸乃曲 一",
     "author": "元结",
     "author_tr": "元結",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞欸乃曲",
-    "content": "偏存名迹在人间，顺俗与时未安闲。来谒大官兼问政，扁舟却入九疑山。",
-    "content_tr": "偏存名跡在人間，順俗與時未安閒。來謁大官兼問政，扁舟卻入九疑山。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "偏存名迹在人间，顺俗与时未安闲。\n来谒大官兼问政，扁舟却入九疑山。",
+    "content_tr": "偏存名跡在人間，順俗與時未安閑。\n來謁大官兼問政，扁舟却入九疑山。"
   },
   "anthologies": [],
   "annotation": null,

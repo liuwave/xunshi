@@ -6,7 +6,7 @@
     "title_tr": "霞",
     "author": "王周",
     "author_tr": "王周",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "拂拂生残晖，层层如裂绯。\n天风翦成片，疑作仙人衣。",
@@ -20,5 +20,5 @@
     "model": "seedream-5.0-flash",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

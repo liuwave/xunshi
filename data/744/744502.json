@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "我陟崎岖岭，君行峣崅山。\n（句腹双声）。",
-    "content_tr": "我陟崎嶇嶺，君行嶢崅山。\n（句腹雙聲）。"
+    "content": "我陟崎岖岭，君行峣崅山。",
+    "content_tr": "我陟崎嶇嶺，君行嶢崅山。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

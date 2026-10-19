@@ -2,8 +2,8 @@
   "work_id": 53467,
   "work": {
     "id": 53467,
-    "title": "送宜春裴宰",
-    "title_tr": "送宜春裴宰",
+    "title": "送宜春裴宰是将军旻之孙",
+    "title_tr": "送宜春裴宰是將軍旻之孫",
     "author": "无可",
     "author_tr": "無可",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

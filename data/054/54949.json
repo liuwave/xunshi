@@ -2,8 +2,8 @@
   "work_id": 54949,
   "work": {
     "id": 54949,
-    "title": "故太常卿赠礼部尚书李公及夫人挽歌二首",
-    "title_tr": "故太常卿贈禮部尚書李公及夫人輓歌二首",
+    "title": "故太常卿赠礼部尚书李公及夫人挽歌二首 一",
+    "title_tr": "故太常卿贈禮部尚書李公及夫人輓歌二首 一",
     "author": "蒋涣",
     "author_tr": "蔣渙",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

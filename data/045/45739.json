@@ -2,17 +2,17 @@
   "work_id": 45739,
   "work": {
     "id": 45739,
-    "title": "列仙文方诸青童君",
-    "title_tr": "列仙文方諸青童君",
+    "title": "列仙文 方诸青童君",
+    "title_tr": "列仙文 方諸青童君",
     "author": "孟郊",
     "author_tr": "孟郊",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "大霞霏晨晖，元气无常形。\n玄辔飞霄外，八景乘高清。\n手把玉皇袂，携我晨中生。\n玄庭自嘉会，金书拆华名。\n贤女密所妍，相期洛水軿。",
+    "content": "大霞霏晨晖，元气无常形。\n玄辔飞霄外，八景乘高清。\n手把玉皇袂，携我晨中生。\n玄庭自嘉会，金书拆华名。\n贤女密所妍，相期洛水𫐌。",
     "content_tr": "大霞霏晨暉，元氣無常形。\n玄轡飛霄外，八景乘高清。\n手把玉皇袂，攜我晨中生。\n玄庭自嘉會，金書拆華名。\n賢女密所妍，相期洛水軿。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

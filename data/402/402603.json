@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "重云三日锁前山，麦陇泥涂尚未干。\n行路春光已?弃，任从风雨作轻寒。",
-    "content_tr": "重雲三日鎖前山，麥隴泥塗尚未乾。\n行路春光已?棄，任從風雨作輕寒。"
+    "content": "重云三日锁前山，麦陇泥涂尚未干。\n行路春光已𢬵弃，任从风雨作轻寒。",
+    "content_tr": "重雲三日鎖前山，麥隴泥塗尚未乾。\n行路春光已𢬵棄，任從風雨作輕寒。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

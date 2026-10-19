@@ -6,7 +6,7 @@
     "title_tr": "寄題沈可久雪村",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "吾闻昔人善赋梅，尝是梦中见春来。\n前村深雪天未晓，焉知昨夜一枝开。\n江村一雪复一雪，三白丰年与玉屑。\n多事诗人要闲管，想像高唐写奇绝。\n真曾质明杖屦无，前随牧童后樵夫。\n暗香何处费摸索，寒生吟癖浩然馿。\n平生我有脊梁铁，明年八十冻不折。\n卿用卿法自雪村，横斜独玩书窗月。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

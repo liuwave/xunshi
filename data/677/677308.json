@@ -12,7 +12,9 @@
     "content": "水满田畴稻叶齐，日光穿树晓烟低。\n黄鶑也爱新凉好，飞过青山影里啼。",
     "content_tr": "水滿田疇稻葉齊，日光穿樹曉煙低。\n黄鶑也愛新涼好，飛過青山影裏啼。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

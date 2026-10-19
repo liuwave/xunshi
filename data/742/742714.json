@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "香琼绶带雪缨络。\n（同前。\n）。",
-    "content_tr": "香瓊綬帶雪纓絡。\n（同前。\n）。"
+    "content": "香琼绶带雪缨络。",
+    "content_tr": "香瓊綬帶雪纓絡。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

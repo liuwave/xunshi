@@ -6,7 +6,7 @@
     "title_tr": "古詩十五韻送胡天放西遊",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "有铁莫妄镕，镕作侠士椎。\n有帛莫妄缝，缝作山人衣。\n君看天放翁，气貌绝清羸。\n濩落七尺身，仁义充肤肌。\n无家救人穷，无田恤人饥。\n江湖三十秋，白头转岖崎。\n余情尚洒洒，不吐酸寒辞。\n事慕古豪杰，诸儿那得知。\n或云有仙骨，深中愈难窥。\n趫腾华佗戏，偃蹇梁鸿噫。\n世态贵反复，口语澜翻飞。\n夫子顾之笑，百触不发机。\n宁当待沟壑，西山古谁悲。\n佩君珊瑚钩，酌以玻璃巵。\n相知岂云无，去去勿复疑。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

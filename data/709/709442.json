@@ -6,7 +6,7 @@
     "title_tr": "觀魚臺",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "高台留古迹，不见隠公游。\n白日悲风起，清河逆水流。\n潜鱼投别浦，狡兔据荒丘。\n应笑臧僖伯，何如谏得休。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

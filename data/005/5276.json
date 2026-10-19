@@ -6,11 +6,11 @@
     "title_tr": "夏商",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "牛下悲哀宁戚讴，捐汤置禹此何由。\n父初传子风差薄，臣至干君德转輶。\n归启旧家犹几在，升陑众旅已相仇。\n何人得似彭铿寿，见夏为殷复见周。",
-    "content_tr": "牛下悲哀甯戚謳，捐湯置禹此何由。\n父初傳子風差薄，臣至幹君德轉輶。\n歸啓舊家猶幾在，升陑衆旅已相仇。\n何人得似彭鏗壽，見夏爲殷復見周。"
+    "content": "牛下悲哀宁戚讴，捐汤置禹此何由。\n父初传子风差薄，臣至干君德转𬨎。\n归启旧家犹几在，升陑众旅已相仇。\n何人得似彭铿寿，见夏为殷复见周。",
+    "content_tr": "牛下悲哀甯戚謳，捐湯置禹此何由。\n父初傳子風差薄，臣至干君德轉輶。\n歸啟舊家猶幾在，升陑衆旅已相仇。\n何人得似彭鏗壽，見夏爲殷復見周。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

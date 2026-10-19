@@ -6,7 +6,7 @@
     "title_tr": "題陸義齋雙蓮圖",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "红粉香中双并蒂，碧丝藕下暗连株。\n主人一笑偶然尔，客子竞夸前所无。\n堂上埙箎兄友弟，房中琴瑟妇随夫。\n君家和气浓如酒，此即双莲瑞庆图。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

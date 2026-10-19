@@ -2,17 +2,17 @@
   "work_id": 465124,
   "work": {
     "id": 465124,
-    "title": "绍兴祀大火十二首 荧惑位酌献用《祐安》",
-    "title_tr": "紹興祀大火十二首 熒惑位酌獻用《祐安》",
+    "title": "绍兴祀大火十二首 荧惑位酌献用《祐安》。",
+    "title_tr": "紹興祀大火十二首 熒惑位酌獻用《祐安》。",
     "author": "郊庙朝会歌辞",
     "author_tr": "郊廟朝會歌辭",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "皇念有神，介我戬谷。\n登时休明，有此美禄。\n酌言献之，有飶其香。\n神兮燕娭，醉此嘉觞。",
+    "content": "皇念有神，介我戬谷。\n登时休明，有此美禄。\n酌言献之，有𫗣其香。\n神兮燕娭，醉此嘉觞。",
     "content_tr": "皇念有神，介我戩穀。\n登時休明，有此美祿。\n酌言獻之，有飶其香。\n神兮燕娭，醉此嘉觴。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

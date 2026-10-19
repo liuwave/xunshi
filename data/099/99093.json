@@ -2,15 +2,15 @@
   "work_id": 99093,
   "work": {
     "id": 99093,
-    "title": "望江南 其十",
-    "title_tr": "望江南 其十",
+    "title": "望江南・忆江南",
+    "title_tr": "望江南・憶江南",
     "author": "黄公绍",
     "author_tr": "黃公紹",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
+    "kind_cn": "词",
+    "rhythmic": "望江南・忆江南",
     "content": "思晴好，晨起望篱东。\n毕竟阴晴排日子，大都行止听天公。\n且住此山中。",
-    "content_tr": "思晴好，晨起望篱东。\n毕竟阴晴排日子，大都行止听天公。\n且住此山中。"
+    "content_tr": "思晴好，晨起望籬東。\n畢竟陰晴排日子，大都行止聽天公。\n且住此山中。"
   },
   "anthologies": [],
   "annotation": null,

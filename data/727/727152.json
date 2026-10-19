@@ -12,7 +12,10 @@
     "content": "落魄江南载酒行，楚腰肠断掌中轻。\n十年一觉扬州梦，赢得青楼薄幸名。",
     "content_tr": "落魄江南載酒行，楚腰腸斷掌中輕。\n十年一覺揚州夢，贏得青樓薄倖名。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "雨",
     "author": "仇远",
     "author_tr": "仇遠",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "才放庚申一日晴，天明一日雨如倾。\n乌云覆地阴阴合，白浪侵田滟滟平。\n屋漏未干连础润，桥低欲压碍舟行。\n桔橰不是闲家具，会听溪边鹅鹳鸣。",
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

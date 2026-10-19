@@ -6,7 +6,7 @@
     "title_tr": "春晚訪鏡湖方干",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "幽居湖北滨，相访值残春。\n路远诸峰雨，时多擉鼈人。\n蒸花初酿酒，渔艇劣容身。\n莫讶频来此，伊余亦隐沦。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

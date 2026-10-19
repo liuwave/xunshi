@@ -6,13 +6,13 @@
     "title_tr": "輕薄篇二首 一",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "绣林锦野，春态相压。\n谁家少年，马蹄蹋蹋。\n鬬鸡走狗夜不归，一掷赌却如花妾。\n谁云不颠不狂，其名不彰。\n悲夫！。",
-    "content_tr": "繡林錦野，春態相壓。\n誰家少年，馬蹄蹋蹋。\n鬬雞走狗夜不歸，一擲賭却如花妾。\n誰云不顛不狂，其名不彰。\n悲夫！。"
+    "content": "绣林锦野，春态相压。\n谁家少年，马蹄蹋蹋。\n鬬鸡走狗夜不归，一掷赌却如花妾。\n谁云不颠不狂，其名不彰。\n悲夫！",
+    "content_tr": "繡林錦野，春態相壓。\n誰家少年，馬蹄蹋蹋。\n鬬雞走狗夜不歸，一擲賭却如花妾。\n誰云不顛不狂，其名不彰。\n悲夫！"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

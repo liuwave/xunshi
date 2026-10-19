@@ -6,7 +6,7 @@
     "title_tr": "張道士求榿林詩",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "地移淮橘多成枳，人说江梅竟是柟。\n蜀木似桤成底用，盛时名字落江南。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

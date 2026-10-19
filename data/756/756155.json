@@ -1,0 +1,20 @@
+{
+  "work_id": 756155,
+  "work": {
+    "id": 756155,
+    "title": "玉楼春",
+    "title_tr": "玉樓春",
+    "author": "欧阳修",
+    "author_tr": "歐陽修",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "玉楼春",
+    "content": "别后不知君远近。\n触目凄凉多少闷。\n渐行渐远渐无书，水阔鱼沈何处问。\n夜深风竹敲秋韵。\n万叶千声皆是恨。\n故欹单枕梦中寻，梦又不成灯又尽。",
+    "content_tr": "別後不知君遠近。\n觸目淒涼多少悶。\n漸行漸遠漸無書，水闊魚沈何處問。\n夜深風竹敲秋韻。\n萬葉千聲皆是恨。\n故欹單枕夢中尋，夢又不成燈又盡。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

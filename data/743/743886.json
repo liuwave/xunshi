@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "主簿山高难见日，玉镜峰前易晓人。\n（见同书同卷引唐僧诗。\n）。",
-    "content_tr": "主簿山高難見日，玉鏡峰前易曉人。\n（見同書同卷引唐僧詩。\n）。"
+    "content": "主簿山高难见日，玉镜峰前易晓人。",
+    "content_tr": "主簿山高難見日，玉鏡峰前易曉人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "山桃红花满上头，蜀江春水拍山流。\n花红易衰似郎意，水流无限似侬愁。",
     "content_tr": "山桃紅花滿上頭，蜀江春水拍山流。\n花紅易衰似郎意，水流無限似儂愁。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

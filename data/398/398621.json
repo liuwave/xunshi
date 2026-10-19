@@ -2,17 +2,17 @@
   "work_id": 398621,
   "work": {
     "id": 398621,
-    "title": "送彭子复临海令满秩 其一",
-    "title_tr": "送彭子復臨海令滿秩 其一",
+    "title": "送彭子复临海令满秩  其一",
+    "title_tr": "送彭子復臨海令滿秩  其一",
     "author": "孙应时",
     "author_tr": "孫應時",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "君侯古循吏，及物如春醲。\n民间自宁一，堂上何从容。\n平生眼中人，此尹未易逢。\n吏道益可悲，非君吾孰从。",
+    "content": "君侯古循吏，及物如春𬪩。\n民间自宁一，堂上何从容。\n平生眼中人，此尹未易逢。\n吏道益可悲，非君吾孰从。",
     "content_tr": "君侯古循吏，及物如春醲。\n民間自寧一，堂上何從容。\n平生眼中人，此尹未易逢。\n吏道益可悲，非君吾孰從。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

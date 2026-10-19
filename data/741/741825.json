@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "亭午犹亏半，乌沈始得圆。\n要会个中意，牛头尾上安。\n（同前）。",
-    "content_tr": "亭午猶虧半，烏沈始得圓。\n要會箇中意，牛頭尾上安。\n（同前）。"
+    "content": "亭午犹亏半，乌沈始得圆。\n要会个中意，牛头尾上安。",
+    "content_tr": "亭午猶虧半，烏沈始得圓。\n要會箇中意，牛頭尾上安。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

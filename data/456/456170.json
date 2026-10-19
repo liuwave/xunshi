@@ -2,17 +2,17 @@
   "work_id": 456170,
   "work": {
     "id": 456170,
-    "title": "送钱竹岩宰常熟 其一",
-    "title_tr": "送錢竹岩宰常熟 其一",
+    "title": "送钱竹岩宰常熟  其一",
+    "title_tr": "送錢竹岩宰常熟  其一",
     "author": "释居简",
     "author_tr": "釋居簡",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "无日游天竺，新除问补陁。\n两回抽竹策，一语定弦歌。\n悬应如虚谷，灵通岂祝鮀。\n只依彭泽样，条具不须多。",
+    "content": "无日游天竺，新除问补陁。\n两回抽竹策，一语定弦歌。\n悬应如虚谷，灵通岂祝𬶍。\n只依彭泽样，条具不须多。",
     "content_tr": "無日游天竺，新除問補陁。\n兩回抽竹策，一語定弦歌。\n懸應如虛谷，靈通豈祝鮀。\n只依彭澤樣，條具不須多。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

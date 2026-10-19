@@ -12,7 +12,10 @@
     "content": "云母屏风烛影深，长河渐落晓星沈。\n常娥应悔偷灵药，碧海青天夜夜心。",
     "content_tr": "雲母屏風燭影深，長河漸落曉星沈。\n常娥應悔偷靈藥，碧海青天夜夜心。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "題月心詩卷併記遇仙事云",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "东轩记待月，纵笔说性命。\n岂惟不知月，实亦不知性。\n文虽欧苏工，理至关洛定。\n人心如明月，尘垢失清净。\n雾收海气澄，天逈风力劲。\n持我光明珠，照此大圆镜。\n镜中双彩鸾，翔立请骖乘。\n御宴影娥池，神飚忽吹醒。\n鸾飞晓镜空，龙睡渊珠静。\n依旧碧潭心，无复琼楼兴。\n韩郎固有言，仙人未贤圣。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

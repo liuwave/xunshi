@@ -2,17 +2,17 @@
   "work_id": 450610,
   "work": {
     "id": 450610,
-    "title": "偈颂一百一十七首 其五",
-    "title_tr": "偈頌一百一十七首 其五",
+    "title": "偈颂一百一十七首  其五",
+    "title_tr": "偈頌一百一十七首  其五",
     "author": "释绍昙",
     "author_tr": "釋紹曇",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "入微尘，含法界。\n顶?机，看脚下。\n须弥灯王，冰消瓦解。",
-    "content_tr": "入微塵，含法界。\n頂?機，看脚下。\n須彌燈王，冰消瓦解。"
+    "content": "入微尘，含法界。\n顶𩕳机，看脚下。\n须弥灯王，冰消瓦解。",
+    "content_tr": "入微塵，含法界。\n頂𩕳機，看脚下。\n須彌燈王，冰消瓦解。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "他皆携酒寻芳去，我独关门好静眠。 \n唯有杨花似相觅，因风时复到床前。",
-    "content_tr": "他皆攜酒尋芳去，我獨關門好靜眠。 \n唯有楊花似相覓，因風時復到牀前。"
+    "content": "他皆携酒寻芳去，我独关门好静眠。\n唯有杨花似相觅，因风时复到床前。",
+    "content_tr": "他皆攜酒尋芳去，我獨關門好靜眠。\n唯有楊花似相覓，因風時復到牀前。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

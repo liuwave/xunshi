@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "心中肝如割，腹（一作「肠」）里气便燋。\n逢风回无信，早雁转成遥。",
-    "content_tr": "心中肝如割，腹（一作「腸」）裏氣便燋。\n逢風迴無信，早雁轉成遙。"
+    "content": "心中肝如割，腹里气便燋。\n逢风回无信，早雁转成遥。",
+    "content_tr": "心中肝如割，腹裏氣便燋。\n逢風迴無信，早雁轉成遙。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

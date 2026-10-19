@@ -2,17 +2,17 @@
   "work_id": 449014,
   "work": {
     "id": 449014,
-    "title": "颂古一百二十一首 其八",
-    "title_tr": "頌古一百二十一首 其八",
+    "title": "颂古一百二十一首  其八",
+    "title_tr": "頌古一百二十一首  其八",
     "author": "释宗杲",
     "author_tr": "釋宗杲",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "见得分明识得亲，举来犹自涉涂程。\n直饶不犯毫芒者，也是拈䭔舐指人。",
+    "content": "见得分明识得亲，举来犹自涉涂程。\n直饶不犯毫芒者，也是拈𫗰舐指人。",
     "content_tr": "見得分明識得親，舉來猶自涉塗程。\n直饒不犯毫芒者，也是拈䭔舐指人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

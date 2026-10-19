@@ -2,16 +2,15 @@
   "work_id": 24896,
   "work": {
     "id": 24896,
-    "title": "凭栏人 · 越调 · 江夜",
-    "title_tr": "憑欄人 · 越調 · 江夜",
+    "title": "越调・凭阑人江夜",
+    "title_tr": "越調・憑闌人江夜",
     "author": "张可久",
     "author_tr": "張可久",
     "dynasty": "元",
-    "kind_cn": "词",
-    "rhythmic": "凭栏人",
+    "kind_cn": "曲",
+    "rhythmic": null,
     "content": "江水澄澄江月明，江上何人搊玉筝？隔江和泪听，满江长叹声。",
-    "content_tr": "江水澄澄江月明，江上何人搊玉箏？隔江和淚聽，滿江長嘆聲。",
-    "sub_title": "越调 · 江夜"
+    "content_tr": "江水澄澄江月明，江上何人搊玉箏？隔江和淚聽，滿江長嘆聲。"
   },
   "anthologies": [],
   "annotation": null,

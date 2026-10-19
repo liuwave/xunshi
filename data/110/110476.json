@@ -2,15 +2,15 @@
   "work_id": 110476,
   "work": {
     "id": 110476,
-    "title": "归字谣 · 其三",
-    "title_tr": "歸字謠 · 其三",
+    "title": "苍梧谣・归字谣",
+    "title_tr": "蒼梧謠・歸字謠",
     "author": "张孝祥",
     "author_tr": "張孝祥",
     "dynasty": "宋",
-    "kind_cn": "诗",
-    "rhythmic": null,
-    "content": "归。数得宣麻拜相时。秋前后，公衮更莱衣。",
-    "content_tr": "歸。數得宣麻拜相時。秋前後，公衮更萊衣。"
+    "kind_cn": "词",
+    "rhythmic": "苍梧谣・归字谣",
+    "content": "归。\n数得宣麻拜相时。\n秋前后，公衮更莱衣。",
+    "content_tr": "歸。\n數得宣麻拜相時。\n秋前後，公袞更萊衣。"
   },
   "anthologies": [],
   "annotation": null,

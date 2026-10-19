@@ -2,17 +2,17 @@
   "work_id": 561552,
   "work": {
     "id": 561552,
-    "title": "寻梅十首 其五",
-    "title_tr": "尋梅十首 其五",
+    "title": "寻梅十首  其五",
+    "title_tr": "尋梅十首  其五",
     "author": "徐瑞",
     "author_tr": "徐瑞",
     "dynasty": "宋",
-    "kind_cn": "词",
-    "rhythmic": "寻梅十首 其五",
-    "content": "墙东一株苍藓身，故人手斸山中云。\n封植敢忘角弓赋，每到花开如见君。",
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "墙东一株苍藓身，故人手𣃁山中云。\n封植敢忘角弓赋，每到花开如见君。",
     "content_tr": "牆東一株蒼蘚身，故人手斸山中雲。\n封植敢忘角弓賦，每到花開如見君。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

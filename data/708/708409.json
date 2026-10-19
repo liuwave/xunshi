@@ -6,7 +6,7 @@
     "title_tr": "春夜喜陳汝晦見過",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "乃翁治狱多阴德，之子论文有古风。\n尊俎祗容吾党共，衣冠能得几家同。\n书林有业何妨隠，徭籍无名莫怨穷。\n百岁相期今夕意，頼君咳唾起诸童。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

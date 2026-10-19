@@ -6,7 +6,7 @@
     "title_tr": "跋明皇貴妃並馬圖",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "声残玉笛梨花月，笑指骊泉浴香雪。\n宣来天驷玉花骢，醉僛金勒摇东风。\n阿环并辔微相顾，一点芳心倩鶑诉。\n五溪老奴侍鞍侧，招摇先入华清路。\n行幸东西春复秋，那知忧乐两相酬。\n朝元警跸犹清道，胡马长嘶出蓟幽。\n猿声霜冷巴山晓，锦袜遗香清渺渺。\n南内凄凉稀进御，海云空阔蓬莱小。\n泪湿花容春雨余，纵有丹青画不如。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

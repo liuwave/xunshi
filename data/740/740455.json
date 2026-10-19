@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "子綦南国隐，周氏北山居。\n羽客轻簪绶，霓裳下里闾。\n仙帆归海近，云气度关虚。\n今日辞明主，深恩宠汉疏。\n（同前）。",
-    "content_tr": "子綦南國隱，周氏北山居。\n羽客輕簪綬，霓裳下里閭。\n仙帆歸海近，雲氣度關虛。\n今日辭明主，深恩寵漢疏。\n（同前）。"
+    "content": "子綦南国隐，周氏北山居。\n羽客轻簪绶，霓裳下里闾。\n仙帆归海近，云气度关虚。\n今日辞明主，深恩宠汉疏。",
+    "content_tr": "子綦南國隱，周氏北山居。\n羽客輕簪綬，霓裳下里閭。\n仙帆歸海近，雲氣度關虛。\n今日辭明主，深恩寵漢疏。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

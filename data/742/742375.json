@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "鸭声异，一样似鹅声（京本作「鸣」）。\n鵿有官灾幷口舌，速须斋醮慎交争，方使免灾（京本作「遭」）刑。",
-    "content_tr": "鴨聲異，一樣似鵝聲（京本作「鳴」）。\n鵿有官災幷口舌，速須齋醮慎交爭，方使免灾（京本作「遭」）刑。"
+    "content": "鸭声异，一样似鹅声。\n鵿有官灾幷口舌，速须斋醮慎交争，方使免灾刑。",
+    "content_tr": "鴨聲異，一樣似鵝聲。\n鵿有官災幷口舌，速須齋醮慎交爭，方使免灾刑。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

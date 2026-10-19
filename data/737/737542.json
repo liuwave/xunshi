@@ -6,7 +6,7 @@
     "title_tr": "麥秀兩岐",
     "author": "和凝",
     "author_tr": "和凝",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "凉簟铺斑竹，鸳枕竝红玉。\n脸莲红，眉柳绿。\n胸雪宜新浴，淡黄衫子裁春縠，异香芬馥。\n羞道交回烛，未惯双双宿。\n树连枝，鱼比目。\n掌上腰如束，娇娆不争人拳跼，黛眉微蹙。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

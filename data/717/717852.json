@@ -12,7 +12,9 @@
     "content": "一枝秾艳露凝香，云雨巫山枉断肠。\n借问汉宫谁得似，可怜飞燕倚新妆。",
     "content_tr": "一枝穠豔露凝香，雲雨巫山枉斷腸。\n借問漢宮誰得似，可憐飛燕倚新妝。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

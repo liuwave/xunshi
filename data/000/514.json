@@ -2,15 +2,15 @@
   "work_id": 514,
   "work": {
     "id": 514,
-    "title": "楚辞 · 九歌 · 其十一 · 礼魂",
-    "title_tr": "楚辭 · 九歌 · 其十一 · 禮魂",
+    "title": "礼魂",
+    "title_tr": "禮魂",
     "author": "屈原",
     "author_tr": "屈原",
-    "dynasty": "周",
-    "kind_cn": "诗",
+    "dynasty": "先秦",
+    "kind_cn": "赋",
     "rhythmic": null,
-    "content": "成礼兮会鼓，\n传芭兮代舞。\n姱女倡兮容与；\n春兰兮秋菊，\n长无绝兮终古。",
-    "content_tr": "成禮兮會鼓，\n傳芭兮代舞。\n姱女倡兮容與；\n春蘭兮秋菊，\n長無絕兮終古。"
+    "content": "成礼兮会鼓，\n传芭兮代舞\n姱女倡兮容与\n春兰兮秋菊，\n长无绝兮终古。",
+    "content_tr": "成禮兮會鼓，\n傳芭兮代舞\n姱女倡兮容與\n春蘭兮秋菊，\n長無絕兮終古。"
   },
   "anthologies": [],
   "annotation": {

@@ -2,17 +2,17 @@
   "work_id": 379230,
   "work": {
     "id": 379230,
-    "title": "次仇待制韵 其一",
-    "title_tr": "次仇待制韻 其一",
+    "title": "次仇待制韵  其一",
+    "title_tr": "次仇待制韻  其一",
     "author": "吕颐浩",
     "author_tr": "呂頤浩",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "腐儒奋迹自山东，强欲区区效小忠。\n恢复中原虽有意，翼扶兴运怅无功。\n辞荣归去营三径，念昔何颜总百工。\n海不扬波边堠啸，伫闻飞牍奏肤功。",
+    "content": "腐儒奋迹自山东，强欲区区效小忠。\n恢复中原虽有意，翼扶兴运怅无功。\n辞荣归去营三径，念昔何颜总百工。\n海不扬波边堠啸，𥩟闻飞牍奏肤功。",
     "content_tr": "腐儒奮跡自山東，強欲區區效小忠。\n恢復中原雖有意，翼扶興運悵無功。\n辭榮歸去營三徑，念昔何顔總百工。\n海不揚波邊堠嘯，竚聞飛牘奏膚功。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

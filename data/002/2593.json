@@ -2,16 +2,15 @@
   "work_id": 2593,
   "work": {
     "id": 2593,
-    "title": "梧叶儿 · 商调 · 别情",
-    "title_tr": "梧葉兒 · 商調 · 別情",
+    "title": "商调・梧叶儿别情",
+    "title_tr": "商調・梧葉兒別情",
     "author": "关汉卿",
     "author_tr": "關漢卿",
     "dynasty": "元",
-    "kind_cn": "词",
-    "rhythmic": "梧叶儿",
-    "content": "别离易，相见难，何处锁雕鞍？春将去，人未还。这其间，殃及杀愁眉泪眼。",
-    "content_tr": "別離易，相見難，何處鎖雕鞍？春將去，人未還。這其間，殃及殺愁眉淚眼。",
-    "sub_title": "商调 · 别情"
+    "kind_cn": "曲",
+    "rhythmic": null,
+    "content": "别离易，相见难，何处锁雕鞍？春将去，人未还。\n这其间，殃及杀愁眉泪眼。",
+    "content_tr": "別離易，相見難，何處鎖雕鞍？春將去，人未還。\n這其間，殃及殺愁眉淚眼。"
   },
   "anthologies": [],
   "annotation": {

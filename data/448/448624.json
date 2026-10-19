@@ -2,8 +2,8 @@
   "work_id": 448624,
   "work": {
     "id": 448624,
-    "title": "偈颂七十二首 其二十",
-    "title_tr": "偈頌七十二首 其二十",
+    "title": "偈颂七十二首  其二○",
+    "title_tr": "偈頌七十二首  其二○",
     "author": "释祖钦",
     "author_tr": "釋祖欽",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

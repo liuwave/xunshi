@@ -2,17 +2,19 @@
   "work_id": 470,
   "work": {
     "id": 470,
-    "title": "鸟鸣涧",
-    "title_tr": "鳥鳴澗",
+    "title": "皇甫岳云溪杂题五首 鸟鸣涧",
+    "title_tr": "皇甫嶽雲溪雜題五首 鳥鳴澗",
     "author": "王维",
     "author_tr": "王維",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "人闲桂花落，夜静春山空。\n月出惊山鸟，时鸣春涧中。",
-    "content_tr": "人閒桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。"
+    "content_tr": "人閑桂花落，夜靜春山空。\n月出驚山鳥，時鳴春澗中。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "人闲静时桂花飘落，夜静了春山显得空寂。\n月亮出来惊动了山鸟，不时在春天的山涧中鸣叫。",
     "annotation": "空：空寂。\n时：时时，不时。",

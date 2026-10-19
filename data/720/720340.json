@@ -12,7 +12,9 @@
     "content": "飞雪带春风，裴回乱绕空。\n君看似花处，偏在洛阳东。",
     "content_tr": "飛雪帶春風，裴回亂繞空。\n君看似花處，偏在洛陽東。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

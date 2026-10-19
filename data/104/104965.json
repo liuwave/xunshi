@@ -10,9 +10,11 @@
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "飞花两岸照船红，百里榆堤半日风。\n卧看满天云不动，不知云与我俱东。",
-    "content_tr": "飛花兩岸照船紅，百里榆堤半日風。\n臥看滿天雲不動，不知雲與我俱東。"
+    "content_tr": "飛花兩岸照船紅，百里榆堤半日風。\n卧看滿天雲不動，不知雲與我俱東。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

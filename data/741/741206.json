@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "粧成落日卷帘坐，小玉焚香罗帐深。\n（见同书同卷引李惟诗）。",
-    "content_tr": "粧成落日捲簾坐，小玉焚香羅帳深。\n（見同書同卷引李惟詩）。"
+    "content": "粧成落日卷帘坐，小玉焚香罗帐深。",
+    "content_tr": "粧成落日捲簾坐，小玉焚香羅帳深。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

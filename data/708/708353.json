@@ -6,7 +6,7 @@
     "title_tr": "夜寒行",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "昨日天寒不成醉，今日天寒不成寐。\n醉迟得酒可强欢，寐少愁多频发喟。\n紫竿苇炬閙荒城，役夫遥作鹳鸭鸣。\n拥衾高枕未云苦，熟听但觉令人惊。\n乌孙黄鹄飞不返，辽城白骨填未满。\n朔风萧萧吹成旗，居人何如去人远。\n丈夫无成霜满须，沙场万里星河疏。\n南墙诗翁穷据炉，北窗少年犹读书。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

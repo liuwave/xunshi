@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "愁听黄莺唤友声，空闺曙色梦初惊。\n窗前总有花牋纸，难寄妾心字字明。\n（又歌）。",
-    "content_tr": "愁聽黃鶯喚友聲，空閨曙色夢初驚。\n窗前總有花牋紙，難寄妾心字字明。\n（又歌）。"
+    "content": "愁听黄莺唤友声，空闺曙色梦初惊。\n窗前总有花牋纸，难寄妾心字字明。",
+    "content_tr": "愁聽黃鶯喚友聲，空閨曙色夢初驚。\n窗前總有花牋紙，難寄妾心字字明。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

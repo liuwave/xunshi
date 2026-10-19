@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "谁把江西一幸民，强摹南极老人星。\n穹龟鹿鹤朋三寿，伴我松根斸茯苓。",
+    "content": "谁把江西一幸民，强摹南极老人星。\n穹龟鹿鹤朋三寿，伴我松根𣃁茯苓。",
     "content_tr": "誰把江西一幸民，强摹南極老人星。\n穹龜鹿鶴朋三壽，伴我松根斸茯苓。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

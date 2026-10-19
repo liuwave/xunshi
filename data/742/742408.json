@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "临阵次，鸟向（京本作「鬬」）彼军飞。\n便整旗鎗（京本作「旛」）征敌吉，统兵大帅不须疑，天助得其时。",
-    "content_tr": "臨陣次，鳥向（京本作「鬬」）彼軍飛。\n便整旗鎗（京本作「旛」）征敵吉，統兵大帥不須疑，天助得其時。"
+    "content": "临阵次，鸟向彼军飞。\n便整旗鎗征敌吉，统兵大帅不须疑，天助得其时。",
+    "content_tr": "臨陣次，鳥向彼軍飛。\n便整旗鎗征敵吉，統兵大帥不須疑，天助得其時。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

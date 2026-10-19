@@ -1,0 +1,20 @@
+{
+  "work_id": 756089,
+  "work": {
+    "id": 756089,
+    "title": "玉楼春",
+    "title_tr": "玉樓春",
+    "author": "宋祁",
+    "author_tr": "宋祁",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "玉楼春",
+    "content": "东城渐觉风光好。\n縠皱波纹迎客棹。\n绿杨烟外晓寒轻，红杏枝头春意闹。\n浮生长恨欢娱少。\n肯爱千金轻一笑。\n为君持酒劝斜阳，且向花间留晚照。",
+    "content_tr": "東城漸覺風光好。\n縠皺波紋迎客棹。\n綠楊煙外曉寒輕，紅杏枝頭春意鬧。\n浮生長恨歡娛少。\n肯愛千金輕一笑。\n爲君持酒勸斜陽，且向花間留晚照。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

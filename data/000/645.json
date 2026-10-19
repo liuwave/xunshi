@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "鹅，鹅，鹅，曲项向天歌。\n白毛浮绿水，红掌拨清波。​",
-    "content_tr": "鵝，鵝，鵝，曲項嚮天歌。\n白毛浮緑水，紅掌撥淸波。​"
+    "content": "鹅，鹅，鹅，曲项向天歌。\n白毛浮绿水，红掌拨清波。",
+    "content_tr": "鵝，鵝，鵝，曲項向天歌。\n白毛浮綠水，紅掌撥清波。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

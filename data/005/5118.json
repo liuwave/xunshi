@@ -6,10 +6,10 @@
     "title_tr": "白土道中",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "雪后江南路，新晴野日浓。\n车舆通旅客，篱落聚村僮。\n澌解波□□，泥干土未松。\n吾家有春酒，归斸故园菘。",
+    "content": "雪后江南路，新晴野日浓。\n车舆通旅客，篱落聚村僮。\n澌解波□□，泥干土未松。\n吾家有春酒，归𣃁故园菘。",
     "content_tr": "雪後江南路，新晴野日濃。\n車輿通旅客，籬落聚村僮。\n澌解波□□，泥乾土未鬆。\n吾家有春酒，歸斸故園菘。"
   },
   "anthologies": [],
@@ -20,5 +20,5 @@
     "model": "MiMo-V2.6-Flash",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

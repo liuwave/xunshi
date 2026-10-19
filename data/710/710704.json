@@ -6,7 +6,7 @@
     "title_tr": "挽吳野堂",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "保护兵冲日，焦劳岁歉时。\n江湖一老重，州里百年思。\n家尚玄元学，人遵义役规。\n阴功宜有后，隠德固应祠。\n拟作荣乡记，谁镌有道碑。\n碧梧虽未识，宿草尚堪悲。\n偶泊梅江堰，空吟薤露诗。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

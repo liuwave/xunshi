@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "出军法，夜与日相殊。\n彼上有光（京本作「星」）兼月朗，我军上面暗稀疎，进战决成输。",
-    "content_tr": "出軍法，夜與日相殊。\n彼上有光（京本作「星」）兼月朗，我軍上面暗稀疎，進戰決成輸。"
+    "content": "出军法，夜与日相殊。\n彼上有光兼月朗，我军上面暗稀疎，进战决成输。",
+    "content_tr": "出軍法，夜與日相殊。\n彼上有光兼月朗，我軍上面暗稀疎，進戰決成輸。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

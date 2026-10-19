@@ -6,7 +6,7 @@
     "title_tr": "山居懷林處士",
     "author": "白珽",
     "author_tr": "白珽",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "昔有林处士，结庐邻峰巅。\n年年不入城，梅花有佳联。\n童鹤三数口，负郭十亩田。\n弟姪列朝裾，咸平好时年。\n人品既已高，奉养常充然。\n嗟我何为者，日用买山钱。\n爱诗不能佳，未了区中缘。\n空有一寸心，羡杀处士贤。\n饱看贵人面，不若饥看天。\n搥床呼伯雅，且此相周旋。\n有田足几时，卓哉坡翁言。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

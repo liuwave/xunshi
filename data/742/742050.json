@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "云气赤，尤更接连绵。\n有似成长藤无（京本作「幷」）断续，外邦贼起入（京本作「及」）中原，主战在秋天（京本作「前」）。",
-    "content_tr": "雲氣赤，尤更接連綿。\n有似成長藤無（京本作「幷」）斷續，外邦賊起入（京本作「及」）中原，主戰在秋天（京本作「前」）。"
+    "content": "云气赤，尤更接连绵。\n有似成长藤无断续，外邦贼起入中原，主战在秋天。",
+    "content_tr": "雲氣赤，尤更接連綿。\n有似成長藤無斷續，外邦賊起入中原，主戰在秋天。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

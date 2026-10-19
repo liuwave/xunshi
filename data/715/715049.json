@@ -12,7 +12,9 @@
     "content": "关山征戍远，闺阁别离难。\n苦战应顦顇，寒衣不要宽。",
     "content_tr": "關山征戍遠，閨閣別離難。\n苦戰應顦顇，寒衣不要寬。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

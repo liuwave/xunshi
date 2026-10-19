@@ -6,7 +6,7 @@
     "title_tr": "天山觀雪王昭儀相邀割駝肉",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "北征已十年，抑鬰悲局促。\n拄杖看天山，雪光皎如玉。\n满目鹯鹰飞，晴天猎鸿鹄。\n羁人灶无炊，竟夕枵其腹。\n美人塞边来，邀我分豆粥。\n手持并铁刀，欣然割驼肉。\n勿诮草堂翁，一饱死亦足。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

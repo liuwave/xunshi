@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "遇坎聊知止，逢风或未归。\n孤根何处断？\n轻叶强能飞。",
-    "content_tr": "遇坎聊知止，逢風或未歸。\n孤根何處斷？\n輕葉強能飛。"
+    "content": "遇坎聊知止，逢风或未归。\n孤根何处断？轻叶强能飞。",
+    "content_tr": "遇坎聊知止，逢風或未歸。\n孤根何處斷？輕葉強能飛。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

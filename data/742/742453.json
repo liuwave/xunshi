@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "东方阵，角姓七人从。\n纯着青衣青队伏，青旗青（京本作「骢」）马作先锋，木阵号青龙。",
-    "content_tr": "東方陣，角姓七人從。\n純着青衣青隊伏，青旗青（京本作「驄」）馬作先鋒，木陣號青龍。"
+    "content": "东方阵，角姓七人从。\n纯着青衣青队伏，青旗青马作先锋，木阵号青龙。",
+    "content_tr": "東方陣，角姓七人從。\n純着青衣青隊伏，青旗青馬作先鋒，木陣號青龍。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

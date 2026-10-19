@@ -2,17 +2,17 @@
   "work_id": 431617,
   "work": {
     "id": 431617,
-    "title": "题贵池亭次蹈韵二首 其一",
-    "title_tr": "題貴池亭次蹈韻二首 其一",
+    "title": "题贵池亭次蹈韵二首  其一",
+    "title_tr": "題貴池亭次蹈韻二首  其一",
     "author": "刘摰",
     "author_tr": "劉摰",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "一夜山南雪，清寒江上州。\n年华随水去，客兴为鱼留。\n闻雁思湖表，看梅寄陇头。\n樯乌风信好，紞鼓洞庭舟。",
+    "content": "一夜山南雪，清寒江上州。\n年华随水去，客兴为鱼留。\n闻鴈思湖表，看梅寄陇头。\n樯乌风信好，𬘘鼓洞庭舟。",
     "content_tr": "一夜山南雪，清寒江上州。\n年華隨水去，客興爲魚留。\n聞鴈思湖表，看梅寄隴頭。\n檣烏風信好，紞鼓洞庭舟。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

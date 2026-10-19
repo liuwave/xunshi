@@ -6,13 +6,13 @@
     "title_tr": "寄景判官兼思州葉使君",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "独住西峰半，寻常欲下难。\n石多桐屐齾，香甚药花干。\n荏苒新莺老，穷通亦自宽。\n髯参与短簿，始为一吟看。",
-    "content_tr": "獨住西峯半，尋常欲下難。\n石多桐屐齾，香甚藥花乾。\n荏苒新鶯老，窮通亦自寬。\n髯參與短簿，始爲一吟看。"
+    "content": "独住西峰半，寻常欲下难。\n石多桐屐𫜰，香甚药花干。\n荏苒新莺老，穷通亦自宽。\n髯参与短簿，始为一吟看。",
+    "content_tr": "獨住西峰半，尋常欲下難。\n石多桐屐齾，香甚藥花乾。\n荏苒新鶯老，窮通亦自寬。\n髯參與短簿，始爲一吟看。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

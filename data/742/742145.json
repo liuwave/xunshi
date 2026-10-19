@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "天忽见，有虹赤红黄。\n贯北斗极星还遶，君生贤圣主（辛本作「至」）非常。\n此事甚相当。",
-    "content_tr": "天忽見，有虹赤紅黃。\n貫北斗極星還遶，君生賢聖主（辛本作「至」）非常。\n此事甚相當。"
+    "content": "天忽见，有虹赤红黄。\n贯北斗极星还遶，君生贤圣主非常。\n此事甚相当。",
+    "content_tr": "天忽見，有虹赤紅黃。\n貫北斗極星還遶，君生賢聖主非常。\n此事甚相當。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

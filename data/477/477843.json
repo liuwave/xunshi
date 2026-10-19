@@ -2,17 +2,17 @@
   "work_id": 477843,
   "work": {
     "id": 477843,
-    "title": "西轩杂题三首 其一",
-    "title_tr": "西軒雜題三首 其一",
+    "title": "西轩杂题三首  其一",
+    "title_tr": "西軒雜題三首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "晓起看山谓得真，突然山外见嶙峋。\n须臾释屩浑无迹，绝倒山灵解戏人。",
+    "content": "晓起看山谓得真，突然山外见嶙峋。\n须臾释𪨗浑无迹，绝倒山灵解戏人。",
     "content_tr": "曉起看山謂得真，突然山外見嶙峋。\n須臾釋屩渾無迹，絕倒山靈解戲人。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

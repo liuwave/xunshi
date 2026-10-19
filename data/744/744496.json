@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "汉月朝朝暗，胡风夜夜寒。\n（句腹重字）。",
-    "content_tr": "漢月朝朝暗，胡風夜夜寒。\n（句腹重字）。"
+    "content": "汉月朝朝暗，胡风夜夜寒。",
+    "content_tr": "漢月朝朝暗，胡風夜夜寒。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

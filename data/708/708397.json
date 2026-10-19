@@ -6,7 +6,7 @@
     "title_tr": "簡王元剛併寄意王理得君玉",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "见说频相忆，新年已两书。\n雪肥秦望草，春动镜湖鱼。\n茧纸堆成屋，乌蓬走当车。\n诸公有游事，少待意如何。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

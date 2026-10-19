@@ -6,7 +6,7 @@
     "title_tr": "賦得風光草際浮",
     "author": "徐铉",
     "author_tr": "徐鉉",
-    "dynasty": "宋",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "宿露依芳草，春郊古陌旁。\n风轻不尽偃，日早未晞阳。\n耿耿依平远，离离入望长。\n映空无定彩，飘迳有余光。\n飐若荷珠乱，纷如爝火飏。\n诗人多感物，凝思绕池塘。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

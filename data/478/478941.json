@@ -2,17 +2,17 @@
   "work_id": 478941,
   "work": {
     "id": 478941,
-    "title": "病中即事十五首 其四",
-    "title_tr": "病中即事十五首 其四",
+    "title": "病中即事十五首  其四",
+    "title_tr": "病中即事十五首  其四",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "宵晴朝复雨，夜雨晓还晴。\n未识冬天尔，浑疑春令行。\n人人忧疟疠，物物败生成。\n襘法繇来古，官居孰用情。",
+    "content": "宵晴朝复雨，夜雨晓还晴。\n未识冬天尔，浑疑春令行。\n人人忧疟疠，物物败生成。\n𫋻法繇来古，官居孰用情。",
     "content_tr": "宵晴朝復雨，夜雨曉還晴。\n未識冬天爾，渾疑春令行。\n人人憂瘧癘，物物敗生成。\n襘法繇來古，官居孰用情。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -12,7 +12,9 @@
     "content": "独有宦游人，偏惊物候新。\n云霞出海曙，梅柳渡江春。\n淑气催黄鸟，晴光照绿苹。\n忽闻歌苦调，归思欲沾巾。",
     "content_tr": "獨有宦遊人，偏驚物候新。\n雲霞出海曙，梅柳渡江春。\n淑氣催黃鳥，晴光照綠蘋。\n忽聞歌苦調，歸思欲霑巾。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

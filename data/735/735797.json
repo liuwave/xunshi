@@ -6,7 +6,7 @@
     "title_tr": "遊金華山禪院",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "兹地曾栖菩萨僧，旃檀楼殿瀑崩腾。\n因知境胜终难到，问著人来悉不曾。\n斜谷暗藏千载雪，薄岚常翳一龛灯。\n多慙不及当时海，又下嵯峨一万层。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -12,7 +12,9 @@
     "content": "落日晴江里，荆歌艳楚腰。\n采莲从小惯，十五即乘潮。",
     "content_tr": "落日晴江裏，荆歌豔楚腰。\n採蓮從小慣，十五即乘潮。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

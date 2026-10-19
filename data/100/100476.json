@@ -2,8 +2,8 @@
   "work_id": 100476,
   "work": {
     "id": 100476,
-    "title": "自责二首（其二）",
-    "title_tr": "自責二首（其二）",
+    "title": "自责二首  其二",
+    "title_tr": "自責二首  其二",
     "author": "朱淑真",
     "author_tr": "朱淑真",
     "dynasty": "宋",
@@ -12,7 +12,9 @@
     "content": "闷无消遣只看诗，又见诗中话别离。\n添得情怀转萧索，如知伶俐不如痴。",
     "content_tr": "悶無消遣只看詩，又見詩中話別離。\n添得情懷轉蕭索，如知伶俐不如癡。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -12,7 +12,9 @@
     "content": "山际见来烟，竹中窥落日。\n鸟向檐上飞，云从窗里出。",
     "content_tr": "山際見來煙，竹中窺落日。\n鳥向檐上飛，雲從窗裏出。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "山边望见升起的烟霭，\n从竹林中窥见落日。\n鸟儿向屋檐上飞，\n云彩从窗里飘出。",
     "annotation": "烟：指山间岚气烟霭。",

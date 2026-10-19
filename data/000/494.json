@@ -2,17 +2,19 @@
   "work_id": 494,
   "work": {
     "id": 494,
-    "title": "竹枝词（其一）",
-    "title_tr": "竹枝詞（其一）",
+    "title": "竹枝词二首 一",
+    "title_tr": "竹枝詞二首 一",
     "author": "刘禹锡",
     "author_tr": "劉禹錫",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "竹枝词（其一）",
+    "kind_cn": "诗",
+    "rhythmic": null,
     "content": "杨柳青青江水平，闻郎江上唱歌声。\n东边日出西边雨，道是无晴却有晴。",
-    "content_tr": "楊柳青青江水平，聞郎江上唱歌聲。\n東邊日出西邊雨，道是無晴卻有晴。"
+    "content_tr": "楊柳青青江水平，聞郎江上唱歌聲。\n東邊日出西邊雨，道是無晴却有晴。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": {
     "translation": "杨柳青青，江水平得像镜面，听见情郎在江上唱歌的声音。东边出着太阳西边下着雨，说它不是晴天却又有晴天。",
     "annotation": "晴：谐音“情”，语意双关。",

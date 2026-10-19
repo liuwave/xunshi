@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "石人机似汝，也解唱巴歌。\n汝若似石人，雪曲也应和。\n（同前）。",
-    "content_tr": "石人機似汝，也解唱巴歌。\n汝若似石人，雪曲也應和。\n（同前）。"
+    "content": "石人机似汝，也解唱巴歌。\n汝若似石人，雪曲也应和。",
+    "content_tr": "石人機似汝，也解唱巴歌。\n汝若似石人，雪曲也應和。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

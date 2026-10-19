@@ -2,17 +2,17 @@
   "work_id": 69753,
   "work": {
     "id": 69753,
-    "title": "韩康公挽词三首 其二",
-    "title_tr": "韓康公挽詞三首 其二",
+    "title": "韩康公挽词三首  其二",
+    "title_tr": "韓康公挽詞三首  其二",
     "author": "苏轼",
     "author_tr": "蘇軾",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "再世忠清德，三朝翊赞勋。\n功成不归国，就访敢忘君。\n旧学严诗律，馀威靖塞氛。\n何当继《韩奕》，故吏总能文。",
-    "content_tr": "再世忠清德，三朝翊贊勳。\n功成不歸國，就訪敢忘君。\n舊學嚴詩律，餘威靖塞氛。\n何當繼《韓奕》，故吏總能文。"
+    "content": "再世忠清德，三朝翊赞勋。\n功成不归国，就访敢忘君。\n旧学严诗律，余威靖塞氛。\n何当继韩奕，故吏总能文。",
+    "content_tr": "再世忠清德，三朝翊贊勳。\n功成不歸國，就訪敢忘君。\n舊學嚴詩律，餘威靖塞氛。\n何當繼韓奕，故吏總能文。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

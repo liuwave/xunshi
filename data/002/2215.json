@@ -2,16 +2,15 @@
   "work_id": 2215,
   "work": {
     "id": 2215,
-    "title": "捣练子 · 春恨",
-    "title_tr": "搗練子 · 春恨",
-    "author": "李煜",
-    "author_tr": "李煜",
-    "dynasty": "五代十国",
+    "title": "捣练子",
+    "title_tr": "搗練子",
+    "author": "无名氏",
+    "author_tr": "無名氏",
+    "dynasty": "宋",
     "kind_cn": "词",
     "rhythmic": "捣练子",
-    "content": "云鬓乱，晚妆残，带恨眉儿远岫攒。斜托香腮春笋懒，为谁和泪倚阑干。",
-    "content_tr": "雲鬟亂，晚妝殘，帶恨眉兒遠岫攢。斜托香顋春筍嬾，爲誰和淚倚闌干。",
-    "sub_title": "春恨"
+    "content": "云鬓乱，晚妆残。\n带恨眉儿远岫攒。\n斜托香腮春笋懒，为谁和泪倚阑干。",
+    "content_tr": "雲鬢亂，晚妝殘。\n帶恨眉兒遠岫攢。\n斜託香腮春筍懶，爲誰和淚倚闌干。"
   },
   "anthologies": [],
   "annotation": {

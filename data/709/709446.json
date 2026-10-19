@@ -6,7 +6,7 @@
     "title_tr": "幽州寒食游江鄉園",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "晓出城南信杖藜，江乡小圃百花开。\n侑尊妓女骑馿去，顶笠僧官跃马来。\n几架秋千红嬝娜，数行箫管绿低徊。\n隔河小艇人歌舞，摇荡春光不肯回。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

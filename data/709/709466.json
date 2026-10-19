@@ -6,7 +6,7 @@
     "title_tr": "汴都紀行",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "寻僧入相国寺，领客过太师桥。\n行到汴隄西畔，柳阴阴处鱼跳。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

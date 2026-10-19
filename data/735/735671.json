@@ -6,7 +6,7 @@
     "title_tr": "酬杜使君見寄",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "轧轧复轧轧，更深门未关。\n心疼无所得，诗债若为还。\n露洒一鹤睡，钟余万象闲。\n慙将此时意，明日寄东山。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

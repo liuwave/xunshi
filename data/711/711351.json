@@ -6,7 +6,7 @@
     "title_tr": "復熱",
     "author": "汪炎昶",
     "author_tr": "汪炎昶",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "昨暮北窗雨，未辨欹枕声。\n今晨东郊日，依作□炎□。\n神龙伏窟宅，独忍遗吾民。\n却恐空山雷，散入饥肠鸣。\n皇天亦何意，水旱频相仍。\n疲羸易凋瘵，可使失岁登。\n忧民岂吾责，畎亩心未宁。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

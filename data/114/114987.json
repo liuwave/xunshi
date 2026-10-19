@@ -3,16 +3,16 @@
   "work": {
     "id": 114987,
     "title": "蓬伞",
-    "title_tr": "蓬伞",
+    "title_tr": "蓬傘",
     "author": "陆龟蒙",
     "author_tr": "陸龜蒙",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "吾江善编蓬，圆者柄为伞。\n所至以自随，清阴覆一墠。\n自吾为此计，蓑笠□□短。\n何须诣亭阴，风雨皆足缓。",
-    "content_tr": "吾江善编蓬，圆者柄为伞。\n所至以自随，清阴覆一墠。\n自吾为此计，蓑笠□□短。\n何须诣亭阴，风雨皆足缓。"
+    "content": "吾江善编蓬，圆者柄为伞。\n所至以自随，清阴覆一𫮃。\n自吾为此计，蓑笠□□短。\n何须诣亭阴，风雨皆足缓。",
+    "content_tr": "吾江善編蓬，圓者柄爲傘。\n所至以自隨，清陰覆一墠。\n自吾爲此計，簑笠□□短。\n何須詣亭陰，風雨皆足緩。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

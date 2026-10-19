@@ -2,15 +2,15 @@
   "work_id": 36240,
   "work": {
     "id": 36240,
-    "title": "舞曲歌辞独漉歌",
-    "title_tr": "舞曲歌辭獨漉歌",
+    "title": "舞曲歌辞 独漉歌",
+    "title_tr": "舞曲歌辭 獨漉歌",
     "author": "王建",
     "author_tr": "王建",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "独独漉漉，鼠食猫肉。乌日中，鹤露宿，黄河水直人心曲。",
-    "content_tr": "獨獨漉漉，鼠食貓肉。烏日中，鶴露宿，黃河水直人心曲。"
+    "content": "独独漉漉，鼠食猫肉。\n乌日中，鹤露宿，黄河水直人心曲。",
+    "content_tr": "獨獨漉漉，鼠食貓肉。\n烏日中，鶴露宿，黃河水直人心曲。"
   },
   "anthologies": [],
   "annotation": null,

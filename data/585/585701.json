@@ -2,15 +2,15 @@
   "work_id": 585701,
   "work": {
     "id": 585701,
-    "title": "千家诗 · 五言绝句 · 咏史",
-    "title_tr": "千家詩 · 五言絕句 · 詠史",
+    "title": "咏史",
+    "title_tr": "詠史",
     "author": "高适",
-    "author_tr": "（唐）高適",
+    "author_tr": "高適",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "尚有绨袍赠，应怜范叔寒。\n不知天下士，犹作布衣看。",
-    "content_tr": "尚有綈袍贈，應憐範叔寒。\n不知天下士，猶作布衣看。"
+    "content_tr": "尚有綈袍贈，應憐范叔寒。\n不知天下士，猶作布衣看。"
   },
   "anthologies": [
     "千家诗"

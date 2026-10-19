@@ -2,17 +2,17 @@
   "work_id": 470385,
   "work": {
     "id": 470385,
-    "title": "偈颂并序 其九十四",
-    "title_tr": "偈颂并序 其九十四",
+    "title": "偈颂（幷序○序为南岳齐己撰） 九十四",
+    "title_tr": "偈頌（幷序○序爲南嶽齊己撰） 九十四",
     "author": "居遁",
     "author_tr": "居遁",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "天真元具足，修证转差回。\n弃本却逐末，祇守一场呆。",
-    "content_tr": "天真元具足，修证转差回。\n弃本却逐末，祇守一场呆。"
+    "content_tr": "天真元具足，修證轉差迴。\n棄本却逐末，祇守一場獃。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

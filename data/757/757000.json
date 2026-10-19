@@ -1,0 +1,18 @@
+{
+  "work_id": 757000,
+  "work": {
+    "id": 757000,
+    "title": "失调名",
+    "title_tr": "失調名",
+    "author": "苏轼",
+    "author_tr": "蘇軾",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "失调名",
+    "content": "高安更过几重山。",
+    "content_tr": "高安更過幾重山。"
+  },
+  "anthologies": [],
+  "annotation": null,
+  "strains_aligned": false
+}

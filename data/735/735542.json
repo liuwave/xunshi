@@ -6,7 +6,7 @@
     "title_tr": "樵叟",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "樵父貌饥带尘土，自言一生苦寒苦。\n担头担个赤瓷甖，斜阳独立蒙笼坞。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

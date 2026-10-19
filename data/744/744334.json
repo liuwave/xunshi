@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "策驾玄中汉，辔素扶希（一作「桑」）林。\n妙微浑混遘，长扇回五烟。",
-    "content_tr": "策駕玄中漢，轡素扶希（一作「桑」）林。\n妙微渾混遘，長扇回五煙。"
+    "content": "策驾玄中汉，辔素扶希林。\n妙微浑混遘，长扇回五烟。",
+    "content_tr": "策駕玄中漢，轡素扶希林。\n妙微渾混遘，長扇回五煙。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

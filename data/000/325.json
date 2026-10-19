@@ -2,8 +2,8 @@
   "work_id": 325,
   "work": {
     "id": 325,
-    "title": "塞下曲",
-    "title_tr": "塞下曲",
+    "title": "和张仆射塞下曲 一",
+    "title_tr": "和張僕射塞下曲 一",
     "author": "卢纶",
     "author_tr": "盧綸",
     "dynasty": "唐",
@@ -12,7 +12,9 @@
     "content": "鹫翎金仆姑，燕尾绣蝥弧。\n独立扬新令，千营共一呼。",
     "content_tr": "鷲翎金僕姑，燕尾繡蝥弧。\n獨立揚新令，千營共一呼。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "鹫羽装饰的金仆姑箭，燕尾形状的绣蝥弧旗。\n将军独立高处发布新的号令，千营将士同声一呼。",
     "annotation": "金仆姑：箭名。\n鹫（jiù）翎：猛禽的羽毛，用作箭羽。\n蝥弧（máo hú）：旗名。\n燕尾：指旗的尾部形如燕尾。",

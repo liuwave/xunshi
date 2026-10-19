@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "命系逡巡水，时牵决定香。\n（《清异录》一）。",
-    "content_tr": "命繫逡巡水，時牽決定香。\n（《清異錄》一）。"
+    "content": "命系逡巡水，时牵决定香。",
+    "content_tr": "命繫逡巡水，時牽決定香。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

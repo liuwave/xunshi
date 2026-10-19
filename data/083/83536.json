@@ -2,8 +2,8 @@
   "work_id": 83536,
   "work": {
     "id": 83536,
-    "title": "寄孙",
-    "title_tr": "寄孫",
+    "title": "寄孙正之",
+    "title_tr": "寄孫正之",
     "author": "王安石",
     "author_tr": "王安石",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

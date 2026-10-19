@@ -2,16 +2,15 @@
   "work_id": 2673,
   "work": {
     "id": 2673,
-    "title": "赤枣子 · 风淅淅",
-    "title_tr": "赤棗子 · 風淅淅",
+    "title": "赤枣子·风淅淅",
+    "title_tr": "赤棗子·風淅淅",
     "author": "纳兰性德",
     "author_tr": "納蘭性德",
     "dynasty": "清",
     "kind_cn": "词",
-    "rhythmic": "赤枣子",
-    "content": "风淅淅，雨纤纤。难怪春愁细细添。记不分明疑是梦，梦来还隔一重帘。",
-    "content_tr": "風淅淅，雨纖纖。難怪春愁細細添。記不分明疑是夢，夢來還隔一重簾。",
-    "sub_title": "风淅淅"
+    "rhythmic": null,
+    "content": "风淅淅，雨纤纤\n难怪春愁细细添\n记不分明疑是梦，梦来还隔一重帘",
+    "content_tr": "風淅淅，雨纖纖\n難怪春愁細細添\n記不分明疑是夢，夢來還隔一重簾"
   },
   "anthologies": [],
   "annotation": {

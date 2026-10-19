@@ -2,15 +2,15 @@
   "work_id": 33229,
   "work": {
     "id": 33229,
-    "title": "郊庙歌辞褒德庙乐章彰德",
-    "title_tr": "郊廟歌辭褒德廟樂章彰德",
+    "title": "郊庙歌辞 襃德庙乐章 彰德",
+    "title_tr": "郊廟歌辭 襃德廟樂章 彰德",
     "author": "不详",
     "author_tr": "不詳",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "名隆五岳，秩映三台。\n严祠已备，睟影方回。",
-    "content_tr": "名隆五嶽，秩映三臺。\n嚴祠已備，睟影方回。"
+    "content": "名隆五岳，秩映三台。\n严祠已备，[睟]影方回。",
+    "content_tr": "名隆五嶽，秩映三台。\n嚴祠已備，[睟]影方迴。"
   },
   "anthologies": [],
   "annotation": null,

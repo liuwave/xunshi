@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "岂是从容唱《渭城》，个中当有不平鸣。\n可怜日晏忍饥面，强作春深求友声。",
-    "content_tr": "豈是從容唱《渭城》，箇中當有不平鳴。\n可憐日晏忍飢面，強作春深求友聲。"
+    "content": "岂是从容唱渭城，个中当有不平鸣。\n可怜日晏忍饥面，强作春深求友声。",
+    "content_tr": "豈是從容唱渭城，箇中當有不平鳴。\n可憐日晏忍饑面，强作春深求友聲。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "思君不可见，徒令年鬓秋。\n独惊积寒暑，迢遰阻风牛。\n奥余慕樵隐，萧然重一丘。\n（此为杂乱诗）。",
-    "content_tr": "思君不可見，徒令年鬢秋。\n獨驚積寒暑，迢遰阻風牛。\n奧余慕樵隱，蕭然重一丘。\n（此爲雜亂詩）。"
+    "content": "思君不可见，徒令年鬓秋。\n独惊积寒暑，迢遰阻风牛。\n奥余慕樵隐，萧然重一丘。",
+    "content_tr": "思君不可見，徒令年鬢秋。\n獨驚積寒暑，迢遰阻風牛。\n奧余慕樵隱，蕭然重一丘。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

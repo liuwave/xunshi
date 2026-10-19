@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "春来有幸却承恩，花里含啼入殿门。\n残妆不用添红粉，且待君王见泪痕。\n（均见伯三八一二卷）。",
-    "content_tr": "春來有幸却承恩，花裏含啼入殿門。\n殘妝不用添紅粉，且待君王見淚痕。\n（均見伯三八一二卷）。"
+    "content": "春来有幸却承恩，花里含啼入殿门。\n残妆不用添红粉，且待君王见泪痕。",
+    "content_tr": "春來有幸却承恩，花裏含啼入殿門。\n殘妝不用添紅粉，且待君王見淚痕。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

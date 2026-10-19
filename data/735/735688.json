@@ -6,7 +6,7 @@
     "title_tr": "送人之渤海",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "国之东北角，有国每朝天。\n海力浸不尽，夷风常宛然。\n山藏罗刹宅，水杂巨鼇涎。\n好去吴乡子，归来莫隔年。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

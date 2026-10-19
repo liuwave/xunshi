@@ -20,5 +20,5 @@
     "model": "trae-proprietary",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

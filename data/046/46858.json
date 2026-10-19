@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "青山前，青山后，登高望两处。两处今何有？烟景满川原，离人堪白首。",
-    "content_tr": "青山前，青山後，登高望兩處。兩處今何有？煙景滿川原，離人堪白首。"
+    "content": "青山前，青山后，登高望两处。\n两处今何有？\n烟景满川原，离人堪白首。",
+    "content_tr": "青山前，青山後，登高望兩處。\n兩處今何有？\n煙景滿川原，離人堪白首。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

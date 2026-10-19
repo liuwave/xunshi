@@ -2,16 +2,15 @@
   "work_id": 528032,
   "work": {
     "id": 528032,
-    "title": "古捣练子 · 望书归",
-    "title_tr": "古搗練子 · 望書歸",
+    "title": "望书归・捣练子",
+    "title_tr": "望書歸・搗練子",
     "author": "贺铸",
     "author_tr": "賀鑄",
     "dynasty": "宋",
     "kind_cn": "词",
-    "rhythmic": "古捣练子",
-    "content": "边堠远，置邮稀。附与征衣衬铁衣。连夜不妨频梦见，过年惟望得书归。",
-    "content_tr": "邊堠遠，置郵稀。附與征衣襯鐵衣。連夜不妨頻夢見，過年惟望得書歸。",
-    "sub_title": "望书归"
+    "rhythmic": "望书归・捣练子",
+    "content": "边堠远，置邮稀。\n附与征衣衬铁衣。\n连夜不妨频梦见，过年惟望得书归。",
+    "content_tr": "邊堠遠，置郵稀。\n附與征衣襯鐵衣。\n連夜不妨頻夢見，過年惟望得書歸。"
   },
   "anthologies": [],
   "annotation": null,

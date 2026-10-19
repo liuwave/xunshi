@@ -3,16 +3,16 @@
   "work": {
     "id": 43389,
     "title": "禅门寺暮钟",
-    "title_tr": "禪門寺暮鍾",
+    "title_tr": "禪門寺暮鐘",
     "author": "李正封",
     "author_tr": "李正封",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "簨?高悬于阗钟，黄昏发地殷龙宫。\n游人忆到嵩山夜，叠阁连楼倚太空。",
-    "content_tr": "簨?高懸于闐鍾，黃昏發地殷龍宮。\n遊人憶到嵩山夜，疊閣連樓倚太空。"
+    "content": "簨𥲤高悬于阗钟，黄昏发地殷龙宫。\n游人忆到嵩山夜，叠阁连楼倚太空。",
+    "content_tr": "簨𥲤高懸于闐鐘，黃昏發地殷龍宮。\n遊人憶到嵩山夜，疊閣連樓倚太空。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -6,7 +6,7 @@
     "title_tr": "孟子 親親仁民愛物",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "仁体虽然无不爱，当知贵贱与亲疏。\n诚心应物宁容伪，天性由来一本真。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

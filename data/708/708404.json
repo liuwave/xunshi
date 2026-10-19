@@ -6,7 +6,7 @@
     "title_tr": "辛卯除夜",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "腊月今年只今夕，春风明日是明年。\n狂歌把酒屠苏地，醉眼看梅雾淞天。\n碧玉千壶喧坐次，红牙六博鬬飞钱。\n头颅雪白心情在，听说承平一惘然。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

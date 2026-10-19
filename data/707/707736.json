@@ -12,7 +12,9 @@
     "content": "花开不并百花丛，独立疏篱趣未穷。\n宁可枝头抱香死，何曾吹堕北风中。",
     "content_tr": "花開不並百花叢，獨立疏籬趣未窮。\n寧可枝頭抱香死，何曾吹墮北風中。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

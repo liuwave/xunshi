@@ -2,15 +2,15 @@
   "work_id": 98879,
   "work": {
     "id": 98879,
-    "title": "咸通初洛中谣 其一",
-    "title_tr": "咸通初洛中谣 其一",
-    "author": "无名氏",
-    "author_tr": "無名氏",
+    "title": "咸通初洛中谣 一",
+    "title_tr": "咸通初洛中謠 一",
+    "author": "佚名",
+    "author_tr": "佚名",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "勿鸡言，送汝树上去。\n勿鸭言，送汝水中去。",
-    "content_tr": "勿鸡言，送汝树上去。\n勿鸭言，送汝水中去。"
+    "content": "勿鸡言，送汝树上去；勿鸭言，送汝水中去。",
+    "content_tr": "勿雞言，送汝樹上去；勿鴨言，送汝水中去。"
   },
   "anthologies": [],
   "annotation": null,

@@ -6,7 +6,7 @@
     "title_tr": "壽柏峰",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "爱道爱宝同缩蜗，福善一点如朝霞。\n稽天利欲渺无路，不妨甪里留巅崖。\n清虚淡素天所觑，百神万物争拥遮。\n七十移桃自玄圃，八十意思犹未花。\n含如抱粹不肯露，时对知己抽萌芽。\n我亦一人年在弟，弱质自媿霜蒹葭。\n逢人说项有何见，岂非气味同一家。\n啖柏茹芝分一叶，朝夕供兄粥与茶。\n一任张良算出去，人生何惜老年华。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,15 +2,15 @@
   "work_id": 56690,
   "work": {
     "id": 56690,
-    "title": "清湘词",
-    "title_tr": "清湘詞",
+    "title": "清湘词二首 一",
+    "title_tr": "清湘詞二首 一",
     "author": "刘禹锡",
     "author_tr": "劉禹錫",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "清湘词",
-    "content": "湘水流，湘水流，九疑云物至今愁。君问二妃何处所，零陵香草雨中收。",
-    "content_tr": "湘水流，湘水流，九疑雲物至今愁。君問二妃何處所，零陵香草雨中收。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "湘水流，湘水流，九疑云物至今愁。\n君问二妃何处所，零陵香草雨中收。",
+    "content_tr": "湘水流，湘水流，九疑雲物至今愁。\n君問二妃何處所，零陵香草雨中收。"
   },
   "anthologies": [],
   "annotation": null,

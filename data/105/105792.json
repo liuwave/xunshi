@@ -2,17 +2,19 @@
   "work_id": 105792,
   "work": {
     "id": 105792,
-    "title": "春日二首（其二）",
-    "title_tr": "春日二首（其二）",
+    "title": "春日二首  其二",
+    "title_tr": "春日二首  其二",
     "author": "晁冲之",
-    "author_tr": "晁衝之",
+    "author_tr": "晁沖之",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "阴阴溪曲绿交加，小雨翻萍上浅沙。\n鹅鸭不知春去尽，争随流水趁桃花。",
     "content_tr": "陰陰溪曲綠交加，小雨翻萍上淺沙。\n鵝鴨不知春去盡，爭隨流水趁桃花。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "溪湾之处绿荫交加，小雨翻动浮萍，飘上浅沙。鹅鸭不知春天已尽，争着随流水去追桃花。",
     "annotation": "溪曲：溪湾。\n萍：浮萍。\n趁：追逐。",

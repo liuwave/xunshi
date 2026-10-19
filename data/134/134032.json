@@ -12,7 +12,9 @@
     "content": "寂历秋江渔火稀，起看残月映林微。\n波光水鸟惊犹宿，露冷流萤湿不飞。",
     "content_tr": "寂歷秋江漁火稀，起看殘月映林微。\n波光水鳥驚猶宿，露冷流螢溼不飛。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "汗流浃背曾施力，气爽中宵便负心。\n（同前）。",
-    "content_tr": "汗流浹背曾施力，氣爽中宵便負心。\n（同前）。"
+    "content": "汗流浃背曾施力，气爽中宵便负心。",
+    "content_tr": "汗流浹背曾施力，氣爽中宵便負心。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

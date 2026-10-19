@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "天河分，忽若似鎗（辛本、川本作「戟」）尖。\n兵世当兴逢此兆，诸川郡府见忧煎。\n涂炭遍山川。",
-    "content_tr": "天河分，忽若似鎗（辛本、川本作「戟」）尖。\n兵世當興逢此兆，諸川郡府見憂煎。\n塗炭遍山川。"
+    "content": "天河分，忽若似鎗尖。\n兵世当兴逢此兆，诸川郡府见忧煎。\n涂炭遍山川。",
+    "content_tr": "天河分，忽若似鎗尖。\n兵世當興逢此兆，諸川郡府見憂煎。\n塗炭遍山川。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

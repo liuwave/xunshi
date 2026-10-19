@@ -6,13 +6,15 @@
     "title_tr": "謁金門 一",
     "author": "冯延巳",
     "author_tr": "馮延巳",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "风乍起，吹皱一池春水。\n闲引鸳鸯芳径里，手挼红杏蘂。\n鬬鸭阑干独倚，碧玉搔头斜坠。\n终日望君君不至，举头闻鹊喜。",
     "content_tr": "風乍起，吹皺一池春水。\n閑引鴛鴦芳徑裏，手挼紅杏蘂。\n鬬鴨闌干獨倚，碧玉搔頭斜墜。\n終日望君君不至，舉頭聞鵲喜。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "宋词三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

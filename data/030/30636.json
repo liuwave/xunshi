@@ -2,8 +2,8 @@
   "work_id": 30636,
   "work": {
     "id": 30636,
-    "title": "登凤凰台二首（其二）",
-    "title_tr": "登鳳凰臺二首（其二）",
+    "title": "登凤凰台二首 二",
+    "title_tr": "登鳳凰臺二首 二",
     "author": "殷尧藩",
     "author_tr": "殷堯藩",
     "dynasty": "唐",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "乙奇墓，未上望坤方。\n丙奇（辛本、川本作「其」）戍地酉中是，丁奇同位戌干（辛本、川本作「朝」）张，都是审明方。",
-    "content_tr": "乙奇墓，未上望坤方。\n丙奇（辛本、川本作「其」）戍地酉中是，丁奇同位戌乾（辛本、川本作「朝」）張，都是審明方。"
+    "content": "乙奇墓，未上望坤方。\n丙奇戍地酉中是，丁奇同位戌干张，都是审明方。",
+    "content_tr": "乙奇墓，未上望坤方。\n丙奇戍地酉中是，丁奇同位戌乾張，都是審明方。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

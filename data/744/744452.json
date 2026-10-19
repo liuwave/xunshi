@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "玉轮夜进辙，金车昼灭途。\n（二联为木枯病）。",
-    "content_tr": "玉輪夜進轍，金車晝滅途。\n（二聯爲木枯病）。"
+    "content": "玉轮夜进辙，金车昼灭途。",
+    "content_tr": "玉輪夜進轍，金車晝滅途。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

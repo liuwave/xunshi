@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "举酒属雩泉，白发日夜新。何时泉中天？复照泉上人。\n二年饮泉水，鱼鸟亦相亲。还将弄泉手，遮日向西秦。",
-    "content_tr": "舉酒屬雩泉，白髮日夜新。何時泉中天？復照泉上人。\n二年飲泉水，魚鳥亦相親。還將弄泉手，遮日向西秦。"
+    "content": "举酒属雩泉，白发日夜新。\n何时泉中天，复照泉上人。\n二年饮泉水，鱼鸟亦相亲。\n还将弄泉手，遮日向西秦。",
+    "content_tr": "舉酒屬雩泉，白髮日夜新。\n何時泉中天，復照泉上人。\n二年飲泉水，魚鳥亦相親。\n還將弄泉手，遮日向西秦。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

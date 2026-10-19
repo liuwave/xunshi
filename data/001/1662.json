@@ -2,15 +2,15 @@
   "work_id": 1662,
   "work": {
     "id": 1662,
-    "title": "寄柳氏",
-    "title_tr": "寄柳氏",
+    "title": "章台柳",
+    "title_tr": "章臺柳",
     "author": "韩翃",
     "author_tr": "韓翃",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "章台柳，章台柳，往日依依今在否？\n纵使长条似旧垂，也应攀折他人手。",
-    "content_tr": "章臺柳，章臺柳，往日依依今在否？\n縱使長條似舊垂，也應攀折他人手。"
+    "content": "章台柳，章台柳，往日依依今在否？纵使长条似旧垂，也应攀折他人手。",
+    "content_tr": "章臺柳，章臺柳，往日依依今在否？縱使長條似舊垂，也應攀折他人手。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

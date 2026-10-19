@@ -6,7 +6,7 @@
     "title_tr": "孟子 王道勸齊王",
     "author": "陈普",
     "author_tr": "陳普",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "列国分争几百年，人心天命不其然。\n俗儒槩执春秋义，何忍斯民久倒悬。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

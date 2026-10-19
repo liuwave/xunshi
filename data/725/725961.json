@@ -12,7 +12,9 @@
     "content": "春种一粒粟，秋成万颗子。\n四海无闲田，农夫犹饿死。",
     "content_tr": "春種一粒粟，秋成萬顆子。\n四海無閑田，農夫猶餓死。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

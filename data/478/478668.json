@@ -2,17 +2,17 @@
   "work_id": 478668,
   "work": {
     "id": 478668,
-    "title": "十四日二首 其一",
-    "title_tr": "十四日二首 其一",
+    "title": "十四日二首  其一",
+    "title_tr": "十四日二首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "梅开在高冈，仰望不可攀。\n微风一动摇，落片纷斓斑。\n下者隐幽閟，丛然榛棘间。\n著根近溪流，堕地即水湾。\n是物佳莫匹，在处堪解颜。\n扶藜曳芒屩，永日不得还。",
+    "content": "梅开在高冈，仰望不可攀。\n微风一动摇，落片纷斓斑。\n下者隠幽閟，丛然榛棘间。\n著根近溪流，堕地即水湾。\n是物佳莫匹，在处堪解颜。\n扶藜曳芒𪨗，永日不得还。",
     "content_tr": "梅開在高岡，仰望不可攀。\n微風一動摇，落片紛斕斑。\n下者隠幽閟，叢然榛棘間。\n著根近溪流，墮地即水灣。\n是物佳莫匹，在處堪解顔。\n扶藜曳芒屩，永日不得還。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

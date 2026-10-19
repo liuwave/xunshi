@@ -2,17 +2,17 @@
   "work_id": 33233,
   "work": {
     "id": 33233,
-    "title": "郊庙歌辞梁太庙乐舞辞皇帝行",
-    "title_tr": "郊廟歌辭樑太廟樂舞辭皇帝行",
+    "title": "郊庙歌辞 梁太庙乐舞辞 皇帝行",
+    "title_tr": "郊廟歌辭 梁太廟樂舞辭 皇帝行",
     "author": "不详",
     "author_tr": "不詳",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "莫高者天，攀跻弗克。\n隮天有方，累仁积德。\n祖宗隆之，子孙履之。\n配天明祀，永永孝思。",
+    "content": "莫高者天，攀跻弗克。\n𬯀天有方，累仁积德。\n祖宗隆之，子孙履之。\n配天明祀，永永孝思。",
     "content_tr": "莫高者天，攀躋弗克。\n隮天有方，累仁積德。\n祖宗隆之，子孫履之。\n配天明祀，永永孝思。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

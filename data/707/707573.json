@@ -6,7 +6,7 @@
     "title_tr": "寄功父",
     "author": "方凤",
     "author_tr": "方鳳",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "遗风日远日相疏，七载归来非故庐。\n烈屋漫思悬艾虎，忠臣空腹葬江鱼。\n云霁志气消磨后，锦绣园林破碎余。\n酒盏更须拚酩酊，诗简聊示寄勤渠。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

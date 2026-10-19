@@ -6,7 +6,7 @@
     "title_tr": "寄袁季厚",
     "author": "戴表元",
     "author_tr": "戴表元",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "莫笑衰颜老剡翁，凶年过彻賸顽穷。\n坐窗渐爱日南至，行路不愁天北风。\n清话客多无酒款，白头交在有书通。\n闻知别野林泉美，一策一簦吾欲东。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

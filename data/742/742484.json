@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "官临火，尅我应（辛本、川本作「虑」）偷营。\n水立官乡休立寨，土临官鬼四方兵，不可（辛本、川本作「一」）乱提兵。",
-    "content_tr": "官臨火，尅我應（辛本、川本作「慮」）偷營。\n水立官鄉休立寨，土臨官鬼四方兵，不可（辛本、川本作「一」）亂提兵。"
+    "content": "官临火，尅我应偷营。\n水立官乡休立寨，土临官鬼四方兵，不可乱提兵。",
+    "content_tr": "官臨火，尅我應偷營。\n水立官鄉休立寨，土臨官鬼四方兵，不可亂提兵。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

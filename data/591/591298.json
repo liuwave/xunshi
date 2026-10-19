@@ -12,7 +12,9 @@
     "content": "山中何所有，岭上多白云。\n祇可自怡悦，不堪持赠君。",
     "content_tr": "山中何所有，嶺上多白雲。\n祇可自怡悅，不堪持贈君。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

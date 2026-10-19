@@ -2,15 +2,15 @@
   "work_id": 56692,
   "work": {
     "id": 56692,
-    "title": "杂曲歌辞其一纥那曲",
-    "title_tr": "雜曲歌辭其一紇那曲",
+    "title": "纥那曲二首 一",
+    "title_tr": "紇那曲二首 一",
     "author": "刘禹锡",
     "author_tr": "劉禹錫",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "杂曲歌辞其一纥那曲",
-    "content": "杨柳郁青青，竹枝无限情。周郎一回顾，听唱纥那声。",
-    "content_tr": "楊柳鬱青青，竹枝無限情。周郎一回顧，聽唱紇那聲。"
+    "kind_cn": "诗",
+    "rhythmic": null,
+    "content": "杨柳郁青青，竹枝无限情。\n周郎一回顾，听唱纥那声。",
+    "content_tr": "楊柳鬱青青，竹枝無限情。\n周郎一回顧，聽唱紇那聲。"
   },
   "anthologies": [],
   "annotation": null,

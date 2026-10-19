@@ -12,7 +12,9 @@
     "content": "早雁忽为双，惊秋风水窗。\n夜长人自起，星月满空江。",
     "content_tr": "早雁忽爲雙，驚秋風水窗。\n夜長人自起，星月滿空江。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

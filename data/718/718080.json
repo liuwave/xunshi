@@ -12,7 +12,9 @@
     "content": "青山横北郭，白水遶东城。\n此地一为别，孤蓬万里征。\n浮云游子意，落日故人情。\n挥手自兹去，萧萧班马鸣。",
     "content_tr": "青山橫北郭，白水遶東城。\n此地一爲別，孤蓬萬里征。\n浮雲遊子意，落日故人情。\n揮手自茲去，蕭蕭班馬鳴。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": {
     "translation": "青山横亘在北面的外城，白水环绕着东面的城。\n此地一旦分别，你如孤蓬远征万里。\n浮云是游子的心意，落日是故人的情意。\n挥手自此离去，离群的马萧萧鸣叫。",
     "annotation": "郭：外城。\n蓬：蓬草，枯后根断，随风飞转，喻远行之人。\n班马：离群之马。",
@@ -20,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

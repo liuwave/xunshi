@@ -6,7 +6,7 @@
     "title_tr": "題趙子昂摹唐人二戲馬駒",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "我尝远过燕山北，树木已无草一色。\n骐骥骅骝动万匹，互囓交蹄戏跳踯。\n谁欤画此双名驹，似鬬非鬬相嬉娱。\n唐人遗迹赵子摹，善书善画今代无。\n善书突过元章米，善画追还伯时李。\n先画后书此一纸，咫尺之间兼二美。\n元章伯时两人合一人，愧我一诗难写两人真。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

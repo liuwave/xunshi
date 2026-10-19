@@ -2,13 +2,13 @@
   "work_id": 530022,
   "work": {
     "id": 530022,
-    "title": "琴曲歌辞 其二 昭君怨",
-    "title_tr": "琴曲歌辭 其二 昭君怨",
+    "title": "琴曲歌辞 昭君怨 二",
+    "title_tr": "琴曲歌辭 昭君怨 二",
     "author": "张祜",
     "author_tr": "張祜",
     "dynasty": "唐",
-    "kind_cn": "词",
-    "rhythmic": "琴曲歌辞 其二 昭君怨",
+    "kind_cn": "诗",
+    "rhythmic": null,
     "content": "汉庭无大议，戎虏几先和。\n莫羡倾城色，昭君恨最多。",
     "content_tr": "漢庭無大議，戎虜幾先和。\n莫羨傾城色，昭君恨最多。"
   },

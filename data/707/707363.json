@@ -6,7 +6,7 @@
     "title_tr": "雷震漁所之柱",
     "author": "赵文",
     "author_tr": "趙文",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "瞥然满屋飞金蛇，楼东楼西号火鸦。\n天鼓百面一手挝，百年老柱神斧加。\n妇女惊倒儿童哇，知君把钓江头沙。\n明珠赤手龙颔拏，天翁发怒为此耶。\n向来五鬼千夜叉，寒我饥我生眼花。\n捧头惊窜如麏麚，从此不作穷诗家。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "寒葭凝露色，落叶动秋声。\n（此为清切体）。",
-    "content_tr": "寒葭凝露色，落葉動秋聲。\n（此爲清切體）。"
+    "content": "寒葭凝露色，落叶动秋声。",
+    "content_tr": "寒葭凝露色，落葉動秋聲。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": true
+  "strains_aligned": false
 }

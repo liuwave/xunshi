@@ -1,0 +1,20 @@
+{
+  "work_id": 756072,
+  "work": {
+    "id": 756072,
+    "title": "玉楼春",
+    "title_tr": "玉樓春",
+    "author": "晏殊",
+    "author_tr": "晏殊",
+    "dynasty": "宋",
+    "kind_cn": "词",
+    "rhythmic": "玉楼春",
+    "content": "绿杨芳草长亭路。\n年少抛人容易去。\n楼头残梦五更钟，花底离情三月雨。\n无情不似多情苦。\n一寸还成千万缕。\n天涯地角有穷时，只有相思无尽处。",
+    "content_tr": "綠楊芳草長亭路。\n年少拋人容易去。\n樓頭殘夢五更鐘，花底離情三月雨。\n無情不似多情苦。\n一寸還成千萬縷。\n天涯地角有窮時，只有相思無盡處。"
+  },
+  "anthologies": [
+    "宋词三百首"
+  ],
+  "annotation": null,
+  "strains_aligned": false
+}

@@ -2,17 +2,17 @@
   "work_id": 475949,
   "work": {
     "id": 475949,
-    "title": "寄峡州使君郭郎中三首 其一",
-    "title_tr": "寄峽州使君郭郎中三首 其一",
+    "title": "寄峡州使君郭郎中三首  其一",
+    "title_tr": "寄峽州使君郭郎中三首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "汉代郭林宗，词场继国风。\n郎官曾赐被，刺史暂凭熊。\n为客留工部，移官滞酒翁。\n淮阳岂为薄，无恨不居中。",
+    "content": "汉代郭林宗，词场继国风。\n郎官曾赐被，刺史𫏐凭熊。\n为客留工部，移官滞酒翁。\n淮阳岂为薄，无恨不居中。",
     "content_tr": "漢代郭林宗，詞場繼國風。\n郎官曾賜被，刺史蹔憑熊。\n爲客留工部，移官滯酒翁。\n淮陽豈爲薄，無恨不居中。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

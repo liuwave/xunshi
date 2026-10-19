@@ -6,7 +6,7 @@
     "title_tr": "到蜀與鄭中丞相遇",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "深隐犹为未死灰，远寻知己遇三台。\n如何麋鹿群中出，又见鹓鸾天上来。\n劒阁霞黏残雪在，锦江香甚百花开。\n谩期王谢来相访，不是支公出世才。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -2,17 +2,17 @@
   "work_id": 82452,
   "work": {
     "id": 82452,
-    "title": "择之诵所赋拟吕子进元宵诗因用元韵二首 其二",
-    "title_tr": "擇之誦所賦擬呂子進元宵詩因用元韻二首 其二",
+    "title": "择之诵所赋拟吕子进元宵诗因用元韵二首  其二",
+    "title_tr": "擇之誦所賦擬呂子進元宵詩因用元韻二首  其二",
     "author": "朱熹",
     "author_tr": "朱熹",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "何处元宵好，寒龛独寐人。\n月窗同皎皎，灯镜自尘尘。\n静鉴通天地，潜思妙鬼神。\n却怜迷路子，狂走闹城闉。",
+    "content": "何处元宵好，寒龛独寐人。\n月窗同皎皎，灯镜自尘尘。\n静鉴通天地，潜思妙鬼神。\n却怜迷路子，狂走閙城𬮱。",
     "content_tr": "何處元宵好，寒龕獨寐人。\n月窗同皎皎，燈鏡自塵塵。\n靜鑒通天地，潛思妙鬼神。\n却憐迷路子，狂走閙城闉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

@@ -2,17 +2,17 @@
   "work_id": 417097,
   "work": {
     "id": 417097,
-    "title": "寿张京尹十首 其九",
-    "title_tr": "壽張京尹十首 其九",
+    "title": "寿张京尹十首  其九",
+    "title_tr": "壽張京尹十首  其九",
     "author": "彭龟年",
     "author_tr": "彭龜年",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "鲰生何幸倚门墙，千里崎岖入帝乡。\n赢得菊花?寿酒，今年又近一重阳。",
-    "content_tr": "鯫生何幸倚門牆，千里崎嶇入帝鄉。\n贏得菊花?壽酒，今年又近一重陽。"
+    "content": "鲰生何幸倚门墙，千里崎岖入帝乡。\n赢得菊花𣂏寿酒，今年又近一重阳。",
+    "content_tr": "鯫生何幸倚門牆，千里崎嶇入帝鄉。\n贏得菊花𣂏壽酒，今年又近一重陽。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

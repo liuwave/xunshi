@@ -12,7 +12,9 @@
     "content": "谓城朝雨浥轻尘，客舍青青柳色春。\n劝君更尽一杯酒，西出阳关无故人。",
     "content_tr": "謂城朝雨浥輕塵，客舍青青柳色春。\n勸君更盡一杯酒，西出陽關無故人。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "吳山",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "海枯龙去雨淋淋，羯鼓諠哗山禁林。\n虎士堕弢兵力倦，鸡人罢箭漏声沈。\n鶑摇御柳春犹閙，燕蹴宫花雾转深。\n肠断木绵庵里客，可怜郿坞筑黄金。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

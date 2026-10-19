@@ -2,17 +2,17 @@
   "work_id": 478686,
   "work": {
     "id": 478686,
-    "title": "连雨独饮偶书四首 其一",
-    "title_tr": "連雨獨飲偶書四首 其一",
+    "title": "连雨独饮偶书四首  其一",
+    "title_tr": "連雨獨飲偶書四首  其一",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "缘山灌木长，绕舍芳草积。\n敢希陶渊明，自谓张仲蔚。\n出门无所诣，闭户聊自得。\n简编或倦?，壶觞恣酣适。",
-    "content_tr": "緣山灌木長，遶舍芳草積。\n敢希陶淵明，自謂張仲蔚。\n出門無所詣，閉戶聊自得。\n簡編或倦?，壺觴恣酣適。"
+    "content": "缘山灌木长，遶舍芳草积。\n敢希陶渊明，自谓张仲蔚。\n出门无所诣，闭户聊自得。\n简编或倦𠙆，壶觞恣酣适。",
+    "content_tr": "緣山灌木長，遶舍芳草積。\n敢希陶淵明，自謂張仲蔚。\n出門無所詣，閉戶聊自得。\n簡編或倦𠙆，壺觴恣酣適。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

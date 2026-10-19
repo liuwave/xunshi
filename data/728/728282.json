@@ -6,7 +6,7 @@
     "title_tr": "罷都統守鎮滑州作",
     "author": "王铎",
     "author_tr": "王鐸",
-    "dynasty": "明",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "用军何事敢迁延，恩重才轻分使然。\n黜诏已闻来阙下，檄书犹未遍军前。\n腰间尽解苏秦印，波上虚迎范蠡船。\n正会星辰扶北极，却驱戈甲镇南燕。\n三尘上相逢明主，九合诸侯媿昔贤。\n看却中兴扶大业，杀身无路好归田。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

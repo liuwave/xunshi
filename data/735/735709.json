@@ -6,7 +6,7 @@
     "title_tr": "送羅鄴赴許昌辟",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "方得论心又别离，黯然江上步迟迟。\n不堪回首崎岖路，正是寒风皴错时。\n美似郄超终有日，去依刘表更何疑。\n前程不少南飞鴈，聊寄新诗慰所思。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

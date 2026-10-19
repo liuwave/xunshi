@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "轻舟与客归，竹下闲棋局。\n煮鲎吴味新，篘醪楚酿熟。\n风吹山雨来，冷射肤生粟。\n醉昏笑语同，不看西斋录。",
-    "content_tr": "輕舟與客歸，竹下閒棋局。\n煮鱟吳味新，篘醪楚釀熟。\n風吹山雨來，冷射膚生粟。\n醉昏笑語同，不看西齋錄。"
+    "content": "轻舟与客归，竹下闲棋局。\n煮鲎吴味新，𥬠醪楚酿熟。\n风吹山雨来，冷射肤生粟。\n醉昏笑语同，不看西斋录。",
+    "content_tr": "輕舟與客歸，竹下閑棋局。\n煮鱟吳味新，篘醪楚釀熟。\n風吹山雨來，冷射膚生粟。\n醉昏笑語同，不看西齋錄。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

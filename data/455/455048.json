@@ -2,8 +2,8 @@
   "work_id": 455048,
   "work": {
     "id": 455048,
-    "title": "颂古一百首 其一百",
-    "title_tr": "頌古一百首 其一百",
+    "title": "颂古一百首  其一○○",
+    "title_tr": "頌古一百首  其一○○",
     "author": "释智愚",
     "author_tr": "釋智愚",
     "dynasty": "宋",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

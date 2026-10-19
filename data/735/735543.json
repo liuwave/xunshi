@@ -6,7 +6,7 @@
     "title_tr": "春山行",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "重叠太古色，蒙蒙花雨时。\n好峰行恐尽，流水语相随。\n黑壤生红黍，黄猨领白儿。\n因思石桥月，曾与故人期。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

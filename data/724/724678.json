@@ -12,7 +12,10 @@
     "content": "绿螘新醅酒，红泥小火垆。\n晚来天欲雪，能饮一杯无。",
     "content_tr": "綠螘新醅酒，紅泥小火壚。\n晚來天欲雪，能飲一杯無。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

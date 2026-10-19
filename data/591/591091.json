@@ -6,7 +6,7 @@
     "title_tr": "下瞿塘寄時同年",
     "author": "王周",
     "author_tr": "王周",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "春寒天气下瞿塘，大壤溪前柳线长。\n须信孤云似孤宦，莫将乡思附归艎。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

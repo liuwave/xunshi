@@ -6,7 +6,7 @@
     "title_tr": "和毛學士舍人早春",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "陋巷冬将尽，东风细杂篮。\n解牵窗梦远，先是涧梅谙。\n茶癖金铛快，松香玉露含。\n书斋山帚撅，盘馔药花甘。\n雅得琴中妙，常挼脸似酣。\n雪消闻苦蛰，气候似宜蚕。\n密勿须清甲，朝归遶碧潭。\n丹心空拱北，新作继周南。\n竹杖无斑点，纱巾不著簪。\n大朝名益重，后进力皆覃。\n至理虽亡一，臣时亦说三。\n不知门下客，谁上晏婴骖。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

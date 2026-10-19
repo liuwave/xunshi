@@ -3,16 +3,16 @@
   "work": {
     "id": 106259,
     "title": "挽徐若翁",
-    "title_tr": "挽徐若翁",
+    "title_tr": "輓徐若翁",
     "author": "林景熙",
     "author_tr": "林景熙",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "化鹏有便风初积，栖鵩无端日已斜。\n绝漠亦传垂死偈，故朝曾是劝忠家。\n层霄梦断关山笛，深雪魂归院落花。\n公论盖棺应自定，犹言遗德在东嘉。",
+    "content": "化鹏有便风初积，栖𫛳无端日已斜。\n绝漠亦传垂死偈，故朝曾是劝忠家。\n层霄梦断关山笛，深雪魂归院落花。\n公论盖棺应自定，犹言遗德在东嘉。",
     "content_tr": "化鵬有便風初積，棲鵩無端日已斜。\n絕漠亦傳垂死偈，故朝曾是勸忠家。\n層霄夢斷關山笛，深雪魂歸院落花。\n公論蓋棺應自定，猶言遺德在東嘉。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

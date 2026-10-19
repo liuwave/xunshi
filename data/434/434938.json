@@ -9,10 +9,10 @@
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "云水长沙国，铜章邑大夫。\n俗传鸮似鵩，仙化舄为凫。\n卑湿加餐饭，弦歌岂壮图。\n洞庭见归客，书信不宜无。",
-    "content_tr": "雲水長沙國，銅章邑大夫。\n俗傳鴞似鵩，仙化舄爲鳧。\n卑溼加餐飯，絃歌豈壯圖。\n洞庭見歸客，書信不宜無。"
+    "content": "云水长沙国，铜章邑大夫。\n俗传鸮似𫛳，仙化舄为凫。\n卑湿加餐饭，弦歌岂壮图。\n洞庭见归客，书信不宜无。",
+    "content_tr": "雲水長沙國，銅章邑大夫。\n俗傳鴞似鵩，仙化舄爲鳬。\n卑濕加餐飯，絃歌豈壯圖。\n洞庭見歸客，書信不宜無。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

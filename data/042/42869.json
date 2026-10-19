@@ -2,17 +2,17 @@
   "work_id": 42869,
   "work": {
     "id": 42869,
-    "title": "郊庙歌辞德明兴圣庙乐章迎俎",
-    "title_tr": "郊廟歌辭德明興聖廟樂章迎俎",
+    "title": "郊庙歌辞 德明兴圣庙乐章 迎俎",
+    "title_tr": "郊廟歌辭 德明興聖廟樂章 迎俎",
     "author": "李舒",
     "author_tr": "李舒",
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "盛牲实俎，涓选休成。\n鼎煁阳燧，玉盥阴精。\n有飶嘉豆，既和大羹。\n侑以清乐，细齐人情。",
+    "content": "盛牲实俎，涓选休成。\n鼎煁阳燧，玉盥阴精。\n有𫗣嘉豆，既和大羹。\n侑以清乐，细齐人情。",
     "content_tr": "盛牲實俎，涓選休成。\n鼎煁陽燧，玉盥陰精。\n有飶嘉豆，既和大羹。\n侑以清樂，細齊人情。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

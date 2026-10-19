@@ -2,17 +2,19 @@
   "work_id": 83389,
   "work": {
     "id": 83389,
-    "title": "叠题乌江亭",
-    "title_tr": "疊題烏江亭",
+    "title": "乌江亭",
+    "title_tr": "烏江亭",
     "author": "王安石",
     "author_tr": "王安石",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "百战疲劳壮士哀，中原一败势难回。\n江东子弟今虽在，肯与君王卷土来？",
-    "content_tr": "百戰疲勞壯士哀，中原一敗勢難回。\n江東子弟今雖在，肯與君王捲土來？"
+    "content": "百战疲劳壮士哀，中原一败势难回。\n江东子弟今虽在，肯与君王卷土来。",
+    "content_tr": "百戰疲勞壯士哀，中原一敗勢難迴。\n江東子弟今雖在，肯與君王卷土來。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": false
 }

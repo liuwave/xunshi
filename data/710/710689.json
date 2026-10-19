@@ -6,7 +6,7 @@
     "title_tr": "送班同知",
     "author": "陆文圭",
     "author_tr": "陸文圭",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "专城镇西土，世禄食南方。\n纨袴洗余习，簪缨袭旧芳。\n高风仰乔木，遗爱指甘棠。\n他日循良传，应留姓字香。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

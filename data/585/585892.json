@@ -2,8 +2,8 @@
   "work_id": 585892,
   "work": {
     "id": 585892,
-    "title": "唐诗三百首 · 七言律诗 · 咏怀古迹五首·其一 · 咏怀古迹·其一",
-    "title_tr": "唐詩三百首 · 七言律詩 · 詠懷古蹟五首·其一 · 詠懷古蹟·其一",
+    "title": "咏怀古迹五首 一",
+    "title_tr": "詠懷古跡五首 一",
     "author": "杜甫",
     "author_tr": "杜甫",
     "dynasty": "唐",
@@ -22,5 +22,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

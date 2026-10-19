@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "纳音土，风向羽来吹。\n（卯酉位也）。\n水被土凌能尅伏，定知主败客来追，莫要展旌旗。",
-    "content_tr": "納音土，風向羽來吹。\n（卯酉位也）。\n水被土淩能尅伏，定知主敗客來追，莫要展旌旗。"
+    "content": "纳音土，风向羽来吹。\n水被土凌能尅伏，定知主败客来追，莫要展旌旗。",
+    "content_tr": "納音土，風向羽來吹。\n水被土淩能尅伏，定知主敗客來追，莫要展旌旗。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

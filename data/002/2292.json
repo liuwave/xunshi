@@ -4,15 +4,17 @@
     "id": 2292,
     "title": "临平道中",
     "title_tr": "臨平道中",
-    "author": "道潜",
-    "author_tr": "道潛",
+    "author": "释道潜",
+    "author_tr": "釋道潜",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "风蒲猎猎弄轻柔，欲立蜻蜓不自由。\n五月临平山下路，藕花无数满汀洲。",
     "content_tr": "風蒲獵獵弄輕柔，欲立蜻蜓不自由。\n五月臨平山下路，藕花無數滿汀洲。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": {
     "translation": "风中蒲草猎猎作响，摆弄着轻柔的姿态，蜻蜓想停立在上面却身不由己。五月里临平山下的路上，无数荷花长满了水边沙洲。",
     "annotation": "猎猎：风吹物动发出的声响。\n蒲：蒲草，水生植物。\n汀洲：水边平地、小洲。",

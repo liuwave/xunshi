@@ -12,7 +12,10 @@
     "content": "岁岁金河复玉关，朝朝马策与刀环。\n三春白雪归青冢，万里黄河遶黑山。",
     "content_tr": "歲歲金河復玉關，朝朝馬策與刀環。\n三春白雪歸青冢，萬里黃河遶黑山。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "唐诗三百首",
+    "水墨唐诗"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

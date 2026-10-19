@@ -12,7 +12,9 @@
     "content": "经年尘土满征衣，特特寻芳上翠微。\n好山好水看不足，马蹄催趁月明归。",
     "content_tr": "經年塵土滿征衣，特特尋芳上翠微。\n好山好水看不足，馬蹄催趁月明歸。"
   },
-  "anthologies": [],
+  "anthologies": [
+    "古诗三百首"
+  ],
   "annotation": null,
   "strains_aligned": true
 }

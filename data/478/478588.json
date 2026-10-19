@@ -2,17 +2,17 @@
   "work_id": 478588,
   "work": {
     "id": 478588,
-    "title": "赠尤检正四首 其三",
-    "title_tr": "贈尤檢正四首 其三",
+    "title": "赠尤检正四首  其三",
+    "title_tr": "贈尤檢正四首  其三",
     "author": "赵蕃",
     "author_tr": "趙蕃",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "榜舟浙江潮，僦屋长安雪。\n寒涛幸少年，积冻还复结。\n虽逃蛟鳄虞，未免薪刍绝。\n噂?怅难登，嗫嚅羞妄悦。",
-    "content_tr": "榜舟浙江潮，僦屋長安雪。\n寒濤幸少年，積凍還復結。\n雖逃蛟鰐虞，未免薪芻絕。\n噂?悵難登，囁嚅羞妄悅。"
+    "content": "榜舟浙江潮，僦屋长安雪。\n寒涛幸少年，积冻还复结。\n虽逃蛟鳄虞，未免薪刍绝。\n噂𠴲怅难登，嗫嚅羞妄悦。",
+    "content_tr": "榜舟浙江潮，僦屋長安雪。\n寒濤幸少年，積凍還復結。\n雖逃蛟鰐虞，未免薪芻絕。\n噂𠴲悵難登，囁嚅羞妄悅。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

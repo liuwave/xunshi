@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "山川涧水河南流，邑治因名几百秋。\n（同前。\n）。",
-    "content_tr": "山川澗水河南流，邑治因名幾百秋。\n（同前。\n）。"
+    "content": "山川涧水河南流，邑治因名几百秋。",
+    "content_tr": "山川澗水河南流，邑治因名幾百秋。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

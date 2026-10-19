@@ -6,7 +6,7 @@
     "title_tr": "西園產芝",
     "author": "钱镠",
     "author_tr": "錢鏐",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "五纪尊天立霸基，八方隣国尽相知。\n兴吴定越崇王道，殄物平凶建国仪。\n忽有灵根彰瑞应，皆由和气感明祗。\n休言汉代芝房异，今日吾邦事更奇。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "春遊靈泉寺",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "水蹴危梁翠拥沙，钟声微径入深花。\n嘴红涧鸟啼芳草，头白山僧自扞茶。\n松色摧残遭贼火，水声幽咽落人家。\n因寻古迹空惆怅，满袖香风白日斜。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

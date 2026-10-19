@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "三传克，克日易前擒。\n快（京本作「决」）出疾行方始得，奸人移伏恐军侵，离日却难寻。",
-    "content_tr": "三傳克，克日易前擒。\n快（京本作「決」）出疾行方始得，奸人移伏恐軍侵，離日却難尋。"
+    "content": "三传克，克日易前擒。\n快出疾行方始得，奸人移伏恐军侵，离日却难寻。",
+    "content_tr": "三傳克，克日易前擒。\n快出疾行方始得，奸人移伏恐軍侵，離日却難尋。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

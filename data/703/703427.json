@@ -6,7 +6,7 @@
     "title_tr": "八月二十三日早起",
     "author": "方回",
     "author_tr": "方回",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "不寐缘何事，无言试自思。\n百年欹枕里，五夜倚楼时。\n天下奇才少，人中间气谁。\n洗心方见易，知道始能诗。\n可用黄庭演，何劳素问医。\n傥来縻尔爵，小事惄如饥。\n栗里渊明菊，商山绮里芝。\n乾坤万万古，达者姓名垂。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

@@ -6,7 +6,7 @@
     "title_tr": "真定官舍",
     "author": "汪元量",
     "author_tr": "汪元量",
-    "dynasty": "元",
+    "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "使君数问夜如何，灯烛高张照绮罗。\n白酒千杯浇客醉，红粧一面恼人多。\n风烟漠漠庭前树，霜月娟娟沼内荷。\n驿吏出门相语及，城南便是滹沱河。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

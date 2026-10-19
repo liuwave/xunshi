@@ -9,8 +9,8 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "再覩道友话清源，人人问道无不全。\n法法恒然皆如是，四生九类体中圆。\n（均见《祖堂集》卷十。\n）。",
-    "content_tr": "再覩道友話清源，人人問道無不全。\n法法恒然皆如是，四生九類體中圓。\n（均見《祖堂集》卷十。\n）。"
+    "content": "再覩道友话清源，人人问道无不全。\n法法恒然皆如是，四生九类体中圆。",
+    "content_tr": "再覩道友話清源，人人問道無不全。\n法法恒然皆如是，四生九類體中圓。"
   },
   "anthologies": [],
   "annotation": {
@@ -20,5 +20,5 @@
     "model": "hy3",
     "ai_generated": true
   },
-  "strains_aligned": false
+  "strains_aligned": true
 }

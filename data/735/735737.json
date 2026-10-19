@@ -6,7 +6,7 @@
     "title_tr": "聞迎真身",
     "author": "贯休",
     "author_tr": "貫休",
-    "dynasty": "五代十国",
+    "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
     "content": "四海无波八表臣，恭闻今岁礼真身。\n七重鏁未开今钥，五色光先入紫宸。\n丹凤楼台飘瑞雪，岐阳草木亚香尘。\n可怜优钵罗花树，三十年来一度春。",
@@ -14,5 +14,5 @@
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": false
+  "strains_aligned": true
 }

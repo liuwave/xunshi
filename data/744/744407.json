@@ -9,10 +9,10 @@
     "dynasty": "唐",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "青田未矫翰，丹穴欲乘风（一作「凤」）。",
-    "content_tr": "青田未矯翰，丹穴欲乘風（一作「鳳」）。"
+    "content": "青田未矫翰，丹穴欲乘风。",
+    "content_tr": "青田未矯翰，丹穴欲乘風。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }

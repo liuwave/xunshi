@@ -2,17 +2,17 @@
   "work_id": 293489,
   "work": {
     "id": 293489,
-    "title": "伯兄新楼十首 其二",
-    "title_tr": "伯兄新樓十首 其二",
+    "title": "伯兄新楼十首  其二",
+    "title_tr": "伯兄新樓十首  其二",
     "author": "王柏",
     "author_tr": "王柏",
     "dynasty": "宋",
     "kind_cn": "诗",
     "rhythmic": null,
-    "content": "不嫌陋巷据坡头，旋斸烟莱著小楼。\n面面有山殊不恶，倚阑销尽半生愁。",
+    "content": "不嫌陋巷据坡头，旋𣃁烟莱著小楼。\n面面有山殊不恶，倚阑销尽半生愁。",
     "content_tr": "不嫌陋巷據坡頭，旋斸煙萊著小樓。\n面面有山殊不惡，倚闌銷盡半生愁。"
   },
   "anthologies": [],
   "annotation": null,
-  "strains_aligned": true
+  "strains_aligned": false
 }
